@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canadian Gold & Silver Mining Analysis</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Canadian Gold & Silver Mining Analysis</h1>
+        <p><em>Disclaimer: For informational purposes only, not investment advice. Data live as of February 26, 2025; mining data from October 2023 unless updated.</em></p>
+        <div id="statusLog">Initializing...</div>
+        <div id="spinner" class="spinner"></div>
+        <input type="text" id="searchInput" placeholder="Search for companies...">
+        <div class="slider-container">
+            <div class="slider-item">
+                <label for="marketCapSlider">Market Cap <span id="marketCapValue">1x</span>
+                    <select id="marketCapDir"><option value="higher">Higher Better</option><option value="lower">Lower Better</option></select>
+                </label>
+                <input type="range" id="marketCapSlider" min="0" max="500" value="100" step="10">
+            </div>
+            <div class="slider-item">
+                <label for="evSlider">EV <span id="evValue">1x</span>
+                    <select id="evDir"><option value="higher">Higher Better</option><option value="lower">Lower Better</option></select>
+                </label>
+                <input type="range" id="evSlider" min="0" max="500" value="100" step="10">
+            </div>
+            <!-- Add more sliders as needed -->
+        </div>
+        <table id="miningTable">
+            <thead>
+                <tr>
+                    <th>Company Name</th><th>Ticker</th><th>Stock Price (CAD)</th><th>Market Cap (CAD M)</th>
+                    <th>EV (CAD M)</th><th>Reserves (oz M)</th><th>Resources (oz M)</th><th>AISC (CAD/oz)</th>
+                    <th>Revenue (CAD M)</th><th>Profit (CAD M)</th><th>News</th><th>EV per Oz</th><th>Market Cap per Oz</th>
+                </tr>
+            </thead>
+            <tbody id="miningTableBody"></tbody>
+        </table>
+    </div>
+    <script src="/script.js"></script>
+</body>
+</html>
