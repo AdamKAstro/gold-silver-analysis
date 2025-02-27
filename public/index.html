@@ -3,43 +3,83 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Analyze and rank Canadian gold and silver mining companies based on financial and operational metrics.">
     <title>Canadian Gold & Silver Mining Analysis</title>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
-    <div class="container">
+    <header>
         <h1>Canadian Gold & Silver Mining Analysis</h1>
-        <p><em>Disclaimer: For informational purposes only, not investment advice. Data live as of February 26, 2025; mining data from October 2023 unless updated.</em></p>
-        <div id="statusLog">Initializing...</div>
-        <div id="spinner" class="spinner"></div>
-        <input type="text" id="searchInput" placeholder="Search for companies...">
-        <div class="slider-container">
-            <div class="slider-item">
-                <label for="marketCapSlider">Market Cap <span id="marketCapValue">1x</span>
-                    <select id="marketCapDir"><option value="higher">Higher Better</option><option value="lower">Lower Better</option></select>
-                </label>
-                <input type="range" id="marketCapSlider" min="0" max="500" value="100" step="10">
+        <p class="disclaimer"><em>Disclaimer: For informational purposes only, not investment advice. Data live as of February 26, 2025; mining data from October 2023 unless updated.</em></p>
+    </header>
+    <main class="container">
+        <section class="controls">
+            <div class="search-container">
+                <label for="searchInput" class="visually-hidden">Search for companies</label>
+                <input type="text" id="searchInput" placeholder="Search for companies..." aria-label="Search companies">
             </div>
-            <div class="slider-item">
-                <label for="evSlider">EV <span id="evValue">1x</span>
-                    <select id="evDir"><option value="higher">Higher Better</option><option value="lower">Lower Better</option></select>
-                </label>
-                <input type="range" id="evSlider" min="0" max="500" value="100" step="10">
+            <div class="slider-container">
+                <div class="slider-item">
+                    <label for="marketCapSlider">
+                        Market Cap <span id="marketCapValue">1x</span>
+                        <select id="marketCapDir" aria-label="Market Cap ranking direction">
+                            <option value="higher">Higher Better</option>
+                            <option value="lower">Lower Better</option>
+                        </select>
+                    </label>
+                    <input type="range" id="marketCapSlider" min="0" max="500" value="100" step="10" aria-valuemin="0" aria-valuemax="500" aria-valuenow="100">
+                </div>
+                <div class="slider-item">
+                    <label for="evSlider">
+                        Enterprise Value <span id="evValue">1x</span>
+                        <select id="evDir" aria-label="EV ranking direction">
+                            <option value="higher">Higher Better</option>
+                            <option value="lower">Lower Better</option>
+                        </select>
+                    </label>
+                    <input type="range" id="evSlider" min="0" max="500" value="100" step="10" aria-valuemin="0" aria-valuemax="500" aria-valuenow="100">
+                </div>
             </div>
-            <!-- Add more sliders as needed -->
-        </div>
-        <table id="miningTable">
-            <thead>
-                <tr>
-                    <th>Company Name</th><th>Ticker</th><th>Stock Price (CAD)</th><th>Market Cap (CAD M)</th>
-                    <th>EV (CAD M)</th><th>Reserves (oz M)</th><th>Resources (oz M)</th><th>AISC (CAD/oz)</th>
-                    <th>Revenue (CAD M)</th><th>Profit (CAD M)</th><th>News</th><th>EV per Oz</th><th>Market Cap per Oz</th>
-                </tr>
-            </thead>
-            <tbody id="miningTableBody"></tbody>
-        </table>
-    </div>
+            <button id="refreshData" aria-label="Refresh data">Refresh Data</button>
+        </section>
+        <section class="status">
+            <div id="statusLog" aria-live="polite">Initializing...</div>
+            <div id="spinner" class="spinner" aria-hidden="true"></div>
+        </section>
+        <section class="table-wrapper">
+            <table id="miningTable" aria-describedby="tableDescription">
+                <caption id="tableDescription" class="visually-hidden">Ranking of Canadian gold and silver mining companies by financial and operational metrics</caption>
+                <thead>
+                    <tr>
+                        <th scope="col">Company Name</th>
+                        <th scope="col">Ticker</th>
+                        <th scope="col">Stock Price (CAD)</th>
+                        <th scope="col">Market Cap (CAD B)</th>
+                        <th scope="col">EV (CAD B)</th>
+                        <th scope="col">Reserves (Moz)</th>
+                        <th scope="col">Resources (Moz)</th>
+                        <th scope="col">AISC (USD/oz)</th>
+                        <th scope="col">Revenue (CAD B)</th>
+                        <th scope="col">Profit (CAD B)</th>
+                        <th scope="col">News</th>
+                        <th scope="col">EV per Resource Oz (M)</th>
+                        <th scope="col">Market Cap per Resource Oz (M)</th>
+                    </tr>
+                </thead>
+                <tbody id="miningTableBody"></tbody>
+            </table>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Mining Analysis Project. All rights reserved.</p>
+    </footer>
     <script src="/script.js"></script>
+    <script>
+        // Add refresh button functionality
+        document.getElementById('refreshData').addEventListener('click', () => {
+            window.populateTable();
+        });
+    </script>
 </body>
 </html>
