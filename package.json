@@ -1,0 +1,13 @@
+{
+  "name": "gold-silver-analysis",
+  "version": "1.0.0",
+  "description": "Local testing for mining analysis app",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
