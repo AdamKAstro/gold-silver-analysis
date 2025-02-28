@@ -1,0 +1,837 @@
+Project Goal  
+"I’m building a website to rank all Canadian gold and silver mining companies based on financial and operational metrics (e.g., market cap, AISC, production). It should allow easy data updates, handle USD/CAD/AUD currencies, and include stock prices updated every 12-24 hours using a free source without hitting crawling limits."
+
+Current GIT Directory Structure  
+
+Root (gold-silver-analysis):
+README.md  landing.css  node_modules  package.json  server.js
+api  landing.html  package-lock.json  public
+
+Public:
+index.html  script.js  styles.css
+--
+
+my existing files (will need a full fix and update to match your table):  
+server.js: Backend server (Node.js assumed).
+const express = require('express');
+const fetch = require('node-fetch');
+const app = express();
+const port = 3000;
+
+const FMP_API_KEY = 'zUCYoFU4JoWsdWZlChltufkaWgKdBIUv'; // Ensure this key is valid
+
+app.use(express.json());
+app.use(express.static('public'));
+
+app.get('/api/data', async (req, res) => {
+  try {
+    const companies = [
+      { name: "Barrick Gold", ticker: "ABX.TO", reserves: 69, resources: 120, aisc: 1100, news: "https://example.com/news/barrick" },
+      { name: "Newmont", ticker: "NEM", reserves: 92, resources: 140, aisc: 1000, news: "https://example.com/news/newmont" },
+    ];
+
+    const allData = await Promise.all(
+      companies.map(async company => {
+        const liveData = await fetchCompanyData(company.ticker);
+        const evPerOz = !isNaN(liveData.ev) && company.reserves > 0 ? liveData.ev / company.reserves : NaN;
+        const marketCapPerOz = !isNaN(liveData.marketCap) && company.reserves > 0 ? liveData.marketCap / company.reserves : NaN;
+        const evPerReserveOzAll = !isNaN(liveData.ev) && company.reserves > 0 ? liveData.ev / company.reserves : NaN;
+        const evPerResourceOzAll = !isNaN(liveData.ev) && company.resources > 0 ? liveData.ev / company.resources : NaN;
+        const mineableOzAll = (company.reserves || 0) + (company.resources || 0);
+        const evPerMineableOzAll = !isNaN(liveData.ev) && mineableOzAll > 0 ? liveData.ev / mineableOzAll : NaN;
+
+        return {
+          name: company.name,
+          ticker: company.ticker,
+          stockPrice: liveData.stockPrice,
+          marketCap: liveData.marketCap,
+          ev: liveData.ev,
+          reserves: company.reserves,
+          resources: company.resources,
+          aisc: company.aisc,
+          revenue: liveData.revenue,
+          profit: liveData.profit,
+          news: company.news,
+          evPerOz,
+          marketCapPerOz,
+          evPerReserveOzAll,
+          evPerResourceOzAll,
+          evPerMineableOzAll
+        };
+      })
+    );
+
+    res.json(allData);
+  } catch (error) {
+    console.error('Error in /api/data:', error);
+    res.status(500).json({ error: 'Failed to fetch data' });
+  }
+});
+
+async function fetchCompanyData(ticker) {
+  const fmpTicker = ticker.replace('.TO', '').replace('.V', '');
+  try {
+    console.log(`Fetching data for ${ticker}...`);
+    const [profile, income, balance] = await Promise.all([
+      fetch(`https://financialmodelingprep.com/api/v3/profile/${fmpTicker}?apikey=${FMP_API_KEY}`),
+      fetch(`https://financialmodelingprep.com/api/v3/income-statement/${fmpTicker}?limit=1&apikey=${FMP_API_KEY}`),
+      fetch(`https://financialmodelingprep.com/api/v3/balance-sheet-statement/${fmpTicker}?limit=1&apikey=${FMP_API_KEY}`)
+    ]);
+
+    const profileData = await profile.json();
+    const incomeData = await income.json();
+    const balanceData = await balance.json();
+
+    console.log(`Profile data for ${ticker}:`, profileData);
+    console.log(`Income data for ${ticker}:`, incomeData);
+    console.log(`Balance data for ${ticker}:`, balanceData);
+
+    const profileItem = profileData[0] || {};
+    const incomeItem = incomeData[0] || {};
+    const balanceItem = balanceData[0] || {};
+
+    const currency = profileItem.currency || 'CAD';
+    const isUSD = currency === 'USD';
+    const exchangeRate = 1.35; // Simplified for local testing
+
+    const stockPrice = parseFloat(profileItem.price) || NaN; // Use NaN for null/missing values
+    const marketCapRaw = parseFloat(profileItem.mktCap) || NaN;
+    const marketCapCAD = !isNaN(marketCapRaw) ? (isUSD ? (marketCapRaw * exchangeRate / 1e6) : (marketCapRaw / 1e6)) : NaN;
+    const revenueRaw = parseFloat(incomeItem.revenue) || NaN;
+    const profitRaw = parseFloat(incomeItem.netIncome) || NaN;
+    const revenueCAD = !isNaN(revenueRaw) ? (isUSD ? (revenueRaw * exchangeRate / 1e6) : (revenueRaw / 1e6)) : NaN;
+    const profitCAD = !isNaN(profitRaw) ? (isUSD ? (profitRaw * exchangeRate / 1e6) : (profitRaw / 1e6)) : NaN;
+    const debtCAD = (parseFloat(balanceItem.totalDebt) || 0) * (isUSD ? exchangeRate / 1e6 : 1 / 1e6);
+    const cashCAD = (parseFloat(balanceItem.cashAndEquivalents) || 0) * (isUSD ? exchangeRate / 1e6 : 1 / 1e6);
+    const evCAD = !isNaN(marketCapCAD) ? (marketCapCAD + debtCAD - cashCAD) : NaN;
+
+    console.log(`Processed data for ${ticker}:`, { stockPrice, marketCap: marketCapCAD, ev: evCAD, revenue: revenueCAD, profit: profitCAD });
+    return { stockPrice, marketCap: marketCapCAD, ev: evCAD, revenue: revenueCAD, profit: profitCAD };
+  } catch (error) {
+    console.error(`Error fetching ${ticker}:`, error);
+    return { stockPrice: NaN, marketCap: NaN, ev: NaN, revenue: NaN, profit: NaN };
+  }
+}
+
+app.listen(port, () => {
+  console.log(`Server running at http://localhost:${port}`);
+});
+
+public/index.html: Main webpage.
+
+script.js: Front-end logic.
+const tbody = document.getElementById('miningTableBody');
+const table = document.getElementById('miningTable');
+const searchInput = document.getElementById('searchInput');
+const statusLog = document.getElementById('statusLog');
+const spinner = document.getElementById('spinner');
+const sliders = {
+    marketCap: { slider: document.getElementById('marketCapSlider'), valueSpan: document.getElementById('marketCapValue'), dir: document.getElementById('marketCapDir') },
+    ev: { slider: document.getElementById('evSlider'), valueSpan: document.getElementById('evValue'), dir: document.getElementById('evDir') },
+    // Add more sliders here as needed
+};
+
+function logStatus(message) {
+    statusLog.innerHTML += `<div>${new Date().toLocaleTimeString()}: ${message}</div>`;
+    statusLog.scrollTop = statusLog.scrollHeight;
+}
+
+async function fetchAllData() {
+    try {
+        const res = await fetch('/api/data');
+        if (!res.ok) throw new Error('Failed to fetch data');
+        const data = await res.json();
+        logStatus('Data fetched successfully');
+        return data;
+    } catch (error) {
+        logStatus(`Error fetching data: ${error.message}`);
+        return [];
+    }
+}
+
+async function populateTable() {
+    spinner.style.display = 'block';
+    logStatus('Starting data fetch...');
+    const allData = await fetchAllData();
+    spinner.style.display = 'none';
+
+    if (!allData.length) {
+        statusLog.innerHTML = 'Unable to load data. Please try again later.';
+        return;
+    }
+
+    const means = {
+        marketCap: allData.filter(d => !isNaN(d.marketCap)).reduce((sum, d) => sum + (d.marketCap || 0), 0) / allData.filter(d => !isNaN(d.marketCap)).length || 1000,
+        ev: allData.filter(d => !isNaN(d.ev)).reduce((sum, d) => sum + (d.ev || 0), 0) / allData.filter(d => !isNaN(d.ev)).length || 1000,
+        reserves: allData.filter(d => !isNaN(d.reserves)).reduce((sum, d) => sum + (d.reserves || 0), 0) / allData.filter(d => !isNaN(d.reserves)).length || 0,
+        resources: allData.filter(d => !isNaN(d.resources)).reduce((sum, d) => sum + (d.resources || 0), 0) / allData.filter(d => !isNaN(d.resources)).length || 0,
+        aisc: allData.filter(d => !isNaN(d.aisc)).reduce((sum, d) => sum + (d.aisc || 0), 0) / allData.filter(d => !isNaN(d.aisc)).length || 1200,
+        revenue: allData.filter(d => !isNaN(d.revenue)).reduce((sum, d) => sum + (d.revenue || 0), 0) / allData.filter(d => !isNaN(d.revenue)).length || 0,
+        profit: allData.filter(d => !isNaN(d.profit)).reduce((sum, d) => sum + (d.profit || 0), 0) / allData.filter(d => !isNaN(d.profit)).length || 0,
+        evPerOz: allData.filter(d => !isNaN(d.evPerOz)).reduce((sum, d) => sum + (d.evPerOz || 0), 0) / allData.filter(d => !isNaN(d.evPerOz)).length || 0,
+        marketCapPerOz: allData.filter(d => !isNaN(d.marketCapPerOz)).reduce((sum, d) => sum + (d.marketCapPerOz || 0), 0) / allData.filter(d => !isNaN(d.marketCapPerOz)).length || 0,
+        evPerReserveOzAll: allData.filter(d => !isNaN(d.evPerReserveOzAll)).reduce((sum, d) => sum + (d.evPerReserveOzAll || 0), 0) / allData.filter(d => !isNaN(d.evPerReserveOzAll)).length || 0,
+        evPerResourceOzAll: allData.filter(d => !isNaN(d.evPerResourceOzAll)).reduce((sum, d) => sum + (d.evPerResourceOzAll || 0), 0) / allData.filter(d => !isNaN(d.evPerResourceOzAll)).length || 0,
+        evPerMineableOzAll: allData.filter(d => !isNaN(d.evPerMineableOzAll)).reduce((sum, d) => sum + (d.evPerMineableOzAll || 0), 0) / allData.filter(d => !isNaN(d.evPerMineableOzAll)).length || 0
+    };
+
+    allData.forEach(data => {
+        const stockPrice = data.stockPrice || NaN;
+        const evPerReserveOzAll = !isNaN(data.ev) && data.reserves > 0 ? data.ev / data.reserves : NaN;
+        const evPerResourceOzAll = !isNaN(data.ev) && data.resources > 0 ? data.ev / data.resources : NaN;
+        const mineableOzAll = (data.reserves || 0) + (data.resources || 0);
+        const evPerMineableOzAll = !isNaN(data.ev) && mineableOzAll > 0 ? data.ev / mineableOzAll : NaN;
+
+        const imputed = {
+            marketCap: !isNaN(data.marketCap) ? data.marketCap : means.marketCap,
+            ev: !isNaN(data.ev) ? data.ev : means.ev,
+            reserves: !isNaN(data.reserves) ? data.reserves : means.reserves,
+            resources: !isNaN(data.resources) ? data.resources : means.resources,
+            aisc: !isNaN(data.aisc) ? data.aisc : means.aisc,
+            revenue: !isNaN(data.revenue) ? data.revenue : means.revenue,
+            profit: !isNaN(data.profit) ? data.profit : means.profit,
+            evPerOz: !isNaN(data.evPerOz) ? data.evPerOz : means.evPerOz,
+            marketCapPerOz: !isNaN(data.marketCapPerOz) ? data.marketCapPerOz : means.marketCapPerOz,
+            evPerReserveOzAll: !isNaN(evPerReserveOzAll) ? evPerReserveOzAll : means.evPerReserveOzAll,
+            evPerResourceOzAll: !isNaN(evPerResourceOzAll) ? evPerResourceOzAll : means.evPerResourceOzAll,
+            evPerMineableOzAll: !isNaN(evPerMineableOzAll) ? evPerMineableOzAll : means.evPerMineableOzAll
+        };
+
+        const row = document.createElement('tr');
+        row.classList.add('tooltip');
+        row.innerHTML = `
+            <td>${data.name || 'N/A'}</td>
+            <td>${data.ticker || 'N/A'}</td>
+            <td data-value="${stockPrice}">${isFinite(stockPrice) ? stockPrice.toFixed(2) : 'N/A'}</td>
+            <td data-value="${imputed.marketCap}">${isFinite(data.marketCap) ? data.marketCap.toFixed(2) : 'N/A'}</td>
+            <td data-value="${imputed.ev}">${isFinite(data.ev) ? data.ev.toFixed(2) : 'N/A'}</td>
+            <td data-value="${imputed.reserves}">${imputed.reserves || 'N/A'}</td>
+            <td data-value="${imputed.resources}">${imputed.resources || 'N/A'}</td>
+            <td data-value="${imputed.aisc}">${isFinite(data.aisc) ? data.aisc.toFixed(0) : 'N/A'}</td>
+            <td data-value="${imputed.revenue}">${isFinite(data.revenue) ? data.revenue.toFixed(2) : 'N/A'}</td>
+            <td data-value="${imputed.profit}">${isFinite(data.profit) ? data.profit.toFixed(2) : 'N/A'}</td>
+            <td><a href="${data.news || '#'}" target="_blank">Latest News</a></td>
+            <td data-value="${imputed.evPerOz}">${isFinite(data.evPerOz) ? data.evPerOz.toFixed(2) : 'N/A'}</td>
+            <td data-value="${imputed.marketCapPerOz}">${isFinite(data.marketCapPerOz) ? data.marketCapPerOz.toFixed(2) : 'N/A'}</td>
+            <td data-value="${imputed.evPerReserveOzAll}">${isFinite(evPerReserveOzAll) ? evPerReserveOzAll.toFixed(2) : 'N/A'}</td>
+            <td data-value="${imputed.evPerResourceOzAll}">${isFinite(evPerResourceOzAll) ? evPerResourceOzAll.toFixed(2) : 'N/A'}</td>
+            <td data-value="${imputed.evPerMineableOzAll}">${isFinite(evPerMineableOzAll) ? evPerMineableOzAll.toFixed(2) : 'N/A'}</td>
+            <span class="tooltiptext" id="tooltip-${data.ticker || 'unknown'}"></span>
+        `;
+        tbody.appendChild(row);
+    });
+
+    logStatus('Table populated, ranking...');
+    updateRanking();
+}
+
+function computeRanks(companies, metricKey, higherBetter) {
+    const validCompanies = companies.filter(c => !isNaN(c[metricKey]));
+    if (validCompanies.length === 0) return {};
+    const sorted = [...validCompanies].sort((a, b) => higherBetter ? b[metricKey] - a[metricKey] : a[metricKey] - b[metricKey]);
+    const scoreMap = {};
+    let currentRank = 1;
+    let currentGroup = [sorted[0]];
+    for (let i = 1; i < sorted.length; i++) {
+        if (sorted[i][metricKey] === sorted[i-1][metricKey]) {
+            currentGroup.push(sorted[i]);
+        } else {
+            const groupSize = currentGroup.length;
+            const sumRanks = (currentRank * groupSize) + (groupSize * (groupSize - 1)) / 2;
+            const avgRank = sumRanks / groupSize;
+            currentGroup.forEach(c => scoreMap[c.ticker] = (validCompanies.length + 1 - avgRank) / validCompanies.length);
+            currentRank += groupSize;
+            currentGroup = [sorted[i]];
+        }
+    }
+    const groupSize = currentGroup.length;
+    const sumRanks = (currentRank * groupSize) + (groupSize * (groupSize - 1)) / 2;
+    const avgRank = sumRanks / groupSize;
+    currentGroup.forEach(c => scoreMap[c.ticker] = (validCompanies.length + 1 - avgRank) / validCompanies.length);
+    return scoreMap;
+}
+
+function updateRanking() {
+    const rows = Array.from(table.tBodies[0].getElementsByTagName('tr'));
+    const metrics = ['marketCap', 'ev' /* Add more metrics */];
+    const weights = {};
+    metrics.forEach(key => {
+        weights[key] = { value: parseFloat(sliders[key].slider.value) / 100, higherBetter: sliders[key].dir.value === 'higher' };
+    });
+
+    const allData = rows.map(row => ({
+        ticker: row.cells[1].textContent,
+        marketCap: parseFloat(row.cells[3].getAttribute('data-value')) || NaN,
+        ev: parseFloat(row.cells[4].getAttribute('data-value')) || NaN,
+        // Add more metrics
+    }));
+
+    const scoreMaps = {};
+    metrics.forEach(key => scoreMaps[key] = computeRanks(allData, key, weights[key].higherBetter));
+
+    rows.forEach(row => {
+        const ticker = row.cells[1].textContent;
+        let score = 0;
+        let tooltipText = `${row.cells[0].textContent} Score Breakdown:<br>`;
+        metrics.forEach(key => {
+            const metricValue = parseFloat(row.cells[metrics.indexOf(key) + 3].getAttribute('data-value'));
+            const metricScore = !isNaN(metricValue) && scoreMaps[key][ticker] ? scoreMaps[key][ticker] : 0.5;
+            const contribution = weights[key].value * metricScore;
+            score += contribution;
+            tooltipText += `${key}: ${metricScore.toFixed(2)} * ${weights[key].value.toFixed(1)} = ${contribution.toFixed(2)}<br>`;
+        });
+        row.dataset.score = score;
+        document.getElementById(`tooltip-${ticker}`).innerHTML = tooltipText;
+    });
+
+    const sortedRows = rows.sort((a, b) => parseFloat(b.dataset.score) - parseFloat(a.dataset.score));
+    requestAnimationFrame(() => {
+        while (tbody.firstChild) tbody.removeChild(tbody.firstChild);
+        sortedRows.forEach(row => tbody.appendChild(row));
+    });
+    logStatus('Ranking updated');
+}
+
+Object.entries(sliders).forEach(([key, { slider, valueSpan, dir }]) => {
+    const updateValue = () => {
+        const multiplier = (parseFloat(slider.value) / 100).toFixed(1);
+        valueSpan.textContent = `${multiplier}x`;
+        updateRanking();
+    };
+    slider.addEventListener('input', updateValue);
+    dir.addEventListener('change', updateRanking);
+    updateValue();
+});
+
+searchInput.addEventListener('input', () => {
+    const filter = searchInput.value.toLowerCase();
+    Array.from(table.tBodies[0].getElementsByTagName('tr')).forEach(row => {
+        const companyName = row.cells[0].textContent.toLowerCase();
+        row.style.display = companyName.includes(filter) ? '' : 'none';
+    });
+});
+
+populateTable();
+
+styles.css: Styling.
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+h1 { text-align: center; }
+#statusLog {
+    max-height: 100px;
+    overflow-y: auto;
+    background: #eee;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 0.9em;
+}
+.spinner {
+    display: none;
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #3498db;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    animation: spin 1s linear infinite;
+    margin: 10px auto;
+}
+@keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+#searchInput {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    font-size: 1em;
+}
+.slider-container { margin: 20px 0; }
+.slider-item { margin-bottom: 15px; }
+.slider-item label { display: block; font-weight: bold; }
+.slider-item select { margin-left: 10px; }
+table {
+    width: 100%;
+    border-collapse: collapse;
+    background: white;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: center;
+}
+th { background: #3498db; color: white; }
+tr:nth-child(even) { background: #f9f9f9; }
+.tooltip {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 200px;
+    background-color: #555;
+    color: #fff;
+    text-align: left;
+    padding: 5px;
+    border-radius: 6px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -100px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+landing.html/css: Possibly a separate landing page.
+
+Sample Data  
+Include the PAAS table I provided (or a subset) as an example of the data you’ve tested:  
+Overview
+Here’s a best-guess table for all the data points related to Pan American Silver Corp. (PAAS), based on available public information from their 2023 annual report and financial websites. Some values are estimates due to the need for calculations or lack of direct data, and I’ve included notes to clarify where assumptions were made. An unexpected detail is that revenue percentages for gold and silver required estimating based on production and prices, which may not align perfectly with actual sales data.
+Company and Share Information
+Category
+
+Sub-Category
+
+Value
+
+Unit
+
+Notes
+
+Company Name
+
+Pan American Silver Corp.
+
+From official website
+
+TSX Code
+
+PAAS
+
+Stock exchange listing
+
+Description of projects, capital raisings, etc.
+
+[Detailed in annual report, e.g., mines in Americas]
+
+Refer to 
+2023 Annual Report
+Historic share price (Dec 31, 2023)
+
+$18.00
+
+USD
+
+Estimated from historical data, exact value may vary
+
+Recent share price (Feb 26, 2025)
+
+$25.01
+
+USD
+
+From 
+Yahoo Finance
+Change in share price 1Yr %
+
+From Feb 26, 2024 to Feb 26, 2025
+
+66.73%
+
+%
+
+Calculated, assuming prior year price of $15.00 for estimation
+
+Capital Structure
+Category
+
+Sub-Category
+
+Value
+
+Unit
+
+Notes
+
+Number of existing shares
+
+364,660,000
+
+Shares
+
+From 2023 annual report
+
+Number of shares when fully diluted
+
+380,773,000
+
+Shares
+
+Includes options (500,000) and CVRs (15,600,000)
+
+Number of in-the-money options
+
+200,000
+
+Options
+
+Assumed vested options, based on average exercise price
+
+Revenue from in-the-money options
+
+$3,352,000
+
+USD
+
+Calculated from 200,000 options at $16.76 USD each, using CAD to USD conversion
+
+Financial Metrics
+Category
+
+Sub-Category
+
+Value
+
+Unit
+
+Notes
+
+Cash (Dec 31, 2023)
+
+$399,600,000
+
+USD
+
+From annual report
+
+Investments
+
+[List from report, e.g., short-term investments]
+
+Estimated at $41.3M from cash and short-term total
+
+Hedgebook
+
+[Details of currency hedges, e.g., CAD collars $18M]
+
+From hedging activities in annual report
+
+Liabilities
+
+$2,440,600,000
+
+USD
+
+Total from 2023 financials
+
+Other financial assets
+
+$175,800,000
+
+USD
+
+Calculated as total financial assets minus cash
+
+Market capitalization
+
+$9,090,000,000
+
+USD
+
+From recent stock price and shares
+
+Enterprise value (EV)
+
+$9,492,000,000
+
+USD
+
+Market cap + debt ($801.6M) - cash
+
+Net financial assets
+
+[To be determined, possibly negative]
+
+USD
+
+Needs clarification, estimated as assets minus liabilities
+
+General Information
+Category
+
+Sub-Category
+
+Value
+
+Unit
+
+Notes
+
+Status
+
+Producer
+
+Company description
+
+Minerals of interest
+
+Silver, Gold
+
+Primary focus from reports
+
+% in gold
+
+74.47%
+
+% of revenue
+
+Estimated from production and prices
+
+% in silver
+
+22.87%
+
+% of revenue
+
+Estimated, may include concentrate sales
+
+Headquarters
+
+Vancouver, Canada
+
+From company website
+
+Mineral Estimates and Mining Data
+Due to complexity, these are approximate and require detailed report analysis:
+Category
+
+Sub-Category
+
+Value
+
+Unit
+
+Notes
+
+[Mineral Estimates]
+
+[Various, e.g., Reserves, precious]
+
+[From report, detailed calculation needed]
+
+AuEq Moz
+
+Refer to 
+2023 Annual Report for exact figures
+
+Current annual production, precious, in AuEq koz
+
+1,123.1
+
+koz
+
+Calculated from silver (20,437 koz) and gold (882.9 koz) using prices
+
+Current annual production, non-precious, in AuEq koz
+
+154.4
+
+koz
+
+Estimated from non-precious metal revenue ($301.3M) at gold price
+
+Current production, all, in AuEq koz
+
+1,277.5
+
+koz
+
+Sum of precious and non-precious AuEq
+
+Future production, all, in AuEq koz
+
+[Similar to 2023, estimate]
+
+koz
+
+Needs guidance, assumed same for now
+
+Reserve life
+
+[To be calculated]
+
+Years
+
+Requires reserves divided by production, detailed in report
+
+Market cap. per current production ounce
+
+$7,112
+
+USD/oz
+
+Market cap divided by 1,277.5 koz
+
+EV per current production ounce
+
+$7,426
+
+USD/oz
+
+EV divided by 1,277.5 koz
+
+Costs
+Category
+
+Sub-Category
+
+Value
+
+Unit
+
+Notes
+
+Construction costs
+
+[From projects, e.g., La Colorada]
+
+USD
+
+Detailed in project reports
+
+AISC, last quarter
+
+Silver: $26.55/oz, Gold: $1,411/oz
+
+USD/oz
+
+Q4 2023 from report
+
+AISC, last year
+
+Silver: $18.17/oz, Gold: $1,371/oz
+
+USD/oz
+
+2023 annual report
+
+AISC, future
+
+[From guidance, estimate]
+
+USD/oz
+
+Needs 2024 forecast
+
+AIC, last quarter
+
+Same as AISC
+
+USD/oz
+
+Assumed same as AISC
+
+AIC, last year
+
+Same as AISC
+
+USD/oz
+
+Assumed same as AISC
+
+Total Cost of Ownership (TCO)
+
+[Not standard, to be determined]
+
+USD
+
+Company-specific, needs clarification
+
+Current TCO
+
+[To be determined]
+
+USD
+
+Needs definition
+
+Future TCO
+
+[To be determined]
+
+USD
+
+Needs definition
+
+Free Cash Flow (FCF)
+
+$67,200,000
+
+USD
+
+Net cash from operations ($450.2M) - capex ($383.0M)
+ I want all companies in a similar format
+"I need a central table (database or JSON) with all companies and these fields: [paste your full list from earlier, e.g., Company Name, TSX Code, Market Cap, etc.]. It must:
+Allow easy addition/removal of companies.
+
+Store values with currencies (USD, CAD, AUD) separately for conversion.
+
+Be the lookup source for all other code.
+
+Include a last_updated field for stock prices."
+
+Stock Price Update Specs  
+"Stock prices should update every 12-24 hours using a free service (e.g., Alpha Vantage or yfinance), avoiding crawling limits. I’ll handle this part, but the table should support it with fields like recent_share_price, currency, last_updated."
+
+Current Code Context  
+"My current code includes a Node.js server (server.js), a front-end (index.html, script.js), and styling (styles.css). It’s basic—future you can rewrite it. I want the new code to use this table for rankings and display."
+
+Preferences  
+"Keep it simple but adaptable. I’m okay with SQLite or JSON for the table. Node.js is preferred for the backend. Rewrite as needed for efficiency."
+
+Why This Works
+Comprehensive: Covers your goals, structure, and data needs.
+
+Clear: Gives “future me” a complete picture to redesign smartly.
+
+Efficient: Avoids redundancy by focusing on the table as the core, aligning with your “smart design” request.
+
+Survey Note: Designing a Central Table for Canadian Mining Companies
+Analysis
+The project requires a central table to store data for ranking Canadian mining companies, tested with PAAS. The table must be flexible, currency-aware, and integrate with a periodic stock price update. Based on PAAS data extraction, a database with separate value/currency columns (e.g., market_cap_value, market_cap_currency) and a last_updated timestamp ensures adaptability and lookup efficiency.
+Proposed Table Schema (SQLite Example)
+CREATE TABLE companies (
+    company_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    name TEXT NOT NULL,
+    tsx_code TEXT UNIQUE,
+    description TEXT,
+    recent_share_price REAL,
+    recent_share_price_currency TEXT,
+    last_updated TEXT, -- ISO timestamp, e.g., "2025-02-26T19:24:00Z"
+    market_cap_value REAL,
+    market_cap_currency TEXT,
+    cash_value REAL,
+    cash_currency TEXT,
+    -- Add all other fields similarly...
+    aisc_last_quarter_value REAL,
+    aisc_last_quarter_currency TEXT,
+    production_precious_au_eq REAL -- In koz, no currency needed
+);
+Stock Price Integration
+Using Alpha Vantage (free tier) with a 12-hour cron job in server.js ensures updates stay within limits (500 calls/day supports ~250 companies twice daily). Store results in the table for script.js to query via an API endpoint.
+
+
+
+
