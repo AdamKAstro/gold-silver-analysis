@@ -4,10 +4,16 @@
   "description": "Local testing for mining analysis app",
   "main": "server.js",
   "dependencies": {
+    "csv-parse": "^5.6.0",
     "express": "^4.21.2",
     "node-cron": "^3.0.3",
     "node-fetch": "^2.7.0",
-    "sqlite3": "^5.1.7"
+    "puppeteer": "^24.3.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "sqlite3": "^5.1.7",
+    "string-similarity": "^4.0.4",
+    "yahoo-finance2": "^2.13.3"
   },
   "scripts": {
     "start": "node server.js"
