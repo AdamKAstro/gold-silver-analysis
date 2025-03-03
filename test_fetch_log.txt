@@ -1,0 +1,258 @@
+
+[2025-03-01T13:55:52.642Z] TradingView - AAB.TO (ABERDEEN INTERNATIONAL)
+Method 1: Basic fetch failed - Waiting for selector `.tv-symbol-price-quote__value` failed: Waiting failed: 60000ms exceeded
+Method 2: Dynamic wait failed - Waiting failed: 60000ms exceeded
+Method 3: Alternative selector failed - page.waitForTimeout is not a function
+
+[2025-03-01T13:58:14.683Z] MiningFeeds - AAB.TO (ABERDEEN INTERNATIONAL)
+Method 1: Basic fetch failed - Waiting for selector `.stock-meta .price` failed: Waiting failed: 60000ms exceeded
+Method 2: Dynamic wait failed - Waiting failed: 60000ms exceeded
+Method 3: Alternative selector failed - page.waitForTimeout is not a function
+
+[2025-03-01T14:02:34.010Z] JuniorMining - AAB.TO (ABERDEEN INTERNATIONAL)
+Method 1: Basic fetch (gold-mining-stocks.html) failed - Waiting for selector `.stock-table tbody tr` failed: Waiting failed: 60000ms exceeded
+Method 2: Dynamic wait (gold-mining-stocks.html) failed - Waiting failed: 60000ms exceeded
+Method 1: Basic fetch (silver-mining-stocks.html) failed - Waiting for selector `.stock-table tbody tr` failed: Waiting failed: 60000ms exceeded
+Method 2: Dynamic wait (silver-mining-stocks.html) failed - Waiting failed: 60000ms exceeded
+
+[2025-03-01T14:04:57.124Z] TradingView - AAG.V (AFTERMATH SILVER)
+Method 1: Basic fetch failed - Waiting for selector `.tv-symbol-price-quote__value` failed: Waiting failed: 60000ms exceeded
+Method 2: Dynamic wait failed - Waiting failed: 60000ms exceeded
+Method 3: Alternative selector failed - page.waitForTimeout is not a function
+
+[2025-03-01T14:07:38.645Z] MiningFeeds - AAG.V (AFTERMATH SILVER)
+Method 1: Basic fetch failed - Waiting for selector `.stock-meta .price` failed: Waiting failed: 60000ms exceeded
+Method 2: Dynamic wait failed - Waiting failed: 60000ms exceeded
+Method 3: Alternative selector failed - page.waitForTimeout is not a function
+
+[2025-03-01T14:12:01.198Z] JuniorMining - AAG.V (AFTERMATH SILVER)
+Method 1: Basic fetch (gold-mining-stocks.html) failed - Waiting for selector `.stock-table tbody tr` failed: Waiting failed: 60000ms exceeded
+Method 2: Dynamic wait (gold-mining-stocks.html) failed - Waiting failed: 60000ms exceeded
+Method 1: Basic fetch (silver-mining-stocks.html) failed - Waiting for selector `.stock-table tbody tr` failed: Waiting failed: 60000ms exceeded
+Method 2: Dynamic wait (silver-mining-stocks.html) failed - Waiting failed: 60000ms exceeded
+
+[2025-03-01T14:14:26.342Z] TradingView - AAN.V (ATON RESOURCES)
+Method 1: Basic fetch failed - Waiting for selector `.tv-symbol-price-quote__value` failed: Waiting failed: 60000ms exceeded
+Method 2: Dynamic wait failed - Waiting failed: 60000ms exceeded
+Method 3: Alternative selector failed - page.waitForTimeout is not a function
+
+[2025-03-01T14:16:50.200Z] MiningFeeds - AAN.V (ATON RESOURCES)
+Method 1: Basic fetch failed - Waiting for selector `.stock-meta .price` failed: Waiting failed: 60000ms exceeded
+Method 2: Dynamic wait failed - Waiting failed: 60000ms exceeded
+Method 3: Alternative selector failed - page.waitForTimeout is not a function
+
+[2025-03-01T14:21:40.301Z] TradingView - AAB.TO (ABERDEEN INTERNATIONAL)
+Method 1: Basic fetch failed - Waiting for selector `.tv-symbol-price-quote__value` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html lang="en" dir="ltr" class="is-not-authenticated is-not-pro is-not-trial feature-touch feature-no-mobiletouch theme-light is-not-trial-available"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">	<script nonce="">window.initData = {};</script><title>AAB Stock Price and Chart — TSX:AAB — TradingView</title>
+<link rel="preconnect" href="https://pricealerts.tradingview.com" 
+Method 2: Dynamic wait failed - Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html lang="en" dir="ltr" class="is-not-authenticated is-not-pro is-not-trial feature-touch feature-no-mobiletouch theme-light is-not-trial-available"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">	<script nonce="">window.initData = {};</script><title>AAB Stock Price and Chart — TSX:AAB — TradingView</title>
+<link rel="preconnect" href="https://pricealerts.tradingview.com" 
+Method 3: Alternative selector with delay - Price: 0.030
+
+[2025-03-01T14:24:08.291Z] MiningFeeds - AAB.TO (ABERDEEN INTERNATIONAL)
+Method 1: Basic fetch failed - Waiting for selector `.stock-meta .price` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title> -  -  &gt;&gt; MiningFeeds.com</title>
+<meta name="description" content="Company summary with corporate and market information for  ().  Featuring company news, user comments, press releases, price quotes, % change, trading volume, business address and detailed description.">
+<meta name="keywords" content="mining 
+Method 2: Dynamic wait failed - Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title> -  -  &gt;&gt; MiningFeeds.com</title>
+<meta name="description" content="Company summary with corporate and market information for  ().  Featuring company news, user comments, press releases, price quotes, % change, trading volume, business address and detailed description.">
+<meta name="keywords" content="mining 
+Method 3: Alternative selector with delay - Price: N/A
+
+[2025-03-01T14:28:30.998Z] JuniorMining - AAB.TO (ABERDEEN INTERNATIONAL)
+Method 1: Basic fetch (gold-mining-stocks.html) failed - Waiting for selector `.stock-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html lang="en-gb" dir="ltr" class="com_finance view-stockslist itemid-2936 j39 mm-hover no-touch"><head>
+<meta name="theme-color" content="#263b88">
+	<base href="https://www.juniorminingnetwork.com/mining-stocks/gold-mining-stocks.html">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@jrminingnetwork">
+	<meta name="twitter:title" content="List of Gold Mining Stocks - Junior Min
+Method 2: Dynamic wait (gold-mining-stocks.html) failed - Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html lang="en-gb" dir="ltr" class="com_finance view-stockslist itemid-2936 j39 mm-hover no-touch"><head>
+<meta name="theme-color" content="#263b88">
+	<base href="https://www.juniorminingnetwork.com/mining-stocks/gold-mining-stocks.html">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@jrminingnetwork">
+	<meta name="twitter:title" content="List of Gold Mining Stocks - Junior Min
+Method 1: Basic fetch (silver-mining-stocks.html) failed - Waiting for selector `.stock-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html lang="en-gb" dir="ltr" class="com_finance view-stockslist itemid-2961 j39 mm-hover no-touch"><head>
+<meta name="theme-color" content="#263b88">
+	<base href="https://www.juniorminingnetwork.com/mining-stocks/silver-mining-stocks.html">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@jrminingnetwork">
+	<meta name="twitter:title" content="List of Silver Mining Stocks - Junior
+Method 2: Dynamic wait (silver-mining-stocks.html) failed - Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html lang="en-gb" dir="ltr" class="com_finance view-stockslist itemid-2961 j39 mm-hover no-touch"><head>
+<meta name="theme-color" content="#263b88">
+	<base href="https://www.juniorminingnetwork.com/mining-stocks/silver-mining-stocks.html">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@jrminingnetwork">
+	<meta name="twitter:title" content="List of Silver Mining Stocks - Junior
+
+[2025-03-01T14:31:03.183Z] TradingView - AAG.V (AFTERMATH SILVER)
+Method 1: Basic fetch failed - Waiting for selector `.tv-symbol-price-quote__value` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html lang="en" dir="ltr" class="is-not-authenticated is-not-pro is-not-trial feature-touch feature-no-mobiletouch theme-light is-not-trial-available"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">	<script nonce="">window.initData = {};</script><title>AAG Stock Price and Chart — TSXV:AAG — TradingView</title>
+<link rel="preconnect" href="https://pricealerts.tradingview.com"
+Method 2: Dynamic wait failed - Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html lang="en" dir="ltr" class="is-not-authenticated is-not-pro is-not-trial feature-touch feature-no-mobiletouch theme-light is-not-trial-available"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">	<script nonce="">window.initData = {};</script><title>AAG Stock Price and Chart — TSXV:AAG — TradingView</title>
+<link rel="preconnect" href="https://pricealerts.tradingview.com"
+Method 3: Alternative selector with delay - Price: 0.480
+
+[2025-03-01T14:33:47.404Z] MiningFeeds - AAG.V (AFTERMATH SILVER)
+Method 1: Basic fetch failed - Waiting for selector `.stock-meta .price` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title> -  -  &gt;&gt; MiningFeeds.com</title>
+<meta name="description" content="Company summary with corporate and market information for  ().  Featuring company news, user comments, press releases, price quotes, % change, trading volume, business address and detailed description.">
+<meta name="keywords" content="mining 
+Method 2: Dynamic wait failed - Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title> -  -  &gt;&gt; MiningFeeds.com</title>
+<meta name="description" content="Company summary with corporate and market information for  ().  Featuring company news, user comments, press releases, price quotes, % change, trading volume, business address and detailed description.">
+<meta name="keywords" content="mining 
+Method 3: Alternative selector with delay - Price: N/A
+
+[2025-03-01T14:35:08.992Z] TradingView - AAB.TO (ABERDEEN INTERNATIONAL)
+Method 1: Basic fetch - Status: 200, Title: AAB Stock Price and Chart — TSX:AAB — TradingView, Price: 0.030
+Method 2: Dynamic wait - Title: AAB Stock Price and Chart — TSX:AAB — TradingView, Price: 0.030
+Method 3: Alternative selector with delay - Title: AAB Stock Price and Chart — TSX:AAB — TradingView, Price: 0.030
+
+[2025-03-01T14:54:43.964Z] MiningFeeds - AAB.TO (ABERDEEN INTERNATIONAL)
+Method 1: Single page fetch failed - Waiting for selector `.stock-meta .price` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title> -  -  &gt;&gt; MiningFeeds.com</title>
+<meta name="description" content="Company summary with corporate and market information for  ().  Featuring company news, user comments, press releases, price quotes, % change, trading volume, business address and detailed description.">
+<meta name="keywords" content="mining 
+Method 2: Gold report (1) failed - Waiting for selector `.mining-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title>Gold Stocks List | Gold Mining Companies Listed in All Countries (2025)</title>
+<meta name="description" content="Comprehensive list of Gold stocks companies listed in All Countries, including company profiles, charts, stock quotes, news and user commentary.">
+<meta name="keywords" content="Gold companies, Gold min
+Method 2: Gold report (2) failed - Waiting for selector `.mining-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title>Gold Stocks List | Gold Mining Companies Listed in All Countries (2025)</title>
+<meta name="description" content="Comprehensive list of Gold stocks companies listed in All Countries, including company profiles, charts, stock quotes, news and user commentary.">
+<meta name="keywords" content="Gold companies, Gold min
+Method 2: Gold report (3) failed - Waiting for selector `.mining-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title>Gold Stocks List | Gold Mining Companies Listed in All Countries (2025)</title>
+<meta name="description" content="Comprehensive list of Gold stocks companies listed in All Countries, including company profiles, charts, stock quotes, news and user commentary.">
+<meta name="keywords" content="Gold companies, Gold min
+Method 2: Gold report (4) failed - Waiting for selector `.mining-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title>Gold Stocks List | Gold Mining Companies Listed in All Countries (2025)</title>
+<meta name="description" content="Comprehensive list of Gold stocks companies listed in All Countries, including company profiles, charts, stock quotes, news and user commentary.">
+<meta name="keywords" content="Gold companies, Gold min
+Method 2: Gold report (5) failed - Waiting for selector `.mining-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title>Gold Stocks List | Gold Mining Companies Listed in All Countries (2025)</title>
+<meta name="description" content="Comprehensive list of Gold stocks companies listed in All Countries, including company profiles, charts, stock quotes, news and user commentary.">
+<meta name="keywords" content="Gold companies, Gold min
+Method 2: Gold report (6) failed - Waiting for selector `.mining-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title>Gold Stocks List | Gold Mining Companies Listed in All Countries (2025)</title>
+<meta name="description" content="Comprehensive list of Gold stocks companies listed in All Countries, including company profiles, charts, stock quotes, news and user commentary.">
+<meta name="keywords" content="Gold companies, Gold min
+Method 2: Gold report (7) failed - Waiting for selector `.mining-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title>Gold Stocks List | Gold Mining Companies Listed in All Countries (2025)</title>
+<meta name="description" content="Comprehensive list of Gold stocks companies listed in All Countries, including company profiles, charts, stock quotes, news and user commentary.">
+<meta name="keywords" content="Gold companies, Gold min
+Method 2: Gold report (8) failed - Waiting for selector `.mining-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title>Gold Stocks List | Gold Mining Companies Listed in All Countries (2025)</title>
+<meta name="description" content="Comprehensive list of Gold stocks companies listed in All Countries, including company profiles, charts, stock quotes, news and user commentary.">
+<meta name="keywords" content="Gold companies, Gold min
+Method 3: Silver report (1) failed - Waiting for selector `.mining-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title>Silver Stocks List | Silver Mining Companies Listed in All Countries (2025)</title>
+<meta name="description" content="Comprehensive list of Silver stocks companies listed in All Countries, including company profiles, charts, stock quotes, news and user commentary.">
+<meta name="keywords" content="Silver companies, 
+Method 3: Silver report (2) failed - Waiting for selector `.mining-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title>Silver Stocks List | Silver Mining Companies Listed in All Countries (2025)</title>
+<meta name="description" content="Comprehensive list of Silver stocks companies listed in All Countries, including company profiles, charts, stock quotes, news and user commentary.">
+<meta name="keywords" content="Silver companies, 
+Method 3: Silver report (3) failed - Waiting for selector `.mining-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title>Silver Stocks List | Silver Mining Companies Listed in All Countries (2025)</title>
+<meta name="description" content="Comprehensive list of Silver stocks companies listed in All Countries, including company profiles, charts, stock quotes, news and user commentary.">
+<meta name="keywords" content="Silver companies, 
+Method 3: Silver report (4) failed - Waiting for selector `.mining-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title>Silver Stocks List | Silver Mining Companies Listed in All Countries (2025)</title>
+<meta name="description" content="Comprehensive list of Silver stocks companies listed in All Countries, including company profiles, charts, stock quotes, news and user commentary.">
+<meta name="keywords" content="Silver companies, 
+Method 3: Silver report (5) failed - Waiting for selector `.mining-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title>Silver Stocks List | Silver Mining Companies Listed in All Countries (2025)</title>
+<meta name="description" content="Comprehensive list of Silver stocks companies listed in All Countries, including company profiles, charts, stock quotes, news and user commentary.">
+<meta name="keywords" content="Silver companies, 
+Method 3: Silver report (6) failed - Waiting for selector `.mining-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title>Silver Stocks List | Silver Mining Companies Listed in All Countries (2025)</title>
+<meta name="description" content="Comprehensive list of Silver stocks companies listed in All Countries, including company profiles, charts, stock quotes, news and user commentary.">
+<meta name="keywords" content="Silver companies, 
+Method 3: Silver report (7) failed - Waiting for selector `.mining-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title>Silver Stocks List | Silver Mining Companies Listed in All Countries (2025)</title>
+<meta name="description" content="Comprehensive list of Silver stocks companies listed in All Countries, including company profiles, charts, stock quotes, news and user commentary.">
+<meta name="keywords" content="Silver companies, 
+Method 3: Silver report (8) failed - Waiting for selector `.mining-table tbody tr` failed: Waiting failed: 60000ms exceeded
+HTML Dump: <!DOCTYPE html><html class=" js "><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="user-scalable=no, width=device-width, maximum-scale=1, minimum-scale=1">
+	<title>Silver Stocks List | Silver Mining Companies Listed in All Countries (2025)</title>
+<meta name="description" content="Comprehensive list of Silver stocks companies listed in All Countries, including company profiles, charts, stock quotes, news and user commentary.">
+<meta name="keywords" content="Silver companies, 

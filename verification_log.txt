@@ -427,3 +427,1521 @@ Market Cap: JMN=N/A CAD, Yahoo=132478616 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0
 [AAB.TO] - 2025-02-28
 Stock Price: JMN=N/A CAD, Yahoo=0.03 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00%, Resolved=0.03 CAD
 Market Cap: JMN=N/A CAD, Yahoo=4775610 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00%, Resolved=4775610 CAD
+[AAB.TO] - 2025-03-02T00:10:44.469Z
+Stock Price: JMN=N/A CAD, Yahoo=0.03 CAD, MF=N/A CAD, TV=0.03 CAD, Variance=0.00, Resolved=0.030 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4775610 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4775610 CAD
+[AAG.V] - 2025-03-02T00:13:07.150Z
+Stock Price: JMN=N/A CAD, Yahoo=0.48 CAD, MF=N/A CAD, TV=0.48 CAD, Variance=0.00, Resolved=0.480 CAD
+Market Cap: JMN=N/A CAD, Yahoo=138238560 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=138238560 CAD
+[AAN.V] - 2025-03-02T00:15:28.455Z
+Stock Price: JMN=N/A CAD, Yahoo=0.175 CAD, MF=N/A CAD, TV=0.175 CAD, Variance=0.00, Resolved=0.175 CAD
+Market Cap: JMN=N/A CAD, Yahoo=22304450 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=22304450 CAD
+[AAUC.TO] - 2025-03-02T00:17:50.612Z
+Stock Price: JMN=N/A CAD, Yahoo=4.71 CAD, MF=N/A CAD, TV=4.71 CAD, Variance=0.00, Resolved=4.710 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1549062528 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1549062528 CAD
+[ABI.V] - 2025-03-02T00:20:10.042Z
+Stock Price: JMN=N/A CAD, Yahoo=0.05 CAD, MF=N/A CAD, TV=0.05 CAD, Variance=0.00, Resolved=0.050 CAD
+Market Cap: JMN=N/A CAD, Yahoo=39970100 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=39970100 CAD
+[AAB.TO] - 2025-03-02T00:22:34.667Z
+Stock Price: JMN=N/A CAD, Yahoo=0.03 CAD, MF=N/A CAD, TV=0.03 CAD, Variance=0.00, Resolved=0.030 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4775610 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4775610 CAD
+[AAG.V] - 2025-03-02T00:22:42.894Z
+Stock Price: JMN=N/A CAD, Yahoo=0.48 CAD, MF=N/A CAD, TV=0.48 CAD, Variance=0.00, Resolved=0.480 CAD
+Market Cap: JMN=N/A CAD, Yahoo=138238560 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=138238560 CAD
+[AAN.V] - 2025-03-02T00:22:51.746Z
+Stock Price: JMN=N/A CAD, Yahoo=0.175 CAD, MF=N/A CAD, TV=0.175 CAD, Variance=0.00, Resolved=0.175 CAD
+Market Cap: JMN=N/A CAD, Yahoo=22304450 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=22304450 CAD
+[AAUC.TO] - 2025-03-02T00:23:00.637Z
+Stock Price: JMN=N/A CAD, Yahoo=4.71 CAD, MF=N/A CAD, TV=4.71 CAD, Variance=0.00, Resolved=4.710 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1549062528 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1549062528 CAD
+[ABI.V] - 2025-03-02T00:23:09.259Z
+Stock Price: JMN=N/A CAD, Yahoo=0.05 CAD, MF=N/A CAD, TV=0.05 CAD, Variance=0.00, Resolved=0.050 CAD
+Market Cap: JMN=N/A CAD, Yahoo=39970100 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=39970100 CAD
+[ABRA.TO] - 2025-03-02T00:23:18.079Z
+Stock Price: JMN=N/A CAD, Yahoo=3.08 CAD, MF=N/A CAD, TV=3.08 CAD, Variance=0.00, Resolved=3.080 CAD
+Market Cap: JMN=N/A CAD, Yahoo=469613760 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=469613760 CAD
+[ADY.V] - 2025-03-02T00:23:26.487Z
+Stock Price: JMN=N/A CAD, Yahoo=0.15 CAD, MF=N/A CAD, TV=0.15 CAD, Variance=0.00, Resolved=0.150 CAD
+Market Cap: JMN=N/A CAD, Yahoo=38991300 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=38991300 CAD
+[ADZ.V] - 2025-03-02T00:23:36.844Z
+Stock Price: JMN=N/A CAD, Yahoo=0.095 CAD, MF=N/A CAD, TV=0.095 CAD, Variance=0.00, Resolved=0.095 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3050602 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3050602 CAD
+[AE.V] - 2025-03-02T00:23:45.208Z
+Stock Price: JMN=N/A CAD, Yahoo=0.445 CAD, MF=N/A CAD, TV=0.445 CAD, Variance=0.00, Resolved=0.445 CAD
+Market Cap: JMN=N/A CAD, Yahoo=74513024 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=74513024 CAD
+[AEM.TO] - 2025-03-02T00:23:54.181Z
+Stock Price: JMN=N/A CAD, Yahoo=139.37 CAD, MF=N/A CAD, TV=139.37 CAD, Variance=0.00, Resolved=139.370 CAD
+Market Cap: JMN=N/A CAD, Yahoo=69995233280 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=69995233280 CAD
+[AERO.V] - 2025-03-02T00:24:03.721Z
+Stock Price: JMN=N/A CAD, Yahoo=0.035 CAD, MF=N/A CAD, TV=0.035 CAD, Variance=0.00, Resolved=0.035 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4267445 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4267445 CAD
+[AG.TO] - 2025-03-02T00:24:13.214Z
+Stock Price: JMN=N/A CAD, Yahoo=7.75 CAD, MF=N/A CAD, TV=7.75 CAD, Variance=0.00, Resolved=7.750 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3751697408 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3751697408 CAD
+[AGA.V] - 2025-03-02T00:24:22.041Z
+Stock Price: JMN=N/A CAD, Yahoo=0.52 CAD, MF=N/A CAD, TV=0.52 CAD, Variance=0.00, Resolved=0.520 CAD
+Market Cap: JMN=N/A CAD, Yahoo=26022828 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=26022828 CAD
+[AGAG.V] - 2025-03-02T00:24:30.361Z
+Stock Price: JMN=N/A CAD, Yahoo=0.255 CAD, MF=N/A CAD, TV=0.255 CAD, Variance=0.00, Resolved=0.255 CAD
+Market Cap: JMN=N/A CAD, Yahoo=43124068 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=43124068 CAD
+[AGI.TO] - 2025-03-02T00:24:39.444Z
+Stock Price: JMN=N/A CAD, Yahoo=33.06 CAD, MF=N/A CAD, TV=33.06 CAD, Variance=0.00, Resolved=33.060 CAD
+Market Cap: JMN=N/A CAD, Yahoo=13899152384 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=13899152384 CAD
+[AGLD.V] - 2025-03-02T00:24:48.048Z
+Stock Price: JMN=N/A CAD, Yahoo=0.04 CAD, MF=N/A CAD, TV=0.04 CAD, Variance=0.00, Resolved=0.040 CAD
+Market Cap: JMN=N/A CAD, Yahoo=25352360 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=25352360 CAD
+[AGMR.V] - 2025-03-02T00:24:56.908Z
+Stock Price: JMN=N/A CAD, Yahoo=0.05 CAD, MF=N/A CAD, TV=0.05 CAD, Variance=0.00, Resolved=0.050 CAD
+Market Cap: JMN=N/A CAD, Yahoo=18520750 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=18520750 CAD
+[AGX.V] - 2025-03-02T00:25:05.716Z
+Stock Price: JMN=N/A CAD, Yahoo=0.155 CAD, MF=N/A CAD, TV=0.155 CAD, Variance=0.00, Resolved=0.155 CAD
+Market Cap: JMN=N/A CAD, Yahoo=31265360 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=31265360 CAD
+[ALDE.V] - 2025-03-02T00:25:14.795Z
+Stock Price: JMN=N/A CAD, Yahoo=1.84 CAD, MF=N/A CAD, TV=1.84 CAD, Variance=0.00, Resolved=1.840 CAD
+Market Cap: JMN=N/A CAD, Yahoo=312641760 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=312641760 CAD
+[ALEX.V] - 2025-03-02T00:25:23.254Z
+Stock Price: JMN=N/A CAD, Yahoo=0.75 CAD, MF=N/A CAD, TV=0.75 CAD, Variance=0.00, Resolved=0.750 CAD
+Market Cap: JMN=N/A CAD, Yahoo=67995232 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=67995232 CAD
+[ALTA.V] - 2025-03-02T00:25:33.526Z
+Stock Price: JMN=N/A CAD, Yahoo=0.1 CAD, MF=N/A CAD, TV=0.1 CAD, Variance=0.00, Resolved=0.100 CAD
+Market Cap: JMN=N/A CAD, Yahoo=21197700 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=21197700 CAD
+[AMC.TO] - 2025-03-02T00:25:42.460Z
+Stock Price: JMN=N/A CAD, Yahoo=1.3 CAD, MF=N/A CAD, TV=1.3 CAD, Variance=0.00, Resolved=1.300 CAD
+Market Cap: JMN=N/A CAD, Yahoo=177658000 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=177658000 CAD
+[AMQ.CN] - 2025-03-02T00:25:53.163Z
+Stock Price: JMN=N/A CAD, Yahoo=0.22 CAD, MF=N/A CAD, TV=0.22 CAD, Variance=0.00, Resolved=0.220 CAD
+Market Cap: JMN=N/A CAD, Yahoo=24206380 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=24206380 CAD
+[AMRQ.V] - 2025-03-02T00:26:01.579Z
+Stock Price: JMN=N/A CAD, Yahoo=1.83 CAD, MF=N/A CAD, TV=1.83 CAD, Variance=0.00, Resolved=1.830 CAD
+Market Cap: JMN=N/A CAD, Yahoo=727780096 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=727780096 CAD
+[AMX.V] - 2025-03-02T00:26:12.862Z
+Stock Price: JMN=N/A CAD, Yahoo=1 CAD, MF=N/A CAD, TV=1 CAD, Variance=0.00, Resolved=1.000 CAD
+Market Cap: JMN=N/A CAD, Yahoo=120713000 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=120713000 CAD
+[ANK.V] - 2025-03-02T00:26:21.411Z
+Stock Price: JMN=N/A CAD, Yahoo=0.125 CAD, MF=N/A CAD, TV=0.125 CAD, Variance=0.00, Resolved=0.125 CAD
+Market Cap: JMN=N/A CAD, Yahoo=23057376 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=23057376 CAD
+[ANTL.V] - 2025-03-02T00:26:29.644Z
+Stock Price: JMN=N/A CAD, Yahoo=0.055 CAD, MF=N/A CAD, TV=0.055 CAD, Variance=0.00, Resolved=0.055 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4995699 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4995699 CAD
+[AOT.TO] - 2025-03-02T00:26:38.232Z
+Stock Price: JMN=N/A CAD, Yahoo=0.11 CAD, MF=N/A CAD, TV=0.11 CAD, Variance=0.00, Resolved=0.110 CAD
+Market Cap: JMN=N/A CAD, Yahoo=106970488 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=106970488 CAD
+[APGO.V] - 2025-03-02T00:26:46.463Z
+Stock Price: JMN=N/A CAD, Yahoo=0.24 CAD, MF=N/A CAD, TV=0.24 CAD, Variance=0.00, Resolved=0.240 CAD
+Market Cap: JMN=N/A CAD, Yahoo=58126560 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=58126560 CAD
+[APM.TO] - 2025-03-02T00:26:57.557Z
+Stock Price: JMN=N/A CAD, Yahoo=1.5 CAD, MF=N/A CAD, TV=1.5 CAD, Variance=0.00, Resolved=1.500 CAD
+Market Cap: JMN=N/A CAD, Yahoo=224044512 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=224044512 CAD
+[ARIC.V] - 2025-03-02T00:27:08.317Z
+Stock Price: JMN=N/A CAD, Yahoo=0.46 CAD, MF=N/A CAD, TV=0.46 CAD, Variance=0.00, Resolved=0.460 CAD
+Market Cap: JMN=N/A CAD, Yahoo=39926852 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=39926852 CAD
+[ARIS.TO] - 2025-03-02T00:27:17.228Z
+Stock Price: JMN=N/A CAD, Yahoo=5.35 CAD, MF=N/A CAD, TV=5.35 CAD, Variance=0.00, Resolved=5.350 CAD
+Market Cap: JMN=N/A CAD, Yahoo=914315008 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=914315008 CAD
+[ARK.V] - 2025-03-02T00:27:25.476Z
+Stock Price: JMN=N/A CAD, Yahoo=0.79 CAD, MF=N/A CAD, TV=0.79 CAD, Variance=0.00, Resolved=0.790 CAD
+Market Cap: JMN=N/A CAD, Yahoo=70458520 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=70458520 CAD
+[ARTG.V] - 2025-03-02T00:27:35.174Z
+Stock Price: JMN=N/A CAD, Yahoo=15.81 CAD, MF=N/A CAD, TV=15.81 CAD, Variance=0.00, Resolved=15.810 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3557724416 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3557724416 CAD
+[ARU.V] - 2025-03-02T00:27:43.206Z
+Stock Price: JMN=N/A CAD, Yahoo=0.39 CAD, MF=N/A CAD, TV=0.39 CAD, Variance=0.00, Resolved=0.390 CAD
+Market Cap: JMN=N/A CAD, Yahoo=37655708 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=37655708 CAD
+[ASE.CN] - 2025-03-02T00:27:52.410Z
+Stock Price: JMN=N/A CAD, Yahoo=1.08 CAD, MF=N/A CAD, TV=1.08 CAD, Variance=0.00, Resolved=1.080 CAD
+Market Cap: JMN=N/A CAD, Yahoo=541174016 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=541174016 CAD
+[ASM.TO] - 2025-03-02T00:28:02.027Z
+Stock Price: JMN=N/A CAD, Yahoo=1.75 CAD, MF=N/A CAD, TV=1.75 CAD, Variance=0.00, Resolved=1.750 CAD
+Market Cap: JMN=N/A CAD, Yahoo=245924000 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=245924000 CAD
+[ASTR.V] - 2025-03-02T00:28:10.401Z
+Stock Price: JMN=N/A CAD, Yahoo=0.155 CAD, MF=N/A CAD, TV=0.155 CAD, Variance=0.00, Resolved=0.155 CAD
+Market Cap: JMN=N/A CAD, Yahoo=13034121 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=13034121 CAD
+[ATHA.CN] - 2025-03-02T00:28:19.574Z
+Stock Price: JMN=N/A CAD, Yahoo=0.05 CAD, MF=N/A CAD, TV=0.05 CAD, Variance=0.00, Resolved=0.050 CAD
+Market Cap: JMN=N/A CAD, Yahoo=9740200 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=9740200 CAD
+[AU.V] - 2025-03-02T00:28:28.378Z
+Stock Price: JMN=N/A CAD, Yahoo=0.74 CAD, MF=N/A CAD, TV=0.74 CAD, Variance=0.00, Resolved=0.740 CAD
+Market Cap: JMN=N/A CAD, Yahoo=110177856 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=110177856 CAD
+[AUAU.V] - 2025-03-02T00:28:38.867Z
+Stock Price: JMN=N/A CAD, Yahoo=0.125 CAD, MF=N/A CAD, TV=0.125 CAD, Variance=0.00, Resolved=0.125 CAD
+Market Cap: JMN=N/A CAD, Yahoo=13259625 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=13259625 CAD
+[AWM.V] - 2025-03-02T00:28:48.016Z
+Stock Price: JMN=N/A CAD, Yahoo=0.05 CAD, MF=N/A CAD, TV=0.05 CAD, Variance=0.00, Resolved=0.050 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5396650 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5396650 CAD
+[AUM.V] - 2025-03-02T00:28:56.842Z
+Stock Price: JMN=N/A CAD, Yahoo=0.045 CAD, MF=N/A CAD, TV=0.045 CAD, Variance=0.00, Resolved=0.045 CAD
+Market Cap: JMN=N/A CAD, Yahoo=35415588 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=35415588 CAD
+[AUMB.V] - 2025-03-02T00:29:05.761Z
+Stock Price: JMN=N/A CAD, Yahoo=0.215 CAD, MF=N/A CAD, TV=0.215 CAD, Variance=0.00, Resolved=0.215 CAD
+Market Cap: JMN=N/A CAD, Yahoo=41130792 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=41130792 CAD
+[AUOZ.CN] - 2025-03-02T00:29:14.985Z
+Stock Price: JMN=N/A CAD, Yahoo=0.15 CAD, MF=N/A CAD, TV=0.15 CAD, Variance=0.00, Resolved=0.150 CAD
+Market Cap: JMN=N/A CAD, Yahoo=16758751 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=16758751 CAD
+[AUR.H.V] - 2025-03-02T00:29:26.452Z
+Stock Price: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0.000 CAD
+Market Cap: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0 CAD
+[AXM.H.V] - 2025-03-02T00:29:37.489Z
+Stock Price: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0.000 CAD
+Market Cap: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0 CAD
+[AYA.TO] - 2025-03-02T00:29:46.777Z
+Stock Price: JMN=N/A CAD, Yahoo=11.48 CAD, MF=N/A CAD, TV=11.48 CAD, Variance=0.00, Resolved=11.480 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1499712640 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1499712640 CAD
+[AZM.V] - 2025-03-02T00:29:55.431Z
+Stock Price: JMN=N/A CAD, Yahoo=0.54 CAD, MF=N/A CAD, TV=0.54 CAD, Variance=0.00, Resolved=0.540 CAD
+Market Cap: JMN=N/A CAD, Yahoo=46274544 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=46274544 CAD
+[AZS.V] - 2025-03-02T00:30:03.408Z
+Stock Price: JMN=N/A CAD, Yahoo=0.33 CAD, MF=N/A CAD, TV=0.33 CAD, Variance=0.00, Resolved=0.330 CAD
+Market Cap: JMN=N/A CAD, Yahoo=30906944 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=30906944 CAD
+[AZT.V] - 2025-03-02T00:30:12.715Z
+Stock Price: JMN=N/A CAD, Yahoo=0.185 CAD, MF=N/A CAD, TV=0.185 CAD, Variance=0.00, Resolved=0.185 CAD
+Market Cap: JMN=N/A CAD, Yahoo=22876916 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=22876916 CAD
+[BAT.V] - 2025-03-02T00:30:21.596Z
+Stock Price: JMN=N/A CAD, Yahoo=0.04 CAD, MF=N/A CAD, TV=0.04 CAD, Variance=0.00, Resolved=0.040 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4607280 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4607280 CAD
+[BAU.V] - 2025-03-02T00:30:30.706Z
+Stock Price: JMN=N/A CAD, Yahoo=0.075 CAD, MF=N/A CAD, TV=0.075 CAD, Variance=0.00, Resolved=0.075 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7782525 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7782525 CAD
+[BBB.V] - 2025-03-02T00:30:39.465Z
+Stock Price: JMN=N/A CAD, Yahoo=0.095 CAD, MF=N/A CAD, TV=0.095 CAD, Variance=0.00, Resolved=0.095 CAD
+Market Cap: JMN=N/A CAD, Yahoo=50653240 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=50653240 CAD
+[BCM.V] - 2025-03-02T00:30:48.250Z
+Stock Price: JMN=N/A CAD, Yahoo=0.295 CAD, MF=N/A CAD, TV=0.295 CAD, Variance=0.00, Resolved=0.295 CAD
+Market Cap: JMN=N/A CAD, Yahoo=67179168 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=67179168 CAD
+[BEX.V] - 2025-03-02T00:30:57.493Z
+Stock Price: JMN=N/A CAD, Yahoo=0.085 CAD, MF=N/A CAD, TV=0.085 CAD, Variance=0.00, Resolved=0.085 CAD
+Market Cap: JMN=N/A CAD, Yahoo=17475320 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=17475320 CAD
+[BGF.V] - 2025-03-02T00:31:06.175Z
+Stock Price: JMN=N/A CAD, Yahoo=0.04 CAD, MF=N/A CAD, TV=0.04 CAD, Variance=0.00, Resolved=0.040 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3925080 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3925080 CAD
+[BGS] - 2025-03-02T00:31:17.659Z
+Stock Price: JMN=N/A CAD, Yahoo=6.68 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=6.680 CAD
+Market Cap: JMN=N/A CAD, Yahoo=528643168 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=528643168 CAD
+[BHS.V] - 2025-03-02T00:31:26.448Z
+Stock Price: JMN=N/A CAD, Yahoo=0.06 CAD, MF=N/A CAD, TV=0.06 CAD, Variance=0.00, Resolved=0.060 CAD
+Market Cap: JMN=N/A CAD, Yahoo=18188040 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=18188040 CAD
+[BIG.V] - 2025-03-02T00:31:35.107Z
+Stock Price: JMN=N/A CAD, Yahoo=0.615 CAD, MF=N/A CAD, TV=0.62 CAD, Variance=0.01, Resolved=0.617 CAD
+Market Cap: JMN=N/A CAD, Yahoo=155835472 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=155835472 CAD
+[BLLG.CN] - 2025-03-02T00:31:43.589Z
+Stock Price: JMN=N/A CAD, Yahoo=0.285 CAD, MF=N/A CAD, TV=0.285 CAD, Variance=0.00, Resolved=0.285 CAD
+Market Cap: JMN=N/A CAD, Yahoo=33511724 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=33511724 CAD
+[BMM.V] - 2025-03-02T00:31:52.526Z
+Stock Price: JMN=N/A CAD, Yahoo=1.46 CAD, MF=N/A CAD, TV=1.46 CAD, Variance=0.00, Resolved=1.460 CAD
+Market Cap: JMN=N/A CAD, Yahoo=47517744 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=47517744 CAD
+[BOGO.V] - 2025-03-02T00:32:03.314Z
+Stock Price: JMN=N/A CAD, Yahoo=0.52 CAD, MF=N/A CAD, TV=0.52 CAD, Variance=0.00, Resolved=0.520 CAD
+Market Cap: JMN=N/A CAD, Yahoo=43291768 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=43291768 CAD
+[BRAU.V] - 2025-03-02T00:32:11.790Z
+Stock Price: JMN=N/A CAD, Yahoo=0.075 CAD, MF=N/A CAD, TV=0.075 CAD, Variance=0.00, Resolved=0.075 CAD
+Market Cap: JMN=N/A CAD, Yahoo=17222850 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=17222850 CAD
+[BRAZ.CN] - 2025-03-02T00:32:20.072Z
+Stock Price: JMN=N/A CAD, Yahoo=0.25 CAD, MF=N/A CAD, TV=0.25 CAD, Variance=0.00, Resolved=0.250 CAD
+Market Cap: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0 CAD
+[BRC.V] - 2025-03-02T00:32:29.083Z
+Stock Price: JMN=N/A CAD, Yahoo=0.32 CAD, MF=N/A CAD, TV=0.32 CAD, Variance=0.00, Resolved=0.320 CAD
+Market Cap: JMN=N/A CAD, Yahoo=88444160 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=88444160 CAD
+[BSX.TO] - 2025-03-02T00:32:37.936Z
+Stock Price: JMN=N/A CAD, Yahoo=0.21 CAD, MF=N/A CAD, TV=0.21 CAD, Variance=0.00, Resolved=0.210 CAD
+Market Cap: JMN=N/A CAD, Yahoo=95561552 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=95561552 CAD
+[BTO.TO] - 2025-03-02T00:32:48.609Z
+Stock Price: JMN=N/A CAD, Yahoo=3.87 CAD, MF=N/A CAD, TV=3.87 CAD, Variance=0.00, Resolved=3.870 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5100814848 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5100814848 CAD
+[BTR.V] - 2025-03-02T00:32:57.739Z
+Stock Price: JMN=N/A CAD, Yahoo=0.195 CAD, MF=N/A CAD, TV=0.195 CAD, Variance=0.00, Resolved=0.195 CAD
+Market Cap: JMN=N/A CAD, Yahoo=31868458 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=31868458 CAD
+[BYN.V] - 2025-03-02T00:33:06.292Z
+Stock Price: JMN=N/A CAD, Yahoo=0.235 CAD, MF=N/A CAD, TV=0.235 CAD, Variance=0.00, Resolved=0.235 CAD
+Market Cap: JMN=N/A CAD, Yahoo=77513336 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=77513336 CAD
+[BZ.V] - 2025-03-02T00:33:14.864Z
+Stock Price: JMN=N/A CAD, Yahoo=0.34 CAD, MF=N/A CAD, TV=0.34 CAD, Variance=0.00, Resolved=0.340 CAD
+Market Cap: JMN=N/A CAD, Yahoo=63689136 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=63689136 CAD
+[CANX.V] - 2025-03-02T00:33:23.733Z
+Stock Price: JMN=N/A CAD, Yahoo=0.04 CAD, MF=N/A CAD, TV=0.04 CAD, Variance=0.00, Resolved=0.040 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4896560 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4896560 CAD
+[CAPT.V] - 2025-03-02T00:33:32.194Z
+Stock Price: JMN=N/A CAD, Yahoo=0.37 CAD, MF=N/A CAD, TV=0.37 CAD, Variance=0.00, Resolved=0.370 CAD
+Market Cap: JMN=N/A CAD, Yahoo=31484372 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=31484372 CAD
+[CBI.V] - 2025-03-02T00:33:40.466Z
+Stock Price: JMN=N/A CAD, Yahoo=0.025 CAD, MF=N/A CAD, TV=0.025 CAD, Variance=0.00, Resolved=0.025 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2598550 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2598550 CAD
+[CBR.V] - 2025-03-02T00:33:49.301Z
+Stock Price: JMN=N/A CAD, Yahoo=0.265 CAD, MF=N/A CAD, TV=0.265 CAD, Variance=0.00, Resolved=0.265 CAD
+Market Cap: JMN=N/A CAD, Yahoo=56236176 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=56236176 CAD
+[CC.CN] - 2025-03-02T00:33:57.525Z
+Stock Price: JMN=N/A CAD, Yahoo=0.04 CAD, MF=N/A CAD, TV=0.04 CAD, Variance=0.00, Resolved=0.040 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5084240 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5084240 CAD
+[CCM.TO] - 2025-03-02T00:34:07.129Z
+Stock Price: JMN=N/A CAD, Yahoo=0.36 CAD, MF=N/A CAD, TV=0.36 CAD, Variance=0.00, Resolved=0.360 CAD
+Market Cap: JMN=N/A CAD, Yahoo=62818564 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=62818564 CAD
+[CDPR.CN] - 2025-03-02T00:34:15.457Z
+Stock Price: JMN=N/A CAD, Yahoo=0.26 CAD, MF=N/A CAD, TV=0.26 CAD, Variance=0.00, Resolved=0.260 CAD
+Market Cap: JMN=N/A CAD, Yahoo=128112920 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=128112920 CAD
+[CERT.V] - 2025-03-02T00:34:24.292Z
+Stock Price: JMN=N/A CAD, Yahoo=0.43 CAD, MF=N/A CAD, TV=0.43 CAD, Variance=0.00, Resolved=0.430 CAD
+Market Cap: JMN=N/A CAD, Yahoo=44469740 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=44469740 CAD
+[CFE.CN] - 2025-03-02T00:34:35.536Z
+Stock Price: JMN=N/A CAD, Yahoo=0.12 CAD, MF=N/A CAD, TV=0.12 CAD, Variance=0.00, Resolved=0.120 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5637300 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5637300 CAD
+[CG.TO] - 2025-03-02T00:34:44.408Z
+Stock Price: JMN=N/A CAD, Yahoo=8.29 CAD, MF=N/A CAD, TV=8.29 CAD, Variance=0.00, Resolved=8.290 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1742616064 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1742616064 CAD
+[CGC.V] - 2025-03-02T00:34:53.676Z
+Stock Price: JMN=N/A CAD, Yahoo=0.17 CAD, MF=N/A CAD, TV=0.17 CAD, Variance=0.00, Resolved=0.170 CAD
+Market Cap: JMN=N/A CAD, Yahoo=31508648 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=31508648 CAD
+[CGG.TO] - 2025-03-02T00:35:02.720Z
+Stock Price: JMN=N/A CAD, Yahoo=8.14 CAD, MF=N/A CAD, TV=8.14 CAD, Variance=0.00, Resolved=8.140 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3226810112 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3226810112 CAD
+[CKG.V] - 2025-03-02T00:35:11.142Z
+Stock Price: JMN=N/A CAD, Yahoo=1.02 CAD, MF=N/A CAD, TV=1.02 CAD, Variance=0.00, Resolved=1.020 CAD
+Market Cap: JMN=N/A CAD, Yahoo=69761264 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=69761264 CAD
+[CLZ.V] - 2025-03-02T00:35:22.594Z
+Stock Price: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0.000 CAD
+Market Cap: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0 CAD
+[CMB.V] - 2025-03-02T00:35:31.533Z
+Stock Price: JMN=N/A CAD, Yahoo=0.02 CAD, MF=N/A CAD, TV=0.02 CAD, Variance=0.00, Resolved=0.020 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3288400 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3288400 CAD
+[CN.TO] - 2025-03-02T00:35:42.428Z
+Stock Price: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0.000 CAD
+Market Cap: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0 CAD
+[CNL.TO] - 2025-03-02T00:35:51.266Z
+Stock Price: JMN=N/A CAD, Yahoo=8.83 CAD, MF=N/A CAD, TV=8.83 CAD, Variance=0.00, Resolved=8.830 CAD
+Market Cap: JMN=N/A CAD, Yahoo=685227392 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=685227392 CAD
+[CPAU.V] - 2025-03-02T00:36:00.112Z
+Stock Price: JMN=N/A CAD, Yahoo=0.145 CAD, MF=N/A CAD, TV=0.145 CAD, Variance=0.00, Resolved=0.145 CAD
+Market Cap: JMN=N/A CAD, Yahoo=8984258 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=8984258 CAD
+[CRB.V] - 2025-03-02T00:36:08.805Z
+Stock Price: JMN=N/A CAD, Yahoo=0.05 CAD, MF=N/A CAD, TV=0.05 CAD, Variance=0.00, Resolved=0.050 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2895595 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2895595 CAD
+[CRI.V] - 2025-03-02T00:36:17.358Z
+Stock Price: JMN=N/A CAD, Yahoo=0.025 CAD, MF=N/A CAD, TV=0.025 CAD, Variance=0.00, Resolved=0.025 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5438700 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5438700 CAD
+[CSR.CN] - 2025-03-02T00:36:27.633Z
+Stock Price: JMN=N/A CAD, Yahoo=0.42 CAD, MF=N/A CAD, TV=0.42 CAD, Variance=0.00, Resolved=0.420 CAD
+Market Cap: JMN=N/A CAD, Yahoo=20812092 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=20812092 CAD
+[CTM.V] - 2025-03-02T00:36:36.247Z
+Stock Price: JMN=N/A CAD, Yahoo=0.08 CAD, MF=N/A CAD, TV=0.08 CAD, Variance=0.00, Resolved=0.080 CAD
+Market Cap: JMN=N/A CAD, Yahoo=25582238 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=25582238 CAD
+[CTN.V] - 2025-03-02T00:36:45.053Z
+Stock Price: JMN=N/A CAD, Yahoo=0.01 CAD, MF=N/A CAD, TV=0.01 CAD, Variance=0.00, Resolved=0.010 CAD
+Market Cap: JMN=N/A CAD, Yahoo=431695 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=431695 CAD
+[CVB.V] - 2025-03-02T00:36:54.156Z
+Stock Price: JMN=N/A CAD, Yahoo=0.19 CAD, MF=N/A CAD, TV=0.19 CAD, Variance=0.00, Resolved=0.190 CAD
+Market Cap: JMN=N/A CAD, Yahoo=19754300 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=19754300 CAD
+[CXB.TO] - 2025-03-02T00:37:03.204Z
+Stock Price: JMN=N/A CAD, Yahoo=2.85 CAD, MF=N/A CAD, TV=2.85 CAD, Variance=0.00, Resolved=2.850 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2429724672 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2429724672 CAD
+[CYG.V] - 2025-03-02T00:37:12.113Z
+Stock Price: JMN=N/A CAD, Yahoo=0.095 CAD, MF=N/A CAD, TV=0.095 CAD, Variance=0.00, Resolved=0.095 CAD
+Market Cap: JMN=N/A CAD, Yahoo=95549096 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=95549096 CAD
+[DAU.V] - 2025-03-02T00:37:20.463Z
+Stock Price: JMN=N/A CAD, Yahoo=0.07 CAD, MF=N/A CAD, TV=0.07 CAD, Variance=0.00, Resolved=0.070 CAD
+Market Cap: JMN=N/A CAD, Yahoo=16845080 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=16845080 CAD
+[DEF.V] - 2025-03-02T00:37:29.393Z
+Stock Price: JMN=N/A CAD, Yahoo=0.22 CAD, MF=N/A CAD, TV=0.22 CAD, Variance=0.00, Resolved=0.220 CAD
+Market Cap: JMN=N/A CAD, Yahoo=60328180 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=60328180 CAD
+[DEX.V] - 2025-03-02T00:37:38.213Z
+Stock Price: JMN=N/A CAD, Yahoo=0.215 CAD, MF=N/A CAD, TV=0.215 CAD, Variance=0.00, Resolved=0.215 CAD
+Market Cap: JMN=N/A CAD, Yahoo=13116699 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=13116699 CAD
+[DLTA.V] - 2025-03-02T00:37:46.974Z
+Stock Price: JMN=N/A CAD, Yahoo=0.17 CAD, MF=N/A CAD, TV=0.17 CAD, Variance=0.00, Resolved=0.170 CAD
+Market Cap: JMN=N/A CAD, Yahoo=22415350 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=22415350 CAD
+[DNG.TO] - 2025-03-02T00:37:55.480Z
+Stock Price: JMN=N/A CAD, Yahoo=5.53 CAD, MF=N/A CAD, TV=5.53 CAD, Variance=0.00, Resolved=5.530 CAD
+Market Cap: JMN=N/A CAD, Yahoo=233377072 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=233377072 CAD
+[DPM.TO] - 2025-03-02T00:38:03.909Z
+Stock Price: JMN=N/A CAD, Yahoo=16.96 CAD, MF=N/A CAD, TV=16.96 CAD, Variance=0.00, Resolved=16.960 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2937030912 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2937030912 CAD
+[DRY.V] - 2025-03-02T00:38:12.099Z
+Stock Price: JMN=N/A CAD, Yahoo=0.11 CAD, MF=N/A CAD, TV=0.11 CAD, Variance=0.00, Resolved=0.110 CAD
+Market Cap: JMN=N/A CAD, Yahoo=16440380 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=16440380 CAD
+[DSV.TO] - 2025-03-02T00:38:20.305Z
+Stock Price: JMN=N/A CAD, Yahoo=1.58 CAD, MF=N/A CAD, TV=1.58 CAD, Variance=0.00, Resolved=1.580 CAD
+Market Cap: JMN=N/A CAD, Yahoo=632728384 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=632728384 CAD
+[DV.V] - 2025-03-02T00:38:29.190Z
+Stock Price: JMN=N/A CAD, Yahoo=0.95 CAD, MF=N/A CAD, TV=0.95 CAD, Variance=0.00, Resolved=0.950 CAD
+Market Cap: JMN=N/A CAD, Yahoo=301084448 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=301084448 CAD
+[DYG.V] - 2025-03-02T00:38:37.943Z
+Stock Price: JMN=N/A CAD, Yahoo=0.13 CAD, MF=N/A CAD, TV=0.13 CAD, Variance=0.00, Resolved=0.130 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7946171 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7946171 CAD
+[EAM.V] - 2025-03-02T00:38:46.430Z
+Stock Price: JMN=N/A CAD, Yahoo=0.105 CAD, MF=N/A CAD, TV=0.105 CAD, Variance=0.00, Resolved=0.105 CAD
+Market Cap: JMN=N/A CAD, Yahoo=22537200 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=22537200 CAD
+[ECR.V] - 2025-03-02T00:38:55.216Z
+Stock Price: JMN=N/A CAD, Yahoo=0.105 CAD, MF=N/A CAD, TV=0.105 CAD, Variance=0.00, Resolved=0.105 CAD
+Market Cap: JMN=N/A CAD, Yahoo=37404256 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=37404256 CAD
+[EDG.V] - 2025-03-02T00:39:03.455Z
+Stock Price: JMN=N/A CAD, Yahoo=0.135 CAD, MF=N/A CAD, TV=0.135 CAD, Variance=0.00, Resolved=0.135 CAD
+Market Cap: JMN=N/A CAD, Yahoo=23381460 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=23381460 CAD
+[EDGM.CN] - 2025-03-02T00:39:12.125Z
+Stock Price: JMN=N/A CAD, Yahoo=0.2 CAD, MF=N/A CAD, TV=0.2 CAD, Variance=0.00, Resolved=0.200 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3417660 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3417660 CAD
+[EDR.TO] - 2025-03-02T00:39:19.865Z
+Stock Price: JMN=N/A CAD, Yahoo=5.31 CAD, MF=N/A CAD, TV=5.31 CAD, Variance=0.00, Resolved=5.310 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1392871424 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1392871424 CAD
+[ELD.TO] - 2025-03-02T00:39:28.467Z
+Stock Price: JMN=N/A CAD, Yahoo=19.91 CAD, MF=N/A CAD, TV=19.91 CAD, Variance=0.00, Resolved=19.910 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4080534272 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4080534272 CAD
+[ELE.V] - 2025-03-02T00:39:36.431Z
+Stock Price: JMN=N/A CAD, Yahoo=1.25 CAD, MF=N/A CAD, TV=1.25 CAD, Variance=0.00, Resolved=1.250 CAD
+Market Cap: JMN=N/A CAD, Yahoo=307203776 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=307203776 CAD
+[ELEF.TO] - 2025-03-02T00:39:44.381Z
+Stock Price: JMN=N/A CAD, Yahoo=0.23 CAD, MF=N/A CAD, TV=0.23 CAD, Variance=0.00, Resolved=0.230 CAD
+Market Cap: JMN=N/A CAD, Yahoo=9481428 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=9481428 CAD
+[ELO.TO] - 2025-03-02T00:39:52.367Z
+Stock Price: JMN=N/A CAD, Yahoo=1 CAD, MF=N/A CAD, TV=1 CAD, Variance=0.00, Resolved=1.000 CAD
+Market Cap: JMN=N/A CAD, Yahoo=84494496 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=84494496 CAD
+[ELVT.V] - 2025-03-02T00:40:03.451Z
+Stock Price: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0.000 CAD
+Market Cap: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0 CAD
+[EMNT.V] - 2025-03-02T00:40:11.374Z
+Stock Price: JMN=N/A CAD, Yahoo=0.345 CAD, MF=N/A CAD, TV=0.345 CAD, Variance=0.00, Resolved=0.345 CAD
+Market Cap: JMN=N/A CAD, Yahoo=20464434 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=20464434 CAD
+[EMO.V] - 2025-03-02T00:40:21.510Z
+Stock Price: JMN=N/A CAD, Yahoo=1.48 CAD, MF=N/A CAD, TV=1.48 CAD, Variance=0.00, Resolved=1.480 CAD
+Market Cap: JMN=N/A CAD, Yahoo=374589472 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=374589472 CAD
+[EMPR.V] - 2025-03-02T00:40:29.678Z
+Stock Price: JMN=N/A CAD, Yahoo=0.375 CAD, MF=N/A CAD, TV=0.375 CAD, Variance=0.00, Resolved=0.375 CAD
+Market Cap: JMN=N/A CAD, Yahoo=44467500 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=44467500 CAD
+[EMX.V] - 2025-03-02T00:40:38.697Z
+Stock Price: JMN=N/A CAD, Yahoo=2.61 CAD, MF=N/A CAD, TV=2.61 CAD, Variance=0.00, Resolved=2.610 CAD
+Market Cap: JMN=N/A CAD, Yahoo=289383744 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=289383744 CAD
+[ENDR.V] - 2025-03-02T00:40:47.403Z
+Stock Price: JMN=N/A CAD, Yahoo=0.16 CAD, MF=N/A CAD, TV=0.16 CAD, Variance=0.00, Resolved=0.160 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4510816 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4510816 CAD
+[EPL.V] - 2025-03-02T00:40:55.244Z
+Stock Price: JMN=N/A CAD, Yahoo=0.115 CAD, MF=N/A CAD, TV=0.115 CAD, Variance=0.00, Resolved=0.115 CAD
+Market Cap: JMN=N/A CAD, Yahoo=13231555 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=13231555 CAD
+[EQTY.V] - 2025-03-02T00:41:03.779Z
+Stock Price: JMN=N/A CAD, Yahoo=0.185 CAD, MF=N/A CAD, TV=0.185 CAD, Variance=0.00, Resolved=0.185 CAD
+Market Cap: JMN=N/A CAD, Yahoo=36041144 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=36041144 CAD
+[EQX.TO] - 2025-03-02T00:41:11.983Z
+Stock Price: JMN=N/A CAD, Yahoo=9.27 CAD, MF=N/A CAD, TV=9.27 CAD, Variance=0.00, Resolved=9.270 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4220009984 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4220009984 CAD
+[ER.CN] - 2025-03-02T00:41:20.309Z
+Stock Price: JMN=N/A CAD, Yahoo=0.14 CAD, MF=N/A CAD, TV=0.14 CAD, Variance=0.00, Resolved=0.140 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7988442 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7988442 CAD
+[ERD.TO] - 2025-03-02T00:41:28.112Z
+Stock Price: JMN=N/A CAD, Yahoo=0.68 CAD, MF=N/A CAD, TV=0.68 CAD, Variance=0.00, Resolved=0.680 CAD
+Market Cap: JMN=N/A CAD, Yahoo=239795200 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=239795200 CAD
+[ESK.V] - 2025-03-02T00:41:37.615Z
+Stock Price: JMN=N/A CAD, Yahoo=0.24 CAD, MF=N/A CAD, TV=0.24 CAD, Variance=0.00, Resolved=0.240 CAD
+Market Cap: JMN=N/A CAD, Yahoo=44116076 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=44116076 CAD
+[ESM.TO] - 2025-03-02T00:41:47.650Z
+Stock Price: JMN=N/A CAD, Yahoo=0.05 CAD, MF=N/A CAD, TV=0.05 CAD, Variance=0.00, Resolved=0.050 CAD
+Market Cap: JMN=N/A CAD, Yahoo=17983050 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=17983050 CAD
+[ETR.CN] - 2025-03-02T00:41:57.343Z
+Stock Price: JMN=N/A CAD, Yahoo=0.1 CAD, MF=N/A CAD, TV=0.1 CAD, Variance=0.00, Resolved=0.100 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5337040 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5337040 CAD
+[EXN.TO] - 2025-03-02T00:42:07.392Z
+Stock Price: JMN=N/A CAD, Yahoo=0.135 CAD, MF=N/A CAD, TV=0.135 CAD, Variance=0.00, Resolved=0.135 CAD
+Market Cap: JMN=N/A CAD, Yahoo=18469754 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=18469754 CAD
+[FAS.V] - 2025-03-02T00:42:16.807Z
+Stock Price: JMN=N/A CAD, Yahoo=0.09 CAD, MF=N/A CAD, TV=0.09 CAD, Variance=0.00, Resolved=0.090 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2991816 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2991816 CAD
+[FDR.V] - 2025-03-02T00:42:26.733Z
+Stock Price: JMN=N/A CAD, Yahoo=5.68 CAD, MF=N/A CAD, TV=5.68 CAD, Variance=0.00, Resolved=5.680 CAD
+Market Cap: JMN=N/A CAD, Yahoo=518932736 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=518932736 CAD
+[FF.TO] - 2025-03-02T00:42:36.863Z
+Stock Price: JMN=N/A CAD, Yahoo=0.125 CAD, MF=N/A CAD, TV=0.125 CAD, Variance=0.00, Resolved=0.125 CAD
+Market Cap: JMN=N/A CAD, Yahoo=134982496 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=134982496 CAD
+[FFOX.V] - 2025-03-02T00:42:46.732Z
+Stock Price: JMN=N/A CAD, Yahoo=0.03 CAD, MF=N/A CAD, TV=0.03 CAD, Variance=0.00, Resolved=0.030 CAD
+Market Cap: JMN=N/A CAD, Yahoo=6098549 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=6098549 CAD
+[FIN.V] - 2025-03-02T00:42:55.961Z
+Stock Price: JMN=N/A CAD, Yahoo=0.15 CAD, MF=N/A CAD, TV=0.15 CAD, Variance=0.00, Resolved=0.150 CAD
+Market Cap: JMN=N/A CAD, Yahoo=8281065 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=8281065 CAD
+[FISH.V] - 2025-03-02T00:43:05.189Z
+Stock Price: JMN=N/A CAD, Yahoo=1.63 CAD, MF=N/A CAD, TV=1.63 CAD, Variance=0.00, Resolved=1.630 CAD
+Market Cap: JMN=N/A CAD, Yahoo=114522336 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=114522336 CAD
+[FKM.V] - 2025-03-02T00:43:14.127Z
+Stock Price: JMN=N/A CAD, Yahoo=0.145 CAD, MF=N/A CAD, TV=0.145 CAD, Variance=0.00, Resolved=0.145 CAD
+Market Cap: JMN=N/A CAD, Yahoo=22998596 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=22998596 CAD
+[FMAN.V] - 2025-03-02T00:43:23.018Z
+Stock Price: JMN=N/A CAD, Yahoo=0.08 CAD, MF=N/A CAD, TV=0.08 CAD, Variance=0.00, Resolved=0.080 CAD
+Market Cap: JMN=N/A CAD, Yahoo=15340080 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=15340080 CAD
+[FMC.V] - 2025-03-02T00:43:32.208Z
+Stock Price: JMN=N/A CAD, Yahoo=0.055 CAD, MF=N/A CAD, TV=0.055 CAD, Variance=0.00, Resolved=0.055 CAD
+Market Cap: JMN=N/A CAD, Yahoo=16200800 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=16200800 CAD
+[FMT.V] - 2025-03-02T00:43:41.501Z
+Stock Price: JMN=N/A CAD, Yahoo=0.95 CAD, MF=N/A CAD, TV=0.95 CAD, Variance=0.00, Resolved=0.950 CAD
+Market Cap: JMN=N/A CAD, Yahoo=58112640 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=58112640 CAD
+[FNAU.CN] - 2025-03-02T00:43:50.286Z
+Stock Price: JMN=N/A CAD, Yahoo=0.415 CAD, MF=N/A CAD, TV=0.415 CAD, Variance=0.00, Resolved=0.415 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7809719 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7809719 CAD
+[FNM.V] - 2025-03-02T00:43:59.297Z
+Stock Price: JMN=N/A CAD, Yahoo=0.55 CAD, MF=N/A CAD, TV=0.55 CAD, Variance=0.00, Resolved=0.550 CAD
+Market Cap: JMN=N/A CAD, Yahoo=144914000 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=144914000 CAD
+[FNV.TO] - 2025-03-02T00:44:07.980Z
+Stock Price: JMN=N/A CAD, Yahoo=206.51 CAD, MF=N/A CAD, TV=206.51 CAD, Variance=0.00, Resolved=206.510 CAD
+Market Cap: JMN=N/A CAD, Yahoo=39751725056 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=39751725056 CAD
+[FOR.V] - 2025-03-02T00:44:17.470Z
+Stock Price: JMN=N/A CAD, Yahoo=0.29 CAD, MF=N/A CAD, TV=0.29 CAD, Variance=0.00, Resolved=0.290 CAD
+Market Cap: JMN=N/A CAD, Yahoo=14118505 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=14118505 CAD
+[FPC.V] - 2025-03-02T00:44:26.833Z
+Stock Price: JMN=N/A CAD, Yahoo=0.205 CAD, MF=N/A CAD, TV=0.205 CAD, Variance=0.00, Resolved=0.205 CAD
+Market Cap: JMN=N/A CAD, Yahoo=62348288 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=62348288 CAD
+[FRED.V] - 2025-03-02T00:44:36.372Z
+Stock Price: JMN=N/A CAD, Yahoo=0.2 CAD, MF=N/A CAD, TV=0.2 CAD, Variance=0.00, Resolved=0.200 CAD
+Market Cap: JMN=N/A CAD, Yahoo=9121740 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=9121740 CAD
+[FRG.CN] - 2025-03-02T00:44:44.841Z
+Stock Price: JMN=N/A CAD, Yahoo=0.98 CAD, MF=N/A CAD, TV=0.98 CAD, Variance=0.00, Resolved=0.980 CAD
+Market Cap: JMN=N/A CAD, Yahoo=81325496 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=81325496 CAD
+[FURY.TO] - 2025-03-02T00:44:54.954Z
+Stock Price: JMN=N/A CAD, Yahoo=0.53 CAD, MF=N/A CAD, TV=0.53 CAD, Variance=0.00, Resolved=0.530 CAD
+Market Cap: JMN=N/A CAD, Yahoo=80298176 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=80298176 CAD
+[FVI.TO] - 2025-03-02T00:45:04.301Z
+Stock Price: JMN=N/A CAD, Yahoo=6.25 CAD, MF=N/A CAD, TV=6.25 CAD, Variance=0.00, Resolved=6.250 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1958318848 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1958318848 CAD
+[FVL.TO] - 2025-03-02T00:45:14.339Z
+Stock Price: JMN=N/A CAD, Yahoo=0.86 CAD, MF=N/A CAD, TV=0.86 CAD, Variance=0.00, Resolved=0.860 CAD
+Market Cap: JMN=N/A CAD, Yahoo=401339648 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=401339648 CAD
+[GAL.V] - 2025-03-02T00:45:24.775Z
+Stock Price: JMN=N/A CAD, Yahoo=0.055 CAD, MF=N/A CAD, TV=0.055 CAD, Variance=0.00, Resolved=0.055 CAD
+Market Cap: JMN=N/A CAD, Yahoo=6312405 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=6312405 CAD
+[GAU.TO] - 2025-03-02T00:45:33.980Z
+Stock Price: JMN=N/A CAD, Yahoo=1.67 CAD, MF=N/A CAD, TV=1.67 CAD, Variance=0.00, Resolved=1.670 CAD
+Market Cap: JMN=N/A CAD, Yahoo=429320256 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=429320256 CAD
+[GBRC.V] - 2025-03-02T00:45:43.365Z
+Stock Price: JMN=N/A CAD, Yahoo=0.485 CAD, MF=N/A CAD, TV=0.485 CAD, Variance=0.00, Resolved=0.485 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7213259 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7213259 CAD
+[GDX.V] - 2025-03-02T00:45:52.191Z
+Stock Price: JMN=N/A CAD, Yahoo=0.06 CAD, MF=N/A CAD, TV=0.06 CAD, Variance=0.00, Resolved=0.060 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1986162 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1986162 CAD
+[GFG.V] - 2025-03-02T00:46:02.113Z
+Stock Price: JMN=N/A CAD, Yahoo=0.175 CAD, MF=N/A CAD, TV=0.175 CAD, Variance=0.00, Resolved=0.175 CAD
+Market Cap: JMN=N/A CAD, Yahoo=43445148 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=43445148 CAD
+[G.TO] - 2025-03-02T00:46:10.673Z
+Stock Price: JMN=N/A CAD, Yahoo=1.14 CAD, MF=N/A CAD, TV=1.14 CAD, Variance=0.00, Resolved=1.140 CAD
+Market Cap: JMN=N/A CAD, Yahoo=100430008 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=100430008 CAD
+[GCC.CN] - 2025-03-02T00:46:20.151Z
+Stock Price: JMN=N/A CAD, Yahoo=0.135 CAD, MF=N/A CAD, TV=0.135 CAD, Variance=0.00, Resolved=0.135 CAD
+Market Cap: JMN=N/A CAD, Yahoo=8187521 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=8187521 CAD
+[GHRT.V] - 2025-03-02T00:46:29.741Z
+Stock Price: JMN=N/A CAD, Yahoo=0.82 CAD, MF=N/A CAD, TV=0.82 CAD, Variance=0.00, Resolved=0.820 CAD
+Market Cap: JMN=N/A CAD, Yahoo=125663360 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=125663360 CAD
+[GG.V] - 2025-03-02T00:46:39.832Z
+Stock Price: JMN=N/A CAD, Yahoo=0.315 CAD, MF=N/A CAD, TV=0.315 CAD, Variance=0.00, Resolved=0.315 CAD
+Market Cap: JMN=N/A CAD, Yahoo=22451088 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=22451088 CAD
+[GGA.V] - 2025-03-02T00:46:49.426Z
+Stock Price: JMN=N/A CAD, Yahoo=0.43 CAD, MF=N/A CAD, TV=0.43 CAD, Variance=0.00, Resolved=0.430 CAD
+Market Cap: JMN=N/A CAD, Yahoo=58662748 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=58662748 CAD
+[GGD.TO] - 2025-03-02T00:46:58.925Z
+Stock Price: JMN=N/A CAD, Yahoo=1.52 CAD, MF=N/A CAD, TV=1.52 CAD, Variance=0.00, Resolved=1.520 CAD
+Market Cap: JMN=N/A CAD, Yahoo=503078944 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=503078944 CAD
+[GGL.V] - 2025-03-02T00:47:10.160Z
+Stock Price: JMN=N/A CAD, Yahoo=0.05 CAD, MF=N/A CAD, TV=0.05 CAD, Variance=0.00, Resolved=0.050 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4592875 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4592875 CAD
+[GGM.V] - 2025-03-02T00:47:19.944Z
+Stock Price: JMN=N/A CAD, Yahoo=0.03 CAD, MF=N/A CAD, TV=0.03 CAD, Variance=0.00, Resolved=0.030 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4953509 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4953509 CAD
+[GGO.V] - 2025-03-02T00:47:29.466Z
+Stock Price: JMN=N/A CAD, Yahoo=0.26 CAD, MF=N/A CAD, TV=0.26 CAD, Variance=0.00, Resolved=0.260 CAD
+Market Cap: JMN=N/A CAD, Yahoo=17466696 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=17466696 CAD
+[GLDC.V] - 2025-03-02T00:47:38.649Z
+Stock Price: JMN=N/A CAD, Yahoo=0.2 CAD, MF=N/A CAD, TV=0.2 CAD, Variance=0.00, Resolved=0.200 CAD
+Market Cap: JMN=N/A CAD, Yahoo=25442600 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=25442600 CAD
+[GLDN.V] - 2025-03-02T00:47:48.587Z
+Stock Price: JMN=N/A CAD, Yahoo=0.075 CAD, MF=N/A CAD, TV=0.075 CAD, Variance=0.00, Resolved=0.075 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4390597 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4390597 CAD
+[GLM.CN] - 2025-03-02T00:48:01.836Z
+Stock Price: JMN=N/A CAD, Yahoo=0.055 CAD, MF=N/A CAD, TV=0.055 CAD, Variance=0.00, Resolved=0.055 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5465014 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5465014 CAD
+[GMIN.TO] - 2025-03-02T00:48:11.563Z
+Stock Price: JMN=N/A CAD, Yahoo=15.22 CAD, MF=N/A CAD, TV=15.22 CAD, Variance=0.00, Resolved=15.220 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3376998656 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3376998656 CAD
+[GMTN.TO] - 2025-03-02T00:48:22.790Z
+Stock Price: JMN=N/A CAD, Yahoo=0.025 CAD, MF=N/A CAD, TV=0.025 CAD, Variance=0.00, Resolved=0.025 CAD
+Market Cap: JMN=N/A CAD, Yahoo=19840876 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=19840876 CAD
+[GMV.V] - 2025-03-02T00:48:31.962Z
+Stock Price: JMN=N/A CAD, Yahoo=0.11 CAD, MF=N/A CAD, TV=0.11 CAD, Variance=0.00, Resolved=0.110 CAD
+Market Cap: JMN=N/A CAD, Yahoo=10072777 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=10072777 CAD
+[GMX.TO] - 2025-03-02T00:48:41.252Z
+Stock Price: JMN=N/A CAD, Yahoo=1.44 CAD, MF=N/A CAD, TV=1.44 CAD, Variance=0.00, Resolved=1.440 CAD
+Market Cap: JMN=N/A CAD, Yahoo=80770752 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=80770752 CAD
+[GNG.V] - 2025-03-02T00:48:50.437Z
+Stock Price: JMN=N/A CAD, Yahoo=0.07 CAD, MF=N/A CAD, TV=0.07 CAD, Variance=0.00, Resolved=0.070 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1781367 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1781367 CAD
+[GOLD.TO] - 2025-03-02T00:48:59.573Z
+Stock Price: JMN=N/A CAD, Yahoo=1.15 CAD, MF=N/A CAD, TV=1.15 CAD, Variance=0.00, Resolved=1.150 CAD
+Market Cap: JMN=N/A CAD, Yahoo=224039536 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=224039536 CAD
+[GOT.V] - 2025-03-02T00:49:09.141Z
+Stock Price: JMN=N/A CAD, Yahoo=1.65 CAD, MF=N/A CAD, TV=1.65 CAD, Variance=0.00, Resolved=1.650 CAD
+Market Cap: JMN=N/A CAD, Yahoo=226612640 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=226612640 CAD
+[GPAC.V] - 2025-03-02T00:49:18.288Z
+Stock Price: JMN=N/A CAD, Yahoo=0.38 CAD, MF=N/A CAD, TV=0.38 CAD, Variance=0.00, Resolved=0.380 CAD
+Market Cap: JMN=N/A CAD, Yahoo=38087020 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=38087020 CAD
+[GPG.V] - 2025-03-02T00:49:27.218Z
+Stock Price: JMN=N/A CAD, Yahoo=0.185 CAD, MF=N/A CAD, TV=0.185 CAD, Variance=0.00, Resolved=0.185 CAD
+Market Cap: JMN=N/A CAD, Yahoo=23894046 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=23894046 CAD
+[GTWO.TO] - 2025-03-02T00:49:36.805Z
+Stock Price: JMN=N/A CAD, Yahoo=2.91 CAD, MF=N/A CAD, TV=2.91 CAD, Variance=0.00, Resolved=2.910 CAD
+Market Cap: JMN=N/A CAD, Yahoo=698254528 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=698254528 CAD
+[GQ.V] - 2025-03-02T00:49:48.439Z
+Stock Price: JMN=N/A CAD, Yahoo=0.03 CAD, MF=N/A CAD, TV=0.03 CAD, Variance=0.00, Resolved=0.030 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5000250 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5000250 CAD
+[GQC.V] - 2025-03-02T00:49:58.681Z
+Stock Price: JMN=N/A CAD, Yahoo=0.37 CAD, MF=N/A CAD, TV=0.37 CAD, Variance=0.00, Resolved=0.370 CAD
+Market Cap: JMN=N/A CAD, Yahoo=112933616 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=112933616 CAD
+[GRC.TO] - 2025-03-02T00:50:07.828Z
+Stock Price: JMN=N/A CAD, Yahoo=0.06 CAD, MF=N/A CAD, TV=0.06 CAD, Variance=0.00, Resolved=0.060 CAD
+Market Cap: JMN=N/A CAD, Yahoo=16980840 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=16980840 CAD
+[GRG.V] - 2025-03-02T00:50:17.126Z
+Stock Price: JMN=N/A CAD, Yahoo=0.055 CAD, MF=N/A CAD, TV=0.055 CAD, Variance=0.00, Resolved=0.055 CAD
+Market Cap: JMN=N/A CAD, Yahoo=8547935 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=8547935 CAD
+[GRSL.V] - 2025-03-02T00:50:26.073Z
+Stock Price: JMN=N/A CAD, Yahoo=0.17 CAD, MF=N/A CAD, TV=0.17 CAD, Variance=0.00, Resolved=0.170 CAD
+Market Cap: JMN=N/A CAD, Yahoo=56486408 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=56486408 CAD
+[GSHR.V] - 2025-03-02T00:50:36.522Z
+Stock Price: JMN=N/A CAD, Yahoo=0.28 CAD, MF=N/A CAD, TV=0.28 CAD, Variance=0.00, Resolved=0.280 CAD
+Market Cap: JMN=N/A CAD, Yahoo=93509352 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=93509352 CAD
+[GSTM.V] - 2025-03-02T00:50:45.037Z
+Stock Price: JMN=N/A CAD, Yahoo=0.085 CAD, MF=N/A CAD, TV=0.085 CAD, Variance=0.00, Resolved=0.085 CAD
+Market Cap: JMN=N/A CAD, Yahoo=6461037 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=6461037 CAD
+[GSVR.V] - 2025-03-02T00:50:54.602Z
+Stock Price: JMN=N/A CAD, Yahoo=0.17 CAD, MF=N/A CAD, TV=0.17 CAD, Variance=0.00, Resolved=0.170 CAD
+Market Cap: JMN=N/A CAD, Yahoo=80270088 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=80270088 CAD
+[GTCH.CN] - 2025-03-02T00:51:03.522Z
+Stock Price: JMN=N/A CAD, Yahoo=0.245 CAD, MF=N/A CAD, TV=0.245 CAD, Variance=0.00, Resolved=0.245 CAD
+Market Cap: JMN=N/A CAD, Yahoo=32559276 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=32559276 CAD
+[GUN.V] - 2025-03-02T00:51:12.719Z
+Stock Price: JMN=N/A CAD, Yahoo=0.58 CAD, MF=N/A CAD, TV=0.58 CAD, Variance=0.00, Resolved=0.580 CAD
+Market Cap: JMN=N/A CAD, Yahoo=29519042 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=29519042 CAD
+[GUS.V] - 2025-03-02T00:51:22.894Z
+Stock Price: JMN=N/A CAD, Yahoo=0.37 CAD, MF=N/A CAD, TV=0.37 CAD, Variance=0.00, Resolved=0.370 CAD
+Market Cap: JMN=N/A CAD, Yahoo=22322508 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=22322508 CAD
+[GWM.V] - 2025-03-02T00:51:31.489Z
+Stock Price: JMN=N/A CAD, Yahoo=0.48 CAD, MF=N/A CAD, TV=0.48 CAD, Variance=0.00, Resolved=0.480 CAD
+Market Cap: JMN=N/A CAD, Yahoo=45789840 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=45789840 CAD
+[GXX.V] - 2025-03-02T00:51:40.776Z
+Stock Price: JMN=N/A CAD, Yahoo=0.025 CAD, MF=N/A CAD, TV=0.025 CAD, Variance=0.00, Resolved=0.025 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3253250 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3253250 CAD
+[HAMR.CN] - 2025-03-02T00:51:50.226Z
+Stock Price: JMN=N/A CAD, Yahoo=0.09 CAD, MF=N/A CAD, TV=0.09 CAD, Variance=0.00, Resolved=0.090 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5458788 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5458788 CAD
+[HML.CN] - 2025-03-02T00:51:59.329Z
+Stock Price: JMN=N/A CAD, Yahoo=0.045 CAD, MF=N/A CAD, TV=0.045 CAD, Variance=0.00, Resolved=0.045 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4872375 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4872375 CAD
+[HSLV.CN] - 2025-03-02T00:52:07.903Z
+Stock Price: JMN=N/A CAD, Yahoo=1.89 CAD, MF=N/A CAD, TV=1.89 CAD, Variance=0.00, Resolved=1.890 CAD
+Market Cap: JMN=N/A CAD, Yahoo=154452688 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=154452688 CAD
+[HSTR.V] - 2025-03-02T00:52:18.716Z
+Stock Price: JMN=N/A CAD, Yahoo=0.815 CAD, MF=N/A CAD, TV=0.82 CAD, Variance=0.01, Resolved=0.817 CAD
+Market Cap: JMN=N/A CAD, Yahoo=178125584 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=178125584 CAD
+[HUNT.CN] - 2025-03-02T00:52:28.503Z
+Stock Price: JMN=N/A CAD, Yahoo=0.095 CAD, MF=N/A CAD, TV=0.095 CAD, Variance=0.00, Resolved=0.095 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5656157 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5656157 CAD
+[HWY.V] - 2025-03-02T00:52:37.284Z
+Stock Price: JMN=N/A CAD, Yahoo=0.38 CAD, MF=N/A CAD, TV=0.38 CAD, Variance=0.00, Resolved=0.380 CAD
+Market Cap: JMN=N/A CAD, Yahoo=8804828 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=8804828 CAD
+[IAU.V] - 2025-03-02T00:52:48.961Z
+Stock Price: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0.000 CAD
+Market Cap: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0 CAD
+[IGO.V] - 2025-03-02T00:52:57.871Z
+Stock Price: JMN=N/A CAD, Yahoo=0.17 CAD, MF=N/A CAD, TV=0.17 CAD, Variance=0.00, Resolved=0.170 CAD
+Market Cap: JMN=N/A CAD, Yahoo=35587632 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=35587632 CAD
+[IMG.TO] - 2025-03-02T00:53:07.268Z
+Stock Price: JMN=N/A CAD, Yahoo=7.97 CAD, MF=N/A CAD, TV=7.97 CAD, Variance=0.00, Resolved=7.970 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4562028032 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4562028032 CAD
+[IPT.V] - 2025-03-02T00:53:16.992Z
+Stock Price: JMN=N/A CAD, Yahoo=0.18 CAD, MF=N/A CAD, TV=0.18 CAD, Variance=0.00, Resolved=0.180 CAD
+Market Cap: JMN=N/A CAD, Yahoo=44537220 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=44537220 CAD
+[IRV.CN] - 2025-03-02T00:53:26.391Z
+Stock Price: JMN=N/A CAD, Yahoo=0.28 CAD, MF=N/A CAD, TV=0.28 CAD, Variance=0.00, Resolved=0.280 CAD
+Market Cap: JMN=N/A CAD, Yahoo=21473368 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=21473368 CAD
+[ITH.TO] - 2025-03-02T00:53:35.325Z
+Stock Price: JMN=N/A CAD, Yahoo=0.68 CAD, MF=N/A CAD, TV=0.68 CAD, Variance=0.00, Resolved=0.680 CAD
+Market Cap: JMN=N/A CAD, Yahoo=135791232 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=135791232 CAD
+[ITR.V] - 2025-03-02T00:53:44.371Z
+Stock Price: JMN=N/A CAD, Yahoo=1.55 CAD, MF=N/A CAD, TV=1.55 CAD, Variance=0.00, Resolved=1.550 CAD
+Market Cap: JMN=N/A CAD, Yahoo=261286592 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=261286592 CAD
+[IVS.V] - 2025-03-02T00:53:54.634Z
+Stock Price: JMN=N/A CAD, Yahoo=0.1 CAD, MF=N/A CAD, TV=0.1 CAD, Variance=0.00, Resolved=0.100 CAD
+Market Cap: JMN=N/A CAD, Yahoo=18296500 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=18296500 CAD
+[JAG.TO] - 2025-03-02T00:54:04.733Z
+Stock Price: JMN=N/A CAD, Yahoo=2.51 CAD, MF=N/A CAD, TV=2.51 CAD, Variance=0.00, Resolved=2.510 CAD
+Market Cap: JMN=N/A CAD, Yahoo=199063328 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=199063328 CAD
+[JG.V] - 2025-03-02T00:54:14.431Z
+Stock Price: JMN=N/A CAD, Yahoo=0.09 CAD, MF=N/A CAD, TV=0.09 CAD, Variance=0.00, Resolved=0.090 CAD
+Market Cap: JMN=N/A CAD, Yahoo=25096862 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=25096862 CAD
+[JUB.H] - 2025-03-02T00:54:26.719Z
+Stock Price: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0.000 CAD
+Market Cap: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0 CAD
+[JUGR.V] - 2025-03-02T00:54:36.730Z
+Stock Price: JMN=N/A CAD, Yahoo=0.075 CAD, MF=N/A CAD, TV=0.075 CAD, Variance=0.00, Resolved=0.075 CAD
+Market Cap: JMN=N/A CAD, Yahoo=10766400 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=10766400 CAD
+[JZR.V] - 2025-03-02T00:54:45.906Z
+Stock Price: JMN=N/A CAD, Yahoo=0.22 CAD, MF=N/A CAD, TV=0.22 CAD, Variance=0.00, Resolved=0.220 CAD
+Market Cap: JMN=N/A CAD, Yahoo=11908028 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=11908028 CAD
+[K.TO] - 2025-03-02T00:54:55.849Z
+Stock Price: JMN=N/A CAD, Yahoo=15.5 CAD, MF=N/A CAD, TV=15.5 CAD, Variance=0.00, Resolved=15.500 CAD
+Market Cap: JMN=N/A CAD, Yahoo=19051513856 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=19051513856 CAD
+[KALO.V] - 2025-03-02T00:55:05.069Z
+Stock Price: JMN=N/A CAD, Yahoo=0.065 CAD, MF=N/A CAD, TV=0.065 CAD, Variance=0.00, Resolved=0.065 CAD
+Market Cap: JMN=N/A CAD, Yahoo=12495924 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=12495924 CAD
+[KAPA.V] - 2025-03-02T00:55:14.760Z
+Stock Price: JMN=N/A CAD, Yahoo=0.16 CAD, MF=N/A CAD, TV=0.16 CAD, Variance=0.00, Resolved=0.160 CAD
+Market Cap: JMN=N/A CAD, Yahoo=12129712 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=12129712 CAD
+[KFR.V] - 2025-03-02T00:55:23.759Z
+Stock Price: JMN=N/A CAD, Yahoo=0.285 CAD, MF=N/A CAD, TV=0.285 CAD, Variance=0.00, Resolved=0.285 CAD
+Market Cap: JMN=N/A CAD, Yahoo=15584826 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=15584826 CAD
+[KG.V] - 2025-03-02T00:55:32.982Z
+Stock Price: JMN=N/A CAD, Yahoo=0.07 CAD, MF=N/A CAD, TV=0.07 CAD, Variance=0.00, Resolved=0.070 CAD
+Market Cap: JMN=N/A CAD, Yahoo=15062180 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=15062180 CAD
+[KGC.V] - 2025-03-02T00:55:42.699Z
+Stock Price: JMN=N/A CAD, Yahoo=0.03 CAD, MF=N/A CAD, TV=0.03 CAD, Variance=0.00, Resolved=0.030 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3199080 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3199080 CAD
+[KLD.V] - 2025-03-02T00:55:51.318Z
+Stock Price: JMN=N/A CAD, Yahoo=1.18 CAD, MF=N/A CAD, TV=1.18 CAD, Variance=0.00, Resolved=1.180 CAD
+Market Cap: JMN=N/A CAD, Yahoo=90008624 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=90008624 CAD
+[KLM.V] - 2025-03-02T00:56:00.523Z
+Stock Price: JMN=N/A CAD, Yahoo=0.01 CAD, MF=N/A CAD, TV=0.01 CAD, Variance=0.00, Resolved=0.010 CAD
+Market Cap: JMN=N/A CAD, Yahoo=600818 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=600818 CAD
+[KNG.V] - 2025-03-02T00:56:09.877Z
+Stock Price: JMN=N/A CAD, Yahoo=0.91 CAD, MF=N/A CAD, TV=0.91 CAD, Variance=0.00, Resolved=0.910 CAD
+Market Cap: JMN=N/A CAD, Yahoo=21248410 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=21248410 CAD
+[KNT.TO] - 2025-03-02T00:56:19.839Z
+Stock Price: JMN=N/A CAD, Yahoo=9.6 CAD, MF=N/A CAD, TV=9.6 CAD, Variance=0.00, Resolved=9.600 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2283907328 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2283907328 CAD
+[KOG.CN] - 2025-03-02T00:56:28.624Z
+Stock Price: JMN=N/A CAD, Yahoo=0.155 CAD, MF=N/A CAD, TV=0.155 CAD, Variance=0.00, Resolved=0.155 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3569340 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3569340 CAD
+[KORE.V] - 2025-03-02T00:56:37.644Z
+Stock Price: JMN=N/A CAD, Yahoo=0.035 CAD, MF=N/A CAD, TV=0.035 CAD, Variance=0.00, Resolved=0.035 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7084910 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7084910 CAD
+[KRI.V] - 2025-03-02T00:56:48.863Z
+Stock Price: JMN=N/A CAD, Yahoo=0.31 CAD, MF=N/A CAD, TV=0.31 CAD, Variance=0.00, Resolved=0.310 CAD
+Market Cap: JMN=N/A CAD, Yahoo=31731290 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=31731290 CAD
+[KS.V] - 2025-03-02T00:56:58.870Z
+Stock Price: JMN=N/A CAD, Yahoo=0.03 CAD, MF=N/A CAD, TV=0.03 CAD, Variance=0.00, Resolved=0.030 CAD
+Market Cap: JMN=N/A CAD, Yahoo=8066459 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=8066459 CAD
+[KTN.V] - 2025-03-02T00:57:07.735Z
+Stock Price: JMN=N/A CAD, Yahoo=0.91 CAD, MF=N/A CAD, TV=0.91 CAD, Variance=0.00, Resolved=0.910 CAD
+Market Cap: JMN=N/A CAD, Yahoo=56091400 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=56091400 CAD
+[KTO.V] - 2025-03-02T00:57:16.888Z
+Stock Price: JMN=N/A CAD, Yahoo=0.18 CAD, MF=N/A CAD, TV=0.18 CAD, Variance=0.00, Resolved=0.180 CAD
+Market Cap: JMN=N/A CAD, Yahoo=22668660 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=22668660 CAD
+[KUYA.CN] - 2025-03-02T00:57:26.157Z
+Stock Price: JMN=N/A CAD, Yahoo=0.285 CAD, MF=N/A CAD, TV=0.285 CAD, Variance=0.00, Resolved=0.285 CAD
+Market Cap: JMN=N/A CAD, Yahoo=30390690 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=30390690 CAD
+[LAB.V] - 2025-03-02T00:57:35.736Z
+Stock Price: JMN=N/A CAD, Yahoo=0.07 CAD, MF=N/A CAD, TV=0.07 CAD, Variance=0.00, Resolved=0.070 CAD
+Market Cap: JMN=N/A CAD, Yahoo=11900700 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=11900700 CAD
+[LECR.CN] - 2025-03-02T00:57:44.890Z
+Stock Price: JMN=N/A CAD, Yahoo=0.075 CAD, MF=N/A CAD, TV=0.075 CAD, Variance=0.00, Resolved=0.075 CAD
+Market Cap: JMN=N/A CAD, Yahoo=8837400 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=8837400 CAD
+[LEGY.V] - 2025-03-02T00:57:54.692Z
+Stock Price: JMN=N/A CAD, Yahoo=0.49 CAD, MF=N/A CAD, TV=0.49 CAD, Variance=0.00, Resolved=0.490 CAD
+Market Cap: JMN=N/A CAD, Yahoo=12642049 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=12642049 CAD
+[LFLR.CN] - 2025-03-02T00:58:04.057Z
+Stock Price: JMN=N/A CAD, Yahoo=0.265 CAD, MF=N/A CAD, TV=0.265 CAD, Variance=0.00, Resolved=0.265 CAD
+Market Cap: JMN=N/A CAD, Yahoo=13776236 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=13776236 CAD
+[LG.V] - 2025-03-02T00:58:15.185Z
+Stock Price: JMN=N/A CAD, Yahoo=0.03 CAD, MF=N/A CAD, TV=0.03 CAD, Variance=0.00, Resolved=0.030 CAD
+Market Cap: JMN=N/A CAD, Yahoo=6186690 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=6186690 CAD
+[LGC.V] - 2025-03-02T00:58:25.280Z
+Stock Price: JMN=N/A CAD, Yahoo=2.14 CAD, MF=N/A CAD, TV=2.14 CAD, Variance=0.00, Resolved=2.140 CAD
+Market Cap: JMN=N/A CAD, Yahoo=109919608 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=109919608 CAD
+[LGD.TO] - 2025-03-02T00:58:33.778Z
+Stock Price: JMN=N/A CAD, Yahoo=0.33 CAD, MF=N/A CAD, TV=0.33 CAD, Variance=0.00, Resolved=0.330 CAD
+Market Cap: JMN=N/A CAD, Yahoo=125784456 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=125784456 CAD
+[LIO.V] - 2025-03-02T00:58:43.139Z
+Stock Price: JMN=N/A CAD, Yahoo=0.255 CAD, MF=N/A CAD, TV=0.255 CAD, Variance=0.00, Resolved=0.255 CAD
+Market Cap: JMN=N/A CAD, Yahoo=75927264 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=75927264 CAD
+[LME.V] - 2025-03-02T00:58:52.977Z
+Stock Price: JMN=N/A CAD, Yahoo=0.37 CAD, MF=N/A CAD, TV=0.37 CAD, Variance=0.00, Resolved=0.370 CAD
+Market Cap: JMN=N/A CAD, Yahoo=101193152 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=101193152 CAD
+[LMG.V] - 2025-03-02T00:59:02.388Z
+Stock Price: JMN=N/A CAD, Yahoo=0.13 CAD, MF=N/A CAD, TV=0.13 CAD, Variance=0.00, Resolved=0.130 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2737774 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2737774 CAD
+[LN.TO] - 2025-03-02T00:59:11.709Z
+Stock Price: JMN=N/A CAD, Yahoo=0.54 CAD, MF=N/A CAD, TV=0.54 CAD, Variance=0.00, Resolved=0.540 CAD
+Market Cap: JMN=N/A CAD, Yahoo=83491560 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=83491560 CAD
+[LOD.V] - 2025-03-02T00:59:20.873Z
+Stock Price: JMN=N/A CAD, Yahoo=0.19 CAD, MF=N/A CAD, TV=0.19 CAD, Variance=0.00, Resolved=0.190 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7595706 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7595706 CAD
+[LOT.V] - 2025-03-02T00:59:30.085Z
+Stock Price: JMN=N/A CAD, Yahoo=0.025 CAD, MF=N/A CAD, TV=0.025 CAD, Variance=0.00, Resolved=0.025 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5993800 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5993800 CAD
+[LPK.V] - 2025-03-02T00:59:38.859Z
+Stock Price: JMN=N/A CAD, Yahoo=0.05 CAD, MF=N/A CAD, TV=0.05 CAD, Variance=0.00, Resolved=0.050 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1101390 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1101390 CAD
+[LSTR.V] - 2025-03-02T00:59:48.728Z
+Stock Price: JMN=N/A CAD, Yahoo=0.01 CAD, MF=N/A CAD, TV=0.01 CAD, Variance=0.00, Resolved=0.010 CAD
+Market Cap: JMN=N/A CAD, Yahoo=443365 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=443365 CAD
+[LUCA.V] - 2025-03-02T00:59:58.042Z
+Stock Price: JMN=N/A CAD, Yahoo=1.16 CAD, MF=N/A CAD, TV=1.16 CAD, Variance=0.00, Resolved=1.160 CAD
+Market Cap: JMN=N/A CAD, Yahoo=230124288 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=230124288 CAD
+[LUG.TO] - 2025-03-02T01:00:07.927Z
+Stock Price: JMN=N/A CAD, Yahoo=39.86 CAD, MF=N/A CAD, TV=39.86 CAD, Variance=0.00, Resolved=39.860 CAD
+Market Cap: JMN=N/A CAD, Yahoo=9584018432 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=9584018432 CAD
+[LUM.V] - 2025-03-02T01:00:17.605Z
+Stock Price: JMN=N/A CAD, Yahoo=0.61 CAD, MF=N/A CAD, TV=0.61 CAD, Variance=0.00, Resolved=0.610 CAD
+Market Cap: JMN=N/A CAD, Yahoo=254497488 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=254497488 CAD
+[LVG.V] - 2025-03-02T01:00:26.623Z
+Stock Price: JMN=N/A CAD, Yahoo=0.17 CAD, MF=N/A CAD, TV=0.17 CAD, Variance=0.00, Resolved=0.170 CAD
+Market Cap: JMN=N/A CAD, Yahoo=18152090 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=18152090 CAD
+[MAE.V] - 2025-03-02T01:00:35.922Z
+Stock Price: JMN=N/A CAD, Yahoo=0.075 CAD, MF=N/A CAD, TV=0.075 CAD, Variance=0.00, Resolved=0.075 CAD
+Market Cap: JMN=N/A CAD, Yahoo=62325752 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=62325752 CAD
+[MAG.TO] - 2025-03-02T01:00:45.090Z
+Stock Price: JMN=N/A CAD, Yahoo=21.69 CAD, MF=N/A CAD, TV=21.69 CAD, Variance=0.00, Resolved=21.690 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2240728832 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2240728832 CAD
+[MAI.V] - 2025-03-02T01:00:54.477Z
+Stock Price: JMN=N/A CAD, Yahoo=0.3075 CAD, MF=N/A CAD, TV=0.31 CAD, Variance=0.00, Resolved=0.309 CAD
+Market Cap: JMN=N/A CAD, Yahoo=177556032 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=177556032 CAD
+[MAU.V] - 2025-03-02T01:01:04.295Z
+Stock Price: JMN=N/A CAD, Yahoo=2.38 CAD, MF=N/A CAD, TV=2.38 CAD, Variance=0.00, Resolved=2.380 CAD
+Market Cap: JMN=N/A CAD, Yahoo=827473728 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=827473728 CAD
+[MEK.V] - 2025-03-02T01:01:14.249Z
+Stock Price: JMN=N/A CAD, Yahoo=0.025 CAD, MF=N/A CAD, TV=0.025 CAD, Variance=0.00, Resolved=0.025 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5001575 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5001575 CAD
+[MEX.V] - 2025-03-02T01:01:23.768Z
+Stock Price: JMN=N/A CAD, Yahoo=0.075 CAD, MF=N/A CAD, TV=0.075 CAD, Variance=0.00, Resolved=0.075 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1592572 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1592572 CAD
+[MFG.V] - 2025-03-02T01:01:33.048Z
+Stock Price: JMN=N/A CAD, Yahoo=1.73 CAD, MF=N/A CAD, TV=1.73 CAD, Variance=0.00, Resolved=1.730 CAD
+Market Cap: JMN=N/A CAD, Yahoo=188995584 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=188995584 CAD
+[MFL.V] - 2025-03-02T01:01:41.790Z
+Stock Price: JMN=N/A CAD, Yahoo=1.9 CAD, MF=N/A CAD, TV=1.9 CAD, Variance=0.00, Resolved=1.900 CAD
+Market Cap: JMN=N/A CAD, Yahoo=36195380 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=36195380 CAD
+[MGG.V] - 2025-03-02T01:01:51.329Z
+Stock Price: JMN=N/A CAD, Yahoo=0.205 CAD, MF=N/A CAD, TV=0.205 CAD, Variance=0.00, Resolved=0.205 CAD
+Market Cap: JMN=N/A CAD, Yahoo=81326160 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=81326160 CAD
+[MGM.V] - 2025-03-02T01:02:00.478Z
+Stock Price: JMN=N/A CAD, Yahoo=0.06 CAD, MF=N/A CAD, TV=0.06 CAD, Variance=0.00, Resolved=0.060 CAD
+Market Cap: JMN=N/A CAD, Yahoo=27277978 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=27277978 CAD
+[MIS.CN] - 2025-03-02T01:02:11.161Z
+Stock Price: JMN=N/A CAD, Yahoo=0.03 CAD, MF=N/A CAD, TV=0.03 CAD, Variance=0.00, Resolved=0.030 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5346960 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5346960 CAD
+[MJS.V] - 2025-03-02T01:02:20.147Z
+Stock Price: JMN=N/A CAD, Yahoo=0.085 CAD, MF=N/A CAD, TV=0.085 CAD, Variance=0.00, Resolved=0.085 CAD
+Market Cap: JMN=N/A CAD, Yahoo=88626096 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=88626096 CAD
+[MKO.V] - 2025-03-02T01:02:29.310Z
+Stock Price: JMN=N/A CAD, Yahoo=3.83 CAD, MF=N/A CAD, TV=3.83 CAD, Variance=0.00, Resolved=3.830 CAD
+Market Cap: JMN=N/A CAD, Yahoo=303066720 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=303066720 CAD
+[MLM.TO] - 2025-03-02T01:02:40.958Z
+Stock Price: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0.000 CAD
+Market Cap: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0 CAD
+[MMET.CN] - 2025-03-02T01:02:49.940Z
+Stock Price: JMN=N/A CAD, Yahoo=1.05 CAD, MF=N/A CAD, TV=1.05 CAD, Variance=0.00, Resolved=1.050 CAD
+Market Cap: JMN=N/A CAD, Yahoo=56098032 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=56098032 CAD
+[MMG.V] - 2025-03-02T01:02:58.600Z
+Stock Price: JMN=N/A CAD, Yahoo=0.19 CAD, MF=N/A CAD, TV=0.19 CAD, Variance=0.00, Resolved=0.190 CAD
+Market Cap: JMN=N/A CAD, Yahoo=33518280 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=33518280 CAD
+[MMN.V] - 2025-03-02T01:03:07.309Z
+Stock Price: JMN=N/A CAD, Yahoo=0.005 CAD, MF=N/A CAD, TV=0.005 CAD, Variance=0.00, Resolved=0.005 CAD
+Market Cap: JMN=N/A CAD, Yahoo=632775 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=632775 CAD
+[MMY.V] - 2025-03-02T01:03:16.221Z
+Stock Price: JMN=N/A CAD, Yahoo=0.335 CAD, MF=N/A CAD, TV=0.335 CAD, Variance=0.00, Resolved=0.335 CAD
+Market Cap: JMN=N/A CAD, Yahoo=110021376 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=110021376 CAD
+[MND.TO] - 2025-03-02T01:03:26.065Z
+Stock Price: JMN=N/A CAD, Yahoo=4.79 CAD, MF=N/A CAD, TV=4.79 CAD, Variance=0.00, Resolved=4.790 CAD
+Market Cap: JMN=N/A CAD, Yahoo=449824608 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=449824608 CAD
+[MNO.TO] - 2025-03-02T01:03:35.008Z
+Stock Price: JMN=N/A CAD, Yahoo=0.48 CAD, MF=N/A CAD, TV=0.48 CAD, Variance=0.00, Resolved=0.480 CAD
+Market Cap: JMN=N/A CAD, Yahoo=146292000 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=146292000 CAD
+[MRZ.V] - 2025-03-02T01:03:44.943Z
+Stock Price: JMN=N/A CAD, Yahoo=0.44 CAD, MF=N/A CAD, TV=0.44 CAD, Variance=0.00, Resolved=0.440 CAD
+Market Cap: JMN=N/A CAD, Yahoo=35684660 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=35684660 CAD
+[MSA.TO] - 2025-03-02T01:03:54.517Z
+Stock Price: JMN=N/A CAD, Yahoo=2.03 CAD, MF=N/A CAD, TV=2.03 CAD, Variance=0.00, Resolved=2.030 CAD
+Market Cap: JMN=N/A CAD, Yahoo=608466112 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=608466112 CAD
+[MSG.V] - 2025-03-02T01:04:05.835Z
+Stock Price: JMN=N/A CAD, Yahoo=0.3 CAD, MF=N/A CAD, TV=0.3 CAD, Variance=0.00, Resolved=0.300 CAD
+Market Cap: JMN=N/A CAD, Yahoo=43699200 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=43699200 CAD
+[MSR.V] - 2025-03-02T01:04:14.054Z
+Stock Price: JMN=N/A CAD, Yahoo=1 CAD, MF=N/A CAD, TV=1 CAD, Variance=0.00, Resolved=1.000 CAD
+Market Cap: JMN=N/A CAD, Yahoo=164948992 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=164948992 CAD
+[MSV.TO] - 2025-03-02T01:04:22.526Z
+Stock Price: JMN=N/A CAD, Yahoo=0.185 CAD, MF=N/A CAD, TV=0.185 CAD, Variance=0.00, Resolved=0.185 CAD
+Market Cap: JMN=N/A CAD, Yahoo=11289644 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=11289644 CAD
+[MTA.V] - 2025-03-02T01:04:36.690Z
+Stock Price: JMN=N/A CAD, Yahoo=3.98 CAD, MF=N/A CAD, TV=3.98 CAD, Variance=0.00, Resolved=3.980 CAD
+Market Cap: JMN=N/A CAD, Yahoo=367151424 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=367151424 CAD
+[MTS.V] - 2025-03-02T01:04:45.474Z
+Stock Price: JMN=N/A CAD, Yahoo=0.19 CAD, MF=N/A CAD, TV=0.19 CAD, Variance=0.00, Resolved=0.190 CAD
+Market Cap: JMN=N/A CAD, Yahoo=14307950 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=14307950 CAD
+[MTT.V] - 2025-03-02T01:04:54.737Z
+Stock Price: JMN=N/A CAD, Yahoo=0.075 CAD, MF=N/A CAD, TV=0.075 CAD, Variance=0.00, Resolved=0.075 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7022903 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7022903 CAD
+[MUN.V] - 2025-03-02T01:05:03.486Z
+Stock Price: JMN=N/A CAD, Yahoo=0.16 CAD, MF=N/A CAD, TV=0.16 CAD, Variance=0.00, Resolved=0.160 CAD
+Market Cap: JMN=N/A CAD, Yahoo=16823680 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=16823680 CAD
+[MUX.TO] - 2025-03-02T01:05:12.794Z
+Stock Price: JMN=N/A CAD, Yahoo=9.95 CAD, MF=N/A CAD, TV=9.95 CAD, Variance=0.00, Resolved=9.950 CAD
+Market Cap: JMN=N/A CAD, Yahoo=526601760 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=526601760 CAD
+[NAU.V] - 2025-03-02T01:05:20.980Z
+Stock Price: JMN=N/A CAD, Yahoo=0.3 CAD, MF=N/A CAD, TV=0.3 CAD, Variance=0.00, Resolved=0.300 CAD
+Market Cap: JMN=N/A CAD, Yahoo=28274402 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=28274402 CAD
+[NBRK.CN] - 2025-03-02T01:05:29.888Z
+Stock Price: JMN=N/A CAD, Yahoo=0.07 CAD, MF=N/A CAD, TV=0.07 CAD, Variance=0.00, Resolved=0.070 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4020002 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4020002 CAD
+[NCAU.V] - 2025-03-02T01:05:38.835Z
+Stock Price: JMN=N/A CAD, Yahoo=0.4 CAD, MF=N/A CAD, TV=0.4 CAD, Variance=0.00, Resolved=0.400 CAD
+Market Cap: JMN=N/A CAD, Yahoo=83430800 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=83430800 CAD
+[NCX.V] - 2025-03-02T01:05:50.299Z
+Stock Price: JMN=N/A CAD, Yahoo=0.59 CAD, MF=N/A CAD, TV=0.59 CAD, Variance=0.00, Resolved=0.590 CAD
+Market Cap: JMN=N/A CAD, Yahoo=151655952 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=151655952 CAD
+[NDM.TO] - 2025-03-02T01:05:59.334Z
+Stock Price: JMN=N/A CAD, Yahoo=0.87 CAD, MF=N/A CAD, TV=0.87 CAD, Variance=0.00, Resolved=0.870 CAD
+Market Cap: JMN=N/A CAD, Yahoo=467819904 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=467819904 CAD
+[NEV.V] - 2025-03-02T01:06:08.272Z
+Stock Price: JMN=N/A CAD, Yahoo=0.015 CAD, MF=N/A CAD, TV=0.015 CAD, Variance=0.00, Resolved=0.015 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1653855 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1653855 CAD
+[NEXG.V] - 2025-03-02T01:06:17.691Z
+Stock Price: JMN=N/A CAD, Yahoo=0.65 CAD, MF=N/A CAD, TV=0.65 CAD, Variance=0.00, Resolved=0.650 CAD
+Market Cap: JMN=N/A CAD, Yahoo=92460552 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=92460552 CAD
+[NFG.V] - 2025-03-02T01:06:26.602Z
+Stock Price: JMN=N/A CAD, Yahoo=2.67 CAD, MF=N/A CAD, TV=2.67 CAD, Variance=0.00, Resolved=2.670 CAD
+Market Cap: JMN=N/A CAD, Yahoo=531084384 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=531084384 CAD
+[NG.TO] - 2025-03-02T01:06:35.366Z
+Stock Price: JMN=N/A CAD, Yahoo=4.36 CAD, MF=N/A CAD, TV=4.36 CAD, Variance=0.00, Resolved=4.360 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1459060992 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1459060992 CAD
+[NGD.TO] - 2025-03-02T01:06:44.162Z
+Stock Price: JMN=N/A CAD, Yahoo=3.93 CAD, MF=N/A CAD, TV=3.93 CAD, Variance=0.00, Resolved=3.930 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3109808896 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3109808896 CAD
+[NGEX.TO] - 2025-03-02T01:06:52.995Z
+Stock Price: JMN=N/A CAD, Yahoo=13.99 CAD, MF=N/A CAD, TV=13.99 CAD, Variance=0.00, Resolved=13.990 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2894726912 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2894726912 CAD
+[NILI.V] - 2025-03-02T01:07:02.302Z
+Stock Price: JMN=N/A CAD, Yahoo=0.37 CAD, MF=N/A CAD, TV=0.37 CAD, Variance=0.00, Resolved=0.370 CAD
+Market Cap: JMN=N/A CAD, Yahoo=61058880 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=61058880 CAD
+[NIM.V] - 2025-03-02T01:07:11.221Z
+Stock Price: JMN=N/A CAD, Yahoo=0.31 CAD, MF=N/A CAD, TV=0.31 CAD, Variance=0.00, Resolved=0.310 CAD
+Market Cap: JMN=N/A CAD, Yahoo=53206852 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=53206852 CAD
+[NKG.V] - 2025-03-02T01:07:19.783Z
+Stock Price: JMN=N/A CAD, Yahoo=0.245 CAD, MF=N/A CAD, TV=0.245 CAD, Variance=0.00, Resolved=0.245 CAD
+Market Cap: JMN=N/A CAD, Yahoo=92633280 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=92633280 CAD
+[NFLD.CN] - 2025-03-02T01:07:28.831Z
+Stock Price: JMN=N/A CAD, Yahoo=0.04 CAD, MF=N/A CAD, TV=0.04 CAD, Variance=0.00, Resolved=0.040 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7086720 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7086720 CAD
+[NL.V] - 2025-03-02T01:07:39.139Z
+Stock Price: JMN=N/A CAD, Yahoo=0.15 CAD, MF=N/A CAD, TV=0.15 CAD, Variance=0.00, Resolved=0.150 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2041890 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2041890 CAD
+[NOM.CN] - 2025-03-02T01:07:48.895Z
+Stock Price: JMN=N/A CAD, Yahoo=0.15 CAD, MF=N/A CAD, TV=0.15 CAD, Variance=0.00, Resolved=0.150 CAD
+Market Cap: JMN=N/A CAD, Yahoo=10478460 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=10478460 CAD
+[NPR.V] - 2025-03-02T01:07:57.459Z
+Stock Price: JMN=N/A CAD, Yahoo=0.62 CAD, MF=N/A CAD, TV=0.62 CAD, Variance=0.00, Resolved=0.620 CAD
+Market Cap: JMN=N/A CAD, Yahoo=19698764 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=19698764 CAD
+[NRC.V] - 2025-03-02T01:08:06.489Z
+Stock Price: JMN=N/A CAD, Yahoo=0.49 CAD, MF=N/A CAD, TV=0.49 CAD, Variance=0.00, Resolved=0.490 CAD
+Market Cap: JMN=N/A CAD, Yahoo=70918192 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=70918192 CAD
+[NSG.CN] - 2025-03-02T01:08:15.145Z
+Stock Price: JMN=N/A CAD, Yahoo=0.035 CAD, MF=N/A CAD, TV=0.035 CAD, Variance=0.00, Resolved=0.035 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4535860 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4535860 CAD
+[NTH.V] - 2025-03-02T01:08:23.770Z
+Stock Price: JMN=N/A CAD, Yahoo=0.15 CAD, MF=N/A CAD, TV=0.15 CAD, Variance=0.00, Resolved=0.150 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4608360 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4608360 CAD
+[NUAG.TO] - 2025-03-02T01:08:32.793Z
+Stock Price: JMN=N/A CAD, Yahoo=1.53 CAD, MF=N/A CAD, TV=1.53 CAD, Variance=0.00, Resolved=1.530 CAD
+Market Cap: JMN=N/A CAD, Yahoo=262609200 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=262609200 CAD
+[NVO.TO] - 2025-03-02T01:08:42.382Z
+Stock Price: JMN=N/A CAD, Yahoo=0.09 CAD, MF=N/A CAD, TV=0.09 CAD, Variance=0.00, Resolved=0.090 CAD
+Market Cap: JMN=N/A CAD, Yahoo=31916702 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=31916702 CAD
+[NVPC.CN] - 2025-03-02T01:08:50.673Z
+Stock Price: JMN=N/A CAD, Yahoo=0.21 CAD, MF=N/A CAD, TV=0.21 CAD, Variance=0.00, Resolved=0.210 CAD
+Market Cap: JMN=N/A CAD, Yahoo=8001147 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=8001147 CAD
+[OCG.V] - 2025-03-02T01:08:59.799Z
+Stock Price: JMN=N/A CAD, Yahoo=0.21 CAD, MF=N/A CAD, TV=0.21 CAD, Variance=0.00, Resolved=0.210 CAD
+Market Cap: JMN=N/A CAD, Yahoo=71735160 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=71735160 CAD
+[OCO.V] - 2025-03-02T01:09:08.738Z
+Stock Price: JMN=N/A CAD, Yahoo=0.285 CAD, MF=N/A CAD, TV=0.285 CAD, Variance=0.00, Resolved=0.285 CAD
+Market Cap: JMN=N/A CAD, Yahoo=69330808 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=69330808 CAD
+[ODV.V] - 2025-03-02T01:09:17.284Z
+Stock Price: JMN=N/A CAD, Yahoo=1.78 CAD, MF=N/A CAD, TV=1.78 CAD, Variance=0.00, Resolved=1.780 CAD
+Market Cap: JMN=N/A CAD, Yahoo=243055440 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=243055440 CAD
+[OGC.TO] - 2025-03-02T01:09:26.713Z
+Stock Price: JMN=N/A CAD, Yahoo=3.88 CAD, MF=N/A CAD, TV=3.88 CAD, Variance=0.00, Resolved=3.880 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2725587456 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2725587456 CAD
+[OGN.V] - 2025-03-02T01:09:35.342Z
+Stock Price: JMN=N/A CAD, Yahoo=1.52 CAD, MF=N/A CAD, TV=1.52 CAD, Variance=0.00, Resolved=1.520 CAD
+Market Cap: JMN=N/A CAD, Yahoo=306503456 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=306503456 CAD
+[OIII.V] - 2025-03-02T01:09:43.675Z
+Stock Price: JMN=N/A CAD, Yahoo=1.67 CAD, MF=N/A CAD, TV=1.67 CAD, Variance=0.00, Resolved=1.670 CAD
+Market Cap: JMN=N/A CAD, Yahoo=200558640 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=200558640 CAD
+[OLA.TO] - 2025-03-02T01:09:54.308Z
+Stock Price: JMN=N/A CAD, Yahoo=10.13 CAD, MF=N/A CAD, TV=10.13 CAD, Variance=0.00, Resolved=10.130 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3257919488 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3257919488 CAD
+[OMG.V] - 2025-03-02T01:10:03.434Z
+Stock Price: JMN=N/A CAD, Yahoo=0.35 CAD, MF=N/A CAD, TV=0.35 CAD, Variance=0.00, Resolved=0.350 CAD
+Market Cap: JMN=N/A CAD, Yahoo=180822256 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=180822256 CAD
+[OMGA.CN] - 2025-03-02T01:10:12.782Z
+Stock Price: JMN=N/A CAD, Yahoo=0.14 CAD, MF=N/A CAD, TV=0.14 CAD, Variance=0.00, Resolved=0.140 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4771592 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4771592 CAD
+[OMI.V] - 2025-03-02T01:10:21.572Z
+Stock Price: JMN=N/A CAD, Yahoo=0.19 CAD, MF=N/A CAD, TV=0.19 CAD, Variance=0.00, Resolved=0.190 CAD
+Market Cap: JMN=N/A CAD, Yahoo=50537720 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=50537720 CAD
+[OMM.V] - 2025-03-02T01:10:30.912Z
+Stock Price: JMN=N/A CAD, Yahoo=0.045 CAD, MF=N/A CAD, TV=0.045 CAD, Variance=0.00, Resolved=0.045 CAD
+Market Cap: JMN=N/A CAD, Yahoo=9817560 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=9817560 CAD
+[ONAU.V] - 2025-03-02T01:10:40.080Z
+Stock Price: JMN=N/A CAD, Yahoo=0.5 CAD, MF=N/A CAD, TV=0.5 CAD, Variance=0.00, Resolved=0.500 CAD
+Market Cap: JMN=N/A CAD, Yahoo=29012250 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=29012250 CAD
+[ONYX.V] - 2025-03-02T01:10:49.098Z
+Stock Price: JMN=N/A CAD, Yahoo=0.315 CAD, MF=N/A CAD, TV=0.315 CAD, Variance=0.00, Resolved=0.315 CAD
+Market Cap: JMN=N/A CAD, Yahoo=15301849 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=15301849 CAD
+[OPW.V] - 2025-03-02T01:10:58.202Z
+Stock Price: JMN=N/A CAD, Yahoo=0.21 CAD, MF=N/A CAD, TV=0.21 CAD, Variance=0.00, Resolved=0.210 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7932498 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7932498 CAD
+[OR.TO] - 2025-03-02T01:11:07.192Z
+Stock Price: JMN=N/A CAD, Yahoo=26.48 CAD, MF=N/A CAD, TV=26.48 CAD, Variance=0.00, Resolved=26.480 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4945139712 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4945139712 CAD
+[ORA.TO] - 2025-03-02T01:11:16.049Z
+Stock Price: JMN=N/A CAD, Yahoo=22.32 CAD, MF=N/A CAD, TV=22.32 CAD, Variance=0.00, Resolved=22.320 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1636743424 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1636743424 CAD
+[ORE.TO] - 2025-03-02T01:11:24.879Z
+Stock Price: JMN=N/A CAD, Yahoo=0.82 CAD, MF=N/A CAD, TV=0.82 CAD, Variance=0.00, Resolved=0.820 CAD
+Market Cap: JMN=N/A CAD, Yahoo=381829728 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=381829728 CAD
+[ORV.TO] - 2025-03-02T01:11:33.814Z
+Stock Price: JMN=N/A CAD, Yahoo=0.3 CAD, MF=N/A CAD, TV=0.3 CAD, Variance=0.00, Resolved=0.300 CAD
+Market Cap: JMN=N/A CAD, Yahoo=40986904 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=40986904 CAD
+[OZ.V] - 2025-03-02T01:11:42.942Z
+Stock Price: JMN=N/A CAD, Yahoo=0.37 CAD, MF=N/A CAD, TV=0.37 CAD, Variance=0.00, Resolved=0.370 CAD
+Market Cap: JMN=N/A CAD, Yahoo=14867636 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=14867636 CAD
+[PA.V] - 2025-03-02T01:11:53.590Z
+Stock Price: JMN=N/A CAD, Yahoo=0.1 CAD, MF=N/A CAD, TV=0.1 CAD, Variance=0.00, Resolved=0.100 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7163480 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7163480 CAD
+[PAAS.TO] - 2025-03-02T01:12:02.706Z
+Stock Price: JMN=N/A CAD, Yahoo=34.45 CAD, MF=N/A CAD, TV=34.45 CAD, Variance=0.00, Resolved=34.450 CAD
+Market Cap: JMN=N/A CAD, Yahoo=12475654144 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=12475654144 CAD
+[PAL.V] - 2025-03-02T01:12:14.479Z
+Stock Price: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0.000 CAD
+Market Cap: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0 CAD
+[PAU.CN] - 2025-03-02T01:12:23.751Z
+Stock Price: JMN=N/A CAD, Yahoo=0.19 CAD, MF=N/A CAD, TV=0.19 CAD, Variance=0.00, Resolved=0.190 CAD
+Market Cap: JMN=N/A CAD, Yahoo=24464210 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=24464210 CAD
+[PEX.V] - 2025-03-02T01:12:32.874Z
+Stock Price: JMN=N/A CAD, Yahoo=0.155 CAD, MF=N/A CAD, TV=0.155 CAD, Variance=0.00, Resolved=0.155 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2696457 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2696457 CAD
+[PGC.V] - 2025-03-02T01:12:42.057Z
+Stock Price: JMN=N/A CAD, Yahoo=0.02 CAD, MF=N/A CAD, TV=0.02 CAD, Variance=0.00, Resolved=0.020 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4613320 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4613320 CAD
+[PGDC.V] - 2025-03-02T01:12:52.865Z
+Stock Price: JMN=N/A CAD, Yahoo=0.04 CAD, MF=N/A CAD, TV=0.04 CAD, Variance=0.00, Resolved=0.040 CAD
+Market Cap: JMN=N/A CAD, Yahoo=18602040 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=18602040 CAD
+[PGLD.V] - 2025-03-02T01:13:01.288Z
+Stock Price: JMN=N/A CAD, Yahoo=0.07 CAD, MF=N/A CAD, TV=0.07 CAD, Variance=0.00, Resolved=0.070 CAD
+Market Cap: JMN=N/A CAD, Yahoo=9870491 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=9870491 CAD
+[PGX.V] - 2025-03-02T01:13:11.917Z
+Stock Price: JMN=N/A CAD, Yahoo=0.095 CAD, MF=N/A CAD, TV=0.095 CAD, Variance=0.00, Resolved=0.095 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4245977 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4245977 CAD
+[PJX.V] - 2025-03-02T01:13:20.460Z
+Stock Price: JMN=N/A CAD, Yahoo=0.14 CAD, MF=N/A CAD, TV=0.14 CAD, Variance=0.00, Resolved=0.140 CAD
+Market Cap: JMN=N/A CAD, Yahoo=24428320 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=24428320 CAD
+[PLY.V] - 2025-03-02T01:13:29.144Z
+Stock Price: JMN=N/A CAD, Yahoo=0.025 CAD, MF=N/A CAD, TV=0.025 CAD, Variance=0.00, Resolved=0.025 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3258675 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3258675 CAD
+[PNTR.V] - 2025-03-02T01:13:37.778Z
+Stock Price: JMN=N/A CAD, Yahoo=0.22 CAD, MF=N/A CAD, TV=0.22 CAD, Variance=0.00, Resolved=0.220 CAD
+Market Cap: JMN=N/A CAD, Yahoo=9552488 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=9552488 CAD
+[PPP.V] - 2025-03-02T01:13:46.945Z
+Stock Price: JMN=N/A CAD, Yahoo=0.125 CAD, MF=N/A CAD, TV=0.125 CAD, Variance=0.00, Resolved=0.125 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7156337 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7156337 CAD
+[PPX.V] - 2025-03-02T01:13:55.673Z
+Stock Price: JMN=N/A CAD, Yahoo=0.035 CAD, MF=N/A CAD, TV=0.035 CAD, Variance=0.00, Resolved=0.035 CAD
+Market Cap: JMN=N/A CAD, Yahoo=24002266 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=24002266 CAD
+[PRB.TO] - 2025-03-02T01:14:04.449Z
+Stock Price: JMN=N/A CAD, Yahoo=1.81 CAD, MF=N/A CAD, TV=1.81 CAD, Variance=0.00, Resolved=1.810 CAD
+Market Cap: JMN=N/A CAD, Yahoo=329838112 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=329838112 CAD
+[PRG.V] - 2025-03-02T01:14:13.267Z
+Stock Price: JMN=N/A CAD, Yahoo=0.105 CAD, MF=N/A CAD, TV=0.105 CAD, Variance=0.00, Resolved=0.105 CAD
+Market Cap: JMN=N/A CAD, Yahoo=13688535 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=13688535 CAD
+[PRIZ.CN] - 2025-03-02T01:14:22.112Z
+Stock Price: JMN=N/A CAD, Yahoo=0.065 CAD, MF=N/A CAD, TV=0.065 CAD, Variance=0.00, Resolved=0.065 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3561401 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3561401 CAD
+[PRU.TO] - 2025-03-02T01:14:30.968Z
+Stock Price: JMN=N/A CAD, Yahoo=2.61 CAD, MF=N/A CAD, TV=2.61 CAD, Variance=0.00, Resolved=2.610 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3618843392 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3618843392 CAD
+[PRYM.TO] - 2025-03-02T01:14:39.678Z
+Stock Price: JMN=N/A CAD, Yahoo=1.31 CAD, MF=N/A CAD, TV=1.31 CAD, Variance=0.00, Resolved=1.310 CAD
+Market Cap: JMN=N/A CAD, Yahoo=194265136 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=194265136 CAD
+[PUMA.V] - 2025-03-02T01:14:47.929Z
+Stock Price: JMN=N/A CAD, Yahoo=0.09 CAD, MF=N/A CAD, TV=0.09 CAD, Variance=0.00, Resolved=0.090 CAD
+Market Cap: JMN=N/A CAD, Yahoo=16165530 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=16165530 CAD
+[PX.V] - 2025-03-02T01:14:57.182Z
+Stock Price: JMN=N/A CAD, Yahoo=0.07 CAD, MF=N/A CAD, TV=0.07 CAD, Variance=0.00, Resolved=0.070 CAD
+Market Cap: JMN=N/A CAD, Yahoo=12086200 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=12086200 CAD
+[QIM.CN] - 2025-03-02T01:15:05.786Z
+Stock Price: JMN=N/A CAD, Yahoo=0.36 CAD, MF=N/A CAD, TV=0.36 CAD, Variance=0.00, Resolved=0.360 CAD
+Market Cap: JMN=N/A CAD, Yahoo=13655989 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=13655989 CAD
+[QZM.V] - 2025-03-02T01:15:14.711Z
+Stock Price: JMN=N/A CAD, Yahoo=0.65 CAD, MF=N/A CAD, TV=0.65 CAD, Variance=0.00, Resolved=0.650 CAD
+Market Cap: JMN=N/A CAD, Yahoo=38264200 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=38264200 CAD
+[RAGE.V] - 2025-03-02T01:15:23.607Z
+Stock Price: JMN=N/A CAD, Yahoo=0.135 CAD, MF=N/A CAD, TV=0.135 CAD, Variance=0.00, Resolved=0.135 CAD
+Market Cap: JMN=N/A CAD, Yahoo=6375132 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=6375132 CAD
+[RAMP.V] - 2025-03-02T01:15:32.710Z
+Stock Price: JMN=N/A CAD, Yahoo=1.13 CAD, MF=N/A CAD, TV=1.13 CAD, Variance=0.00, Resolved=1.130 CAD
+Market Cap: JMN=N/A CAD, Yahoo=46750020 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=46750020 CAD
+[RBX.V] - 2025-03-02T01:15:41.433Z
+Stock Price: JMN=N/A CAD, Yahoo=2.71 CAD, MF=N/A CAD, TV=2.71 CAD, Variance=0.00, Resolved=2.710 CAD
+Market Cap: JMN=N/A CAD, Yahoo=454537472 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=454537472 CAD
+[RDG.V] - 2025-03-02T01:15:52.398Z
+Stock Price: JMN=N/A CAD, Yahoo=0.225 CAD, MF=N/A CAD, TV=0.225 CAD, Variance=0.00, Resolved=0.225 CAD
+Market Cap: JMN=N/A CAD, Yahoo=24677550 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=24677550 CAD
+[RDS.V] - 2025-03-02T01:16:03.170Z
+Stock Price: JMN=N/A CAD, Yahoo=0.3 CAD, MF=N/A CAD, TV=0.3 CAD, Variance=0.00, Resolved=0.300 CAD
+Market Cap: JMN=N/A CAD, Yahoo=102658504 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=102658504 CAD
+[RDU.V] - 2025-03-02T01:16:11.522Z
+Stock Price: JMN=N/A CAD, Yahoo=0.145 CAD, MF=N/A CAD, TV=0.145 CAD, Variance=0.00, Resolved=0.145 CAD
+Market Cap: JMN=N/A CAD, Yahoo=15574595 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=15574595 CAD
+[REX.V] - 2025-03-02T01:16:20.379Z
+Stock Price: JMN=N/A CAD, Yahoo=0.14 CAD, MF=N/A CAD, TV=0.14 CAD, Variance=0.00, Resolved=0.140 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4746952 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4746952 CAD
+[RG.V] - 2025-03-02T01:16:29.373Z
+Stock Price: JMN=N/A CAD, Yahoo=0.02 CAD, MF=N/A CAD, TV=0.02 CAD, Variance=0.00, Resolved=0.020 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5242300 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5242300 CAD
+[RGC.V] - 2025-03-02T01:16:38.349Z
+Stock Price: JMN=N/A CAD, Yahoo=0.3 CAD, MF=N/A CAD, TV=0.3 CAD, Variance=0.00, Resolved=0.300 CAD
+Market Cap: JMN=N/A CAD, Yahoo=22401750 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=22401750 CAD
+[RGLD.CN] - 2025-03-02T01:16:47.259Z
+Stock Price: JMN=N/A CAD, Yahoo=0.065 CAD, MF=N/A CAD, TV=0.065 CAD, Variance=0.00, Resolved=0.065 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3265548 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3265548 CAD
+[RIO.V] - 2025-03-02T01:16:56.649Z
+Stock Price: JMN=N/A CAD, Yahoo=0.74 CAD, MF=N/A CAD, TV=0.74 CAD, Variance=0.00, Resolved=0.740 CAD
+Market Cap: JMN=N/A CAD, Yahoo=313984960 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=313984960 CAD
+[RK.V] - 2025-03-02T01:17:05.242Z
+Stock Price: JMN=N/A CAD, Yahoo=0.065 CAD, MF=N/A CAD, TV=0.065 CAD, Variance=0.00, Resolved=0.065 CAD
+Market Cap: JMN=N/A CAD, Yahoo=17948840 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=17948840 CAD
+[RKR.V] - 2025-03-02T01:17:14.172Z
+Stock Price: JMN=N/A CAD, Yahoo=0.02 CAD, MF=N/A CAD, TV=0.02 CAD, Variance=0.00, Resolved=0.020 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3264800 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3264800 CAD
+[RLYG.V] - 2025-03-02T01:17:23.423Z
+Stock Price: JMN=N/A CAD, Yahoo=0.18 CAD, MF=N/A CAD, TV=0.18 CAD, Variance=0.00, Resolved=0.180 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7592922 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7592922 CAD
+[ROCK.V] - 2025-03-02T01:17:32.239Z
+Stock Price: JMN=N/A CAD, Yahoo=0.055 CAD, MF=N/A CAD, TV=0.055 CAD, Variance=0.00, Resolved=0.055 CAD
+Market Cap: JMN=N/A CAD, Yahoo=12770450 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=12770450 CAD
+[ROS.V] - 2025-03-02T01:17:41.276Z
+Stock Price: JMN=N/A CAD, Yahoo=0.06 CAD, MF=N/A CAD, TV=0.06 CAD, Variance=0.00, Resolved=0.060 CAD
+Market Cap: JMN=N/A CAD, Yahoo=25710900 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=25710900 CAD
+[ROX.V] - 2025-03-02T01:17:50.116Z
+Stock Price: JMN=N/A CAD, Yahoo=0.055 CAD, MF=N/A CAD, TV=0.055 CAD, Variance=0.00, Resolved=0.055 CAD
+Market Cap: JMN=N/A CAD, Yahoo=8411755 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=8411755 CAD
+[RPX.V] - 2025-03-02T01:18:01.072Z
+Stock Price: JMN=N/A CAD, Yahoo=0.12 CAD, MF=N/A CAD, TV=0.12 CAD, Variance=0.00, Resolved=0.120 CAD
+Market Cap: JMN=N/A CAD, Yahoo=35076240 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=35076240 CAD
+[RR.CN] - 2025-03-02T01:18:09.669Z
+Stock Price: JMN=N/A CAD, Yahoo=0.145 CAD, MF=N/A CAD, TV=0.145 CAD, Variance=0.00, Resolved=0.145 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3687161 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3687161 CAD
+[RRI.V] - 2025-03-02T01:18:18.489Z
+Stock Price: JMN=N/A CAD, Yahoo=0.145 CAD, MF=N/A CAD, TV=0.145 CAD, Variance=0.00, Resolved=0.145 CAD
+Market Cap: JMN=N/A CAD, Yahoo=10843608 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=10843608 CAD
+[RSG.CN] - 2025-03-02T01:18:27.383Z
+Stock Price: JMN=N/A CAD, Yahoo=0.06 CAD, MF=N/A CAD, TV=0.06 CAD, Variance=0.00, Resolved=0.060 CAD
+Market Cap: JMN=N/A CAD, Yahoo=8584680 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=8584680 CAD
+[RSLV.V] - 2025-03-02T01:18:36.161Z
+Stock Price: JMN=N/A CAD, Yahoo=0.07 CAD, MF=N/A CAD, TV=0.07 CAD, Variance=0.00, Resolved=0.070 CAD
+Market Cap: JMN=N/A CAD, Yahoo=15605800 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=15605800 CAD
+[RSM.V] - 2025-03-02T01:18:45.352Z
+Stock Price: JMN=N/A CAD, Yahoo=0.205 CAD, MF=N/A CAD, TV=0.205 CAD, Variance=0.00, Resolved=0.205 CAD
+Market Cap: JMN=N/A CAD, Yahoo=18980950 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=18980950 CAD
+[RSMX.V] - 2025-03-02T01:18:54.185Z
+Stock Price: JMN=N/A CAD, Yahoo=0.07 CAD, MF=N/A CAD, TV=0.07 CAD, Variance=0.00, Resolved=0.070 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7530810 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7530810 CAD
+[RTG.TO] - 2025-03-02T01:19:03.161Z
+Stock Price: JMN=N/A CAD, Yahoo=0.02 CAD, MF=N/A CAD, TV=0.02 CAD, Variance=0.00, Resolved=0.020 CAD
+Market Cap: JMN=N/A CAD, Yahoo=22573000 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=22573000 CAD
+[RUA.V] - 2025-03-02T01:19:12.135Z
+Stock Price: JMN=N/A CAD, Yahoo=0.63 CAD, MF=N/A CAD, TV=0.63 CAD, Variance=0.00, Resolved=0.630 CAD
+Market Cap: JMN=N/A CAD, Yahoo=39842900 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=39842900 CAD
+[RUG.V] - 2025-03-02T01:19:21.935Z
+Stock Price: JMN=N/A CAD, Yahoo=0.025 CAD, MF=N/A CAD, TV=0.025 CAD, Variance=0.00, Resolved=0.025 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7915575 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7915575 CAD
+[RUP.TO] - 2025-03-02T01:19:30.705Z
+Stock Price: JMN=N/A CAD, Yahoo=4.6 CAD, MF=N/A CAD, TV=4.6 CAD, Variance=0.00, Resolved=4.600 CAD
+Market Cap: JMN=N/A CAD, Yahoo=994598144 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=994598144 CAD
+[RUSH.V] - 2025-03-02T01:19:39.712Z
+Stock Price: JMN=N/A CAD, Yahoo=0.065 CAD, MF=N/A CAD, TV=0.065 CAD, Variance=0.00, Resolved=0.065 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3835006 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3835006 CAD
+[RVG.V] - 2025-03-02T01:19:48.913Z
+Stock Price: JMN=N/A CAD, Yahoo=0.32 CAD, MF=N/A CAD, TV=0.32 CAD, Variance=0.00, Resolved=0.320 CAD
+Market Cap: JMN=N/A CAD, Yahoo=63229440 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=63229440 CAD
+[RYE.V] - 2025-03-02T01:19:57.888Z
+Stock Price: JMN=N/A CAD, Yahoo=0.08 CAD, MF=N/A CAD, TV=0.08 CAD, Variance=0.00, Resolved=0.080 CAD
+Market Cap: JMN=N/A CAD, Yahoo=8574800 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=8574800 CAD
+[RYR.V] - 2025-03-02T01:20:06.478Z
+Stock Price: JMN=N/A CAD, Yahoo=0.115 CAD, MF=N/A CAD, TV=0.115 CAD, Variance=0.00, Resolved=0.115 CAD
+Market Cap: JMN=N/A CAD, Yahoo=30555040 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=30555040 CAD
+[SAG.V] - 2025-03-02T01:20:14.901Z
+Stock Price: JMN=N/A CAD, Yahoo=0.3 CAD, MF=N/A CAD, TV=0.3 CAD, Variance=0.00, Resolved=0.300 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7451640 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7451640 CAD
+[SAM.TO] - 2025-03-02T01:20:25.919Z
+Stock Price: JMN=N/A CAD, Yahoo=0.14 CAD, MF=N/A CAD, TV=0.14 CAD, Variance=0.00, Resolved=0.140 CAD
+Market Cap: JMN=N/A CAD, Yahoo=9360890 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=9360890 CAD
+[SANU.CN] - 2025-03-02T01:20:34.844Z
+Stock Price: JMN=N/A CAD, Yahoo=0.265 CAD, MF=N/A CAD, TV=0.265 CAD, Variance=0.00, Resolved=0.265 CAD
+Market Cap: JMN=N/A CAD, Yahoo=63190040 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=63190040 CAD
+[SBMI.V] - 2025-03-02T01:20:43.846Z
+Stock Price: JMN=N/A CAD, Yahoo=0.19 CAD, MF=N/A CAD, TV=0.19 CAD, Variance=0.00, Resolved=0.190 CAD
+Market Cap: JMN=N/A CAD, Yahoo=13727956 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=13727956 CAD
+[SCOT.V] - 2025-03-02T01:20:52.616Z
+Stock Price: JMN=N/A CAD, Yahoo=0.9 CAD, MF=N/A CAD, TV=0.9 CAD, Variance=0.00, Resolved=0.900 CAD
+Market Cap: JMN=N/A CAD, Yahoo=44972908 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=44972908 CAD
+[SCZ.V] - 2025-03-02T01:21:03.675Z
+Stock Price: JMN=N/A CAD, Yahoo=0.39 CAD, MF=N/A CAD, TV=0.39 CAD, Variance=0.00, Resolved=0.390 CAD
+Market Cap: JMN=N/A CAD, Yahoo=138783840 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=138783840 CAD
+[SDR.V] - 2025-03-02T01:21:12.761Z
+Stock Price: JMN=N/A CAD, Yahoo=0.055 CAD, MF=N/A CAD, TV=0.055 CAD, Variance=0.00, Resolved=0.055 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3169276 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3169276 CAD
+[SEA.TO] - 2025-03-02T01:21:23.254Z
+Stock Price: JMN=N/A CAD, Yahoo=15.68 CAD, MF=N/A CAD, TV=15.68 CAD, Variance=0.00, Resolved=15.680 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1570101120 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1570101120 CAD
+[SEEM.CN] - 2025-03-02T01:21:31.952Z
+Stock Price: JMN=N/A CAD, Yahoo=0.175 CAD, MF=N/A CAD, TV=0.175 CAD, Variance=0.00, Resolved=0.175 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1139446 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1139446 CAD
+[SGC.V] - 2025-03-02T01:21:43.492Z
+Stock Price: JMN=N/A CAD, Yahoo=0.04 CAD, MF=N/A CAD, TV=0.04 CAD, Variance=0.00, Resolved=0.040 CAD
+Market Cap: JMN=N/A CAD, Yahoo=8302000 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=8302000 CAD
+[SGD.V] - 2025-03-02T01:21:52.409Z
+Stock Price: JMN=N/A CAD, Yahoo=6.48 CAD, MF=N/A CAD, TV=6.48 CAD, Variance=0.00, Resolved=6.480 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1027190080 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1027190080 CAD
+[SGLD.TO] - 2025-03-02T01:22:03.815Z
+Stock Price: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0.000 CAD
+Market Cap: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0 CAD
+[SGO.V] - 2025-03-02T01:22:12.234Z
+Stock Price: JMN=N/A CAD, Yahoo=0.1 CAD, MF=N/A CAD, TV=0.1 CAD, Variance=0.00, Resolved=0.100 CAD
+Market Cap: JMN=N/A CAD, Yahoo=20692100 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=20692100 CAD
+[SGN.V] - 2025-03-02T01:22:21.045Z
+Stock Price: JMN=N/A CAD, Yahoo=0.085 CAD, MF=N/A CAD, TV=0.085 CAD, Variance=0.00, Resolved=0.085 CAD
+Market Cap: JMN=N/A CAD, Yahoo=11120805 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=11120805 CAD
+[SGU.V] - 2025-03-02T01:22:32.400Z
+Stock Price: JMN=N/A CAD, Yahoo=0.04 CAD, MF=N/A CAD, TV=0.04 CAD, Variance=0.00, Resolved=0.040 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5950800 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5950800 CAD
+[SGZ.V] - 2025-03-02T01:22:41.038Z
+Stock Price: JMN=N/A CAD, Yahoo=0.02 CAD, MF=N/A CAD, TV=0.02 CAD, Variance=0.00, Resolved=0.020 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3253880 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3253880 CAD
+[SHL.V] - 2025-03-02T01:22:50.034Z
+Stock Price: JMN=N/A CAD, Yahoo=0.03 CAD, MF=N/A CAD, TV=0.03 CAD, Variance=0.00, Resolved=0.030 CAD
+Market Cap: JMN=N/A CAD, Yahoo=6688410 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=6688410 CAD
+[SIC.V] - 2025-03-02T01:22:58.786Z
+Stock Price: JMN=N/A CAD, Yahoo=0.045 CAD, MF=N/A CAD, TV=0.045 CAD, Variance=0.00, Resolved=0.045 CAD
+Market Cap: JMN=N/A CAD, Yahoo=12892770 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=12892770 CAD
+[SIG.V] - 2025-03-02T01:23:09.787Z
+Stock Price: JMN=N/A CAD, Yahoo=0.39 CAD, MF=N/A CAD, TV=0.39 CAD, Variance=0.00, Resolved=0.390 CAD
+Market Cap: JMN=N/A CAD, Yahoo=126204768 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=126204768 CAD
+[SIL.TO] - 2025-03-02T01:23:21.182Z
+Stock Price: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0.000 CAD
+Market Cap: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0 CAD
+[SILV.V] - 2025-03-02T01:23:29.470Z
+Stock Price: JMN=N/A CAD, Yahoo=0.04 CAD, MF=N/A CAD, TV=0.04 CAD, Variance=0.00, Resolved=0.040 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2314892 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2314892 CAD
+[SKE.TO] - 2025-03-02T01:23:38.360Z
+Stock Price: JMN=N/A CAD, Yahoo=14.27 CAD, MF=N/A CAD, TV=14.27 CAD, Variance=0.00, Resolved=14.270 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1630747136 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1630747136 CAD
+[SKP.V] - 2025-03-02T01:23:48.803Z
+Stock Price: JMN=N/A CAD, Yahoo=0.16 CAD, MF=N/A CAD, TV=0.16 CAD, Variance=0.00, Resolved=0.160 CAD
+Market Cap: JMN=N/A CAD, Yahoo=6655184 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=6655184 CAD
+[SLI.V] - 2025-03-02T01:23:58.486Z
+Stock Price: JMN=N/A CAD, Yahoo=1.86 CAD, MF=N/A CAD, TV=1.86 CAD, Variance=0.00, Resolved=1.860 CAD
+Market Cap: JMN=N/A CAD, Yahoo=349927360 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=349927360 CAD
+[SLR.TO] - 2025-03-02T01:24:07.372Z
+Stock Price: JMN=N/A CAD, Yahoo=0.95 CAD, MF=N/A CAD, TV=0.95 CAD, Variance=0.00, Resolved=0.950 CAD
+Market Cap: JMN=N/A CAD, Yahoo=79417248 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=79417248 CAD
+[SLV.CN] - 2025-03-02T01:24:15.971Z
+Stock Price: JMN=N/A CAD, Yahoo=0.25 CAD, MF=N/A CAD, TV=0.25 CAD, Variance=0.00, Resolved=0.250 CAD
+Market Cap: JMN=N/A CAD, Yahoo=14188100 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=14188100 CAD
+[SLVR.V] - 2025-03-02T01:24:24.554Z
+Stock Price: JMN=N/A CAD, Yahoo=0.31 CAD, MF=N/A CAD, TV=0.31 CAD, Variance=0.00, Resolved=0.310 CAD
+Market Cap: JMN=N/A CAD, Yahoo=113164880 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=113164880 CAD
+[SM.V] - 2025-03-02T01:24:33.700Z
+Stock Price: JMN=N/A CAD, Yahoo=0.56 CAD, MF=N/A CAD, TV=0.56 CAD, Variance=0.00, Resolved=0.560 CAD
+Market Cap: JMN=N/A CAD, Yahoo=86208088 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=86208088 CAD
+[SMN.V] - 2025-03-02T01:24:42.836Z
+Stock Price: JMN=N/A CAD, Yahoo=0.11 CAD, MF=N/A CAD, TV=0.11 CAD, Variance=0.00, Resolved=0.110 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7702948 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7702948 CAD
+[SMT.TO] - 2025-03-02T01:24:52.005Z
+Stock Price: JMN=N/A CAD, Yahoo=0.78 CAD, MF=N/A CAD, TV=0.78 CAD, Variance=0.00, Resolved=0.780 CAD
+Market Cap: JMN=N/A CAD, Yahoo=165126000 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=165126000 CAD
+[SNAG.V] - 2025-03-02T01:29:03.646Z
+Stock Price: JMN=N/A CAD, Yahoo=0.105 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0.105 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5009917 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5009917 CAD
+[SNG.V] - 2025-03-02T01:29:15.556Z
+Stock Price: JMN=N/A CAD, Yahoo=0.08 CAD, MF=N/A CAD, TV=0.08 CAD, Variance=0.00, Resolved=0.080 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7850151 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7850151 CAD
+[SOI.V] - 2025-03-02T01:29:24.487Z
+Stock Price: JMN=N/A CAD, Yahoo=0.045 CAD, MF=N/A CAD, TV=0.045 CAD, Variance=0.00, Resolved=0.045 CAD
+Market Cap: JMN=N/A CAD, Yahoo=15483961 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=15483961 CAD
+[SOMA.V] - 2025-03-02T01:29:32.657Z
+Stock Price: JMN=N/A CAD, Yahoo=0.55 CAD, MF=N/A CAD, TV=0.55 CAD, Variance=0.00, Resolved=0.550 CAD
+Market Cap: JMN=N/A CAD, Yahoo=50663360 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=50663360 CAD
+[SPA.V] - 2025-03-02T01:29:41.097Z
+Stock Price: JMN=N/A CAD, Yahoo=0.11 CAD, MF=N/A CAD, TV=0.11 CAD, Variance=0.00, Resolved=0.110 CAD
+Market Cap: JMN=N/A CAD, Yahoo=48921620 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=48921620 CAD
+[SPMC.V] - 2025-03-02T01:29:49.655Z
+Stock Price: JMN=N/A CAD, Yahoo=0.435 CAD, MF=N/A CAD, TV=0.435 CAD, Variance=0.00, Resolved=0.435 CAD
+Market Cap: JMN=N/A CAD, Yahoo=22556446 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=22556446 CAD
+[SPX.V] - 2025-03-02T01:29:58.148Z
+Stock Price: JMN=N/A CAD, Yahoo=0.11 CAD, MF=N/A CAD, TV=0.11 CAD, Variance=0.00, Resolved=0.110 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3223308 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3223308 CAD
+[SRC.V] - 2025-03-02T01:30:06.344Z
+Stock Price: JMN=N/A CAD, Yahoo=1 CAD, MF=N/A CAD, TV=1 CAD, Variance=0.00, Resolved=1.000 CAD
+Market Cap: JMN=N/A CAD, Yahoo=17766400 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=17766400 CAD
+[SRL.V] - 2025-03-02T01:30:13.715Z
+Stock Price: JMN=N/A CAD, Yahoo=0.09 CAD, MF=N/A CAD, TV=0.09 CAD, Variance=0.00, Resolved=0.090 CAD
+Market Cap: JMN=N/A CAD, Yahoo=20147312 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=20147312 CAD
+[SSL.TO] - 2025-03-02T01:30:22.243Z
+Stock Price: JMN=N/A CAD, Yahoo=8.86 CAD, MF=N/A CAD, TV=8.86 CAD, Variance=0.00, Resolved=8.860 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2623800320 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2623800320 CAD
+[SSRM.TO] - 2025-03-02T01:30:31.997Z
+Stock Price: JMN=N/A CAD, Yahoo=14.43 CAD, MF=N/A CAD, TV=14.43 CAD, Variance=0.00, Resolved=14.430 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2920430080 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2920430080 CAD
+[SSV.V] - 2025-03-02T01:30:40.214Z
+Stock Price: JMN=N/A CAD, Yahoo=0.22 CAD, MF=N/A CAD, TV=0.22 CAD, Variance=0.00, Resolved=0.220 CAD
+Market Cap: JMN=N/A CAD, Yahoo=68071080 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=68071080 CAD
+[SSVR.V] - 2025-03-02T01:30:47.767Z
+Stock Price: JMN=N/A CAD, Yahoo=0.33 CAD, MF=N/A CAD, TV=0.33 CAD, Variance=0.00, Resolved=0.330 CAD
+Market Cap: JMN=N/A CAD, Yahoo=40120412 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=40120412 CAD
+[STGO.TO] - 2025-03-02T01:30:55.563Z
+Stock Price: JMN=N/A CAD, Yahoo=0.69 CAD, MF=N/A CAD, TV=0.69 CAD, Variance=0.00, Resolved=0.690 CAD
+Market Cap: JMN=N/A CAD, Yahoo=174450640 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=174450640 CAD
+[STLR.TO] - 2025-03-02T01:31:03.996Z
+Stock Price: JMN=N/A CAD, Yahoo=0.99 CAD, MF=N/A CAD, TV=0.99 CAD, Variance=0.00, Resolved=0.990 CAD
+Market Cap: JMN=N/A CAD, Yahoo=122699608 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=122699608 CAD
+[STRR.V] - 2025-03-02T01:31:11.426Z
+Stock Price: JMN=N/A CAD, Yahoo=0.25 CAD, MF=N/A CAD, TV=0.25 CAD, Variance=0.00, Resolved=0.250 CAD
+Market Cap: JMN=N/A CAD, Yahoo=19353524 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=19353524 CAD
+[STS.V] - 2025-03-02T01:31:18.736Z
+Stock Price: JMN=N/A CAD, Yahoo=0.46 CAD, MF=N/A CAD, TV=0.46 CAD, Variance=0.00, Resolved=0.460 CAD
+Market Cap: JMN=N/A CAD, Yahoo=25078878 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=25078878 CAD
+[STU.V] - 2025-03-02T01:31:26.964Z
+Stock Price: JMN=N/A CAD, Yahoo=0.125 CAD, MF=N/A CAD, TV=0.125 CAD, Variance=0.00, Resolved=0.125 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5810050 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5810050 CAD
+[SUP.V] - 2025-03-02T01:31:35.599Z
+Stock Price: JMN=N/A CAD, Yahoo=0.445 CAD, MF=N/A CAD, TV=0.445 CAD, Variance=0.00, Resolved=0.445 CAD
+Market Cap: JMN=N/A CAD, Yahoo=73494416 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=73494416 CAD
+[SURG.V] - 2025-03-02T01:31:43.002Z
+Stock Price: JMN=N/A CAD, Yahoo=0.1 CAD, MF=N/A CAD, TV=0.1 CAD, Variance=0.00, Resolved=0.100 CAD
+Market Cap: JMN=N/A CAD, Yahoo=28851902 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=28851902 CAD
+[SVE.V] - 2025-03-02T01:31:52.603Z
+Stock Price: JMN=N/A CAD, Yahoo=0.215 CAD, MF=N/A CAD, TV=0.215 CAD, Variance=0.00, Resolved=0.215 CAD
+Market Cap: JMN=N/A CAD, Yahoo=57811996 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=57811996 CAD
+[SVM.TO] - 2025-03-02T01:32:00.559Z
+Stock Price: JMN=N/A CAD, Yahoo=5.12 CAD, MF=N/A CAD, TV=5.12 CAD, Variance=0.00, Resolved=5.120 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1113169920 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1113169920 CAD
+[SVRS.V] - 2025-03-02T01:32:09.344Z
+Stock Price: JMN=N/A CAD, Yahoo=0.125 CAD, MF=N/A CAD, TV=0.125 CAD, Variance=0.00, Resolved=0.125 CAD
+Market Cap: JMN=N/A CAD, Yahoo=57373876 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=57373876 CAD
+[SWA.V] - 2025-03-02T01:32:18.221Z
+Stock Price: JMN=N/A CAD, Yahoo=0.03 CAD, MF=N/A CAD, TV=0.03 CAD, Variance=0.00, Resolved=0.030 CAD
+Market Cap: JMN=N/A CAD, Yahoo=10438110 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=10438110 CAD
+[SWLF.V] - 2025-03-02T01:32:26.206Z
+Stock Price: JMN=N/A CAD, Yahoo=0.075 CAD, MF=N/A CAD, TV=0.075 CAD, Variance=0.00, Resolved=0.075 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3450795 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3450795 CAD
+[SXGC.V] - 2025-03-02T01:32:33.603Z
+Stock Price: JMN=N/A CAD, Yahoo=3.31 CAD, MF=N/A CAD, TV=3.31 CAD, Variance=0.00, Resolved=3.310 CAD
+Market Cap: JMN=N/A CAD, Yahoo=733601920 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=733601920 CAD
+[TAJ.V] - 2025-03-02T01:32:40.780Z
+Stock Price: JMN=N/A CAD, Yahoo=0.06 CAD, MF=N/A CAD, TV=0.06 CAD, Variance=0.00, Resolved=0.060 CAD
+Market Cap: JMN=N/A CAD, Yahoo=9234660 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=9234660 CAD
+[TAU.V] - 2025-03-02T01:32:47.915Z
+Stock Price: JMN=N/A CAD, Yahoo=0.82 CAD, MF=N/A CAD, TV=0.82 CAD, Variance=0.00, Resolved=0.820 CAD
+Market Cap: JMN=N/A CAD, Yahoo=174517312 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=174517312 CAD
+[TBK.V] - 2025-03-02T01:32:57.197Z
+Stock Price: JMN=N/A CAD, Yahoo=0.3 CAD, MF=N/A CAD, TV=0.3 CAD, Variance=0.00, Resolved=0.300 CAD
+Market Cap: JMN=N/A CAD, Yahoo=12158940 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=12158940 CAD
+[TBX.V] - 2025-03-02T01:33:06.272Z
+Stock Price: JMN=N/A CAD, Yahoo=0.13 CAD, MF=N/A CAD, TV=0.13 CAD, Variance=0.00, Resolved=0.130 CAD
+Market Cap: JMN=N/A CAD, Yahoo=12871378 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=12871378 CAD
+[TCO.V] - 2025-03-02T01:33:14.406Z
+Stock Price: JMN=N/A CAD, Yahoo=0.08 CAD, MF=N/A CAD, TV=0.08 CAD, Variance=0.00, Resolved=0.080 CAD
+Market Cap: JMN=N/A CAD, Yahoo=6931192 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=6931192 CAD
+[TDG.V] - 2025-03-02T01:33:24.127Z
+Stock Price: JMN=N/A CAD, Yahoo=0.46 CAD, MF=N/A CAD, TV=0.46 CAD, Variance=0.00, Resolved=0.460 CAD
+Market Cap: JMN=N/A CAD, Yahoo=66919416 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=66919416 CAD
+[TECT.V] - 2025-03-02T01:33:31.795Z
+Stock Price: JMN=N/A CAD, Yahoo=0.055 CAD, MF=N/A CAD, TV=0.055 CAD, Variance=0.00, Resolved=0.055 CAD
+Market Cap: JMN=N/A CAD, Yahoo=23091970 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=23091970 CAD
+[TERA.CN] - 2025-03-02T01:33:39.001Z
+Stock Price: JMN=N/A CAD, Yahoo=0.085 CAD, MF=N/A CAD, TV=0.085 CAD, Variance=0.00, Resolved=0.085 CAD
+Market Cap: JMN=N/A CAD, Yahoo=3960073 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=3960073 CAD
+[TFPM.TO] - 2025-03-02T01:33:47.585Z
+Stock Price: JMN=N/A CAD, Yahoo=23.65 CAD, MF=N/A CAD, TV=23.65 CAD, Variance=0.00, Resolved=23.650 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4751024640 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4751024640 CAD
+[TG.V] - 2025-03-02T01:33:55.837Z
+Stock Price: JMN=N/A CAD, Yahoo=0.205 CAD, MF=N/A CAD, TV=0.205 CAD, Variance=0.00, Resolved=0.205 CAD
+Market Cap: JMN=N/A CAD, Yahoo=6188909 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=6188909 CAD
+[TGOL.V] - 2025-03-02T01:34:03.288Z
+Stock Price: JMN=N/A CAD, Yahoo=0.06 CAD, MF=N/A CAD, TV=0.06 CAD, Variance=0.00, Resolved=0.060 CAD
+Market Cap: JMN=N/A CAD, Yahoo=12398040 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=12398040 CAD
+[THX.V] - 2025-03-02T01:34:12.066Z
+Stock Price: JMN=N/A CAD, Yahoo=0.375 CAD, MF=N/A CAD, TV=0.375 CAD, Variance=0.00, Resolved=0.375 CAD
+Market Cap: JMN=N/A CAD, Yahoo=249125616 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=249125616 CAD
+[TIN.V] - 2025-03-02T01:34:19.719Z
+Stock Price: JMN=N/A CAD, Yahoo=0.15 CAD, MF=N/A CAD, TV=0.15 CAD, Variance=0.00, Resolved=0.150 CAD
+Market Cap: JMN=N/A CAD, Yahoo=10222786 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=10222786 CAD
+[TK.V] - 2025-03-02T01:34:28.099Z
+Stock Price: JMN=N/A CAD, Yahoo=0.07 CAD, MF=N/A CAD, TV=0.07 CAD, Variance=0.00, Resolved=0.070 CAD
+Market Cap: JMN=N/A CAD, Yahoo=28608790 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=28608790 CAD
+[TLG.TO] - 2025-03-02T01:34:35.676Z
+Stock Price: JMN=N/A CAD, Yahoo=0.32 CAD, MF=N/A CAD, TV=0.32 CAD, Variance=0.00, Resolved=0.320 CAD
+Market Cap: JMN=N/A CAD, Yahoo=116795512 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=116795512 CAD
+[TSG.V] - 2025-03-02T01:34:43.246Z
+Stock Price: JMN=N/A CAD, Yahoo=0.18 CAD, MF=N/A CAD, TV=0.18 CAD, Variance=0.00, Resolved=0.180 CAD
+Market Cap: JMN=N/A CAD, Yahoo=51650644 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=51650644 CAD
+[TM.V] - 2025-03-02T01:34:51.545Z
+Stock Price: JMN=N/A CAD, Yahoo=0.24 CAD, MF=N/A CAD, TV=0.24 CAD, Variance=0.00, Resolved=0.240 CAD
+Market Cap: JMN=N/A CAD, Yahoo=10594968 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=10594968 CAD
+[TMQ.TO] - 2025-03-02T01:34:59.141Z
+Stock Price: JMN=N/A CAD, Yahoo=2.06 CAD, MF=N/A CAD, TV=2.06 CAD, Variance=0.00, Resolved=2.060 CAD
+Market Cap: JMN=N/A CAD, Yahoo=337718432 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=337718432 CAD
+[TNR.V] - 2025-03-02T01:35:06.589Z
+Stock Price: JMN=N/A CAD, Yahoo=0.065 CAD, MF=N/A CAD, TV=0.065 CAD, Variance=0.00, Resolved=0.065 CAD
+Market Cap: JMN=N/A CAD, Yahoo=12353704 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=12353704 CAD
+[TOC.CN] - 2025-03-02T01:35:13.833Z
+Stock Price: JMN=N/A CAD, Yahoo=0.53 CAD, MF=N/A CAD, TV=0.53 CAD, Variance=0.00, Resolved=0.530 CAD
+Market Cap: JMN=N/A CAD, Yahoo=31213818 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=31213818 CAD
+[TORQ.V] - 2025-03-02T01:35:23.365Z
+Stock Price: JMN=N/A CAD, Yahoo=0.07 CAD, MF=N/A CAD, TV=0.07 CAD, Variance=0.00, Resolved=0.070 CAD
+Market Cap: JMN=N/A CAD, Yahoo=9734900 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=9734900 CAD
+[TRO.V] - 2025-03-02T01:35:32.730Z
+Stock Price: JMN=N/A CAD, Yahoo=0.205 CAD, MF=N/A CAD, TV=0.205 CAD, Variance=0.00, Resolved=0.205 CAD
+Market Cap: JMN=N/A CAD, Yahoo=20571544 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=20571544 CAD
+[TRX.TO] - 2025-03-02T01:35:40.388Z
+Stock Price: JMN=N/A CAD, Yahoo=0.425 CAD, MF=N/A CAD, TV=0.425 CAD, Variance=0.00, Resolved=0.425 CAD
+Market Cap: JMN=N/A CAD, Yahoo=119796024 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=119796024 CAD
+[TSG.V] - 2025-03-02T01:35:47.310Z
+Stock Price: JMN=N/A CAD, Yahoo=0.18 CAD, MF=N/A CAD, TV=0.18 CAD, Variance=0.00, Resolved=0.180 CAD
+Market Cap: JMN=N/A CAD, Yahoo=51650644 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=51650644 CAD
+[TSK.TO] - 2025-03-02T01:35:54.838Z
+Stock Price: JMN=N/A CAD, Yahoo=0.44 CAD, MF=N/A CAD, TV=0.44 CAD, Variance=0.00, Resolved=0.440 CAD
+Market Cap: JMN=N/A CAD, Yahoo=43252748 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=43252748 CAD
+[TSLV.V] - 2025-03-02T01:36:02.157Z
+Stock Price: JMN=N/A CAD, Yahoo=0.075 CAD, MF=N/A CAD, TV=0.075 CAD, Variance=0.00, Resolved=0.075 CAD
+Market Cap: JMN=N/A CAD, Yahoo=12828751 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=12828751 CAD
+[TUD.V] - 2025-03-02T01:36:09.901Z
+Stock Price: JMN=N/A CAD, Yahoo=0.6 CAD, MF=N/A CAD, TV=0.6 CAD, Variance=0.00, Resolved=0.600 CAD
+Market Cap: JMN=N/A CAD, Yahoo=140101200 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=140101200 CAD
+[TUF.V] - 2025-03-02T01:36:17.683Z
+Stock Price: JMN=N/A CAD, Yahoo=0.1 CAD, MF=N/A CAD, TV=0.1 CAD, Variance=0.00, Resolved=0.100 CAD
+Market Cap: JMN=N/A CAD, Yahoo=7529889 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=7529889 CAD
+[TUO.V] - 2025-03-02T01:36:25.195Z
+Stock Price: JMN=N/A CAD, Yahoo=0.93 CAD, MF=N/A CAD, TV=0.93 CAD, Variance=0.00, Resolved=0.930 CAD
+Market Cap: JMN=N/A CAD, Yahoo=53704616 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=53704616 CAD
+[TWR.V] - 2025-03-02T01:36:33.425Z
+Stock Price: JMN=N/A CAD, Yahoo=0.12 CAD, MF=N/A CAD, TV=0.12 CAD, Variance=0.00, Resolved=0.120 CAD
+Market Cap: JMN=N/A CAD, Yahoo=19335720 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=19335720 CAD
+[TXG.TO] - 2025-03-02T01:36:40.780Z
+Stock Price: JMN=N/A CAD, Yahoo=31.59 CAD, MF=N/A CAD, TV=31.59 CAD, Variance=0.00, Resolved=31.590 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2721885952 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2721885952 CAD
+[UGD.V] - 2025-03-02T01:36:48.079Z
+Stock Price: JMN=N/A CAD, Yahoo=0.085 CAD, MF=N/A CAD, TV=0.085 CAD, Variance=0.00, Resolved=0.085 CAD
+Market Cap: JMN=N/A CAD, Yahoo=23311760 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=23311760 CAD
+[USA.TO] - 2025-03-02T01:36:55.484Z
+Stock Price: JMN=N/A CAD, Yahoo=0.68 CAD, MF=N/A CAD, TV=0.68 CAD, Variance=0.00, Resolved=0.680 CAD
+Market Cap: JMN=N/A CAD, Yahoo=389935104 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=389935104 CAD
+[USGD.CN] - 2025-03-02T01:37:03.925Z
+Stock Price: JMN=N/A CAD, Yahoo=0.205 CAD, MF=N/A CAD, TV=0.205 CAD, Variance=0.00, Resolved=0.205 CAD
+Market Cap: JMN=N/A CAD, Yahoo=44913040 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=44913040 CAD
+[VAU.V] - 2025-03-02T01:37:12.427Z
+Stock Price: JMN=N/A CAD, Yahoo=0.135 CAD, MF=N/A CAD, TV=0.135 CAD, Variance=0.00, Resolved=0.135 CAD
+Market Cap: JMN=N/A CAD, Yahoo=17941500 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=17941500 CAD
+[VEIN.V] - 2025-03-02T01:37:20.307Z
+Stock Price: JMN=N/A CAD, Yahoo=0.45 CAD, MF=N/A CAD, TV=0.45 CAD, Variance=0.00, Resolved=0.450 CAD
+Market Cap: JMN=N/A CAD, Yahoo=52665748 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=52665748 CAD
+[VG.V] - 2025-03-02T01:37:27.845Z
+Stock Price: JMN=N/A CAD, Yahoo=0.105 CAD, MF=N/A CAD, TV=0.105 CAD, Variance=0.00, Resolved=0.105 CAD
+Market Cap: JMN=N/A CAD, Yahoo=4782876 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=4782876 CAD
+[VGCX.TO] - 2025-03-02T01:37:38.511Z
+Stock Price: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0.000 CAD
+Market Cap: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0 CAD
+[VIO.V] - 2025-03-02T01:37:48.000Z
+Stock Price: JMN=N/A CAD, Yahoo=0.18 CAD, MF=N/A CAD, TV=0.18 CAD, Variance=0.00, Resolved=0.180 CAD
+Market Cap: JMN=N/A CAD, Yahoo=45151380 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=45151380 CAD
+[VIPR.V] - 2025-03-02T01:37:56.700Z
+Stock Price: JMN=N/A CAD, Yahoo=0.33 CAD, MF=N/A CAD, TV=0.33 CAD, Variance=0.00, Resolved=0.330 CAD
+Market Cap: JMN=N/A CAD, Yahoo=6427476 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=6427476 CAD
+[VLC.V] - 2025-03-02T01:38:04.133Z
+Stock Price: JMN=N/A CAD, Yahoo=0.17 CAD, MF=N/A CAD, TV=0.17 CAD, Variance=0.00, Resolved=0.170 CAD
+Market Cap: JMN=N/A CAD, Yahoo=33371000 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=33371000 CAD
+[VML.V] - 2025-03-02T01:38:11.731Z
+Stock Price: JMN=N/A CAD, Yahoo=0.4 CAD, MF=N/A CAD, TV=0.4 CAD, Variance=0.00, Resolved=0.400 CAD
+Market Cap: JMN=N/A CAD, Yahoo=44190000 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=44190000 CAD
+[VOXR.TO] - 2025-03-02T01:38:19.063Z
+Stock Price: JMN=N/A CAD, Yahoo=3.54 CAD, MF=N/A CAD, TV=3.54 CAD, Variance=0.00, Resolved=3.540 CAD
+Market Cap: JMN=N/A CAD, Yahoo=179598720 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=179598720 CAD
+[VROY.V] - 2025-03-02T01:38:26.314Z
+Stock Price: JMN=N/A CAD, Yahoo=1.85 CAD, MF=N/A CAD, TV=1.85 CAD, Variance=0.00, Resolved=1.850 CAD
+Market Cap: JMN=N/A CAD, Yahoo=53712532 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=53712532 CAD
+[VVC.V] - 2025-03-02T01:38:34.059Z
+Stock Price: JMN=N/A CAD, Yahoo=0.025 CAD, MF=N/A CAD, TV=0.025 CAD, Variance=0.00, Resolved=0.025 CAD
+Market Cap: JMN=N/A CAD, Yahoo=14317050 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=14317050 CAD
+[VZLA.V] - 2025-03-02T01:38:44.874Z
+Stock Price: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0.000 CAD
+Market Cap: JMN=N/A CAD, Yahoo=N/A CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0 CAD
+[WAM.V] - 2025-03-02T01:38:52.980Z
+Stock Price: JMN=N/A CAD, Yahoo=0.66 CAD, MF=N/A CAD, TV=0.66 CAD, Variance=0.00, Resolved=0.660 CAD
+Market Cap: JMN=N/A CAD, Yahoo=57387064 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=57387064 CAD
+[WDO.TO] - 2025-03-02T01:39:01.242Z
+Stock Price: JMN=N/A CAD, Yahoo=14.53 CAD, MF=N/A CAD, TV=14.53 CAD, Variance=0.00, Resolved=14.530 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2177669120 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2177669120 CAD
+[WEX.V] - 2025-03-02T01:39:10.862Z
+Stock Price: JMN=N/A CAD, Yahoo=0.85 CAD, MF=N/A CAD, TV=0.85 CAD, Variance=0.00, Resolved=0.850 CAD
+Market Cap: JMN=N/A CAD, Yahoo=38617880 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=38617880 CAD
+[WG.CN] - 2025-03-02T01:39:18.454Z
+Stock Price: JMN=N/A CAD, Yahoo=0.09 CAD, MF=N/A CAD, TV=0.09 CAD, Variance=0.00, Resolved=0.090 CAD
+Market Cap: JMN=N/A CAD, Yahoo=10528650 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=10528650 CAD
+[WGF.V] - 2025-03-02T01:39:26.163Z
+Stock Price: JMN=N/A CAD, Yahoo=0.025 CAD, MF=N/A CAD, TV=0.025 CAD, Variance=0.00, Resolved=0.025 CAD
+Market Cap: JMN=N/A CAD, Yahoo=1342107 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=1342107 CAD
+[WGLD.V] - 2025-03-02T01:39:34.473Z
+Stock Price: JMN=N/A CAD, Yahoo=0.075 CAD, MF=N/A CAD, TV=0.075 CAD, Variance=0.00, Resolved=0.075 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5088630 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5088630 CAD
+[WGO.V] - 2025-03-02T01:39:42.722Z
+Stock Price: JMN=N/A CAD, Yahoo=0.21 CAD, MF=N/A CAD, TV=0.21 CAD, Variance=0.00, Resolved=0.210 CAD
+Market Cap: JMN=N/A CAD, Yahoo=37032240 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=37032240 CAD
+[WGX.TO] - 2025-03-02T01:39:50.303Z
+Stock Price: JMN=N/A CAD, Yahoo=2.22 CAD, MF=N/A CAD, TV=2.22 CAD, Variance=0.00, Resolved=2.220 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2130711552 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2130711552 CAD
+[WHN.V] - 2025-03-02T01:39:57.969Z
+Stock Price: JMN=N/A CAD, Yahoo=0.135 CAD, MF=N/A CAD, TV=0.135 CAD, Variance=0.00, Resolved=0.135 CAD
+Market Cap: JMN=N/A CAD, Yahoo=25423334 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=25423334 CAD
+[WHY.V] - 2025-03-02T01:40:05.956Z
+Stock Price: JMN=N/A CAD, Yahoo=0.26 CAD, MF=N/A CAD, TV=0.26 CAD, Variance=0.00, Resolved=0.260 CAD
+Market Cap: JMN=N/A CAD, Yahoo=26322400 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=26322400 CAD
+[WLF.V] - 2025-03-02T01:40:13.504Z
+Stock Price: JMN=N/A CAD, Yahoo=0.055 CAD, MF=N/A CAD, TV=0.055 CAD, Variance=0.00, Resolved=0.055 CAD
+Market Cap: JMN=N/A CAD, Yahoo=9064990 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=9064990 CAD
+[WM.TO] - 2025-03-02T01:40:22.940Z
+Stock Price: JMN=N/A CAD, Yahoo=0.0625 CAD, MF=N/A CAD, TV=0.065 CAD, Variance=0.00, Resolved=0.064 CAD
+Market Cap: JMN=N/A CAD, Yahoo=68001872 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=68001872 CAD
+[WPG.V] - 2025-03-02T01:40:31.346Z
+Stock Price: JMN=N/A CAD, Yahoo=0.445 CAD, MF=N/A CAD, TV=0.445 CAD, Variance=0.00, Resolved=0.445 CAD
+Market Cap: JMN=N/A CAD, Yahoo=29308678 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=29308678 CAD
+[WPM.TO] - 2025-03-02T01:40:38.850Z
+Stock Price: JMN=N/A CAD, Yahoo=99.89 CAD, MF=N/A CAD, TV=99.89 CAD, Variance=0.00, Resolved=99.890 CAD
+Market Cap: JMN=N/A CAD, Yahoo=45316894720 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=45316894720 CAD
+[WRLG.V] - 2025-03-02T01:40:46.518Z
+Stock Price: JMN=N/A CAD, Yahoo=0.625 CAD, MF=N/A CAD, TV=0.63 CAD, Variance=0.01, Resolved=0.627 CAD
+Market Cap: JMN=N/A CAD, Yahoo=199901248 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=199901248 CAD
+[WRN.TO] - 2025-03-02T01:40:54.803Z
+Stock Price: JMN=N/A CAD, Yahoo=1.52 CAD, MF=N/A CAD, TV=1.52 CAD, Variance=0.00, Resolved=1.520 CAD
+Market Cap: JMN=N/A CAD, Yahoo=301315680 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=301315680 CAD
+[WRR.V] - 2025-03-02T01:41:02.417Z
+Stock Price: JMN=N/A CAD, Yahoo=0.175 CAD, MF=N/A CAD, TV=0.175 CAD, Variance=0.00, Resolved=0.175 CAD
+Market Cap: JMN=N/A CAD, Yahoo=8508220 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=8508220 CAD
+[WVM.V] - 2025-03-02T01:41:10.117Z
+Stock Price: JMN=N/A CAD, Yahoo=1.15 CAD, MF=N/A CAD, TV=1.15 CAD, Variance=0.00, Resolved=1.150 CAD
+Market Cap: JMN=N/A CAD, Yahoo=66653768 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=66653768 CAD
+[XIM.V] - 2025-03-02T01:41:27.852Z
+Stock Price: JMN=N/A CAD, Yahoo=0.13 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=0.130 CAD
+Market Cap: JMN=N/A CAD, Yahoo=6788951 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=6788951 CAD
+[XTG.TO] - 2025-03-02T01:41:36.086Z
+Stock Price: JMN=N/A CAD, Yahoo=1.95 CAD, MF=N/A CAD, TV=1.95 CAD, Variance=0.00, Resolved=1.950 CAD
+Market Cap: JMN=N/A CAD, Yahoo=89785024 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=89785024 CAD
+[XTM.V] - 2025-03-02T01:41:45.341Z
+Stock Price: JMN=N/A CAD, Yahoo=0.035 CAD, MF=N/A CAD, TV=0.035 CAD, Variance=0.00, Resolved=0.035 CAD
+Market Cap: JMN=N/A CAD, Yahoo=2503448 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=2503448 CAD
+[YGT.V] - 2025-03-02T01:41:53.044Z
+Stock Price: JMN=N/A CAD, Yahoo=0.055 CAD, MF=N/A CAD, TV=0.055 CAD, Variance=0.00, Resolved=0.055 CAD
+Market Cap: JMN=N/A CAD, Yahoo=20463960 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=20463960 CAD
+[YRB.TO] - 2025-03-02T01:42:02.490Z
+Stock Price: JMN=N/A CAD, Yahoo=0.04 CAD, MF=N/A CAD, TV=0.04 CAD, Variance=0.00, Resolved=0.040 CAD
+Market Cap: JMN=N/A CAD, Yahoo=18463520 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=18463520 CAD
+[ZAC.V] - 2025-03-02T01:42:10.746Z
+Stock Price: JMN=N/A CAD, Yahoo=0.06 CAD, MF=N/A CAD, TV=0.06 CAD, Variance=0.00, Resolved=0.060 CAD
+Market Cap: JMN=N/A CAD, Yahoo=6943560 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=6943560 CAD
+[ZAU.V] - 2025-03-02T01:42:22.582Z
+Stock Price: JMN=N/A CAD, Yahoo=0.055 CAD, MF=N/A CAD, TV=0.055 CAD, Variance=0.00, Resolved=0.055 CAD
+Market Cap: JMN=N/A CAD, Yahoo=5083584 CAD, MF=N/A CAD, TV=N/A CAD, Variance=0.00, Resolved=5083584 CAD
