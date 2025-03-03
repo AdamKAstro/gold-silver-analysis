@@ -1,4 +1,5 @@
 const yahooFinance = require('yahoo-finance2').default;
+yahooFinance.suppressNotices(['yahooSurvey']); // Suppress survey notice early
 const axios = require('axios');
 const fs = require('fs').promises;
 const path = require('path');
@@ -31,9 +32,9 @@ async function fetchYahooFinancials(ticker) {
         enterprise_value_value: quote.defaultKeyStatistics?.enterpriseValue || null,
         revenue_value: income.totalRevenue || null,
         net_income_value: income.netIncome || null,
-        currency_cash: 'USD', // Yahoo typically reports in USD
+        currency_cash: 'USD',
         currency_debt: 'USD',
-        currency_enterprise: 'CAD', // Assuming CAD for TSX stocks
+        currency_enterprise: 'CAD',
         currency_revenue: 'USD',
         currency_net_income: 'USD'
       };
@@ -79,7 +80,7 @@ async function fetchAlphaVantageFinancials(ticker) {
 }
 
 // Resolve data from multiple sources
-function resolveData(ticker, yahooData, alphaData) {
+async function resolveData(ticker, yahooData, alphaData) {
   const fields = [
     { key: 'cash_value', currency: 'USD' },
     { key: 'debt_value', currency: 'USD' },
@@ -104,7 +105,7 @@ function resolveData(ticker, yahooData, alphaData) {
       log.push(`${key}: ${sources[0].name}=${sources[0].value} ${sources[0].currency}, Resolved=${resolved[key]} ${currency}`);
     } else {
       const variance = Math.max(...sources.map(s1 => Math.max(...sources.map(s2 => Math.abs(s1.value - s2.value)))));
-      if (variance > CAD_THRESHOLD * (key.includes('value') ? 1e6 : 1)) { // Adjust threshold for large values
+      if (variance > CAD_THRESHOLD * (key.includes('value') ? 1e6 : 1)) {
         console.warn(`High ${key} variance for ${ticker}: ${sources.map(s => `${s.name}=${s.value} ${s.currency}`).join(', ')}`);
         resolved[key] = yahooData[key] || sources[0].value; // Prefer Yahoo
       } else {
@@ -112,10 +113,10 @@ function resolveData(ticker, yahooData, alphaData) {
       }
       log.push(`${key}: ${sources.map(s => `${s.name}=${s.value} ${s.currency}`).join(', ')}, Variance=${variance.toFixed(2)}, Resolved=${resolved[key].toFixed(0)} ${currency}`);
     }
-    resolved[`${key.split('_')[0]}_currency`] = currency; // Set expected currency
+    resolved[`${key.split('_')[0]}_currency`] = currency;
   });
 
-  fs.appendFileSync(LOG_FILE, log.join('\n') + '\n');
+  await fs.appendFile(LOG_FILE, log.join('\n') + '\n');
   return resolved;
 }
 
@@ -132,30 +133,42 @@ async function updateJsonFile(ticker, data) {
   await fs.writeFile(filePath, JSON.stringify(jsonData, null, 2));
 }
 
+// Main function
 async function main() {
-  const csvData = await fs.readFile(CSV_FILE, 'utf8');
-  const companies = parse(csvData, { columns: true, skip_empty_lines: true });
+  try {
+    const csvData = await fs.readFile(CSV_FILE, 'utf8');
+    const cleanedCsvData = csvData.trim().replace(/^\ufeff/, ''); // Remove BOM and trim
+    const companies = parse(cleanedCsvData, { columns: true, skip_empty_lines: true, trim: true });
+    console.log(`Parsed ${companies.length} companies from CSV:`);
+    console.log(companies.map(c => c.TICKER).join(', ')); // Log tickers for verification
 
-  for (const { TICKER: ticker } of companies) {
-    console.log(`Processing ${ticker}`);
+    for (const company of companies) {
+      const ticker = company.TICKER;
+      if (!ticker || ticker === 'undefined') {
+        console.error(`Invalid ticker found: ${JSON.stringify(company)}`);
+        await fs.appendFile(LOG_FILE, `[${new Date().toISOString()}] Skipping invalid ticker: ${JSON.stringify(company)}\n`);
+        continue;
+      }
+      console.log(`Processing ${ticker}`);
 
-    // Fetch from Yahoo
-    const yahooData = await fetchYahooFinancials(ticker);
-    await delay(DELAY_BETWEEN_CALLS); // Ensure spacing before Alpha Vantage
+      // Fetch from Yahoo
+      const yahooData = await fetchYahooFinancials(ticker);
+      await delay(DELAY_BETWEEN_CALLS); // Spacing before Alpha Vantage
 
-    // Fetch from Alpha Vantage
-    const alphaData = await fetchAlphaVantageFinancials(ticker);
+      // Fetch from Alpha Vantage
+      const alphaData = await fetchAlphaVantageFinancials(ticker);
 
-    // Resolve and update
-    const resolvedData = resolveData(ticker, yahooData, alphaData);
-    await updateJsonFile(ticker, resolvedData);
+      // Resolve and update
+      const resolvedData = await resolveData(ticker, yahooData, alphaData);
+      await updateJsonFile(ticker, resolvedData);
 
-    console.log(`Updated ${ticker} with financials`);
-    await delay(DELAY_BETWEEN_CALLS); // Respect Alpha Vantage rate limit
+      console.log(`Updated ${ticker} with financials`);
+      await delay(DELAY_BETWEEN_CALLS); // Respect Alpha Vantage rate limit
+    }
+  } catch (err) {
+    console.error('Main failed:', err);
+    await fs.appendFile(LOG_FILE, `[${new Date().toISOString()}] Main failed: ${err.message}\n`);
   }
 }
 
-main().catch(err => {
-  console.error('Main failed:', err);
-  fs.appendFileSync(LOG_FILE, `[${new Date().toISOString()}] Main failed: ${err.message}\n`);
-});
+main();
