@@ -7,13 +7,14 @@ const path = require('path');
 const { parse } = require('csv-parse/sync');
 const readline = require('readline').createInterface({ input: process.stdin, output: process.stdout });
 
-const CSV_FILE = 'public/data/companies.csv';
-const DATA_DIR = 'public/data/';
-const LOG_FILE = 'mining_population_log.txt';
-const MAX_RETRIES = 3;
-const BASE_DELAY = 30000;
-const TIMEOUT = 60000;
-const TEST_TICKERS = ['AAB.TO', 'AAG.V', 'AAN.V'];
+// Configuration
+const CSV_FILE = 'public/data/companies.csv'; // CSV with TICKER and NAME columns
+const DATA_DIR = 'public/data/';              // Directory for output JSON files
+const LOG_FILE = 'mining_population_log.txt'; // Log file
+const MAX_RETRIES = 3;                        // Retry attempts for failed fetches
+const BASE_DELAY = 30000;                     // Base delay in ms (30s)
+const TIMEOUT = 60000;                        // Page load timeout in ms (60s)
+const TEST_TICKERS = ['AAB.TO', 'AAG.V', 'AAN.V']; // Test tickers
 
 // User agents for rotation
 const USER_AGENTS = [
@@ -22,14 +23,14 @@ const USER_AGENTS = [
   'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36'
 ];
 
-// Helper function for randomized delays
+// Helper: Randomized delay to avoid bot detection
 async function delay(ms, message = 'Delaying') {
-  const randomDelay = ms + Math.floor(Math.random() * 10000);
+  const randomDelay = ms + Math.floor(Math.random() * 10000); // 30-40s
   console.log(`[${new Date().toISOString()}] ${message} for ${randomDelay}ms`);
   return new Promise(resolve => setTimeout(resolve, randomDelay));
 }
 
-// Fetch page with retry logic
+// Helper: Fetch page with retry logic
 async function fetchWithRetry(page, url, ticker, source, retries = MAX_RETRIES) {
   for (let i = 0; i < retries; i++) {
     try {
@@ -52,12 +53,12 @@ async function fetchWithRetry(page, url, ticker, source, retries = MAX_RETRIES) 
   throw new Error(`Failed to load ${source} URL ${url} after ${retries} attempts`);
 }
 
-// Manual input helper
+// Helper: Manual input prompt
 async function promptUser(query) {
   return new Promise(resolve => readline.question(query, resolve));
 }
 
-// Crafty name normalization for URLs
+// Helper: Normalize company names for URLs
 function urlFriendlyName(name) {
   return normalizeName(name).replace(/\s+/g, '-');
 }
@@ -78,7 +79,7 @@ async function deepSearchTicker(ticker, name) {
 
   let miningData = { reserves_au_moz: 0, resources_au_moz: 0, production_total_au_eq_koz: 0, aisc_last_year_value: 0 };
 
-  // **Step 1: SEDAR+ with Manual Intervention and Automated Fallback**
+  // Step 1: SEDAR+ with Manual Intervention and Automated Fallback
   console.log(`[${new Date().toISOString()}] Opening SEDAR+ for ${ticker} (${name})`);
   await page.goto('https://www.sedarplus.ca/landingpage/', { waitUntil: 'networkidle0' });
   console.log('Please search for the company and navigate to the NI 43-101 report if available.');
@@ -129,7 +130,7 @@ async function deepSearchTicker(ticker, name) {
   }
   await delay(BASE_DELAY, `Pausing after SEDAR+ for ${ticker}`);
 
-  // **Step 2: Google Investor Relations with Manual and Automated Hybrid**
+  // Step 2: Google Investor Relations with Manual and Automated Hybrid
   console.log(`[${new Date().toISOString()}] Opening Google for ${name} investor relations`);
   const googleUrl = `https://www.google.com/search?q=${encodeURIComponent(name)}+investor+relations+site:*.ca+-inurl:(signup+login)`;
   await page.goto(googleUrl, { waitUntil: 'networkidle0' });
@@ -171,7 +172,7 @@ async function deepSearchTicker(ticker, name) {
   }
   await delay(BASE_DELAY, `Pausing after Google IR for ${ticker}`);
 
-  // **Step 3: MiningFeeds Automated Extraction**
+  // Step 3: MiningFeeds Automated Extraction
   const exchange = ticker.endsWith('.TO') ? 'tsx' : ticker.endsWith('.V') ? 'tsxv' : 'cse';
   const miningFeedsUrl = `https://www.miningfeeds.com/stock/${urlFriendlyName(name)}-${exchange}`;
   try {
