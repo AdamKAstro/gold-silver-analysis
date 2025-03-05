@@ -1,0 +1,141 @@
+Percentage in Gold
+Percentage in Silver
+
+Reserves, precious
+M&I resources, precious (As per "Resources, Precious" but omits the inferred component of that resource.
+
+M&I is a more conservative form of resource. Sometimes inferred resources are withdrawn when an assumption underlying them is found to be false. Sometimes inferred resources prove to be too optimistic when more drilling is conducted to upgrade them to "indicated," as the prospect of mining approaches. In North America, inferred resources are not even allowed to be added to the M&I resources, which helps prevent investors from mistaking inferred resources as M&I resources.)
+
+Resources, precious
+Potential, precious
+Mineable, precious
+
+Reserves, non-precious (The non-precious metals (those other than gold, silver, platinum, palladium, rhodium, iridium) in the company's mining reserves, in gold equivalent ounces. Only includes the company's JORC and NI43-101 estimates.
+
+Otherwise as per "Reserves, Precious" cell. See the comments on the "Reserves, Precious" cell for details of the non-precious reserves.
+
+This cell is automatically filled in from the "Mineral Estimates")
+
+M&I resources, non-precious (As per "Resources, Non-Precious" but omits the inferred component of that resource.
+
+M&I is a more conservative form of resource. Sometimes inferred resources are withdrawn when an assumption underlying them is found to be false. Sometimes inferred resources prove to be too optimistic when more drilling is conducted to upgrade them to "indicated," as the prospect of mining approaches. In North America, inferred resources are not even allowed to be added to the M&I resources, which helps prevent investors from mistaking inferred resources as M&I resources.)
+
+Resources, non-precious (The non-precious metals (those other than gold, silver, platinum, palladium, rhodium, iridium) in the company's tenements, in gold equivalent ounces, that are likely to be of interest at today's prices. Only includes the company's JORC and NI43-101 estimates.
+
+Otherwise as per "Resources, Precious" cell. See the comments on the "Resources, Precious" cell for details of the non-precious resources.
+
+This cell is automatically filled in from the "Mineral Estimates" window )
+
+Potential, non-precious (The non-precious metals (those otehr than gold, silver, platinum, palladium, rhodium, iridium) in the company's tenements, in gold equivalent ounces, that are likely to be of interest at today's prices. This differs from "Resources Precious" by including estimates that are of lower standard than JORC or NI43-101 estimates.
+
+Otherwise as per "Potential, Precious" cell. See the comments on the "Potential, Precious" cell for details of the non-precious potentials.
+
+This cell is automatically filled in from the "Mineral Estimates" window)
+
+Mineable, non-precious (The sum of "Mineable, Precious" and "Mineable, Non-precious", in Moz of AuEq.
+
+The amount of all the metals in the company's tenements, in gold equivalent ounces, likely to ever be mined from the company's tenements.
+
+GoldNerds introduce the measure of "mineable" in order to compare deposits that are variously estimated by a reserve, a resource, and/or a potential. Feel free to change the definition of mineable yourself on the "Customization" sheet. See the help on "Mineable, Precious".
+
+Only the company's attributed shares of projects are included. Minerals that might be considered by-products of a mining operation are included.)
+
+Reserves, all (The sum of "Reserves, Precious" and "Reserves, Non-precious", in Moz of AuEq. 
+
+The amount of all the metals in the company's reserves, in gold equivalent ounces. Only includes the company's JORC and NI43-101 estimates.
+
+Only the company's attributed shares of projects are included. Minerals that might be considered by-products of a mining operation are included.)
+
+
+M&I resources, all (As per "Resources, All" but omits the inferred component of that resource.
+
+M&I is a more conservative form of resource. Sometimes inferred resources are withdrawn when an assumption underlying them is found to be false. Sometimes inferred resources prove to be too optimistic when more drilling is conducted to upgrade them to "indicated," as the prospect of mining approaches. In North America, inferred resources are not even allowed to be added to the M&I resources, which helps prevent investors from mistaking inferred resources as M&I resources.)
+
+Resources, all (The sum of "Resources, Precious" and "Resources, Non-precious", in Moz of AuEq.
+
+The amount of all minerals on the company's tenements (ignoring ore whose grade is uneconomic in the forseeable future). Only includes the company's JORC and NI43-101 estimates.
+
+Only the company's attributed shares of projects are included. Minerals that might be considered by-products of a mining operation are included.)
+
+
+Potential, all  The sum of "Potential, Precious" and "Potential, Non-precious", in Moz of AuEq. 
+
+This differs from "Resources, All" by including estimates that are of lower standard than JORC or NI43-101 estimates. See the help for "Potential, Precious".
+
+Only the company's attributed shares of projects are included. Minerals that might be considered by-products of a mining operation are included.)
+
+Mineable, all (The sum of "Mineable, Precious" and "Mineable, Non-precious", in Moz of AuEq.
+
+The amount of all the metals in the company's tenements, in gold equivalent ounces, likely to ever be mined from the company's tenements.
+
+Need to introduce the measure of "mineable" in order to compare deposits that are variously estimated by a reserve, a resource, and/or a potential"
+
+Only the company's attributed shares of projects are included. Minerals that might be considered by-products of a mining operation are included.)
+
+By-products, all (The subset of "Mineable, All" consisting of by-products on the current or planned mining operations, in Moz of AuEq.
+
+This column is only used as an intermediate computation for computing Total Cost of Ownership (TCO). We need to separate out the by-products from the other minerals for computing the TCO, to avoid double-counting them. The byproducts contribute to the TCO by lowering the production cost, so they should not also contribute to the TCO as in-ground minerals.
+
+This cell is automatically filled in from the "Mineral Estimates" window)
+
+Mkt Cap / Reserve Oz, precious (The market capitalization of the company (in dollars) divided by the company's reserves of precious metals (gold, silver, platinum, palladium, rhodium, iridium) (in gold equivalent ounces).
+
+This is one of several measure of the value of a company's in-ground minerals, in dollars-per-(gold equivalent)-ounce. They are the basic yardsticks for valuing mining companies. See the link below to the In-ground Cost Per Ounce.)
+
+Mkt Cap / M&I-resource Oz, precious (As per "Market Capitalization Per Resource Ounce, Precious" but omits the inferred component of that resource.
+
+M&I is a more conservative form of resource. Sometimes inferred resources are withdrawn when an assumption underlying them is found to be false. Sometimes inferred resources prove to be too optimistic when more drilling is conducted to upgrade them to "indicated," as the prospect of mining approaches. In North America, inferred resources are not even allowed to be added to the M&I resources, which helps prevent investors from mistaking inferred resources as M&I resources.)
+
+Mkt Cap / Resource Oz, precious (The market capitalization of the company (in dollars) divided by the company's resources of precious metals (gold, silver, platinum, palladium, rhodium) (in gold equivalent ounces).
+
+This is one of several measure of the value of a company's in-ground minerals, in dollars-per-(gold equivalent)-ounce. They are the basic yardsticks for valuing mining companies. See the link below to the In-ground Cost Per Ounce.)
+
+Mkt Cap / Mineable Oz, precious (The market capitalization of the company (in dollars) divided by the company's mineable precious metals (gold, silver, platinum, palladium, rhodium, iridium) (in gold equivalent ounces).
+
+This is one of several measure of the value of a company's in-ground minerals, in dollars-per-(gold equivalent)-ounce. They are the basic yardsticks for valuing mining companies. See the link below to the In-ground Cost Per Ounce.)
+
+Mkt Cap / Reserve Oz, all
+Mkt Cap / M&I-resource Oz, all (As per "Market Capitalization Per Resource Ounce, All" but omits the inferred component of that resource.
+
+M&I is a more conservative form of resource. Sometimes inferred resources are withdrawn when an assumption underlying them is found to be false. Sometimes inferred resources prove to be too optimistic when more drilling is conducted to upgrade them to "indicated," as the prospect of mining approaches. In North America, inferred resources are not even allowed to be added to the M&I resources, which helps prevent investors from mistaking inferred resources as M&I resources.)
+
+Mkt Cap / Resource Oz, all
+Mkt Cap / Mineable Oz, all
+
+EV / Reserve Oz, precious (The enterprise value (EV) of the company (in dollars) divided by the company's reserves of precious metals (gold, silver, platinum, palladium, rhodium, iridium) (in gold equivalent ounces).
+
+This is one of several measure of the value of a company's in-ground minerals, in dollars-per-(gold equivalent)-ounce. They are the basic yardsticks for valuing mining companies. See the link below to the In-ground Cost Per Ounce.)
+
+EV / M&I-resource Oz, precious (As per "EV Per Resource Ounce, Precious" but omits the inferred component of that resource.
+
+M&I is a more conservative form of resource. Sometimes inferred resources are withdrawn when an assumption underlying them is found to be false. Sometimes inferred resources prove to be too optimistic when more drilling is conducted to upgrade them to "indicated," as the prospect of mining approaches. In North America, inferred resources are not even allowed to be added to the M&I resources, which helps prevent investors from mistaking inferred resources as M&I resources.)
+
+EV / Resource Oz, precious (The enterprise value (EV) of the company (in dollars) divided by the company's resources of precious metals (gold, silver, platinum, palladium, rhodium, iridium) (in gold equivalent ounces).
+
+This is one of several measure of the value of a company's in-ground minerals, in dollars-per-(gold equivalent)-ounce. They are the basic yardsticks for valuing mining companies. See the link below to the In-ground Cost Per Ounce.) 
+
+EV / Mineable Oz, precious (The enterprise value (EV) of the company (in dollars) divided by the company's mineable precious metals (gold, silver, platinum, palladium, rhodium, iridium) (in gold equivalent ounces).
+
+This is one of several measure of the value of a company's in-ground minerals, in dollars-per-(gold equivalent)-ounce. They are the basic yardsticks for valuing mining companies. See the link below to the In-ground Cost Per Ounce.)
+
+EV / Reserve Oz, all
+EV / M&I-resource Oz, all (As per "EV Per Resource Ounce, All" but omits the inferred component of that resource.
+
+M&I is a more conservative form of resource. Sometimes inferred resources are withdrawn when an assumption underlying them is found to be false. Sometimes inferred resources prove to be too optimistic when more drilling is conducted to upgrade them to "indicated," as the prospect of mining approaches. In North America, inferred resources are not even allowed to be added to the M&I resources, which helps prevent investors from mistaking inferred resources as M&I resources.)
+
+EV / Resource Oz, all
+EV / Mineable Oz, all
+
+Current Production, precious
+Current Production, non-precious (Same as "Current Production, Precious", but for any non-precious metals, in koz of gold equivalent ounces per year.
+
+This is only reported if a metal other than gold or silver (typically copper) is the main product or is co-costed. 
+
+If gold is the main mineral produced then the cost of production is given for gold, in which case any other minerals produced are by-products. By-product minerals are sold and the income thus received is taken off the cost of producing the gold. Such by-product credits can be very substantial. For example, Newcrest's Cadia mine produces mainly gold but also so much copper that in some quarters the copper credits pay for all the mining costs or even more, in which the cost of gold produciton is zero or even negative!)
+
+Current Production, all (Sum of "Current Production" and "Current Production Non-Precious", in koz of AuEq per year.)
+
+Future Production, all
+Reserve Life
+Mkt Cap / Production Oz, all
+EV / Production Oz, all

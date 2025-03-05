@@ -1,0 +1,44 @@
+i notice on https://finance.yahoo.com/quote/AAG.V/key-statistics/
+we should be extracting 
+
+Market Cap 	138.24M
+Enterprise Value 	137.53M	
+Trailing P/E 	
+Forward P/E 	
+PEG Ratio (5yr expected) 	
+Price/Sales 	
+Price/Book 	
+Enterprise Value/Revenue 	
+Enterprise Value/EBITDA
+
+
+and from 
+https://finance.yahoo.com/quote/AAG.V/financials/
+
+Cost of Revenue
+Gross Profit
+Operating Expense
+Operating Income
+Net Non Operating Interest Income Expense
+Other Income Expense
+Pretax Income
+Net Income Common Stockholders
+Diluted NI Available to Com Stockholders
+Basic EPS
+Diluted EPS
+Basic Average Shares
+Diluted Average Shares
+Total Expenses
+Interest Income
+Interest Expense
+Net Interest Income
+Net Income from Continuing & Discontinued Operation
+Normalized Income
+EBIT
+EBITDA
+Reconciled Cost of Revenue
+Reconciled Depreciation
+Net Income from Continuing Operation Net Minority Interest
+Total Unusual Items Excluding Goodwill
+Total Unusual Items
+Normalized EBITDA

@@ -1,25 +1,27 @@
 const yahooFinance = require('yahoo-finance2').default;
-yahooFinance.suppressNotices(['yahooSurvey']); // Suppress survey notice early
+yahooFinance.suppressNotices(['yahooSurvey']);
 const axios = require('axios');
 const fs = require('fs').promises;
-const path = require('path');
 const { parse } = require('csv-parse/sync');
+const sqlite3 = require('sqlite3').verbose();
 
 const CSV_FILE = 'public/data/companies.csv';
-const DATA_DIR = 'public/data/';
 const LOG_FILE = 'financial_population_log.txt';
 const ALPHA_VANTAGE_KEY = 'BIV80TT696VJIUL2';
-const CALLS_PER_MINUTE = 4.5; // Stay under 5 calls/minute
-const DELAY_BETWEEN_CALLS = Math.ceil(60000 / CALLS_PER_MINUTE); // ~13.33s
-const MAX_RETRIES = 3; // Retries per API call
-const CAD_THRESHOLD = 0.02; // Variance threshold for merging
+const CALLS_PER_MINUTE = 4.5;
+const DELAY_BETWEEN_CALLS = Math.ceil(60000 / CALLS_PER_MINUTE); // ~13.3 seconds
+const MAX_RETRIES = 3;
+const CAD_THRESHOLD = 0.02;
 
-// Helper function for delays
+const db = new sqlite3.Database('./mining_companies.db', (err) => {
+  if (err) console.error('Database connection error:', err);
+  else console.log('Connected to database for financial population.');
+});
+
 async function delay(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
-// Fetch from Yahoo Finance
 async function fetchYahooFinancials(ticker) {
   for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
     try {
@@ -39,15 +41,18 @@ async function fetchYahooFinancials(ticker) {
         currency_net_income: 'USD'
       };
     } catch (e) {
-      console.error(`Yahoo fetch attempt ${attempt + 1} failed for ${ticker}: ${e.message}`);
-      if (attempt < MAX_RETRIES - 1) await delay(5000 * Math.pow(2, attempt)); // Exponential backoff
+      console.error(`Yahoo fetch attempt ${attempt + 1} failed for ${ticker}:`, e.message);
+      if (e.response) {
+        console.error('Status:', e.response.status);
+        console.error('Data:', e.response.data);
+      }
+      if (attempt < MAX_RETRIES - 1) await delay(5000 * Math.pow(2, attempt));
     }
   }
   console.error(`Yahoo fetch exhausted retries for ${ticker}`);
   return null;
 }
 
-// Fetch from Alpha Vantage
 async function fetchAlphaVantageFinancials(ticker) {
   const baseUrl = 'https://www.alphavantage.co/query';
   for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
@@ -61,7 +66,7 @@ async function fetchAlphaVantageFinancials(ticker) {
       return {
         cash_value: latestBalance.cashAndCashEquivalentsAtCarryingValue ? parseFloat(latestBalance.cashAndCashEquivalentsAtCarryingValue) : null,
         debt_value: latestBalance.longTermDebt ? parseFloat(latestBalance.longTermDebt) : null,
-        enterprise_value_value: null, // Alpha Vantage doesn’t provide this directly
+        enterprise_value_value: null, // Alpha Vantage doesn’t provide this
         revenue_value: latestIncome.totalRevenue ? parseFloat(latestIncome.totalRevenue) : null,
         net_income_value: latestIncome.netIncome ? parseFloat(latestIncome.netIncome) : null,
         currency_cash: 'USD',
@@ -71,7 +76,7 @@ async function fetchAlphaVantageFinancials(ticker) {
         currency_net_income: 'USD'
       };
     } catch (e) {
-      console.error(`Alpha Vantage fetch attempt ${attempt + 1} failed for ${ticker}: ${e.message}`);
+      console.error(`Alpha Vantage fetch attempt ${attempt + 1} failed for ${ticker}:`, e.message);
       if (attempt < MAX_RETRIES - 1) await delay(5000 * Math.pow(2, attempt));
     }
   }
@@ -79,7 +84,6 @@ async function fetchAlphaVantageFinancials(ticker) {
   return null;
 }
 
-// Resolve data from multiple sources
 async function resolveData(ticker, yahooData, alphaData) {
   const fields = [
     { key: 'cash_value', currency: 'USD' },
@@ -90,11 +94,14 @@ async function resolveData(ticker, yahooData, alphaData) {
   ];
   const resolved = {};
   const log = [`[${new Date().toISOString()}] ${ticker}`];
+  const exchangeRates = { 'USD': 1.35, 'CAD': 1.0, 'AUD': 0.90 };
 
   fields.forEach(({ key, currency }) => {
+    const yahooValue = yahooData ? yahooData[key] : null;
+    const alphaValue = alphaData ? alphaData[key] : null;
     const sources = [
-      { name: 'Yahoo', value: yahooData ? yahooData[key] : null, currency: yahooData ? yahooData[`currency_${key.split('_')[0]}`] : null },
-      { name: 'Alpha', value: alphaData ? alphaData[key] : null, currency: alphaData ? alphaData[`currency_${key.split('_')[0]}`] : null }
+      { name: 'Yahoo', value: yahooValue, currency: yahooData ? yahooData[`currency_${key.split('_')[0]}`] : null },
+      { name: 'Alpha', value: alphaValue, currency: alphaData ? alphaData[`currency_${key.split('_')[0]}`] : null }
     ].filter(s => s.value !== null);
 
     if (sources.length === 0) {
@@ -107,40 +114,61 @@ async function resolveData(ticker, yahooData, alphaData) {
       const variance = Math.max(...sources.map(s1 => Math.max(...sources.map(s2 => Math.abs(s1.value - s2.value)))));
       if (variance > CAD_THRESHOLD * (key.includes('value') ? 1e6 : 1)) {
         console.warn(`High ${key} variance for ${ticker}: ${sources.map(s => `${s.name}=${s.value} ${s.currency}`).join(', ')}`);
-        resolved[key] = yahooData[key] || sources[0].value; // Prefer Yahoo
+        resolved[key] = yahooValue || alphaValue; // Prefer Yahoo if available
       } else {
         resolved[key] = sources.reduce((sum, s) => sum + s.value, 0) / sources.length;
       }
       log.push(`${key}: ${sources.map(s => `${s.name}=${s.value} ${s.currency}`).join(', ')}, Variance=${variance.toFixed(2)}, Resolved=${resolved[key].toFixed(0)} ${currency}`);
     }
     resolved[`${key.split('_')[0]}_currency`] = currency;
+
+    const cadKey = key.replace('_value', '_cad');
+    if (resolved[key]) {
+      const rate = exchangeRates[currency] || 1;
+      resolved[cadKey] = resolved[key] * rate;
+    } else {
+      resolved[cadKey] = 0;
+    }
   });
 
   await fs.appendFile(LOG_FILE, log.join('\n') + '\n');
   return resolved;
 }
 
-// Update existing JSON file
-async function updateJsonFile(ticker, data) {
-  const filePath = path.join(DATA_DIR, `${ticker}.json`);
-  let jsonData;
-  try {
-    jsonData = JSON.parse(await fs.readFile(filePath, 'utf8'));
-  } catch (e) {
-    jsonData = { name: ticker, tsx_code: ticker }; // Minimal fallback
-  }
-  Object.assign(jsonData, data, { last_updated_financials: new Date().toISOString() });
-  await fs.writeFile(filePath, JSON.stringify(jsonData, null, 2));
+async function updateDatabase(ticker, data) {
+  const fields = [
+    'cash_value', 'cash_currency', 'cash_cad',
+    'debt_value', 'debt_currency', 'debt_cad',
+    'enterprise_value_value', 'enterprise_value_currency', 'enterprise_value_cad',
+    'revenue_value', 'revenue_currency', 'revenue_cad',
+    'net_income_value', 'net_income_currency', 'net_income_cad',
+    'last_updated'
+  ];
+  const updateFields = fields.map(field => `${field} = ?`).join(', ');
+  const values = fields.map(field => data[field] || (field === 'last_updated' ? new Date().toISOString() : 0));
+  values.push(ticker);
+
+  const sql = `UPDATE companies SET ${updateFields} WHERE tsx_code = ?`;
+  return new Promise((resolve, reject) => {
+    db.run(sql, values, function(err) {
+      if (err) {
+        console.error(`Error updating ${ticker}: ${err.message}`);
+        reject(err);
+      } else {
+        console.log(`Updated financials for ${ticker} in database`);
+        resolve();
+      }
+    });
+  });
 }
 
-// Main function
 async function main() {
   try {
     const csvData = await fs.readFile(CSV_FILE, 'utf8');
-    const cleanedCsvData = csvData.trim().replace(/^\ufeff/, ''); // Remove BOM and trim
+    const cleanedCsvData = csvData.trim().replace(/^\ufeff/, '');
     const companies = parse(cleanedCsvData, { columns: true, skip_empty_lines: true, trim: true });
     console.log(`Parsed ${companies.length} companies from CSV:`);
-    console.log(companies.map(c => c.TICKER).join(', ')); // Log tickers for verification
+    console.log(companies.map(c => c.TICKER).join(', '));
 
     for (const company of companies) {
       const ticker = company.TICKER;
@@ -151,23 +179,27 @@ async function main() {
       }
       console.log(`Processing ${ticker}`);
 
-      // Fetch from Yahoo
-      const yahooData = await fetchYahooFinancials(ticker);
-      await delay(DELAY_BETWEEN_CALLS); // Spacing before Alpha Vantage
+      let yahooData = null;
+      try {
+        yahooData = await fetchYahooFinancials(ticker);
+      } catch (e) {
+        console.error(`Failed to fetch Yahoo data for ${ticker}:`, e.message);
+      }
+      await delay(DELAY_BETWEEN_CALLS);
 
-      // Fetch from Alpha Vantage
       const alphaData = await fetchAlphaVantageFinancials(ticker);
 
-      // Resolve and update
       const resolvedData = await resolveData(ticker, yahooData, alphaData);
-      await updateJsonFile(ticker, resolvedData);
+      await updateDatabase(ticker, resolvedData);
 
       console.log(`Updated ${ticker} with financials`);
-      await delay(DELAY_BETWEEN_CALLS); // Respect Alpha Vantage rate limit
+      await delay(DELAY_BETWEEN_CALLS);
     }
   } catch (err) {
     console.error('Main failed:', err);
     await fs.appendFile(LOG_FILE, `[${new Date().toISOString()}] Main failed: ${err.message}\n`);
+  } finally {
+    db.close();
   }
 }
 

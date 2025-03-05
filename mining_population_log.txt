@@ -1,0 +1,56 @@
+[2025-03-04T01:25:28.247Z] No test tickers found
+[2025-03-04T01:34:41.823Z] Parsed 501 companies from CSV
+[2025-03-04T01:34:41.827Z] Row 1: {"TICKER":"AAB.TO","NAME":"ABERDEEN INTERNATIONAL","NAMEALT":""}
+[2025-03-04T01:34:41.829Z] Row 2: {"TICKER":"AAG.V","NAME":"AFTERMATH SILVER","NAMEALT":""}
+[2025-03-04T01:34:41.831Z] Row 3: {"TICKER":"AAN.V","NAME":"ATON RESOURCES","NAMEALT":""}
+[2025-03-04T01:34:50.602Z] Waiting for manual navigation to SEDAR+ report for 67.064s
+[2025-03-04T01:36:33.262Z] Attempt 1 to fetch SEDAR+ Search URL https://www.sedarplus.ca/landingpage/?searchText=ABERDEEN%20INTERNATIONAL&searchType=company for AAB.TO
+[2025-03-04T01:36:36.222Z] Loaded SEDAR+ Search URL https://www.sedarplus.ca/landingpage/?searchText=ABERDEEN%20INTERNATIONAL&searchType=company with status 200
+[2025-03-04T01:37:06.231Z] Pausing after SEDAR+ for AAB.TO for 34.5s
+[2025-03-04T01:37:44.609Z] Waiting for manual navigation to IR page for 68.828s
+[2025-03-04T01:39:49.861Z] Pausing after Google IR for AAB.TO for 37.931s
+[2025-03-04T01:40:27.800Z] Attempt 1 to fetch MiningFeeds URL https://www.miningfeeds.com/stock/aberdeen-international-tsx for AAB.TO
+[2025-03-04T01:40:40.858Z] Loaded MiningFeeds URL https://www.miningfeeds.com/stock/aberdeen-international-tsx with status 200
+[2025-03-04T01:40:41.220Z] Updated public\data\AAB.TO.json
+[2025-03-04T01:40:41.221Z] Pausing between tickers after AAB.TO for 30.564s
+[2025-03-04T01:41:18.961Z] Waiting for manual navigation to SEDAR+ report for 68.62s
+[2025-03-04T01:46:50.723Z] Attempt 1 to fetch SEDAR+ Search URL https://www.sedarplus.ca/landingpage/?searchText=AFTERMATH%20SILVER&searchType=company for AAG.V
+[2025-03-04T01:47:50.733Z] Attempt 1 failed for SEDAR+ Search: Navigation timeout of 60000 ms exceeded
+[2025-03-04T01:47:50.738Z] Retrying SEDAR+ Search fetch with new user agent for AAG.V for 37.061s
+[2025-03-04T01:48:27.815Z] Attempt 2 to fetch SEDAR+ Search URL https://www.sedarplus.ca/landingpage/?searchText=AFTERMATH%20SILVER&searchType=company for AAG.V
+[2025-03-04T01:49:27.829Z] Attempt 2 failed for SEDAR+ Search: Navigation timeout of 60000 ms exceeded
+[2025-03-04T01:49:27.833Z] Retrying SEDAR+ Search fetch with new user agent for AAG.V for 33.77s
+[2025-03-04T01:50:01.612Z] Attempt 3 to fetch SEDAR+ Search URL https://www.sedarplus.ca/landingpage/?searchText=AFTERMATH%20SILVER&searchType=company for AAG.V
+[2025-03-04T01:50:46.003Z] Loaded SEDAR+ Search URL https://www.sedarplus.ca/landingpage/?searchText=AFTERMATH%20SILVER&searchType=company with status 200
+[2025-03-04T01:51:16.025Z] Pausing after SEDAR+ for AAG.V for 30.078s
+[2025-03-04T01:51:49.957Z] Waiting for manual navigation to IR page for 62.29s
+[2025-03-04T02:06:10.149Z] Pausing after Google IR for AAG.V for 30.713s
+[2025-03-04T02:06:40.875Z] Attempt 1 to fetch MiningFeeds URL https://www.miningfeeds.com/stock/aftermath-silver-tsxv for AAG.V
+[2025-03-04T02:06:52.831Z] Loaded MiningFeeds URL https://www.miningfeeds.com/stock/aftermath-silver-tsxv with status 200
+[2025-03-04T02:06:53.575Z] Updated public\data\AAG.V.json
+[2025-03-04T02:06:53.577Z] Pausing between tickers after AAG.V for 33.534s
+[2025-03-04T02:07:38.937Z] Waiting for manual navigation to SEDAR+ report for 67.945s
+[2025-03-04T02:22:01.836Z] Attempt 1 to fetch SEDAR+ Search URL https://www.sedarplus.ca/landingpage/?searchText=ATON%20RESOURCES&searchType=company for AAN.V
+[2025-03-04T02:22:05.499Z] Loaded SEDAR+ Search URL https://www.sedarplus.ca/landingpage/?searchText=ATON%20RESOURCES&searchType=company with status 200
+[2025-03-04T02:22:06.753Z] Pausing after SEDAR+ for AAN.V for 38.825s
+[2025-03-04T02:22:45.583Z] Failed for AAN.V: Attempted to use detached Frame '6D42D5270648CD33737A03F9379214F4'.
+[2025-03-04T02:22:45.588Z] Updated public\data\AAN.V.json
+[2025-03-04T02:22:45.590Z] Pausing between tickers after AAN.V for 30.469s
+[2025-03-05T05:17:20.367Z] Main failed: SQLITE_ERROR: no such column: last_updated_mining
+[2025-03-05T05:19:48.478Z] Pausing after processing AAB.TO for 33.28s
+[2025-03-05T05:20:26.468Z] Pausing after processing AAG.V for 37.986s
+[2025-03-05T05:21:05.091Z] Pausing after processing AAN.V for 34.904s
+[2025-03-05T05:21:40.031Z] Pausing after processing AAUC.TO for 35.942s
+[2025-03-05T05:22:16.001Z] Pausing after processing ABI.V for 38.862s
+[2025-03-05T05:22:54.899Z] Pausing after processing ABRA.TO for 35.776s
+[2025-03-05T05:23:30.702Z] Pausing after processing ADY.V for 39.599s
+[2025-03-05T06:57:11.550Z] Main failed: Cannot read properties of undefined (reading 'reserves_gold_moz')
+[2025-03-05T07:04:23.271Z] Pausing after processing AAB.TO for 33.356s
+[2025-03-05T07:04:58.441Z] Pausing after processing AAG.V for 37.072s
+[2025-03-05T07:05:37.213Z] Pausing after processing AAN.V for 33.971s
+[2025-03-05T07:06:12.293Z] Pausing after processing AAUC.TO for 33.936s
+[2025-03-05T07:06:47.329Z] Pausing after processing ABI.V for 37.621s
+[2025-03-05T07:07:25.634Z] Pausing after processing ABRA.TO for 30.787s
+[2025-03-05T07:07:57.131Z] Pausing after processing ADY.V for 32.025s
+[2025-03-05T07:08:30.266Z] Pausing after processing ADZ.V for 32.787s
+[2025-03-05T07:09:04.177Z] Pausing after processing AE.V for 34.74s

@@ -23,5 +23,280 @@
   "production_total_au_eq_koz": 0,
   "aisc_last_year_value": 0,
   "aisc_last_year_currency": "USD",
-  "news_link": "https://www.miningfeeds.com/company/wgx/"
+  "news_link": "https://www.miningfeeds.com/company/wgx/",
+  "last_updated_mining": "2025-03-05T03:29:45.760375",
+  "resources_detailed": [
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 10.9,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 1.37,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 8.5,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 1.93,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 3.1,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 11.1,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 10.4,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 1.8,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 9.7,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 10.2,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 14.0,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 7.72,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 6.4,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 8.9,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 11.5,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 3.1,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 11.0,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 13.26,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 13.5,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 9.27,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 13.5,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 2.4,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 12.7,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 2.34,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 14.5,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 2.1,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 15.0,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 2.27,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 17.0,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 1.15,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 15.4,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 2.09,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 9.5,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 4.98,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 10.0,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 2.36,
+          "grade_unit": "g/t"
+        }
+      ]
+    },
+    {
+      "deposit": "Unknown",
+      "classification": "Unknown",
+      "material_type": null,
+      "tonnes": 9.0,
+      "metals": [
+        {
+          "metal": "au",
+          "grade": 1.83,
+          "grade_unit": "g/t"
+        }
+      ]
+    }
+  ],
+  "mining_summary": {
+    "percentage_gold": 0,
+    "percentage_silver": 0,
+    "reserves_precious_moz_aueq": 0,
+    "reserves_non_precious_moz_aueq": 0,
+    "reserves_all_moz_aueq": 0,
+    "m_and_i_resources_precious_moz_aueq": 0,
+    "m_and_i_resources_non_precious_moz_aueq": 0,
+    "m_and_i_resources_all_moz_aueq": 0,
+    "resources_precious_moz_aueq": 0,
+    "resources_non_precious_moz_aueq": 0,
+    "resources_all_moz_aueq": 0,
+    "potential_precious_moz_aueq": 0,
+    "potential_non_precious_moz_aueq": 0,
+    "potential_all_moz_aueq": 0,
+    "mineable_precious_moz_aueq": 0,
+    "mineable_non_precious_moz_aueq": 0,
+    "mineable_all_moz_aueq": 0,
+    "by_products_all_moz_aueq": 0,
+    "current_production_precious_koz_aueq": 0,
+    "current_production_non_precious_koz_aueq": 0,
+    "current_production_all_koz_aueq": 0,
+    "sources": []
+  },
+  "sources": []
 }

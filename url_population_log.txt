@@ -1,0 +1,218 @@
+[2025-03-05T06:13:03.881Z] Added yahoo_finance URL for AAB.TO: https://finance.yahoo.com/quote/AAB.TO/
+[2025-03-05T06:13:03.885Z] Main failed: delay is not defined
+[2025-03-05T06:22:13.561Z] Added overview URL for AAB.TO: https://www.juniorminingnetwork.com/mining-topics/topic/drill-results.html
+[2025-03-05T06:22:13.565Z] Added yahoo_finance URL for AAB.TO: https://finance.yahoo.com/quote/AAB.TO/
+[2025-03-05T06:22:13.568Z] Added jmn URL for AAB.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/aberdeen-international.html
+[2025-03-05T06:22:13.573Z] Main failed: delay is not defined
+[2025-03-05T06:29:19.018Z] Added yahoo_finance URL for AAB.TO: https://finance.yahoo.com/quote/AAB.TO/
+[2025-03-05T06:29:19.022Z] Added jmn URL for AAB.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/aberdeen-international.html
+[2025-03-05T06:29:19.026Z] Pausing after processing URLs for AAB.TO for 1.371s
+[2025-03-05T06:29:23.486Z] Added overview URL for AAG.V: https://vizslasilvercorp.com/
+[2025-03-05T06:29:23.490Z] Added yahoo_finance URL for AAG.V: https://finance.yahoo.com/quote/AAG.V/
+[2025-03-05T06:29:23.493Z] Added jmn URL for AAG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/aftermath-silver.html
+[2025-03-05T06:29:23.495Z] Pausing after processing URLs for AAG.V for 1.563s
+[2025-03-05T06:29:28.158Z] Added overview URL for AAN.V: https://atonresources.com
+[2025-03-05T06:29:28.161Z] Added yahoo_finance URL for AAN.V: https://finance.yahoo.com/quote/AAN.V/
+[2025-03-05T06:29:28.164Z] Pausing after processing URLs for AAN.V for 1.816s
+[2025-03-05T06:29:35.879Z] Added yahoo_finance URL for AAUC.TO: https://finance.yahoo.com/quote/AAUC.TO/
+[2025-03-05T06:29:35.884Z] Added jmn URL for AAUC.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/allied-gold.html
+[2025-03-05T06:29:35.887Z] Pausing after processing URLs for AAUC.TO for 1.17s
+[2025-03-05T06:39:11.702Z] Added homepage URL for AAB.TO: https://www.eagleroyalties.com
+[2025-03-05T06:39:11.705Z] Added jmn URL for AAB.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/aberdeen-international.html
+[2025-03-05T06:39:11.707Z] Pausing after processing URLs for AAB.TO for 1.303s
+[2025-03-05T06:39:16.121Z] Added homepage URL for AAG.V: https://kodiakcoppercorp.com
+[2025-03-05T06:39:16.124Z] Added jmn URL for AAG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/aftermath-silver.html
+[2025-03-05T06:39:16.127Z] Pausing after processing URLs for AAG.V for 1.78s
+[2025-03-05T06:39:19.750Z] Pausing after processing URLs for AAN.V for 1.455s
+[2025-03-05T06:39:24.194Z] Added homepage URL for AAUC.TO: https://freeportresources.com
+[2025-03-05T06:39:24.197Z] Added jmn URL for AAUC.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/allied-gold.html
+[2025-03-05T06:39:24.200Z] Pausing after processing URLs for AAUC.TO for 1.048s
+[2025-03-05T06:39:28.182Z] Added homepage URL for ABI.V: https://freeportresources.com
+[2025-03-05T06:39:28.184Z] Added jmn URL for ABI.V: https://www.juniorminingnetwork.com/market-data/stock-quote/abcourt-mines.html
+[2025-03-05T06:39:28.186Z] Pausing after processing URLs for ABI.V for 1.492s
+[2025-03-05T06:39:33.727Z] Added homepage URL for ABRA.TO: https://myriaduranium.com
+[2025-03-05T06:39:33.731Z] Added jmn URL for ABRA.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/abrasilver-resource.html
+[2025-03-05T06:39:33.733Z] Pausing after processing URLs for ABRA.TO for 1.34s
+[2025-03-05T06:39:36.348Z] Pausing after processing URLs for ADY.V for 1.331s
+[2025-03-05T06:39:40.886Z] Added homepage URL for ADZ.V: https://newagemetals.com
+[2025-03-05T06:39:40.890Z] Added jmn URL for ADZ.V: https://www.juniorminingnetwork.com/market-data/stock-quote/adamera-minerals.html
+[2025-03-05T06:39:40.893Z] Pausing after processing URLs for ADZ.V for 1.177s
+[2025-03-05T06:39:45.841Z] Added homepage URL for AE.V: https://www.atexresources.com
+[2025-03-05T06:39:45.844Z] Added jmn URL for AE.V: https://www.juniorminingnetwork.com/market-data/stock-quote/american-eagle-gold.html
+[2025-03-05T06:39:45.845Z] Pausing after processing URLs for AE.V for 1.758s
+[2025-03-05T06:39:52.546Z] Added homepage URL for AEM.TO: https://koulougoldcorp.com/
+[2025-03-05T06:39:52.550Z] Added jmn URL for AEM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/agnico-eagle-mines.html
+[2025-03-05T06:39:52.554Z] Pausing after processing URLs for AEM.TO for 1.679s
+[2025-03-05T06:39:57.967Z] Added homepage URL for AERO.V: https://www.atexresources.com
+[2025-03-05T06:39:57.971Z] Added jmn URL for AERO.V: https://www.juniorminingnetwork.com/market-data/stock-quote/aero-energy.html
+[2025-03-05T06:39:57.973Z] Pausing after processing URLs for AERO.V for 1.663s
+[2025-03-05T06:40:04.769Z] Added homepage URL for AG.TO: https://www.elementalroyalties.com
+[2025-03-05T06:40:04.773Z] Added jmn URL for AG.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/first-majestic-silver.html
+[2025-03-05T06:40:04.775Z] Pausing after processing URLs for AG.TO for 1.771s
+[2025-03-05T06:40:10.736Z] Added homepage URL for AGA.V: https://zodiac-gold.com
+[2025-03-05T06:40:10.741Z] Added jmn URL for AGA.V: https://www.juniorminingnetwork.com/market-data/stock-quote/silver47-exploration.html
+[2025-03-05T06:40:10.744Z] Pausing after processing URLs for AGA.V for 1.387s
+[2025-03-05T06:40:15.570Z] Added homepage URL for AGAG.V: https://koulougoldcorp.com/
+[2025-03-05T06:40:15.574Z] Added jmn URL for AGAG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/argenta-silver.html
+[2025-03-05T06:40:15.575Z] Pausing after processing URLs for AGAG.V for 1.698s
+[2025-03-05T06:40:21.344Z] Added homepage URL for AGI.TO: https://www.districtmetals.com
+[2025-03-05T06:40:21.347Z] Added jmn URL for AGI.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/alamos-gold.html
+[2025-03-05T06:40:21.349Z] Pausing after processing URLs for AGI.TO for 1s
+[2025-03-05T06:40:25.301Z] Added homepage URL for AGLD.V: https://www.corenickel.com
+[2025-03-05T06:40:25.305Z] Added jmn URL for AGLD.V: https://www.juniorminingnetwork.com/market-data/stock-quote/austral-gold.html
+[2025-03-05T06:40:25.307Z] Pausing after processing URLs for AGLD.V for 1.319s
+[2025-03-05T06:40:27.914Z] Pausing after processing URLs for AGMR.V for 1.446s
+[2025-03-05T06:40:30.611Z] Pausing after processing URLs for AGX.V for 1.316s
+[2025-03-05T06:40:33.061Z] Pausing after processing URLs for ALDE.V for 1.225s
+[2025-03-05T06:40:36.850Z] Added homepage URL for ALEX.V: https://newagemetals.com
+[2025-03-05T06:40:36.853Z] Added jmn URL for ALEX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/alpha-exploration.html
+[2025-03-05T06:40:36.856Z] Pausing after processing URLs for ALEX.V for 1.423s
+[2025-03-05T06:40:40.777Z] Added jmn URL for ALTA.V: https://www.juniorminingnetwork.com/market-data/stock-quote/altamira-gold.html
+[2025-03-05T06:40:40.779Z] Pausing after processing URLs for ALTA.V for 1.629s
+[2025-03-05T06:40:45.133Z] Added homepage URL for AMC.TO: https://freeportresources.com
+[2025-03-05T06:40:45.136Z] Added jmn URL for AMC.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/arizona-metals.html
+[2025-03-05T06:40:45.138Z] Pausing after processing URLs for AMC.TO for 1.85s
+[2025-03-05T06:40:50.534Z] Added homepage URL for AMQ.CN: https://www.elementalroyalties.com
+[2025-03-05T06:40:50.538Z] Added jmn URL for AMQ.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/abitibi-metals.html
+[2025-03-05T06:40:50.541Z] Pausing after processing URLs for AMQ.CN for 1.717s
+[2025-03-05T06:40:55.282Z] Added homepage URL for AMRQ.V: https://www.eagleroyalties.com
+[2025-03-05T06:40:55.284Z] Added jmn URL for AMRQ.V: https://www.juniorminingnetwork.com/market-data/stock-quote/amaroq-minerals.html
+[2025-03-05T06:40:55.286Z] Pausing after processing URLs for AMRQ.V for 1.762s
+[2025-03-05T06:40:59.989Z] Added homepage URL for AMX.V: https://www.eagleroyalties.com
+[2025-03-05T06:40:59.993Z] Added jmn URL for AMX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/amex-exploration.html
+[2025-03-05T06:40:59.996Z] Pausing after processing URLs for AMX.V for 1.093s
+[2025-03-05T06:41:02.367Z] Pausing after processing URLs for ANK.V for 1.615s
+[2025-03-05T06:41:07.908Z] Added homepage URL for ANTL.V: https://k2gold.com
+[2025-03-05T06:41:07.911Z] Added jmn URL for ANTL.V: https://www.juniorminingnetwork.com/market-data/stock-quote/antler-gold.html
+[2025-03-05T06:41:07.915Z] Pausing after processing URLs for ANTL.V for 1.957s
+[2025-03-05T06:41:11.657Z] Pausing after processing URLs for AOT.TO for 1.328s
+[2025-03-05T06:41:14.224Z] Pausing after processing URLs for APGO.V for 1.479s
+[2025-03-05T06:41:18.844Z] Added homepage URL for APM.TO: https://zodiac-gold.com
+[2025-03-05T06:41:18.847Z] Added jmn URL for APM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/andean-precious-metals.html
+[2025-03-05T06:41:18.850Z] Pausing after processing URLs for APM.TO for 1.221s
+[2025-03-05T06:41:21.543Z] Pausing after processing URLs for ARIC.V for 1.754s
+[2025-03-05T06:41:24.548Z] Pausing after processing URLs for ARIS.TO for 1.214s
+[2025-03-05T06:41:28.525Z] Added homepage URL for ARK.V: https://freeportresources.com
+[2025-03-05T06:41:28.529Z] Added jmn URL for ARK.V: https://www.juniorminingnetwork.com/market-data/stock-quote/arras-minerals.html
+[2025-03-05T06:41:28.532Z] Pausing after processing URLs for ARK.V for 1.999s
+[2025-03-05T06:41:33.842Z] Added homepage URL for ARTG.V: https://ruagold.com
+[2025-03-05T06:41:33.846Z] Added jmn URL for ARTG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/artemis-gold.html
+[2025-03-05T06:41:33.849Z] Pausing after processing URLs for ARTG.V for 1.961s
+[2025-03-05T06:41:37.820Z] Pausing after processing URLs for ARU.V for 1.74s
+[2025-03-05T06:41:42.482Z] Added homepage URL for ASE.CN: https://copperexcorp.com
+[2025-03-05T06:41:42.487Z] Added jmn URL for ASE.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/asante-gold.html
+[2025-03-05T06:41:42.489Z] Pausing after processing URLs for ASE.CN for 1.579s
+[2025-03-05T06:41:46.773Z] Added homepage URL for ASM.TO: https://www.eagleroyalties.com
+[2025-03-05T06:41:46.776Z] Added jmn URL for ASM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/avino-silver--gold-mines.html
+[2025-03-05T06:41:46.778Z] Pausing after processing URLs for ASM.TO for 1.63s
+[2025-03-05T06:41:52.304Z] Added homepage URL for ASTR.V: https://newcoregold.com
+[2025-03-05T06:41:52.307Z] Added jmn URL for ASTR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/astra-exploration.html
+[2025-03-05T06:41:52.309Z] Pausing after processing URLs for ASTR.V for 1.404s
+[2025-03-05T06:41:56.902Z] Added homepage URL for ATHA.CN: https://newagemetals.com
+[2025-03-05T06:41:56.905Z] Added jmn URL for ATHA.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/athena-gold.html
+[2025-03-05T06:41:56.908Z] Pausing after processing URLs for ATHA.CN for 1.734s
+[2025-03-05T06:42:42.694Z] Added jmn URL for AAB.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/aberdeen-international.html
+[2025-03-05T06:42:42.696Z] Pausing after processing URLs for AAB.TO for 1.535s
+[2025-03-05T06:42:47.549Z] Added jmn URL for AAG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/aftermath-silver.html
+[2025-03-05T06:42:47.551Z] Pausing after processing URLs for AAG.V for 1.984s
+[2025-03-05T06:42:51.410Z] Pausing after processing URLs for AAN.V for 1.507s
+[2025-03-05T06:45:39.425Z] Retrying URL validation for https://finance.yahoo.com/quote/AAB.TO/ for 2.395s
+[2025-03-05T06:45:42.735Z] Retrying URL validation for https://finance.yahoo.com/quote/AAB.TO/ for 2.591s
+[2025-03-05T06:45:49.393Z] Added jmn URL for AAB.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/aberdeen-international.html
+[2025-03-05T06:45:49.397Z] Pausing after processing URLs for AAB.TO for 1.212s
+[2025-03-05T06:45:51.461Z] Retrying URL validation for https://finance.yahoo.com/quote/AAG.V/ for 2.306s
+[2025-03-05T06:45:54.633Z] Retrying URL validation for https://finance.yahoo.com/quote/AAG.V/ for 2.517s
+[2025-03-05T06:46:00.819Z] Added jmn URL for AAG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/aftermath-silver.html
+[2025-03-05T06:46:00.821Z] Pausing after processing URLs for AAG.V for 1.53s
+[2025-03-05T06:46:03.875Z] Retrying URL validation for https://finance.yahoo.com/quote/AAN.V/ for 2.138s
+[2025-03-05T06:46:06.849Z] Retrying URL validation for https://finance.yahoo.com/quote/AAN.V/ for 2.343s
+[2025-03-05T06:46:10.939Z] Pausing after processing URLs for AAN.V for 1.233s
+[2025-03-05T06:46:13.030Z] Retrying URL validation for https://finance.yahoo.com/quote/AAUC.TO/ for 2.116s
+[2025-03-05T06:46:16.083Z] Retrying URL validation for https://finance.yahoo.com/quote/AAUC.TO/ for 2.403s
+[2025-03-05T06:46:22.916Z] Added jmn URL for AAUC.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/allied-gold.html
+[2025-03-05T06:46:22.918Z] Pausing after processing URLs for AAUC.TO for 1.614s
+[2025-03-05T06:46:25.362Z] Retrying URL validation for https://finance.yahoo.com/quote/ABI.V/ for 2.233s
+[2025-03-05T06:46:28.394Z] Retrying URL validation for https://finance.yahoo.com/quote/ABI.V/ for 2.4s
+[2025-03-05T06:46:33.990Z] Added jmn URL for ABI.V: https://www.juniorminingnetwork.com/market-data/stock-quote/abcourt-mines.html
+[2025-03-05T06:46:33.995Z] Pausing after processing URLs for ABI.V for 1.315s
+[2025-03-05T06:46:36.193Z] Retrying URL validation for https://finance.yahoo.com/quote/ABRA.TO/ for 2.957s
+[2025-03-05T06:46:40.086Z] Retrying URL validation for https://finance.yahoo.com/quote/ABRA.TO/ for 2.256s
+[2025-03-05T06:46:46.024Z] Added jmn URL for ABRA.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/abrasilver-resource.html
+[2025-03-05T06:46:46.026Z] Pausing after processing URLs for ABRA.TO for 1.953s
+[2025-03-05T06:46:48.872Z] Retrying URL validation for https://finance.yahoo.com/quote/ADY.V/ for 2.182s
+[2025-03-05T06:46:51.985Z] Retrying URL validation for https://finance.yahoo.com/quote/ADY.V/ for 2.535s
+[2025-03-05T06:46:56.346Z] Pausing after processing URLs for ADY.V for 1.891s
+[2025-03-05T06:46:59.163Z] Retrying URL validation for https://finance.yahoo.com/quote/ADZ.V/ for 2.533s
+[2025-03-05T06:47:02.505Z] Retrying URL validation for https://finance.yahoo.com/quote/ADZ.V/ for 2.808s
+[2025-03-05T06:47:11.014Z] Added jmn URL for ADZ.V: https://www.juniorminingnetwork.com/market-data/stock-quote/adamera-minerals.html
+[2025-03-05T06:47:11.016Z] Pausing after processing URLs for ADZ.V for 1.524s
+[2025-03-05T06:47:13.425Z] Retrying URL validation for https://finance.yahoo.com/quote/AE.V/ for 2.453s
+[2025-03-05T06:47:16.762Z] Retrying URL validation for https://finance.yahoo.com/quote/AE.V/ for 2.111s
+[2025-03-05T06:47:22.193Z] Added jmn URL for AE.V: https://www.juniorminingnetwork.com/market-data/stock-quote/american-eagle-gold.html
+[2025-03-05T06:47:22.196Z] Pausing after processing URLs for AE.V for 1.601s
+[2025-03-05T06:47:24.919Z] Retrying URL validation for https://finance.yahoo.com/quote/AEM.TO/ for 2.751s
+[2025-03-05T06:47:28.676Z] Retrying URL validation for https://finance.yahoo.com/quote/AEM.TO/ for 2.301s
+[2025-03-05T06:47:36.479Z] Added jmn URL for AEM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/agnico-eagle-mines.html
+[2025-03-05T06:47:36.482Z] Pausing after processing URLs for AEM.TO for 1.385s
+[2025-03-05T06:47:38.775Z] Retrying URL validation for https://finance.yahoo.com/quote/AERO.V/ for 2.7s
+[2025-03-05T06:47:42.365Z] Retrying URL validation for https://finance.yahoo.com/quote/AERO.V/ for 2.086s
+[2025-03-05T06:47:49.291Z] Added jmn URL for AERO.V: https://www.juniorminingnetwork.com/market-data/stock-quote/aero-energy.html
+[2025-03-05T06:47:49.293Z] Pausing after processing URLs for AERO.V for 1.607s
+[2025-03-05T06:47:51.785Z] Retrying URL validation for https://finance.yahoo.com/quote/AG.TO/ for 2.313s
+[2025-03-05T06:47:55.008Z] Retrying URL validation for https://finance.yahoo.com/quote/AG.TO/ for 2.393s
+[2025-03-05T06:48:01.185Z] Added jmn URL for AG.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/first-majestic-silver.html
+[2025-03-05T06:48:01.187Z] Pausing after processing URLs for AG.TO for 1.081s
+[2025-03-05T06:48:03.352Z] Retrying URL validation for https://finance.yahoo.com/quote/AGA.V/ for 2.048s
+[2025-03-05T06:55:19.851Z] Added yahoo_finance URL for AAB.TO: https://finance.yahoo.com/quote/AAB.TO/
+[2025-03-05T06:55:19.855Z] Added jmn URL for AAB.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/aberdeen-international.html
+[2025-03-05T06:55:19.861Z] Pausing after processing URLs for AAB.TO for 1.822s
+[2025-03-05T06:55:23.655Z] Added yahoo_finance URL for AAG.V: https://finance.yahoo.com/quote/AAG.V/
+[2025-03-05T06:55:23.659Z] Added jmn URL for AAG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/aftermath-silver.html
+[2025-03-05T06:55:23.664Z] Pausing after processing URLs for AAG.V for 1.917s
+[2025-03-05T06:55:26.127Z] Added yahoo_finance URL for AAN.V: https://finance.yahoo.com/quote/AAN.V/
+[2025-03-05T06:55:26.130Z] Pausing after processing URLs for AAN.V for 1.538s
+[2025-03-05T06:55:31.251Z] Added yahoo_finance URL for AAUC.TO: https://finance.yahoo.com/quote/AAUC.TO/
+[2025-03-05T06:55:31.255Z] Added jmn URL for AAUC.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/allied-gold.html
+[2025-03-05T06:55:31.258Z] Pausing after processing URLs for AAUC.TO for 1.148s
+[2025-03-05T06:55:36.038Z] Added yahoo_finance URL for ABI.V: https://finance.yahoo.com/quote/ABI.V/
+[2025-03-05T06:55:36.041Z] Added jmn URL for ABI.V: https://www.juniorminingnetwork.com/market-data/stock-quote/abcourt-mines.html
+[2025-03-05T06:55:36.044Z] Pausing after processing URLs for ABI.V for 1.01s
+[2025-03-05T06:55:39.893Z] Added yahoo_finance URL for ABRA.TO: https://finance.yahoo.com/quote/ABRA.TO/
+[2025-03-05T06:55:39.896Z] Added jmn URL for ABRA.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/abrasilver-resource.html
+[2025-03-05T06:55:39.901Z] Pausing after processing URLs for ABRA.TO for 1.772s
+[2025-03-05T06:55:42.349Z] Added yahoo_finance URL for ADY.V: https://finance.yahoo.com/quote/ADY.V/
+[2025-03-05T06:55:42.353Z] Pausing after processing URLs for ADY.V for 1.889s
+[2025-03-05T06:55:47.426Z] Added yahoo_finance URL for ADZ.V: https://finance.yahoo.com/quote/ADZ.V/
+[2025-03-05T06:55:47.432Z] Added jmn URL for ADZ.V: https://www.juniorminingnetwork.com/market-data/stock-quote/adamera-minerals.html
+[2025-03-05T06:55:47.436Z] Pausing after processing URLs for ADZ.V for 1.227s
+[2025-03-05T06:55:51.020Z] Added yahoo_finance URL for AE.V: https://finance.yahoo.com/quote/AE.V/
+[2025-03-05T06:55:51.025Z] Added jmn URL for AE.V: https://www.juniorminingnetwork.com/market-data/stock-quote/american-eagle-gold.html
+[2025-03-05T06:55:51.030Z] Pausing after processing URLs for AE.V for 1.625s
+[2025-03-05T06:55:56.014Z] Added yahoo_finance URL for AEM.TO: https://finance.yahoo.com/quote/AEM.TO/
+[2025-03-05T06:55:56.018Z] Added jmn URL for AEM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/agnico-eagle-mines.html
+[2025-03-05T06:55:56.021Z] Pausing after processing URLs for AEM.TO for 1.369s
+[2025-03-05T06:55:59.833Z] Added yahoo_finance URL for AERO.V: https://finance.yahoo.com/quote/AERO.V/
+[2025-03-05T06:55:59.837Z] Added jmn URL for AERO.V: https://www.juniorminingnetwork.com/market-data/stock-quote/aero-energy.html
+[2025-03-05T06:55:59.842Z] Pausing after processing URLs for AERO.V for 1.363s
+[2025-03-05T06:56:03.962Z] Added yahoo_finance URL for AG.TO: https://finance.yahoo.com/quote/AG.TO/
+[2025-03-05T06:56:03.968Z] Added jmn URL for AG.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/first-majestic-silver.html
+[2025-03-05T06:56:03.971Z] Pausing after processing URLs for AG.TO for 1.472s
+[2025-03-05T07:03:44.859Z] Added yahoo_finance URL for AAB.TO: https://finance.yahoo.com/quote/AAB.TO/
+[2025-03-05T07:03:44.863Z] Added jmn URL for AAB.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/aberdeen-international.html
+[2025-03-05T07:03:44.869Z] Pausing after processing URLs for AAB.TO for 1.998s
+[2025-03-05T07:03:51.412Z] Added yahoo_finance URL for AAG.V: https://finance.yahoo.com/quote/AAG.V/
+[2025-03-05T07:03:51.416Z] Added jmn URL for AAG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/aftermath-silver.html
+[2025-03-05T07:03:51.421Z] Pausing after processing URLs for AAG.V for 1.407s
+[2025-03-05T07:03:54.032Z] Added yahoo_finance URL for AAN.V: https://finance.yahoo.com/quote/AAN.V/
+[2025-03-05T07:03:54.039Z] Pausing after processing URLs for AAN.V for 1.707s
+[2025-03-05T07:04:00.248Z] Added yahoo_finance URL for AAUC.TO: https://finance.yahoo.com/quote/AAUC.TO/
+[2025-03-05T07:04:00.252Z] Added jmn URL for AAUC.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/allied-gold.html
+[2025-03-05T07:04:00.255Z] Pausing after processing URLs for AAUC.TO for 1.788s
+[2025-03-05T07:04:05.864Z] Added yahoo_finance URL for ABI.V: https://finance.yahoo.com/quote/ABI.V/
+[2025-03-05T07:04:05.870Z] Added jmn URL for ABI.V: https://www.juniorminingnetwork.com/market-data/stock-quote/abcourt-mines.html
+[2025-03-05T07:04:05.872Z] Pausing after processing URLs for ABI.V for 1.11s
+[2025-03-05T07:04:09.793Z] Added yahoo_finance URL for ABRA.TO: https://finance.yahoo.com/quote/ABRA.TO/
+[2025-03-05T07:04:09.796Z] Added jmn URL for ABRA.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/abrasilver-resource.html
+[2025-03-05T07:04:09.801Z] Pausing after processing URLs for ABRA.TO for 1.456s
+[2025-03-05T07:04:11.934Z] Added yahoo_finance URL for ADY.V: https://finance.yahoo.com/quote/ADY.V/
+[2025-03-05T07:04:11.938Z] Pausing after processing URLs for ADY.V for 1.796s

@@ -18,10 +18,14 @@
   "revenue_currency": "USD",
   "net_income_value": 0,
   "net_income_currency": "USD",
-  "reserves_au_moz": 0,
-  "resources_au_moz": 0,
-  "production_total_au_eq_koz": 0,
-  "aisc_last_year_value": 0,
+  "reserves_au_moz": 0.3,
+  "resources_au_moz": 0.8,
+  "production_total_au_eq_koz": 30,
+  "aisc_last_year_value": 1100,
   "aisc_last_year_currency": "USD",
-  "news_link": "https://www.miningfeeds.com/company/aan/"
+  "news_link": "https://www.miningfeeds.com/company/aan/",
+  "sources": [
+    "fallback"
+  ],
+  "last_updated_mining": "2025-03-04T02:22:45.587Z"
 }
