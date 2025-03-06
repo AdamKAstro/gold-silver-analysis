@@ -1,3 +1,50 @@
+Mining Companies Financial Data Populator
+Project Overview
+This Node.js script populates a SQLite database (mining_companies.db) with financial data for mining companies, sourced from the Yahoo Finance and Alpha Vantage APIs. It automates fetching, verifying, and storing key financial metrics like stock prices, market capitalization, cash, debt, enterprise value, revenue, and net income. The script cross-verifies data from multiple sources, converts all financial values to CAD (Canadian Dollars), and includes robust error handling and logging for reliability.
+Key Features
+Data Sources: Pulls financial data from Yahoo Finance and Alpha Vantage APIs.
+
+Data Verification: Cross-checks data, preferring Yahoo Finance when available.
+
+Currency Conversion: Converts all financial values to CAD using real-time exchange rates.
+
+Error Handling: Retries failed API calls and logs discrepancies for review.
+
+Rate Limiting: Adds delays between API calls to respect rate limits.
+
+BOM Handling: Cleans Byte Order Marks (BOM) from CSV headers for accurate parsing.
+
+Learnings and Insights
+Here are the key takeaways from developing this script. These insights are designed to guide future iterations, help another version of me (or any AI assistant) improve this project, and assist human developers working on similar tasks:
+API Reliability: Yahoo Finance provides real-time data and is the preferred source, but Alpha Vantage is a solid fallback when Yahoo data is unavailable or inconsistent. Future versions could prioritize based on data freshness or add more sources.
+
+Data Discrepancies: Logging discrepancies (e.g., >5% difference between sources) is critical for spotting data quality issues. Consider adding automated alerts or a discrepancy resolution workflow.
+
+Currency Conversion: Caching exchange rates (instead of fetching them repeatedly) cuts down on API calls and speeds things up. A future version could store rates in the database for reuse.
+
+CSV Parsing Issues: Byte Order Marks (BOM) in CSV headers (common in files from tools like Excel) can mess up parsing. The script handles this, but always double-check input files. Future iterations could auto-detect and warn about malformed CSVs.
+
+Database Updates: Atomic updates (all-or-nothing changes) keep the database consistent. Stick with this approach and consider adding rollback options for failed updates.
+
+Logging: Detailed logs (successes, warnings, errors) saved to financial_population_log.txt are a lifesaver for debugging and auditing. Future versions could add log levels or integrate with a monitoring tool.
+
+These lessons can steer future prompting of me or another AI assistant. For example, you might ask: "Build a script like this but cache exchange rates in the database and add alerts for data discrepancies over 10%." They also apply to any project involving APIs, data verification, or database management.
+Usage Guide
+Here’s how to get the script up and running. This section is written for humans (no AI knowledge required!) and walks you through each step.
+1. Prerequisites
+Node.js: Version 14 or higher (check with node -v).
+
+SQLite Database: A file called mining_companies.db in the project root, with a companies table matching the script’s fields (e.g., stock_price, market_cap_value).
+
+CSV File: A file at public/data/companies.csv with a TICKER column listing company ticker symbols (e.g., AAB.TO).
+
+2. Installation
+Install the required Node.js packages by running this in your terminal:
+bash
+
+
+
+
 # Mining Data Collection and Analysis Project
 
 ## Overview
