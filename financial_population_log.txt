@@ -388,3 +388,71 @@ debt_value: No data, defaulting to 0 USD
 enterprise_value_value: No data, defaulting to 0 CAD
 revenue_value: No data, defaulting to 0 USD
 net_income_value: No data, defaulting to 0 USD
+[2025-03-06T14:18:30.051Z] [INFO] Pausing after Yahoo fetch for AAB.TO for 15 seconds
+[2025-03-06T14:18:46.582Z] [INFO] Pausing after Alpha Vantage fetch for AAB.TO for 15 seconds
+[INFO] Successfully updated database for AAB.TO
+[2025-03-06T14:19:03.221Z] [INFO] Pausing after Yahoo fetch for IRV.CN for 15 seconds
+[2025-03-06T14:19:19.626Z] [INFO] Pausing after Alpha Vantage fetch for IRV.CN for 15 seconds
+[INFO] Successfully updated database for IRV.CN
+[2025-03-06T14:19:34.960Z] [INFO] Pausing after Yahoo fetch for ITH.TO for 15 seconds
+[2025-03-06T14:19:51.375Z] [INFO] Pausing after Alpha Vantage fetch for ITH.TO for 15 seconds
+[INFO] Successfully updated database for ITH.TO
+[2025-03-06T14:20:06.713Z] [INFO] Pausing after Yahoo fetch for ITR.V for 15 seconds
+[2025-03-06T14:20:22.723Z] [INFO] Pausing after Alpha Vantage fetch for ITR.V for 15 seconds
+[INFO] Successfully updated database for ITR.V
+[2025-03-06T14:20:38.046Z] [INFO] Pausing after Yahoo fetch for AAG.V for 15 seconds
+[2025-03-06T14:20:54.473Z] [INFO] Pausing after Alpha Vantage fetch for AAG.V for 15 seconds
+[INFO] Successfully updated database for AAG.V
+[2025-03-06T14:21:09.803Z] [INFO] Pausing after Yahoo fetch for AAN.V for 15 seconds
+[2025-03-06T14:21:26.329Z] [INFO] Pausing after Alpha Vantage fetch for AAN.V for 15 seconds
+[INFO] Successfully updated database for AAN.V
+[2025-03-06T14:21:41.660Z] [INFO] Pausing after Yahoo fetch for AAUC.TO for 15 seconds
+[2025-03-06T14:21:58.066Z] [INFO] Pausing after Alpha Vantage fetch for AAUC.TO for 15 seconds
+[INFO] Successfully updated database for AAUC.TO
+[2025-03-06T14:22:13.380Z] [INFO] Pausing after Yahoo fetch for ABI.V for 15 seconds
+[2025-03-06T14:22:29.395Z] [INFO] Pausing after Alpha Vantage fetch for ABI.V for 15 seconds
+[INFO] Successfully updated database for ABI.V
+[2025-03-06T14:22:44.733Z] [INFO] Pausing after Yahoo fetch for ABRA.TO for 15 seconds
+[2025-03-06T14:23:03.532Z] [INFO] Pausing after Alpha Vantage fetch for ABRA.TO for 15 seconds
+[INFO] Successfully updated database for ABRA.TO
+[2025-03-06T14:23:18.844Z] [INFO] Pausing after Yahoo fetch for ADY.V for 15 seconds
+[2025-03-06T14:23:35.199Z] [INFO] Pausing after Alpha Vantage fetch for ADY.V for 15 seconds
+[INFO] Successfully updated database for ADY.V
+[2025-03-06T14:23:50.541Z] [INFO] Pausing after Yahoo fetch for ADZ.V for 15 seconds
+[2025-03-06T14:24:08.462Z] [INFO] Pausing after Alpha Vantage fetch for ADZ.V for 15 seconds
+[INFO] Successfully updated database for ADZ.V
+[2025-03-06T14:24:23.768Z] [INFO] Pausing after Yahoo fetch for AE.V for 15 seconds
+[2025-03-06T14:24:39.717Z] [INFO] Pausing after Alpha Vantage fetch for AE.V for 15 seconds
+[INFO] Successfully updated database for AE.V
+[2025-03-06T14:24:55.046Z] [INFO] Pausing after Yahoo fetch for AEM.TO for 15 seconds
+[2025-03-06T14:25:13.135Z] [INFO] Pausing after Alpha Vantage fetch for AEM.TO for 15 seconds
+[INFO] Successfully updated database for AEM.TO
+[2025-03-06T14:25:28.454Z] [INFO] Pausing after Yahoo fetch for AERO.V for 15 seconds
+[2025-03-06T14:25:44.821Z] [INFO] Pausing after Alpha Vantage fetch for AERO.V for 15 seconds
+[INFO] Successfully updated database for AERO.V
+[2025-03-06T14:26:00.155Z] [INFO] Pausing after Yahoo fetch for AG.TO for 15 seconds
+[2025-03-06T14:26:16.583Z] [INFO] Pausing after Alpha Vantage fetch for AG.TO for 15 seconds
+[INFO] Successfully updated database for AG.TO
+[2025-03-06T14:26:31.918Z] [INFO] Pausing after Yahoo fetch for AGA.V for 15 seconds
+[2025-03-06T14:26:48.335Z] [INFO] Pausing after Alpha Vantage fetch for AGA.V for 15 seconds
+[INFO] Successfully updated database for AGA.V
+[2025-03-06T14:27:03.689Z] [INFO] Pausing after Yahoo fetch for AGAG.V for 15 seconds
+[2025-03-06T14:27:20.052Z] [INFO] Pausing after Alpha Vantage fetch for AGAG.V for 15 seconds
+[INFO] Successfully updated database for AGAG.V
+[2025-03-06T14:27:35.389Z] [INFO] Pausing after Yahoo fetch for AGI.TO for 15 seconds
+[2025-03-06T14:27:51.796Z] [INFO] Pausing after Alpha Vantage fetch for AGI.TO for 15 seconds
+[INFO] Successfully updated database for AGI.TO
+[2025-03-06T14:28:07.144Z] [INFO] Pausing after Yahoo fetch for AGLD.V for 15 seconds
+[2025-03-06T14:28:23.569Z] [INFO] Pausing after Alpha Vantage fetch for AGLD.V for 15 seconds
+[INFO] Successfully updated database for AGLD.V
+[2025-03-06T14:28:38.894Z] [INFO] Pausing after Yahoo fetch for AGMR.V for 15 seconds
+[2025-03-06T14:28:55.313Z] [INFO] Pausing after Alpha Vantage fetch for AGMR.V for 15 seconds
+[INFO] Successfully updated database for AGMR.V
+[2025-03-06T14:29:10.657Z] [INFO] Pausing after Yahoo fetch for AGX.V for 15 seconds
+[2025-03-06T14:29:27.038Z] [INFO] Pausing after Alpha Vantage fetch for AGX.V for 15 seconds
+[INFO] Successfully updated database for AGX.V
+[2025-03-06T14:29:42.366Z] [INFO] Pausing after Yahoo fetch for ALDE.V for 15 seconds
+[2025-03-06T14:29:58.815Z] [INFO] Pausing after Alpha Vantage fetch for ALDE.V for 15 seconds
+[INFO] Successfully updated database for ALDE.V
+[2025-03-06T14:30:14.184Z] [INFO] Pausing after Yahoo fetch for ALEX.V for 15 seconds
+[2025-03-06T14:30:30.123Z] [INFO] Pausing after Alpha Vantage fetch for ALEX.V for 15 seconds

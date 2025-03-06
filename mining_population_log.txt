@@ -614,3 +614,27 @@
 [2025-03-06T07:42:39.683Z] Pausing after processing AG.TO for 62.451s
 [2025-03-06T07:43:43.337Z] Pausing after processing AGA.V for 69.943s
 [2025-03-06T08:00:26.091Z] Pausing after AAB.TO (61.516s)
+[2025-03-06T11:58:24.593Z] Pausing after AAB.TO (65.587s)
+[2025-03-06T11:59:31.900Z] Pausing after IRV.CN (61.259s)
+[2025-03-06T12:00:39.729Z] Pausing after ITH.TO (60.79s)
+[2025-03-06T12:01:44.941Z] Pausing after ITR.V (63.196s)
+[2025-03-06T12:02:55.292Z] Pausing after AAG.V (62.391s)
+[2025-03-06T12:04:03.593Z] Pausing after AAN.V (60.591s)
+[2025-03-06T12:33:14.473Z] Pausing after AAB.TO (60.827s)
+[2025-03-06T12:34:16.906Z] Pausing after IRV.CN (60.876s)
+[2025-03-06T12:35:21.778Z] Pausing after ITH.TO (66.973s)
+[2025-03-06T13:06:09.089Z] Main failed: Cannot read properties of undefined (reading 'reserves_gold_moz')
+[2025-03-06T13:18:21.441Z] [ERROR] Main failed: SQLITE_ERROR: no such column: last_updated_overview
+[2025-03-06T13:38:29.363Z] [INFO] Pausing after AAB.TO for 34.396s
+[2025-03-06T13:45:58.601Z] [INFO] Pausing after AAB.TO for 37.236s
+[2025-03-06T13:47:20.034Z] [INFO] Pausing after IRV.CN for 32.192s
+[2025-03-06T13:52:22.640Z] [INFO] Pausing after Yahoo fetch for AAB.TO for 13.334s
+[2025-03-06T13:52:36.906Z] [INFO] Pausing after processing AAB.TO for 13.334s
+[2025-03-06T13:52:50.538Z] [INFO] Pausing after Yahoo fetch for IRV.CN for 13.334s
+[2025-03-06T13:53:04.707Z] [INFO] Pausing after processing IRV.CN for 13.334s
+[2025-03-06T13:53:18.344Z] [INFO] Pausing after Yahoo fetch for ITH.TO for 13.334s
+[2025-03-06T13:53:32.220Z] [INFO] Pausing after processing ITH.TO for 13.334s
+[2025-03-06T13:53:45.857Z] [INFO] Pausing after Yahoo fetch for ITR.V for 13.334s
+[2025-03-06T13:54:01.216Z] [INFO] Pausing after processing ITR.V for 13.334s
+[2025-03-06T13:54:15.967Z] [INFO] Pausing after Yahoo fetch for AAG.V for 13.334s
+[2025-03-06T13:54:30.131Z] [INFO] Pausing after processing AAG.V for 13.334s
