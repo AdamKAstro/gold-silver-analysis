@@ -160,3 +160,9 @@ debt_value: No data, defaulting to 0 USD
 enterprise_value_value: No data, defaulting to 0 CAD
 revenue_value: No data, defaulting to 0 USD
 net_income_value: Yahoo=-13728560 undefined, Resolved=-13728560 USD
+[2025-03-05T11:11:24.475Z] AAB.TO
+cash_value: Yahoo=12215726 USD, Resolved=12215726 USD
+debt_value: Yahoo=41146 USD, Resolved=41146 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
