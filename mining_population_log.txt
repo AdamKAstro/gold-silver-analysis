@@ -555,3 +555,62 @@
 [2025-03-06T04:05:19.935Z] Pausing after processing YRB.TO for 37.399s
 [2025-03-06T04:05:59.455Z] Pausing after processing ZAC.V for 32.277s
 [2025-03-06T04:06:34.223Z] Pausing after processing ZAU.V for 34.513s
+[2025-03-06T04:22:35.549Z] Pausing after processing AAB.TO for 30.551s
+[2025-03-06T04:44:32.619Z] Pausing after processing AAB.TO for 31.267s
+[2025-03-06T04:45:06.004Z] Pausing after processing AAG.V for 31.016s
+[2025-03-06T04:45:38.228Z] Pausing after processing AAN.V for 39.464s
+[2025-03-06T04:46:18.398Z] Pausing after processing AAUC.TO for 36.178s
+[2025-03-06T04:46:55.313Z] Pausing after processing ABI.V for 32.804s
+[2025-03-06T04:47:29.203Z] Pausing after processing ABRA.TO for 32.422s
+[2025-03-06T04:48:02.398Z] Pausing after processing ADY.V for 35.142s
+[2025-03-06T04:48:38.640Z] Pausing after processing ADZ.V for 37.976s
+[2025-03-06T04:49:17.621Z] Pausing after processing AE.V for 39.889s
+[2025-03-06T04:49:58.191Z] Pausing after processing AEM.TO for 32.666s
+[2025-03-06T04:50:31.557Z] Pausing after processing AERO.V for 34.241s
+[2025-03-06T04:51:06.878Z] Pausing after processing AG.TO for 38.814s
+[2025-03-06T04:51:46.814Z] Pausing after processing AGA.V for 34.344s
+[2025-03-06T04:52:22.278Z] Pausing after processing AGAG.V for 37.738s
+[2025-03-06T04:53:02.108Z] Pausing after processing AGI.TO for 39.666s
+[2025-03-06T04:53:42.913Z] Pausing after processing AGLD.V for 39.526s
+[2025-03-06T04:54:23.605Z] Pausing after processing AGMR.V for 30.531s
+[2025-03-06T04:54:55.224Z] Pausing after processing AGX.V for 32.884s
+[2025-03-06T04:55:28.928Z] Pausing after processing ALDE.V for 30.769s
+[2025-03-06T05:11:29.886Z] Loaded tickers: , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , 
+[2025-03-06T05:11:29.893Z] Processing undefined
+[2025-03-06T05:11:49.286Z] Fetch attempt 1/3 failed for https://query1.finance.yahoo.com/v1/test/getcrumb: Request failed with status code 429
+[2025-03-06T05:11:49.289Z] Retrying fetch for https://query1.finance.yahoo.com/v1/test/getcrumb (waiting 32.568s)
+[2025-03-06T05:12:22.130Z] Fetch attempt 2/3 failed for https://query1.finance.yahoo.com/v1/test/getcrumb: Request failed with status code 429
+[2025-03-06T05:12:22.132Z] Retrying fetch for https://query1.finance.yahoo.com/v1/test/getcrumb (waiting 67.381s)
+[2025-03-06T05:13:29.779Z] Fetch attempt 3/3 failed for https://query1.finance.yahoo.com/v1/test/getcrumb: Request failed with status code 429
+[2025-03-06T05:13:30.456Z] Failed undefined: Failed to fetch https://query1.finance.yahoo.com/v1/test/getcrumb after 3 attempts
+[2025-03-06T05:13:30.471Z] Pausing after undefined (waiting 32.984s)
+[2025-03-06T05:14:03.462Z] Processing undefined
+[2025-03-06T05:14:18.492Z] Fetch attempt 1/3 failed for https://query1.finance.yahoo.com/v1/test/getcrumb: Request failed with status code 429
+[2025-03-06T05:14:18.495Z] Retrying fetch for https://query1.finance.yahoo.com/v1/test/getcrumb (waiting 30.707s)
+[2025-03-06T05:14:49.477Z] Fetch attempt 2/3 failed for https://query1.finance.yahoo.com/v1/test/getcrumb: Request failed with status code 429
+[2025-03-06T05:14:49.479Z] Retrying fetch for https://query1.finance.yahoo.com/v1/test/getcrumb (waiting 62.289s)
+[2025-03-06T05:15:52.032Z] Fetch attempt 3/3 failed for https://query1.finance.yahoo.com/v1/test/getcrumb: Request failed with status code 429
+[2025-03-06T05:15:52.905Z] Failed undefined: Failed to fetch https://query1.finance.yahoo.com/v1/test/getcrumb after 3 attempts
+[2025-03-06T05:15:52.907Z] Pausing after undefined (waiting 33.225s)
+[2025-03-06T05:16:26.146Z] Processing undefined
+[2025-03-06T05:16:44.371Z] Fetch attempt 1/3 failed for https://query1.finance.yahoo.com/v1/test/getcrumb: Request failed with status code 429
+[2025-03-06T05:16:44.373Z] Retrying fetch for https://query1.finance.yahoo.com/v1/test/getcrumb (waiting 38.758s)
+[2025-03-06T05:17:23.400Z] Fetch attempt 2/3 failed for https://query1.finance.yahoo.com/v1/test/getcrumb: Request failed with status code 429
+[2025-03-06T05:17:23.402Z] Retrying fetch for https://query1.finance.yahoo.com/v1/test/getcrumb (waiting 68.816s)
+[2025-03-06T07:27:23.276Z] Pausing after processing AAB.TO for 62.414s
+[2025-03-06T07:28:26.831Z] Pausing after processing IRV.CN for 60.126s
+[2025-03-06T07:29:28.147Z] Pausing after processing ITH.TO for 63.245s
+[2025-03-06T07:30:32.512Z] Pausing after processing ITR.V for 63.417s
+[2025-03-06T07:31:38.327Z] Pausing after processing AAG.V for 65.237s
+[2025-03-06T07:32:45.210Z] Pausing after processing AAN.V for 69.524s
+[2025-03-06T07:33:55.926Z] Pausing after processing AAUC.TO for 66.519s
+[2025-03-06T07:35:03.159Z] Pausing after processing ABI.V for 66.893s
+[2025-03-06T07:36:11.153Z] Pausing after processing ABRA.TO for 61.744s
+[2025-03-06T07:37:14.023Z] Pausing after processing ADY.V for 61.28s
+[2025-03-06T07:38:16.542Z] Pausing after processing ADZ.V for 62.875s
+[2025-03-06T07:39:20.547Z] Pausing after processing AE.V for 67.843s
+[2025-03-06T07:40:29.577Z] Pausing after processing AEM.TO for 65.579s
+[2025-03-06T07:41:36.271Z] Pausing after processing AERO.V for 62.061s
+[2025-03-06T07:42:39.683Z] Pausing after processing AG.TO for 62.451s
+[2025-03-06T07:43:43.337Z] Pausing after processing AGA.V for 69.943s
+[2025-03-06T08:00:26.091Z] Pausing after AAB.TO (61.516s)

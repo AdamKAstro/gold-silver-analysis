@@ -160,3 +160,231 @@ debt_value: No data, defaulting to 0 USD
 enterprise_value_value: No data, defaulting to 0 CAD
 revenue_value: No data, defaulting to 0 USD
 net_income_value: Yahoo=-13728560 undefined, Resolved=-13728560 USD
+[2025-03-06T04:23:12.854Z] AAB.TO
+cash_value: Yahoo=12215726 USD, Resolved=12215726 USD
+debt_value: Yahoo=41146 USD, Resolved=41146 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:23:40.910Z] AAG.V
+cash_value: Yahoo=19634284 USD, Resolved=19634284 USD
+debt_value: No data, defaulting to 0 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:24:08.954Z] AAN.V
+cash_value: Yahoo=536478 USD, Resolved=536478 USD
+debt_value: Yahoo=6857541 USD, Resolved=6857541 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: Yahoo=-2465880 undefined, Resolved=-2465880 USD
+[2025-03-06T04:24:37.174Z] AAUC.TO
+cash_value: Yahoo=95368000 USD, Resolved=95368000 USD
+debt_value: Yahoo=129323000 USD, Resolved=129323000 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: Yahoo=655691000 USD, Resolved=655691000 USD
+net_income_value: Yahoo=-208482000 undefined, Resolved=-208482000 USD
+[2025-03-06T04:25:05.602Z] ABI.V
+cash_value: Yahoo=2990232 USD, Resolved=2990232 USD
+debt_value: Yahoo=985403 USD, Resolved=985403 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: Yahoo=-5337040 undefined, Resolved=-5337040 USD
+[2025-03-06T04:25:33.626Z] ABRA.TO
+cash_value: Yahoo=13983868 USD, Resolved=13983868 USD
+debt_value: No data, defaulting to 0 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: Yahoo=-13728560 undefined, Resolved=-13728560 USD
+[2025-03-06T04:26:02.977Z] ADY.V
+cash_value: Yahoo=8301783 USD, Resolved=8301783 USD
+debt_value: No data, defaulting to 0 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:26:31.024Z] ADZ.V
+cash_value: Yahoo=346759 USD, Resolved=346759 USD
+debt_value: Yahoo=272524 USD, Resolved=272524 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:26:59.060Z] AE.V
+cash_value: Yahoo=9386301 USD, Resolved=9386301 USD
+debt_value: No data, defaulting to 0 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:27:26.675Z] AEM.TO
+cash_value: Yahoo=933737024 USD, Resolved=933737024 USD
+debt_value: Yahoo=1282182016 USD, Resolved=1282182016 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: Yahoo=8285753000 USD, Resolved=8285753000 USD
+net_income_value: Yahoo=1895581000 undefined, Resolved=1895581000 USD
+[2025-03-06T04:27:55.182Z] AERO.V
+cash_value: Yahoo=573471 USD, Resolved=573471 USD
+debt_value: No data, defaulting to 0 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:28:22.952Z] AG.TO
+cash_value: Yahoo=251960992 USD, Resolved=251960992 USD
+debt_value: Yahoo=237016992 USD, Resolved=237016992 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: Yahoo=797442370 USD, Resolved=797442370 USD
+net_income_value: Yahoo=-144928360 undefined, Resolved=-144928360 USD
+[2025-03-06T04:28:51.180Z] AGA.V
+cash_value: No data, defaulting to 0 USD
+debt_value: No data, defaulting to 0 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:29:18.974Z] AGAG.V
+cash_value: Yahoo=14382978 USD, Resolved=14382978 USD
+debt_value: Yahoo=792500 USD, Resolved=792500 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:29:46.592Z] AGI.TO
+cash_value: Yahoo=351200000 USD, Resolved=351200000 USD
+debt_value: Yahoo=286600000 USD, Resolved=286600000 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: Yahoo=1346900000 USD, Resolved=1346900000 USD
+net_income_value: Yahoo=284300000 undefined, Resolved=284300000 USD
+[2025-03-06T04:30:14.731Z] AGLD.V
+cash_value: Yahoo=4583000 USD, Resolved=4583000 USD
+debt_value: Yahoo=20027000 USD, Resolved=20027000 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:30:42.429Z] AGMR.V
+cash_value: Yahoo=4386128 USD, Resolved=4386128 USD
+debt_value: No data, defaulting to 0 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:31:10.493Z] AGX.V
+cash_value: Yahoo=190484 USD, Resolved=190484 USD
+debt_value: Yahoo=1740209 USD, Resolved=1740209 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: Yahoo=21532920 USD, Resolved=21532920 USD
+net_income_value: Yahoo=-17085290 undefined, Resolved=-17085290 USD
+[2025-03-06T04:31:38.558Z] ALDE.V
+cash_value: Yahoo=11144941 USD, Resolved=11144941 USD
+debt_value: No data, defaulting to 0 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:32:06.334Z] ALEX.V
+cash_value: Yahoo=1905062 USD, Resolved=1905062 USD
+debt_value: No data, defaulting to 0 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:32:34.409Z] ALTA.V
+cash_value: Yahoo=1444817 USD, Resolved=1444817 USD
+debt_value: No data, defaulting to 0 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:33:03.227Z] AMC.TO
+cash_value: Yahoo=14555478 USD, Resolved=14555478 USD
+debt_value: No data, defaulting to 0 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: Yahoo=-24348030 undefined, Resolved=-24348030 USD
+[2025-03-06T04:33:31.243Z] AMQ.CN
+cash_value: Yahoo=14759031 USD, Resolved=14759031 USD
+debt_value: No data, defaulting to 0 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:33:58.918Z] AMRQ.V
+cash_value: Yahoo=25937984 USD, Resolved=25937984 USD
+debt_value: Yahoo=63659624 USD, Resolved=63659624 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: Yahoo=-613790 undefined, Resolved=-613790 USD
+[2025-03-06T04:34:26.575Z] AMX.V
+cash_value: Yahoo=12456429 USD, Resolved=12456429 USD
+debt_value: No data, defaulting to 0 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: Yahoo=680170 undefined, Resolved=680170 USD
+[2025-03-06T04:34:54.186Z] ANK.V
+cash_value: Yahoo=186016 USD, Resolved=186016 USD
+debt_value: Yahoo=6113432 USD, Resolved=6113432 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: Yahoo=-5681410 undefined, Resolved=-5681410 USD
+[2025-03-06T04:35:22.243Z] ANTL.V
+cash_value: Yahoo=12153 USD, Resolved=12153 USD
+debt_value: No data, defaulting to 0 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:35:50.514Z] AOT.TO
+cash_value: Yahoo=9882000 USD, Resolved=9882000 USD
+debt_value: Yahoo=50653000 USD, Resolved=50653000 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: Yahoo=-10430000 undefined, Resolved=-10430000 USD
+[2025-03-06T04:36:18.101Z] APGO.V
+cash_value: Yahoo=2125783 USD, Resolved=2125783 USD
+debt_value: Yahoo=138610 USD, Resolved=138610 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: Yahoo=-2710850 undefined, Resolved=-2710850 USD
+[2025-03-06T04:36:46.179Z] APM.TO
+cash_value: Yahoo=98139000 USD, Resolved=98139000 USD
+debt_value: Yahoo=70942000 USD, Resolved=70942000 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: Yahoo=125324000 USD, Resolved=125324000 USD
+net_income_value: Yahoo=38540000 undefined, Resolved=38540000 USD
+[2025-03-06T04:37:14.248Z] ARIC.V
+cash_value: Yahoo=8226477 USD, Resolved=8226477 USD
+debt_value: No data, defaulting to 0 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:37:41.857Z] ARIS.TO
+cash_value: Yahoo=80304000 USD, Resolved=80304000 USD
+debt_value: Yahoo=369924000 USD, Resolved=369924000 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: Yahoo=447674000 USD, Resolved=447674000 USD
+net_income_value: Yahoo=11419000 undefined, Resolved=11419000 USD
+[2025-03-06T04:38:09.523Z] ARK.V
+cash_value: No data, defaulting to 0 USD
+debt_value: No data, defaulting to 0 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:38:38.057Z] ARTG.V
+cash_value: Yahoo=10720480 USD, Resolved=10720480 USD
+debt_value: Yahoo=470089600 USD, Resolved=470089600 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: Yahoo=-8476930 undefined, Resolved=-8476930 USD
+[2025-03-06T04:39:06.486Z] ARU.V
+cash_value: Yahoo=1912638 USD, Resolved=1912638 USD
+debt_value: Yahoo=9422048 USD, Resolved=9422048 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: Yahoo=-9971550 undefined, Resolved=-9971550 USD
+[2025-03-06T04:39:34.484Z] ASE.CN
+cash_value: Yahoo=26371000 USD, Resolved=26371000 USD
+debt_value: Yahoo=46942000 USD, Resolved=46942000 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: Yahoo=274729000 USD, Resolved=274729000 USD
+net_income_value: No data, defaulting to 0 USD
+[2025-03-06T04:40:02.984Z] ASM.TO
+cash_value: Yahoo=7767000 USD, Resolved=7767000 USD
+debt_value: Yahoo=3148000 USD, Resolved=3148000 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: Yahoo=59511730 USD, Resolved=59511730 USD
+net_income_value: Yahoo=734930 undefined, Resolved=734930 USD
+[2025-03-06T04:40:30.581Z] ASTR.V
+cash_value: Yahoo=1668330 USD, Resolved=1668330 USD
+debt_value: No data, defaulting to 0 USD
+enterprise_value_value: No data, defaulting to 0 CAD
+revenue_value: No data, defaulting to 0 USD
+net_income_value: No data, defaulting to 0 USD
