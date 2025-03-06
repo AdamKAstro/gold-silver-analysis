@@ -216,3 +216,1331 @@
 [2025-03-05T07:04:09.801Z] Pausing after processing URLs for ABRA.TO for 1.456s
 [2025-03-05T07:04:11.934Z] Added yahoo_finance URL for ADY.V: https://finance.yahoo.com/quote/ADY.V/
 [2025-03-05T07:04:11.938Z] Pausing after processing URLs for ADY.V for 1.796s
+[2025-03-05T07:24:11.471Z] Added yahoo_finance URL for AAB.TO: https://finance.yahoo.com/quote/AAB.TO/
+[2025-03-05T07:24:11.475Z] Added jmn URL for AAB.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/aberdeen-international.html
+[2025-03-05T07:24:11.479Z] Pausing after processing URLs for AAB.TO for 1.931s
+[2025-03-05T07:24:17.399Z] Added yahoo_finance URL for AAG.V: https://finance.yahoo.com/quote/AAG.V/
+[2025-03-05T07:24:17.403Z] Added jmn URL for AAG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/aftermath-silver.html
+[2025-03-05T07:24:17.408Z] Pausing after processing URLs for AAG.V for 1.867s
+[2025-03-05T07:24:20.477Z] Added yahoo_finance URL for AAN.V: https://finance.yahoo.com/quote/AAN.V/
+[2025-03-05T07:24:20.480Z] Pausing after processing URLs for AAN.V for 1.807s
+[2025-03-05T07:24:24.125Z] Added yahoo_finance URL for AAUC.TO: https://finance.yahoo.com/quote/AAUC.TO/
+[2025-03-05T07:24:24.129Z] Added jmn URL for AAUC.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/allied-gold.html
+[2025-03-05T07:24:24.132Z] Pausing after processing URLs for AAUC.TO for 1.34s
+[2025-03-05T07:24:27.810Z] Added yahoo_finance URL for ABI.V: https://finance.yahoo.com/quote/ABI.V/
+[2025-03-05T07:24:27.816Z] Added jmn URL for ABI.V: https://www.juniorminingnetwork.com/market-data/stock-quote/abcourt-mines.html
+[2025-03-05T07:24:27.820Z] Pausing after processing URLs for ABI.V for 1.205s
+[2025-03-05T07:24:31.174Z] Retrying URL validation for https://www.calibremining.com for 2.569s
+[2025-03-05T07:24:33.766Z] Retrying URL validation for https://www.calibremining.com for 2.935s
+[2025-03-05T07:24:36.743Z] Added yahoo_finance URL for ABRA.TO: https://finance.yahoo.com/quote/ABRA.TO/
+[2025-03-05T07:24:36.747Z] Added jmn URL for ABRA.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/abrasilver-resource.html
+[2025-03-05T07:24:36.749Z] Pausing after processing URLs for ABRA.TO for 1.291s
+[2025-03-05T07:24:39.238Z] Added yahoo_finance URL for ADY.V: https://finance.yahoo.com/quote/ADY.V/
+[2025-03-05T07:24:39.243Z] Pausing after processing URLs for ADY.V for 1.149s
+[2025-03-05T07:24:42.839Z] Added yahoo_finance URL for ADZ.V: https://finance.yahoo.com/quote/ADZ.V/
+[2025-03-05T07:24:42.844Z] Added jmn URL for ADZ.V: https://www.juniorminingnetwork.com/market-data/stock-quote/adamera-minerals.html
+[2025-03-05T07:24:42.848Z] Pausing after processing URLs for ADZ.V for 1.612s
+[2025-03-05T07:24:46.902Z] Added yahoo_finance URL for AE.V: https://finance.yahoo.com/quote/AE.V/
+[2025-03-05T07:24:46.908Z] Added jmn URL for AE.V: https://www.juniorminingnetwork.com/market-data/stock-quote/american-eagle-gold.html
+[2025-03-05T07:24:46.911Z] Pausing after processing URLs for AE.V for 1.976s
+[2025-03-05T07:24:52.951Z] Added yahoo_finance URL for AEM.TO: https://finance.yahoo.com/quote/AEM.TO/
+[2025-03-05T07:24:52.958Z] Added jmn URL for AEM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/agnico-eagle-mines.html
+[2025-03-05T07:24:52.963Z] Pausing after processing URLs for AEM.TO for 1.248s
+[2025-03-05T07:24:56.978Z] Added yahoo_finance URL for AERO.V: https://finance.yahoo.com/quote/AERO.V/
+[2025-03-05T07:24:56.983Z] Added jmn URL for AERO.V: https://www.juniorminingnetwork.com/market-data/stock-quote/aero-energy.html
+[2025-03-05T07:24:56.987Z] Pausing after processing URLs for AERO.V for 1.24s
+[2025-03-05T07:24:59.936Z] Added yahoo_finance URL for AG.TO: https://finance.yahoo.com/quote/AG.TO/
+[2025-03-05T07:24:59.941Z] Added jmn URL for AG.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/first-majestic-silver.html
+[2025-03-05T07:24:59.946Z] Pausing after processing URLs for AG.TO for 1.136s
+[2025-03-05T07:25:03.785Z] Added yahoo_finance URL for AGA.V: https://finance.yahoo.com/quote/AGA.V/
+[2025-03-05T07:25:03.789Z] Added jmn URL for AGA.V: https://www.juniorminingnetwork.com/market-data/stock-quote/silver47-exploration.html
+[2025-03-05T07:25:03.792Z] Pausing after processing URLs for AGA.V for 1.357s
+[2025-03-05T07:25:06.217Z] Retrying URL validation for https://www.calibremining.com for 2.562s
+[2025-03-05T07:25:08.806Z] Retrying URL validation for https://www.calibremining.com for 2.953s
+[2025-03-05T07:25:11.800Z] Added yahoo_finance URL for AGAG.V: https://finance.yahoo.com/quote/AGAG.V/
+[2025-03-05T07:25:11.806Z] Added jmn URL for AGAG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/argenta-silver.html
+[2025-03-05T07:25:11.811Z] Pausing after processing URLs for AGAG.V for 1.159s
+[2025-03-05T07:25:16.081Z] Added yahoo_finance URL for AGI.TO: https://finance.yahoo.com/quote/AGI.TO/
+[2025-03-05T07:25:16.086Z] Added jmn URL for AGI.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/alamos-gold.html
+[2025-03-05T07:25:16.090Z] Pausing after processing URLs for AGI.TO for 1.078s
+[2025-03-05T07:25:20.534Z] Added yahoo_finance URL for AGLD.V: https://finance.yahoo.com/quote/AGLD.V/
+[2025-03-05T07:25:20.539Z] Added jmn URL for AGLD.V: https://www.juniorminingnetwork.com/market-data/stock-quote/austral-gold.html
+[2025-03-05T07:25:20.545Z] Pausing after processing URLs for AGLD.V for 1.092s
+[2025-03-05T07:25:22.287Z] Added yahoo_finance URL for AGMR.V: https://finance.yahoo.com/quote/AGMR.V/
+[2025-03-05T07:25:22.290Z] Pausing after processing URLs for AGMR.V for 1.448s
+[2025-03-05T07:25:24.296Z] Added yahoo_finance URL for AGX.V: https://finance.yahoo.com/quote/AGX.V/
+[2025-03-05T07:25:24.301Z] Pausing after processing URLs for AGX.V for 1.771s
+[2025-03-05T07:25:26.627Z] Added yahoo_finance URL for ALDE.V: https://finance.yahoo.com/quote/ALDE.V/
+[2025-03-05T07:25:26.631Z] Pausing after processing URLs for ALDE.V for 1.043s
+[2025-03-05T07:25:30.396Z] Added yahoo_finance URL for ALEX.V: https://finance.yahoo.com/quote/ALEX.V/
+[2025-03-05T07:25:30.400Z] Added jmn URL for ALEX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/alpha-exploration.html
+[2025-03-05T07:25:30.403Z] Pausing after processing URLs for ALEX.V for 1.961s
+[2025-03-05T07:25:35.127Z] Added yahoo_finance URL for ALTA.V: https://finance.yahoo.com/quote/ALTA.V/
+[2025-03-05T07:25:35.130Z] Added jmn URL for ALTA.V: https://www.juniorminingnetwork.com/market-data/stock-quote/altamira-gold.html
+[2025-03-05T07:25:35.134Z] Pausing after processing URLs for ALTA.V for 1.234s
+[2025-03-05T07:25:39.142Z] Added yahoo_finance URL for AMC.TO: https://finance.yahoo.com/quote/AMC.TO/
+[2025-03-05T07:25:39.149Z] Added jmn URL for AMC.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/arizona-metals.html
+[2025-03-05T07:25:39.154Z] Pausing after processing URLs for AMC.TO for 1.556s
+[2025-03-05T07:25:44.391Z] Added yahoo_finance URL for AMQ.CN: https://finance.yahoo.com/quote/AMQ.CN/
+[2025-03-05T07:25:44.396Z] Added jmn URL for AMQ.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/abitibi-metals.html
+[2025-03-05T07:25:44.403Z] Pausing after processing URLs for AMQ.CN for 1.311s
+[2025-03-05T07:25:50.540Z] Added yahoo_finance URL for AMRQ.V: https://finance.yahoo.com/quote/AMRQ.V/
+[2025-03-05T07:25:50.545Z] Added jmn URL for AMRQ.V: https://www.juniorminingnetwork.com/market-data/stock-quote/amaroq-minerals.html
+[2025-03-05T07:25:50.551Z] Pausing after processing URLs for AMRQ.V for 1.276s
+[2025-03-05T07:25:55.107Z] Added yahoo_finance URL for AMX.V: https://finance.yahoo.com/quote/AMX.V/
+[2025-03-05T07:25:55.112Z] Added jmn URL for AMX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/amex-exploration.html
+[2025-03-05T07:25:55.117Z] Pausing after processing URLs for AMX.V for 1.804s
+[2025-03-05T07:25:57.574Z] Added yahoo_finance URL for ANK.V: https://finance.yahoo.com/quote/ANK.V/
+[2025-03-05T07:25:57.580Z] Pausing after processing URLs for ANK.V for 1.395s
+[2025-03-05T07:26:00.193Z] Added yahoo_finance URL for ANTL.V: https://finance.yahoo.com/quote/ANTL.V/
+[2025-03-05T07:26:00.197Z] Added jmn URL for ANTL.V: https://www.juniorminingnetwork.com/market-data/stock-quote/antler-gold.html
+[2025-03-05T07:26:00.203Z] Pausing after processing URLs for ANTL.V for 1.238s
+[2025-03-05T07:26:02.000Z] Added yahoo_finance URL for AOT.TO: https://finance.yahoo.com/quote/AOT.TO/
+[2025-03-05T07:26:02.005Z] Pausing after processing URLs for AOT.TO for 1.524s
+[2025-03-05T07:26:04.093Z] Added yahoo_finance URL for APGO.V: https://finance.yahoo.com/quote/APGO.V/
+[2025-03-05T07:26:04.096Z] Pausing after processing URLs for APGO.V for 1.074s
+[2025-03-05T07:26:07.587Z] Added yahoo_finance URL for APM.TO: https://finance.yahoo.com/quote/APM.TO/
+[2025-03-05T07:26:07.590Z] Added jmn URL for APM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/andean-precious-metals.html
+[2025-03-05T07:26:07.594Z] Pausing after processing URLs for APM.TO for 1.3s
+[2025-03-05T07:26:09.456Z] Added yahoo_finance URL for ARIC.V: https://finance.yahoo.com/quote/ARIC.V/
+[2025-03-05T07:26:09.462Z] Pausing after processing URLs for ARIC.V for 1.063s
+[2025-03-05T07:26:11.101Z] Added yahoo_finance URL for ARIS.TO: https://finance.yahoo.com/quote/ARIS.TO/
+[2025-03-05T07:26:11.106Z] Pausing after processing URLs for ARIS.TO for 1.79s
+[2025-03-05T07:26:15.029Z] Added yahoo_finance URL for ARK.V: https://finance.yahoo.com/quote/ARK.V/
+[2025-03-05T07:26:15.037Z] Added jmn URL for ARK.V: https://www.juniorminingnetwork.com/market-data/stock-quote/arras-minerals.html
+[2025-03-05T07:26:15.040Z] Pausing after processing URLs for ARK.V for 1.353s
+[2025-03-05T07:26:18.579Z] Added yahoo_finance URL for ARTG.V: https://finance.yahoo.com/quote/ARTG.V/
+[2025-03-05T07:26:18.586Z] Added jmn URL for ARTG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/artemis-gold.html
+[2025-03-05T07:26:18.588Z] Pausing after processing URLs for ARTG.V for 1.385s
+[2025-03-05T07:26:20.549Z] Added yahoo_finance URL for ARU.V: https://finance.yahoo.com/quote/ARU.V/
+[2025-03-05T07:26:20.555Z] Pausing after processing URLs for ARU.V for 1.482s
+[2025-03-05T07:26:24.477Z] Added yahoo_finance URL for ASE.CN: https://finance.yahoo.com/quote/ASE.CN/
+[2025-03-05T07:26:24.482Z] Added jmn URL for ASE.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/asante-gold.html
+[2025-03-05T07:26:24.486Z] Pausing after processing URLs for ASE.CN for 1.45s
+[2025-03-05T07:26:29.157Z] Added yahoo_finance URL for ASM.TO: https://finance.yahoo.com/quote/ASM.TO/
+[2025-03-05T07:26:29.161Z] Added jmn URL for ASM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/avino-silver--gold-mines.html
+[2025-03-05T07:26:29.164Z] Pausing after processing URLs for ASM.TO for 1.962s
+[2025-03-05T07:26:33.819Z] Added yahoo_finance URL for ASTR.V: https://finance.yahoo.com/quote/ASTR.V/
+[2025-03-05T07:26:33.823Z] Added jmn URL for ASTR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/astra-exploration.html
+[2025-03-05T07:26:33.828Z] Pausing after processing URLs for ASTR.V for 1.49s
+[2025-03-05T07:26:38.040Z] Added yahoo_finance URL for ATHA.CN: https://finance.yahoo.com/quote/ATHA.CN/
+[2025-03-05T07:26:38.044Z] Added jmn URL for ATHA.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/athena-gold.html
+[2025-03-05T07:26:38.046Z] Pausing after processing URLs for ATHA.CN for 1.71s
+[2025-03-05T07:26:40.616Z] Added yahoo_finance URL for AU.V: https://finance.yahoo.com/quote/AU.V/
+[2025-03-05T07:26:40.617Z] Pausing after processing URLs for AU.V for 1.722s
+[2025-03-05T07:26:46.642Z] Added yahoo_finance URL for AUAU.V: https://finance.yahoo.com/quote/AUAU.V/
+[2025-03-05T07:26:46.645Z] Added jmn URL for AUAU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/allegiant-gold.html
+[2025-03-05T07:26:46.647Z] Pausing after processing URLs for AUAU.V for 1.631s
+[2025-03-05T07:26:50.597Z] Added yahoo_finance URL for AWM.V: https://finance.yahoo.com/quote/AWM.V/
+[2025-03-05T07:26:50.600Z] Added jmn URL for AWM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/angel-wing-metals.html
+[2025-03-05T07:26:50.600Z] Pausing after processing URLs for AWM.V for 1.676s
+[2025-03-05T07:26:54.048Z] Added yahoo_finance URL for AUM.V: https://finance.yahoo.com/quote/AUM.V/
+[2025-03-05T07:26:54.051Z] Added jmn URL for AUM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/aumega-metals.html
+[2025-03-05T07:26:54.052Z] Pausing after processing URLs for AUM.V for 1.923s
+[2025-03-05T07:26:58.263Z] Added yahoo_finance URL for AUMB.V: https://finance.yahoo.com/quote/AUMB.V/
+[2025-03-05T07:26:58.267Z] Added jmn URL for AUMB.V: https://www.juniorminingnetwork.com/market-data/stock-quote/1911-gold.html
+[2025-03-05T07:26:58.268Z] Pausing after processing URLs for AUMB.V for 1.737s
+[2025-03-05T07:27:03.258Z] Added yahoo_finance URL for AUOZ.CN: https://finance.yahoo.com/quote/AUOZ.CN/
+[2025-03-05T07:27:03.260Z] Added jmn URL for AUOZ.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/emperor-metals.html
+[2025-03-05T07:27:03.261Z] Pausing after processing URLs for AUOZ.CN for 1.827s
+[2025-03-05T07:27:07.158Z] Pausing after processing URLs for AUR.H.V for 1.665s
+[2025-03-05T07:27:11.454Z] Added jmn URL for AXM.H.V: https://www.juniorminingnetwork.com/market-data/stock-quote/axmin.html
+[2025-03-05T07:27:11.459Z] Pausing after processing URLs for AXM.H.V for 1.721s
+[2025-03-05T07:27:13.838Z] Added yahoo_finance URL for AYA.TO: https://finance.yahoo.com/quote/AYA.TO/
+[2025-03-05T07:27:13.839Z] Pausing after processing URLs for AYA.TO for 1.906s
+[2025-03-05T07:27:17.106Z] Added yahoo_finance URL for AZM.V: https://finance.yahoo.com/quote/AZM.V/
+[2025-03-05T07:27:17.109Z] Added jmn URL for AZM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/azimut-exploration.html
+[2025-03-05T07:27:17.111Z] Pausing after processing URLs for AZM.V for 1.023s
+[2025-03-05T07:27:18.677Z] Added yahoo_finance URL for AZS.V: https://finance.yahoo.com/quote/AZS.V/
+[2025-03-05T07:27:18.679Z] Pausing after processing URLs for AZS.V for 1.044s
+[2025-03-05T07:27:23.684Z] Added yahoo_finance URL for AZT.V: https://finance.yahoo.com/quote/AZT.V/
+[2025-03-05T07:27:23.686Z] Added jmn URL for AZT.V: https://www.juniorminingnetwork.com/market-data/stock-quote/aztec-minerals.html
+[2025-03-05T07:27:23.688Z] Pausing after processing URLs for AZT.V for 1.429s
+[2025-03-05T07:27:31.394Z] Added yahoo_finance URL for BAT.V: https://finance.yahoo.com/quote/BAT.V/
+[2025-03-05T07:27:31.397Z] Added jmn URL for BAT.V: https://www.juniorminingnetwork.com/market-data/stock-quote/batero-gold.html
+[2025-03-05T07:27:31.399Z] Pausing after processing URLs for BAT.V for 1.013s
+[2025-03-05T07:27:35.484Z] Added yahoo_finance URL for BAU.V: https://finance.yahoo.com/quote/BAU.V/
+[2025-03-05T07:27:35.486Z] Added jmn URL for BAU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/blue-star-gold.html
+[2025-03-05T07:27:35.488Z] Pausing after processing URLs for BAU.V for 1.746s
+[2025-03-05T07:27:40.372Z] Added yahoo_finance URL for BBB.V: https://finance.yahoo.com/quote/BBB.V/
+[2025-03-05T07:27:40.375Z] Added jmn URL for BBB.V: https://www.juniorminingnetwork.com/market-data/stock-quote/brixton-metals.html
+[2025-03-05T07:27:40.376Z] Pausing after processing URLs for BBB.V for 1.776s
+[2025-03-05T07:27:42.814Z] Added yahoo_finance URL for BCM.V: https://finance.yahoo.com/quote/BCM.V/
+[2025-03-05T07:27:42.817Z] Pausing after processing URLs for BCM.V for 1.978s
+[2025-03-05T07:27:45.341Z] Added yahoo_finance URL for BEX.V: https://finance.yahoo.com/quote/BEX.V/
+[2025-03-05T07:27:45.342Z] Pausing after processing URLs for BEX.V for 1.19s
+[2025-03-05T07:27:47.095Z] Added yahoo_finance URL for BGF.V: https://finance.yahoo.com/quote/BGF.V/
+[2025-03-05T07:27:47.097Z] Pausing after processing URLs for BGF.V for 1.409s
+[2025-03-05T07:27:49.243Z] Added yahoo_finance URL for BGS: https://finance.yahoo.com/quote/BGS/
+[2025-03-05T07:27:49.246Z] Pausing after processing URLs for BGS for 1.512s
+[2025-03-05T07:27:53.444Z] Added yahoo_finance URL for BHS.V: https://finance.yahoo.com/quote/BHS.V/
+[2025-03-05T07:27:53.447Z] Added jmn URL for BHS.V: https://www.juniorminingnetwork.com/market-data/stock-quote/bayhorse-silver.html
+[2025-03-05T07:27:53.450Z] Pausing after processing URLs for BHS.V for 1.316s
+[2025-03-05T07:27:57.299Z] Added yahoo_finance URL for BIG.V: https://finance.yahoo.com/quote/BIG.V/
+[2025-03-05T07:27:57.302Z] Added jmn URL for BIG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/hercules-metals.html
+[2025-03-05T07:27:57.303Z] Pausing after processing URLs for BIG.V for 1.314s
+[2025-03-05T07:27:59.175Z] Added yahoo_finance URL for BLLG.CN: https://finance.yahoo.com/quote/BLLG.CN/
+[2025-03-05T07:27:59.176Z] Pausing after processing URLs for BLLG.CN for 1.361s
+[2025-03-05T07:28:01.919Z] Added yahoo_finance URL for BMM.V: https://finance.yahoo.com/quote/BMM.V/
+[2025-03-05T07:28:01.921Z] Added jmn URL for BMM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/black-mammoth-metals.html
+[2025-03-05T07:28:01.924Z] Pausing after processing URLs for BMM.V for 1.895s
+[2025-03-05T07:28:04.361Z] Added yahoo_finance URL for BOGO.V: https://finance.yahoo.com/quote/BOGO.V/
+[2025-03-05T07:28:04.362Z] Pausing after processing URLs for BOGO.V for 1.213s
+[2025-03-05T07:28:08.005Z] Added yahoo_finance URL for BRAU.V: https://finance.yahoo.com/quote/BRAU.V/
+[2025-03-05T07:28:08.007Z] Added jmn URL for BRAU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/big-ridge-gold.html
+[2025-03-05T07:28:08.008Z] Pausing after processing URLs for BRAU.V for 1.376s
+[2025-03-05T07:28:09.947Z] Added yahoo_finance URL for BRAZ.CN: https://finance.yahoo.com/quote/BRAZ.CN/
+[2025-03-05T07:28:09.949Z] Pausing after processing URLs for BRAZ.CN for 1.496s
+[2025-03-05T07:28:14.712Z] Added yahoo_finance URL for BRC.V: https://finance.yahoo.com/quote/BRC.V/
+[2025-03-05T07:28:14.715Z] Added jmn URL for BRC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/blackrock-silver.html
+[2025-03-05T07:28:14.716Z] Pausing after processing URLs for BRC.V for 1.146s
+[2025-03-05T07:28:16.739Z] Added yahoo_finance URL for BSX.TO: https://finance.yahoo.com/quote/BSX.TO/
+[2025-03-05T07:28:16.741Z] Pausing after processing URLs for BSX.TO for 1.524s
+[2025-03-05T07:28:20.804Z] Added yahoo_finance URL for BTO.TO: https://finance.yahoo.com/quote/BTO.TO/
+[2025-03-05T07:28:20.806Z] Added jmn URL for BTO.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/b2gold.html
+[2025-03-05T07:28:20.808Z] Pausing after processing URLs for BTO.TO for 1.279s
+[2025-03-05T07:28:22.637Z] Added yahoo_finance URL for BTR.V: https://finance.yahoo.com/quote/BTR.V/
+[2025-03-05T07:28:22.638Z] Pausing after processing URLs for BTR.V for 1.218s
+[2025-03-05T07:28:27.138Z] Added yahoo_finance URL for BYN.V: https://finance.yahoo.com/quote/BYN.V/
+[2025-03-05T07:28:27.141Z] Added jmn URL for BYN.V: https://www.juniorminingnetwork.com/market-data/stock-quote/banyan-gold.html
+[2025-03-05T07:28:27.142Z] Pausing after processing URLs for BYN.V for 1.714s
+[2025-03-05T07:28:29.584Z] Added yahoo_finance URL for BZ.V: https://finance.yahoo.com/quote/BZ.V/
+[2025-03-05T07:28:29.585Z] Pausing after processing URLs for BZ.V for 1.451s
+[2025-03-05T07:28:33.217Z] Added yahoo_finance URL for CANX.V: https://finance.yahoo.com/quote/CANX.V/
+[2025-03-05T07:28:33.220Z] Added jmn URL for CANX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/canex-metals.html
+[2025-03-05T07:28:33.223Z] Pausing after processing URLs for CANX.V for 1.093s
+[2025-03-05T07:28:36.768Z] Added yahoo_finance URL for CAPT.V: https://finance.yahoo.com/quote/CAPT.V/
+[2025-03-05T07:28:36.770Z] Added jmn URL for CAPT.V: https://www.juniorminingnetwork.com/market-data/stock-quote/capitan-silver.html
+[2025-03-05T07:28:36.771Z] Pausing after processing URLs for CAPT.V for 1.198s
+[2025-03-05T07:28:40.557Z] Added yahoo_finance URL for CBI.V: https://finance.yahoo.com/quote/CBI.V/
+[2025-03-05T07:28:40.561Z] Added jmn URL for CBI.V: https://www.juniorminingnetwork.com/market-data/stock-quote/colibri-resource.html
+[2025-03-05T07:28:40.564Z] Pausing after processing URLs for CBI.V for 1.551s
+[2025-03-05T07:28:46.631Z] Added yahoo_finance URL for CBR.V: https://finance.yahoo.com/quote/CBR.V/
+[2025-03-05T07:28:46.636Z] Added jmn URL for CBR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/cabral-gold.html
+[2025-03-05T07:28:46.637Z] Pausing after processing URLs for CBR.V for 1.176s
+[2025-03-05T07:28:50.234Z] Added yahoo_finance URL for CC.CN: https://finance.yahoo.com/quote/CC.CN/
+[2025-03-05T07:28:50.236Z] Added jmn URL for CC.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/core-assets.html
+[2025-03-05T07:28:50.237Z] Pausing after processing URLs for CC.CN for 1.747s
+[2025-03-05T07:28:52.555Z] Added yahoo_finance URL for CCM.TO: https://finance.yahoo.com/quote/CCM.TO/
+[2025-03-05T07:28:52.556Z] Pausing after processing URLs for CCM.TO for 1.983s
+[2025-03-05T07:28:55.091Z] Added yahoo_finance URL for CDPR.CN: https://finance.yahoo.com/quote/CDPR.CN/
+[2025-03-05T07:28:55.093Z] Pausing after processing URLs for CDPR.CN for 1.16s
+[2025-03-05T07:28:58.283Z] Added yahoo_finance URL for CERT.V: https://finance.yahoo.com/quote/CERT.V/
+[2025-03-05T07:28:58.287Z] Added jmn URL for CERT.V: https://www.juniorminingnetwork.com/market-data/stock-quote/cerrado-gold.html
+[2025-03-05T07:28:58.289Z] Pausing after processing URLs for CERT.V for 1.234s
+[2025-03-05T07:29:00.079Z] Added yahoo_finance URL for CFE.CN: https://finance.yahoo.com/quote/CFE.CN/
+[2025-03-05T07:29:00.082Z] Pausing after processing URLs for CFE.CN for 1.427s
+[2025-03-05T07:29:04.197Z] Added yahoo_finance URL for CG.TO: https://finance.yahoo.com/quote/CG.TO/
+[2025-03-05T07:29:04.201Z] Added jmn URL for CG.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/centerra-gold.html
+[2025-03-05T07:29:04.204Z] Pausing after processing URLs for CG.TO for 1.268s
+[2025-03-05T07:29:07.147Z] Added yahoo_finance URL for CGC.V: https://finance.yahoo.com/quote/CGC.V/
+[2025-03-05T07:29:07.149Z] Added jmn URL for CGC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/canadian-gold.html
+[2025-03-05T07:29:07.150Z] Pausing after processing URLs for CGC.V for 1.194s
+[2025-03-05T07:29:08.908Z] Added yahoo_finance URL for CGG.TO: https://finance.yahoo.com/quote/CGG.TO/
+[2025-03-05T07:29:08.909Z] Pausing after processing URLs for CGG.TO for 1.498s
+[2025-03-05T07:29:13.218Z] Added yahoo_finance URL for CKG.V: https://finance.yahoo.com/quote/CKG.V/
+[2025-03-05T07:29:13.220Z] Added jmn URL for CKG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/chesapeake-gold.html
+[2025-03-05T07:29:13.222Z] Pausing after processing URLs for CKG.V for 1.258s
+[2025-03-05T07:29:15.857Z] Pausing after processing URLs for CLZ.V for 1.522s
+[2025-03-05T07:29:19.446Z] Added yahoo_finance URL for CMB.V: https://finance.yahoo.com/quote/CMB.V/
+[2025-03-05T07:29:19.448Z] Added jmn URL for CMB.V: https://www.juniorminingnetwork.com/market-data/stock-quote/cmc-metals.html
+[2025-03-05T07:29:19.450Z] Pausing after processing URLs for CMB.V for 1.227s
+[2025-03-05T07:29:22.070Z] Pausing after processing URLs for CN.TO for 1.573s
+[2025-03-05T07:29:24.225Z] Added yahoo_finance URL for CNL.TO: https://finance.yahoo.com/quote/CNL.TO/
+[2025-03-05T07:29:24.227Z] Pausing after processing URLs for CNL.TO for 1.064s
+[2025-03-05T07:29:27.889Z] Added yahoo_finance URL for CPAU.V: https://finance.yahoo.com/quote/CPAU.V/
+[2025-03-05T07:29:27.893Z] Added jmn URL for CPAU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/copaur-minerals.html
+[2025-03-05T07:29:27.894Z] Pausing after processing URLs for CPAU.V for 1.93s
+[2025-03-05T07:29:30.717Z] Added yahoo_finance URL for CRB.V: https://finance.yahoo.com/quote/CRB.V/
+[2025-03-05T07:29:30.720Z] Pausing after processing URLs for CRB.V for 1.651s
+[2025-03-05T07:29:33.064Z] Added yahoo_finance URL for CRI.V: https://finance.yahoo.com/quote/CRI.V/
+[2025-03-05T07:29:33.066Z] Pausing after processing URLs for CRI.V for 1.11s
+[2025-03-05T07:29:34.767Z] Added yahoo_finance URL for CSR.CN: https://finance.yahoo.com/quote/CSR.CN/
+[2025-03-05T07:29:34.769Z] Pausing after processing URLs for CSR.CN for 1.282s
+[2025-03-05T07:29:38.921Z] Added yahoo_finance URL for CTM.V: https://finance.yahoo.com/quote/CTM.V/
+[2025-03-05T07:29:38.924Z] Added jmn URL for CTM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/canterra-minerals.html
+[2025-03-05T07:29:38.926Z] Pausing after processing URLs for CTM.V for 1.723s
+[2025-03-05T07:29:41.324Z] Added yahoo_finance URL for CTN.V: https://finance.yahoo.com/quote/CTN.V/
+[2025-03-05T07:29:41.325Z] Pausing after processing URLs for CTN.V for 1.257s
+[2025-03-05T07:29:45.277Z] Added yahoo_finance URL for CVB.V: https://finance.yahoo.com/quote/CVB.V/
+[2025-03-05T07:29:45.280Z] Added jmn URL for CVB.V: https://www.juniorminingnetwork.com/market-data/stock-quote/compass-gold.html
+[2025-03-05T07:29:45.281Z] Pausing after processing URLs for CVB.V for 1.568s
+[2025-03-05T07:29:47.509Z] Added yahoo_finance URL for CXB.TO: https://finance.yahoo.com/quote/CXB.TO/
+[2025-03-05T07:29:47.511Z] Pausing after processing URLs for CXB.TO for 1.354s
+[2025-03-05T07:29:51.125Z] Added yahoo_finance URL for CYG.V: https://finance.yahoo.com/quote/CYG.V/
+[2025-03-05T07:29:51.130Z] Added jmn URL for CYG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/cygnus-metals.html
+[2025-03-05T07:29:51.132Z] Pausing after processing URLs for CYG.V for 1.917s
+[2025-03-05T07:29:56.001Z] Added yahoo_finance URL for DAU.V: https://finance.yahoo.com/quote/DAU.V/
+[2025-03-05T07:29:56.003Z] Added jmn URL for DAU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/desert-gold-ventures.html
+[2025-03-05T07:29:56.004Z] Pausing after processing URLs for DAU.V for 1.952s
+[2025-03-05T07:29:59.366Z] Added yahoo_finance URL for DEF.V: https://finance.yahoo.com/quote/DEF.V/
+[2025-03-05T07:29:59.369Z] Added jmn URL for DEF.V: https://www.juniorminingnetwork.com/market-data/stock-quote/defiance-silver.html
+[2025-03-05T07:29:59.371Z] Pausing after processing URLs for DEF.V for 1.672s
+[2025-03-05T07:30:03.558Z] Added yahoo_finance URL for DEX.V: https://finance.yahoo.com/quote/DEX.V/
+[2025-03-05T07:30:03.561Z] Added jmn URL for DEX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/almadex-minerals.html
+[2025-03-05T07:30:03.563Z] Pausing after processing URLs for DEX.V for 1.142s
+[2025-03-05T07:30:05.250Z] Added yahoo_finance URL for DLTA.V: https://finance.yahoo.com/quote/DLTA.V/
+[2025-03-05T07:30:05.252Z] Pausing after processing URLs for DLTA.V for 1.698s
+[2025-03-05T07:30:08.464Z] Added yahoo_finance URL for DNG.TO: https://finance.yahoo.com/quote/DNG.TO/
+[2025-03-05T07:30:08.466Z] Added jmn URL for DNG.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/dynacor-group.html
+[2025-03-05T07:30:08.467Z] Pausing after processing URLs for DNG.TO for 1.599s
+[2025-03-05T07:30:12.607Z] Added yahoo_finance URL for DPM.TO: https://finance.yahoo.com/quote/DPM.TO/
+[2025-03-05T07:30:12.609Z] Added jmn URL for DPM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/dundee-precious-metals.html
+[2025-03-05T07:30:12.611Z] Pausing after processing URLs for DPM.TO for 1.321s
+[2025-03-05T07:30:16.234Z] Added homepage URL for DRY.V: https://drydengold.com
+[2025-03-05T07:30:16.238Z] Added yahoo_finance URL for DRY.V: https://finance.yahoo.com/quote/DRY.V/
+[2025-03-05T07:30:16.240Z] Added jmn URL for DRY.V: https://www.juniorminingnetwork.com/market-data/stock-quote/dryden-gold.html
+[2025-03-05T07:30:16.241Z] Pausing after processing URLs for DRY.V for 1.147s
+[2025-03-05T07:30:21.396Z] Added yahoo_finance URL for DSV.TO: https://finance.yahoo.com/quote/DSV.TO/
+[2025-03-05T07:30:21.400Z] Added jmn URL for DSV.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/discovery-silver.html
+[2025-03-05T07:30:21.401Z] Pausing after processing URLs for DSV.TO for 1.533s
+[2025-03-05T07:30:25.175Z] Added yahoo_finance URL for DV.V: https://finance.yahoo.com/quote/DV.V/
+[2025-03-05T07:30:25.178Z] Added jmn URL for DV.V: https://www.juniorminingnetwork.com/market-data/stock-quote/dolly-varden-silver.html
+[2025-03-05T07:30:25.179Z] Pausing after processing URLs for DV.V for 1.432s
+[2025-03-05T07:30:28.782Z] Added yahoo_finance URL for DYG.V: https://finance.yahoo.com/quote/DYG.V/
+[2025-03-05T07:30:28.783Z] Added jmn URL for DYG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/dynasty-gold.html
+[2025-03-05T07:30:28.785Z] Pausing after processing URLs for DYG.V for 1.427s
+[2025-03-05T07:30:31.653Z] Added yahoo_finance URL for EAM.V: https://finance.yahoo.com/quote/EAM.V/
+[2025-03-05T07:30:31.658Z] Added jmn URL for EAM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/east-africa-metals.html
+[2025-03-05T07:30:31.659Z] Pausing after processing URLs for EAM.V for 1.523s
+[2025-03-05T07:30:33.752Z] Added yahoo_finance URL for ECR.V: https://finance.yahoo.com/quote/ECR.V/
+[2025-03-05T07:30:33.754Z] Pausing after processing URLs for ECR.V for 1.732s
+[2025-03-05T07:30:37.790Z] Added yahoo_finance URL for EDG.V: https://finance.yahoo.com/quote/EDG.V/
+[2025-03-05T07:30:37.793Z] Added jmn URL for EDG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/endurance-gold.html
+[2025-03-05T07:30:37.794Z] Pausing after processing URLs for EDG.V for 1.081s
+[2025-03-05T07:30:40.633Z] Added yahoo_finance URL for EDGM.CN: https://finance.yahoo.com/quote/EDGM.CN/
+[2025-03-05T07:30:40.636Z] Added jmn URL for EDGM.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/edgemont-gold.html
+[2025-03-05T07:30:40.637Z] Pausing after processing URLs for EDGM.CN for 1.447s
+[2025-03-05T07:30:43.583Z] Added yahoo_finance URL for EDR.TO: https://finance.yahoo.com/quote/EDR.TO/
+[2025-03-05T07:30:43.589Z] Added jmn URL for EDR.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/endeavour-silver.html
+[2025-03-05T07:30:43.590Z] Pausing after processing URLs for EDR.TO for 1.499s
+[2025-03-05T07:30:46.913Z] Added yahoo_finance URL for ELD.TO: https://finance.yahoo.com/quote/ELD.TO/
+[2025-03-05T07:30:46.915Z] Added jmn URL for ELD.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/eldorado-gold.html
+[2025-03-05T07:30:46.918Z] Pausing after processing URLs for ELD.TO for 1.78s
+[2025-03-05T07:30:49.245Z] Added yahoo_finance URL for ELE.V: https://finance.yahoo.com/quote/ELE.V/
+[2025-03-05T07:30:49.247Z] Pausing after processing URLs for ELE.V for 1.582s
+[2025-03-05T07:30:51.384Z] Added yahoo_finance URL for ELEF.TO: https://finance.yahoo.com/quote/ELEF.TO/
+[2025-03-05T07:30:51.386Z] Pausing after processing URLs for ELEF.TO for 1.709s
+[2025-03-05T07:30:53.652Z] Added yahoo_finance URL for ELO.TO: https://finance.yahoo.com/quote/ELO.TO/
+[2025-03-05T07:30:53.654Z] Pausing after processing URLs for ELO.TO for 1.797s
+[2025-03-05T07:30:56.826Z] Pausing after processing URLs for ELVT.V for 1.852s
+[2025-03-05T07:31:02.175Z] Added yahoo_finance URL for EMNT.V: https://finance.yahoo.com/quote/EMNT.V/
+[2025-03-05T07:31:02.179Z] Added jmn URL for EMNT.V: https://www.juniorminingnetwork.com/market-data/stock-quote/eminent-gold.html
+[2025-03-05T07:31:02.180Z] Pausing after processing URLs for EMNT.V for 1.609s
+[2025-03-05T07:31:05.027Z] Added yahoo_finance URL for EMO.V: https://finance.yahoo.com/quote/EMO.V/
+[2025-03-05T07:31:05.028Z] Pausing after processing URLs for EMO.V for 1.915s
+[2025-03-05T07:31:09.447Z] Added yahoo_finance URL for EMPR.V: https://finance.yahoo.com/quote/EMPR.V/
+[2025-03-05T07:31:09.451Z] Added jmn URL for EMPR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/empress-royalty.html
+[2025-03-05T07:31:09.453Z] Pausing after processing URLs for EMPR.V for 1.048s
+[2025-03-05T07:31:12.940Z] Added yahoo_finance URL for EMX.V: https://finance.yahoo.com/quote/EMX.V/
+[2025-03-05T07:31:12.942Z] Added jmn URL for EMX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/emx-royalty.html
+[2025-03-05T07:31:12.944Z] Pausing after processing URLs for EMX.V for 1.693s
+[2025-03-05T07:31:17.306Z] Added yahoo_finance URL for ENDR.V: https://finance.yahoo.com/quote/ENDR.V/
+[2025-03-05T07:31:17.308Z] Added jmn URL for ENDR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/enduro-metals.html
+[2025-03-05T07:31:17.310Z] Pausing after processing URLs for ENDR.V for 1.116s
+[2025-03-05T07:31:18.972Z] Added yahoo_finance URL for EPL.V: https://finance.yahoo.com/quote/EPL.V/
+[2025-03-05T07:31:18.974Z] Pausing after processing URLs for EPL.V for 1.452s
+[2025-03-05T07:31:23.244Z] Added yahoo_finance URL for EQTY.V: https://finance.yahoo.com/quote/EQTY.V/
+[2025-03-05T07:31:23.247Z] Added jmn URL for EQTY.V: https://www.juniorminingnetwork.com/market-data/stock-quote/equity-metals.html
+[2025-03-05T07:31:23.248Z] Pausing after processing URLs for EQTY.V for 1.016s
+[2025-03-05T07:31:26.784Z] Added yahoo_finance URL for EQX.TO: https://finance.yahoo.com/quote/EQX.TO/
+[2025-03-05T07:31:26.789Z] Added jmn URL for EQX.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/equinox-gold.html
+[2025-03-05T07:31:26.790Z] Pausing after processing URLs for EQX.TO for 1.89s
+[2025-03-05T07:31:29.418Z] Added yahoo_finance URL for ER.CN: https://finance.yahoo.com/quote/ER.CN/
+[2025-03-05T07:31:29.419Z] Pausing after processing URLs for ER.CN for 1.129s
+[2025-03-05T07:31:32.956Z] Added yahoo_finance URL for ERD.TO: https://finance.yahoo.com/quote/ERD.TO/
+[2025-03-05T07:31:32.960Z] Added jmn URL for ERD.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/erdene-resource.html
+[2025-03-05T07:31:32.962Z] Pausing after processing URLs for ERD.TO for 1.519s
+[2025-03-05T07:31:35.060Z] Added yahoo_finance URL for ESK.V: https://finance.yahoo.com/quote/ESK.V/
+[2025-03-05T07:31:35.061Z] Pausing after processing URLs for ESK.V for 1.821s
+[2025-03-05T07:31:37.431Z] Added yahoo_finance URL for ESM.TO: https://finance.yahoo.com/quote/ESM.TO/
+[2025-03-05T07:31:37.432Z] Pausing after processing URLs for ESM.TO for 1.154s
+[2025-03-05T07:31:39.139Z] Added yahoo_finance URL for ETR.CN: https://finance.yahoo.com/quote/ETR.CN/
+[2025-03-05T07:31:39.141Z] Pausing after processing URLs for ETR.CN for 1.382s
+[2025-03-05T07:31:41.062Z] Added yahoo_finance URL for EXN.TO: https://finance.yahoo.com/quote/EXN.TO/
+[2025-03-05T07:31:41.065Z] Pausing after processing URLs for EXN.TO for 1.662s
+[2025-03-05T07:31:45.164Z] Added yahoo_finance URL for FAS.V: https://finance.yahoo.com/quote/FAS.V/
+[2025-03-05T07:31:45.168Z] Added jmn URL for FAS.V: https://www.juniorminingnetwork.com/market-data/stock-quote/first-andes-silver.html
+[2025-03-05T07:31:45.170Z] Pausing after processing URLs for FAS.V for 1.717s
+[2025-03-05T07:31:49.034Z] Added yahoo_finance URL for FDR.V: https://finance.yahoo.com/quote/FDR.V/
+[2025-03-05T07:31:49.036Z] Added jmn URL for FDR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/founders-metals.html
+[2025-03-05T07:31:49.038Z] Pausing after processing URLs for FDR.V for 1.984s
+[2025-03-05T07:31:51.580Z] Added yahoo_finance URL for FF.TO: https://finance.yahoo.com/quote/FF.TO/
+[2025-03-05T07:31:51.583Z] Pausing after processing URLs for FF.TO for 1.544s
+[2025-03-05T07:31:55.880Z] Added yahoo_finance URL for FFOX.V: https://finance.yahoo.com/quote/FFOX.V/
+[2025-03-05T07:31:55.883Z] Added jmn URL for FFOX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/firefox-gold.html
+[2025-03-05T07:31:55.886Z] Pausing after processing URLs for FFOX.V for 1.64s
+[2025-03-05T07:32:01.031Z] Added yahoo_finance URL for FIN.V: https://finance.yahoo.com/quote/FIN.V/
+[2025-03-05T07:32:01.035Z] Added jmn URL for FIN.V: https://www.juniorminingnetwork.com/market-data/stock-quote/grit-metals.html
+[2025-03-05T07:32:01.037Z] Pausing after processing URLs for FIN.V for 1.73s
+[2025-03-05T07:32:04.671Z] Added yahoo_finance URL for FISH.V: https://finance.yahoo.com/quote/FISH.V/
+[2025-03-05T07:32:04.674Z] Added jmn URL for FISH.V: https://www.juniorminingnetwork.com/market-data/stock-quote/sailfish-royalty.html
+[2025-03-05T07:32:04.675Z] Pausing after processing URLs for FISH.V for 1.424s
+[2025-03-05T07:32:06.821Z] Added yahoo_finance URL for FKM.V: https://finance.yahoo.com/quote/FKM.V/
+[2025-03-05T07:32:06.823Z] Pausing after processing URLs for FKM.V for 1.705s
+[2025-03-05T07:32:10.060Z] Retrying URL validation for https://www.calibremining.com for 2.283s
+[2025-03-05T07:32:12.374Z] Retrying URL validation for https://www.calibremining.com for 2.369s
+[2025-03-05T07:32:14.771Z] Added yahoo_finance URL for FMAN.V: https://finance.yahoo.com/quote/FMAN.V/
+[2025-03-05T07:32:14.774Z] Added jmn URL for FMAN.V: https://www.juniorminingnetwork.com/market-data/stock-quote/freeman-gold.html
+[2025-03-05T07:32:14.775Z] Pausing after processing URLs for FMAN.V for 1.773s
+[2025-03-05T07:32:19.666Z] Added yahoo_finance URL for FMC.V: https://finance.yahoo.com/quote/FMC.V/
+[2025-03-05T07:32:19.670Z] Added jmn URL for FMC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/forum-energy-metals.html
+[2025-03-05T07:32:19.671Z] Pausing after processing URLs for FMC.V for 1.947s
+[2025-03-05T07:32:24.491Z] Added yahoo_finance URL for FMT.V: https://finance.yahoo.com/quote/FMT.V/
+[2025-03-05T07:32:24.493Z] Added jmn URL for FMT.V: https://www.juniorminingnetwork.com/market-data/stock-quote/fuerte-metals.html
+[2025-03-05T07:32:24.494Z] Pausing after processing URLs for FMT.V for 1.28s
+[2025-03-05T07:32:29.068Z] Added yahoo_finance URL for FNAU.CN: https://finance.yahoo.com/quote/FNAU.CN/
+[2025-03-05T07:32:29.074Z] Added jmn URL for FNAU.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/four-nines-gold.html
+[2025-03-05T07:32:29.076Z] Pausing after processing URLs for FNAU.CN for 1.687s
+[2025-03-05T07:32:33.576Z] Added yahoo_finance URL for FNM.V: https://finance.yahoo.com/quote/FNM.V/
+[2025-03-05T07:32:33.579Z] Added jmn URL for FNM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/first-nordic-metals.html
+[2025-03-05T07:32:33.581Z] Pausing after processing URLs for FNM.V for 1.255s
+[2025-03-05T07:32:39.832Z] Added yahoo_finance URL for FNV.TO: https://finance.yahoo.com/quote/FNV.TO/
+[2025-03-05T07:32:39.835Z] Added jmn URL for FNV.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/franco-nevada.html
+[2025-03-05T07:32:39.837Z] Pausing after processing URLs for FNV.TO for 1.345s
+[2025-03-05T07:32:46.304Z] Added yahoo_finance URL for FOR.V: https://finance.yahoo.com/quote/FOR.V/
+[2025-03-05T07:32:46.307Z] Added jmn URL for FOR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/fortune-bay.html
+[2025-03-05T07:32:46.309Z] Pausing after processing URLs for FOR.V for 1.957s
+[2025-03-05T07:32:49.452Z] Added yahoo_finance URL for FPC.V: https://finance.yahoo.com/quote/FPC.V/
+[2025-03-05T07:32:49.455Z] Pausing after processing URLs for FPC.V for 1.727s
+[2025-03-05T07:32:51.736Z] Added yahoo_finance URL for FRED.V: https://finance.yahoo.com/quote/FRED.V/
+[2025-03-05T07:32:51.738Z] Pausing after processing URLs for FRED.V for 1.9s
+[2025-03-05T07:32:54.182Z] Added yahoo_finance URL for FRG.CN: https://finance.yahoo.com/quote/FRG.CN/
+[2025-03-05T07:32:54.183Z] Pausing after processing URLs for FRG.CN for 1.544s
+[2025-03-05T07:32:58.671Z] Added yahoo_finance URL for FURY.TO: https://finance.yahoo.com/quote/FURY.TO/
+[2025-03-05T07:32:58.673Z] Added jmn URL for FURY.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/fury-gold-mines.html
+[2025-03-05T07:32:58.674Z] Pausing after processing URLs for FURY.TO for 1.809s
+[2025-03-05T07:33:01.345Z] Added yahoo_finance URL for FVI.TO: https://finance.yahoo.com/quote/FVI.TO/
+[2025-03-05T07:33:01.347Z] Pausing after processing URLs for FVI.TO for 1.683s
+[2025-03-05T07:33:05.636Z] Added yahoo_finance URL for FVL.TO: https://finance.yahoo.com/quote/FVL.TO/
+[2025-03-05T07:33:05.641Z] Added jmn URL for FVL.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/freegold-ventures.html
+[2025-03-05T07:33:05.643Z] Pausing after processing URLs for FVL.TO for 1.945s
+[2025-03-05T07:33:09.084Z] Added yahoo_finance URL for GAL.V: https://finance.yahoo.com/quote/GAL.V/
+[2025-03-05T07:33:09.087Z] Added jmn URL for GAL.V: https://www.juniorminingnetwork.com/market-data/stock-quote/galantas-gold.html
+[2025-03-05T07:33:09.088Z] Pausing after processing URLs for GAL.V for 1.235s
+[2025-03-05T07:33:13.288Z] Added yahoo_finance URL for GAU.TO: https://finance.yahoo.com/quote/GAU.TO/
+[2025-03-05T07:33:13.292Z] Added jmn URL for GAU.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/galiano-gold.html
+[2025-03-05T07:33:13.295Z] Pausing after processing URLs for GAU.TO for 1.065s
+[2025-03-05T07:33:14.912Z] Added yahoo_finance URL for GBRC.V: https://finance.yahoo.com/quote/GBRC.V/
+[2025-03-05T07:33:14.914Z] Pausing after processing URLs for GBRC.V for 1.946s
+[2025-03-05T07:33:17.423Z] Added yahoo_finance URL for GDX.V: https://finance.yahoo.com/quote/GDX.V/
+[2025-03-05T07:33:17.426Z] Pausing after processing URLs for GDX.V for 1.651s
+[2025-03-05T07:33:19.640Z] Added yahoo_finance URL for GFG.V: https://finance.yahoo.com/quote/GFG.V/
+[2025-03-05T07:33:19.641Z] Pausing after processing URLs for GFG.V for 1.593s
+[2025-03-05T07:33:23.289Z] Added homepage URL for G.TO: https://lavrasgold.com
+[2025-03-05T07:33:23.292Z] Added yahoo_finance URL for G.TO: https://finance.yahoo.com/quote/G.TO/
+[2025-03-05T07:33:23.294Z] Added jmn URL for G.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/augusta-gold.html
+[2025-03-05T07:33:23.296Z] Pausing after processing URLs for G.TO for 1.831s
+[2025-03-05T07:33:25.681Z] Added yahoo_finance URL for GCC.CN: https://finance.yahoo.com/quote/GCC.CN/
+[2025-03-05T07:33:25.682Z] Pausing after processing URLs for GCC.CN for 1.224s
+[2025-03-05T07:33:30.216Z] Added yahoo_finance URL for GHRT.V: https://finance.yahoo.com/quote/GHRT.V/
+[2025-03-05T07:33:30.220Z] Added jmn URL for GHRT.V: https://www.juniorminingnetwork.com/market-data/stock-quote/greenheart-gold.html
+[2025-03-05T07:33:30.222Z] Pausing after processing URLs for GHRT.V for 1.027s
+[2025-03-05T07:33:33.605Z] Added yahoo_finance URL for GG.V: https://finance.yahoo.com/quote/GG.V/
+[2025-03-05T07:33:33.608Z] Added jmn URL for GG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/golconda-gold.html
+[2025-03-05T07:33:33.609Z] Pausing after processing URLs for GG.V for 1.842s
+[2025-03-05T07:33:36.006Z] Added yahoo_finance URL for GGA.V: https://finance.yahoo.com/quote/GGA.V/
+[2025-03-05T07:33:36.007Z] Pausing after processing URLs for GGA.V for 1.579s
+[2025-03-05T07:33:38.141Z] Added yahoo_finance URL for GGD.TO: https://finance.yahoo.com/quote/GGD.TO/
+[2025-03-05T07:33:38.142Z] Pausing after processing URLs for GGD.TO for 1.029s
+[2025-03-05T07:33:39.733Z] Added yahoo_finance URL for GGL.V: https://finance.yahoo.com/quote/GGL.V/
+[2025-03-05T07:33:39.736Z] Pausing after processing URLs for GGL.V for 1.041s
+[2025-03-05T07:33:45.539Z] Added yahoo_finance URL for GGM.V: https://finance.yahoo.com/quote/GGM.V/
+[2025-03-05T07:33:45.541Z] Added jmn URL for GGM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/granada-gold-mine.html
+[2025-03-05T07:33:45.542Z] Pausing after processing URLs for GGM.V for 1.065s
+[2025-03-05T07:33:48.527Z] Retrying URL validation for https://www.calibremining.com for 2.179s
+[2025-03-05T07:33:50.735Z] Retrying URL validation for https://www.calibremining.com for 2.315s
+[2025-03-05T07:33:53.075Z] Added yahoo_finance URL for GGO.V: https://finance.yahoo.com/quote/GGO.V/
+[2025-03-05T07:33:53.079Z] Added jmn URL for GGO.V: https://www.juniorminingnetwork.com/market-data/stock-quote/galleon-gold.html
+[2025-03-05T07:33:53.081Z] Pausing after processing URLs for GGO.V for 1.946s
+[2025-03-05T07:33:57.800Z] Added yahoo_finance URL for GLDC.V: https://finance.yahoo.com/quote/GLDC.V/
+[2025-03-05T07:33:57.802Z] Added jmn URL for GLDC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/cassiar-gold.html
+[2025-03-05T07:33:57.804Z] Pausing after processing URLs for GLDC.V for 1.214s
+[2025-03-05T07:33:59.571Z] Added yahoo_finance URL for GLDN.V: https://finance.yahoo.com/quote/GLDN.V/
+[2025-03-05T07:33:59.573Z] Pausing after processing URLs for GLDN.V for 1.339s
+[2025-03-05T07:34:02.799Z] Added yahoo_finance URL for GLM.CN: https://finance.yahoo.com/quote/GLM.CN/
+[2025-03-05T07:34:02.802Z] Added jmn URL for GLM.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/golden-lake-exploration.html
+[2025-03-05T07:34:02.803Z] Pausing after processing URLs for GLM.CN for 1.764s
+[2025-03-05T07:34:05.120Z] Added yahoo_finance URL for GMIN.TO: https://finance.yahoo.com/quote/GMIN.TO/
+[2025-03-05T07:34:05.122Z] Pausing after processing URLs for GMIN.TO for 1.314s
+[2025-03-05T07:34:06.980Z] Added yahoo_finance URL for GMTN.TO: https://finance.yahoo.com/quote/GMTN.TO/
+[2025-03-05T07:34:06.982Z] Pausing after processing URLs for GMTN.TO for 1.121s
+[2025-03-05T07:34:09.594Z] Added yahoo_finance URL for GMV.V: https://finance.yahoo.com/quote/GMV.V/
+[2025-03-05T07:34:09.596Z] Added jmn URL for GMV.V: https://www.juniorminingnetwork.com/market-data/stock-quote/gmv-minerals.html
+[2025-03-05T07:34:09.598Z] Pausing after processing URLs for GMV.V for 1.44s
+[2025-03-05T07:34:11.585Z] Added yahoo_finance URL for GMX.TO: https://finance.yahoo.com/quote/GMX.TO/
+[2025-03-05T07:34:11.587Z] Pausing after processing URLs for GMX.TO for 1.929s
+[2025-03-05T07:34:14.069Z] Added yahoo_finance URL for GNG.V: https://finance.yahoo.com/quote/GNG.V/
+[2025-03-05T07:34:14.071Z] Pausing after processing URLs for GNG.V for 1.891s
+[2025-03-05T07:34:16.503Z] Added yahoo_finance URL for GOLD.TO: https://finance.yahoo.com/quote/GOLD.TO/
+[2025-03-05T07:34:16.504Z] Pausing after processing URLs for GOLD.TO for 1.395s
+[2025-03-05T07:34:18.616Z] Added yahoo_finance URL for GOT.V: https://finance.yahoo.com/quote/GOT.V/
+[2025-03-05T07:34:18.618Z] Pausing after processing URLs for GOT.V for 1.811s
+[2025-03-05T07:34:22.772Z] Added yahoo_finance URL for GPAC.V: https://finance.yahoo.com/quote/GPAC.V/
+[2025-03-05T07:34:22.776Z] Added jmn URL for GPAC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/great-pacific-gold.html
+[2025-03-05T07:34:22.777Z] Pausing after processing URLs for GPAC.V for 1.316s
+[2025-03-05T07:34:24.643Z] Added yahoo_finance URL for GPG.V: https://finance.yahoo.com/quote/GPG.V/
+[2025-03-05T07:34:24.646Z] Pausing after processing URLs for GPG.V for 1.114s
+[2025-03-05T07:34:27.531Z] Added yahoo_finance URL for GTWO.TO: https://finance.yahoo.com/quote/GTWO.TO/
+[2025-03-05T07:34:27.533Z] Added jmn URL for GTWO.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/g2-goldfields.html
+[2025-03-05T07:34:27.535Z] Pausing after processing URLs for GTWO.TO for 1.179s
+[2025-03-05T07:34:31.069Z] Added yahoo_finance URL for GQ.V: https://finance.yahoo.com/quote/GQ.V/
+[2025-03-05T07:34:31.071Z] Added jmn URL for GQ.V: https://www.juniorminingnetwork.com/market-data/stock-quote/great-quest-gold.html
+[2025-03-05T07:34:31.072Z] Pausing after processing URLs for GQ.V for 1.968s
+[2025-03-05T07:34:33.711Z] Added yahoo_finance URL for GQC.V: https://finance.yahoo.com/quote/GQC.V/
+[2025-03-05T07:34:33.712Z] Pausing after processing URLs for GQC.V for 1.123s
+[2025-03-05T07:34:37.528Z] Added yahoo_finance URL for GRC.TO: https://finance.yahoo.com/quote/GRC.TO/
+[2025-03-05T07:34:37.530Z] Added jmn URL for GRC.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/gold-springs-resource.html
+[2025-03-05T07:34:37.532Z] Pausing after processing URLs for GRC.TO for 1.451s
+[2025-03-05T07:34:39.539Z] Added yahoo_finance URL for GRG.V: https://finance.yahoo.com/quote/GRG.V/
+[2025-03-05T07:34:39.541Z] Pausing after processing URLs for GRG.V for 1.94s
+[2025-03-05T07:34:42.031Z] Added yahoo_finance URL for GRSL.V: https://finance.yahoo.com/quote/GRSL.V/
+[2025-03-05T07:34:42.033Z] Pausing after processing URLs for GRSL.V for 1.234s
+[2025-03-05T07:34:43.843Z] Added yahoo_finance URL for GSHR.V: https://finance.yahoo.com/quote/GSHR.V/
+[2025-03-05T07:34:43.845Z] Pausing after processing URLs for GSHR.V for 1.706s
+[2025-03-05T07:34:49.530Z] Added yahoo_finance URL for GSTM.V: https://finance.yahoo.com/quote/GSTM.V/
+[2025-03-05T07:34:49.534Z] Added jmn URL for GSTM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/goldstorm-metals.html
+[2025-03-05T07:34:49.536Z] Pausing after processing URLs for GSTM.V for 1.83s
+[2025-03-05T07:34:52.801Z] Added yahoo_finance URL for GSVR.V: https://finance.yahoo.com/quote/GSVR.V/
+[2025-03-05T07:34:52.802Z] Pausing after processing URLs for GSVR.V for 1.168s
+[2025-03-05T07:34:56.370Z] Added yahoo_finance URL for GTCH.CN: https://finance.yahoo.com/quote/GTCH.CN/
+[2025-03-05T07:34:56.374Z] Added jmn URL for GTCH.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/getchell-gold.html
+[2025-03-05T07:34:56.376Z] Pausing after processing URLs for GTCH.CN for 1.854s
+[2025-03-05T07:35:01.402Z] Added yahoo_finance URL for GUN.V: https://finance.yahoo.com/quote/GUN.V/
+[2025-03-05T07:35:01.407Z] Added jmn URL for GUN.V: https://www.juniorminingnetwork.com/market-data/stock-quote/gunpoint-exploration.html
+[2025-03-05T07:35:01.408Z] Pausing after processing URLs for GUN.V for 1.399s
+[2025-03-05T07:35:05.162Z] Added yahoo_finance URL for GUS.V: https://finance.yahoo.com/quote/GUS.V/
+[2025-03-05T07:35:05.164Z] Added jmn URL for GUS.V: https://www.juniorminingnetwork.com/market-data/stock-quote/angus-gold.html
+[2025-03-05T07:35:05.167Z] Pausing after processing URLs for GUS.V for 1.434s
+[2025-03-05T07:35:10.520Z] Added yahoo_finance URL for GWM.V: https://finance.yahoo.com/quote/GWM.V/
+[2025-03-05T07:35:10.523Z] Added jmn URL for GWM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/galway-metals.html
+[2025-03-05T07:35:10.525Z] Pausing after processing URLs for GWM.V for 1.421s
+[2025-03-05T07:35:13.124Z] Added yahoo_finance URL for GXX.V: https://finance.yahoo.com/quote/GXX.V/
+[2025-03-05T07:35:13.126Z] Pausing after processing URLs for GXX.V for 1.635s
+[2025-03-05T07:35:15.319Z] Added yahoo_finance URL for HAMR.CN: https://finance.yahoo.com/quote/HAMR.CN/
+[2025-03-05T07:35:15.320Z] Pausing after processing URLs for HAMR.CN for 1.393s
+[2025-03-05T07:35:17.270Z] Added yahoo_finance URL for HML.CN: https://finance.yahoo.com/quote/HML.CN/
+[2025-03-05T07:35:17.272Z] Pausing after processing URLs for HML.CN for 1.846s
+[2025-03-05T07:35:20.448Z] Added yahoo_finance URL for HSLV.CN: https://finance.yahoo.com/quote/HSLV.CN/
+[2025-03-05T07:35:20.451Z] Added jmn URL for HSLV.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/highlander-silver.html
+[2025-03-05T07:35:20.453Z] Pausing after processing URLs for HSLV.CN for 1.793s
+[2025-03-05T07:35:25.124Z] Added yahoo_finance URL for HSTR.V: https://finance.yahoo.com/quote/HSTR.V/
+[2025-03-05T07:35:25.127Z] Added jmn URL for HSTR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/heliostar-metals.html
+[2025-03-05T07:35:25.129Z] Pausing after processing URLs for HSTR.V for 1.504s
+[2025-03-05T07:35:27.293Z] Added yahoo_finance URL for HUNT.CN: https://finance.yahoo.com/quote/HUNT.CN/
+[2025-03-05T07:35:27.295Z] Pausing after processing URLs for HUNT.CN for 1.397s
+[2025-03-05T07:35:30.479Z] Added yahoo_finance URL for HWY.V: https://finance.yahoo.com/quote/HWY.V/
+[2025-03-05T07:35:30.483Z] Added jmn URL for HWY.V: https://www.juniorminingnetwork.com/market-data/stock-quote/highway-50-gold.html
+[2025-03-05T07:35:30.484Z] Pausing after processing URLs for HWY.V for 1.786s
+[2025-03-05T07:35:35.228Z] Added yahoo_finance URL for IAU.V: https://finance.yahoo.com/quote/IAU.V/
+[2025-03-05T07:35:35.231Z] Added jmn URL for IAU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/i-80-gold.html
+[2025-03-05T07:35:35.233Z] Pausing after processing URLs for IAU.V for 1.297s
+[2025-03-05T07:35:39.285Z] Added yahoo_finance URL for IGO.V: https://finance.yahoo.com/quote/IGO.V/
+[2025-03-05T07:35:39.287Z] Added jmn URL for IGO.V: https://www.juniorminingnetwork.com/market-data/stock-quote/independence-gold.html
+[2025-03-05T07:35:39.288Z] Pausing after processing URLs for IGO.V for 1.697s
+[2025-03-05T07:35:44.169Z] Added yahoo_finance URL for IMG.TO: https://finance.yahoo.com/quote/IMG.TO/
+[2025-03-05T07:35:44.171Z] Added jmn URL for IMG.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/iamgold.html
+[2025-03-05T07:35:44.173Z] Pausing after processing URLs for IMG.TO for 1.226s
+[2025-03-05T07:35:47.017Z] Added yahoo_finance URL for IPT.V: https://finance.yahoo.com/quote/IPT.V/
+[2025-03-05T07:35:47.019Z] Added jmn URL for IPT.V: https://www.juniorminingnetwork.com/market-data/stock-quote/impact-silver.html
+[2025-03-05T07:35:47.021Z] Pausing after processing URLs for IPT.V for 1.994s
+[2025-03-05T07:35:49.782Z] Added yahoo_finance URL for IRV.CN: https://finance.yahoo.com/quote/IRV.CN/
+[2025-03-05T07:35:49.783Z] Pausing after processing URLs for IRV.CN for 1.957s
+[2025-03-05T07:35:54.181Z] Added yahoo_finance URL for ITH.TO: https://finance.yahoo.com/quote/ITH.TO/
+[2025-03-05T07:35:54.183Z] Added jmn URL for ITH.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/intl-tower-hill-mines.html
+[2025-03-05T07:35:54.186Z] Pausing after processing URLs for ITH.TO for 1.89s
+[2025-03-05T07:35:56.722Z] Added yahoo_finance URL for ITR.V: https://finance.yahoo.com/quote/ITR.V/
+[2025-03-05T07:35:56.723Z] Pausing after processing URLs for ITR.V for 1.61s
+[2025-03-05T07:35:58.875Z] Added yahoo_finance URL for IVS.V: https://finance.yahoo.com/quote/IVS.V/
+[2025-03-05T07:35:58.878Z] Pausing after processing URLs for IVS.V for 1.517s
+[2025-03-05T07:36:00.944Z] Added yahoo_finance URL for JAG.TO: https://finance.yahoo.com/quote/JAG.TO/
+[2025-03-05T07:36:00.945Z] Pausing after processing URLs for JAG.TO for 1.882s
+[2025-03-05T07:36:05.440Z] Added yahoo_finance URL for JG.V: https://finance.yahoo.com/quote/JG.V/
+[2025-03-05T07:36:05.442Z] Added jmn URL for JG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/japan-gold.html
+[2025-03-05T07:36:05.443Z] Pausing after processing URLs for JG.V for 1.094s
+[2025-03-05T07:36:07.866Z] Pausing after processing URLs for JUB.H for 1.444s
+[2025-03-05T07:36:11.821Z] Added yahoo_finance URL for JUGR.V: https://finance.yahoo.com/quote/JUGR.V/
+[2025-03-05T07:36:11.823Z] Added jmn URL for JUGR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/juggernaut-exploration.html
+[2025-03-05T07:36:11.825Z] Pausing after processing URLs for JUGR.V for 1.082s
+[2025-03-05T07:36:13.474Z] Added yahoo_finance URL for JZR.V: https://finance.yahoo.com/quote/JZR.V/
+[2025-03-05T07:36:13.475Z] Pausing after processing URLs for JZR.V for 1.281s
+[2025-03-05T07:36:16.522Z] Added yahoo_finance URL for K.TO: https://finance.yahoo.com/quote/K.TO/
+[2025-03-05T07:36:16.523Z] Added jmn URL for K.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/kinross-gold.html
+[2025-03-05T07:36:16.525Z] Pausing after processing URLs for K.TO for 1.624s
+[2025-03-05T07:36:22.169Z] Added yahoo_finance URL for KALO.V: https://finance.yahoo.com/quote/KALO.V/
+[2025-03-05T07:36:22.172Z] Added jmn URL for KALO.V: https://www.juniorminingnetwork.com/market-data/stock-quote/kalo-gold.html
+[2025-03-05T07:36:22.174Z] Pausing after processing URLs for KALO.V for 1.153s
+[2025-03-05T07:36:28.404Z] Added yahoo_finance URL for KAPA.V: https://finance.yahoo.com/quote/KAPA.V/
+[2025-03-05T07:36:28.407Z] Added jmn URL for KAPA.V: https://www.juniorminingnetwork.com/market-data/stock-quote/kapa-gold.html
+[2025-03-05T07:36:28.409Z] Pausing after processing URLs for KAPA.V for 1.5s
+[2025-03-05T07:36:32.717Z] Added yahoo_finance URL for KFR.V: https://finance.yahoo.com/quote/KFR.V/
+[2025-03-05T07:36:32.718Z] Added jmn URL for KFR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/kingfisher-metals.html
+[2025-03-05T07:36:32.719Z] Pausing after processing URLs for KFR.V for 1.283s
+[2025-03-05T07:36:36.665Z] Added yahoo_finance URL for KG.V: https://finance.yahoo.com/quote/KG.V/
+[2025-03-05T07:36:36.667Z] Added jmn URL for KG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/klondike-gold.html
+[2025-03-05T07:36:36.668Z] Pausing after processing URLs for KG.V for 1s
+[2025-03-05T07:36:40.321Z] Added yahoo_finance URL for KGC.V: https://finance.yahoo.com/quote/KGC.V/
+[2025-03-05T07:36:40.325Z] Added jmn URL for KGC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/kestrel-gold.html
+[2025-03-05T07:36:40.327Z] Pausing after processing URLs for KGC.V for 1.709s
+[2025-03-05T07:36:46.765Z] Added homepage URL for KLD.V: https://kenorlandminerals.com
+[2025-03-05T07:36:46.768Z] Added yahoo_finance URL for KLD.V: https://finance.yahoo.com/quote/KLD.V/
+[2025-03-05T07:36:46.770Z] Added jmn URL for KLD.V: https://www.juniorminingnetwork.com/market-data/stock-quote/kenorland-minerals.html
+[2025-03-05T07:36:46.772Z] Pausing after processing URLs for KLD.V for 1.677s
+[2025-03-05T07:36:49.642Z] Added yahoo_finance URL for KLM.V: https://finance.yahoo.com/quote/KLM.V/
+[2025-03-05T07:36:49.644Z] Pausing after processing URLs for KLM.V for 1.933s
+[2025-03-05T07:36:52.132Z] Added yahoo_finance URL for KNG.V: https://finance.yahoo.com/quote/KNG.V/
+[2025-03-05T07:36:52.133Z] Pausing after processing URLs for KNG.V for 1.774s
+[2025-03-05T07:36:54.458Z] Added yahoo_finance URL for KNT.TO: https://finance.yahoo.com/quote/KNT.TO/
+[2025-03-05T07:36:54.461Z] Pausing after processing URLs for KNT.TO for 1.825s
+[2025-03-05T07:36:58.550Z] Added yahoo_finance URL for KOG.CN: https://finance.yahoo.com/quote/KOG.CN/
+[2025-03-05T07:36:58.553Z] Added jmn URL for KOG.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/ko-gold.html
+[2025-03-05T07:36:58.555Z] Pausing after processing URLs for KOG.CN for 1.516s
+[2025-03-05T07:37:00.796Z] Added yahoo_finance URL for KORE.V: https://finance.yahoo.com/quote/KORE.V/
+[2025-03-05T07:37:00.798Z] Pausing after processing URLs for KORE.V for 1.096s
+[2025-03-05T07:37:02.443Z] Added yahoo_finance URL for KRI.V: https://finance.yahoo.com/quote/KRI.V/
+[2025-03-05T07:37:02.445Z] Pausing after processing URLs for KRI.V for 1.523s
+[2025-03-05T07:37:06.500Z] Added yahoo_finance URL for KS.V: https://finance.yahoo.com/quote/KS.V/
+[2025-03-05T07:37:06.502Z] Added jmn URL for KS.V: https://www.juniorminingnetwork.com/market-data/stock-quote/klondike-silver.html
+[2025-03-05T07:37:06.504Z] Pausing after processing URLs for KS.V for 1.015s
+[2025-03-05T07:37:09.666Z] Added yahoo_finance URL for KTN.V: https://finance.yahoo.com/quote/KTN.V/
+[2025-03-05T07:37:09.669Z] Added jmn URL for KTN.V: https://www.juniorminingnetwork.com/market-data/stock-quote/kootenay-silver.html
+[2025-03-05T07:37:09.671Z] Pausing after processing URLs for KTN.V for 1.698s
+[2025-03-05T07:37:14.826Z] Added homepage URL for KTO.V: https://k2gold.com
+[2025-03-05T07:37:14.830Z] Added yahoo_finance URL for KTO.V: https://finance.yahoo.com/quote/KTO.V/
+[2025-03-05T07:37:14.833Z] Added jmn URL for KTO.V: https://www.juniorminingnetwork.com/market-data/stock-quote/k2-gold.html
+[2025-03-05T07:37:14.836Z] Pausing after processing URLs for KTO.V for 1.028s
+[2025-03-05T07:37:18.852Z] Added yahoo_finance URL for KUYA.CN: https://finance.yahoo.com/quote/KUYA.CN/
+[2025-03-05T07:37:18.854Z] Added jmn URL for KUYA.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/kuya-silver.html
+[2025-03-05T07:37:18.856Z] Pausing after processing URLs for KUYA.CN for 1.797s
+[2025-03-05T07:37:23.681Z] Added yahoo_finance URL for LAB.V: https://finance.yahoo.com/quote/LAB.V/
+[2025-03-05T07:37:23.684Z] Added jmn URL for LAB.V: https://www.juniorminingnetwork.com/market-data/stock-quote/labrador-gold.html
+[2025-03-05T07:37:23.685Z] Pausing after processing URLs for LAB.V for 1.867s
+[2025-03-05T07:37:26.226Z] Added yahoo_finance URL for LECR.CN: https://finance.yahoo.com/quote/LECR.CN/
+[2025-03-05T07:37:26.227Z] Pausing after processing URLs for LECR.CN for 1.43s
+[2025-03-05T07:37:29.685Z] Added yahoo_finance URL for LEGY.V: https://finance.yahoo.com/quote/LEGY.V/
+[2025-03-05T07:37:29.687Z] Added jmn URL for LEGY.V: https://www.juniorminingnetwork.com/market-data/stock-quote/legacy-gold-mines.html
+[2025-03-05T07:37:29.688Z] Pausing after processing URLs for LEGY.V for 1.318s
+[2025-03-05T07:37:33.087Z] Added yahoo_finance URL for LFLR.CN: https://finance.yahoo.com/quote/LFLR.CN/
+[2025-03-05T07:37:33.090Z] Added jmn URL for LFLR.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/lafleur-minerals.html
+[2025-03-05T07:37:33.091Z] Pausing after processing URLs for LFLR.CN for 1.686s
+[2025-03-05T07:37:36.927Z] Added yahoo_finance URL for LG.V: https://finance.yahoo.com/quote/LG.V/
+[2025-03-05T07:37:36.929Z] Added jmn URL for LG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/lahontan-gold.html
+[2025-03-05T07:37:36.930Z] Pausing after processing URLs for LG.V for 1.963s
+[2025-03-05T07:37:41.148Z] Added homepage URL for LGC.V: https://lavrasgold.com
+[2025-03-05T07:37:41.151Z] Added yahoo_finance URL for LGC.V: https://finance.yahoo.com/quote/LGC.V/
+[2025-03-05T07:37:41.152Z] Added jmn URL for LGC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/lavras-gold.html
+[2025-03-05T07:37:41.153Z] Pausing after processing URLs for LGC.V for 1.467s
+[2025-03-05T07:37:44.242Z] Added yahoo_finance URL for LGD.TO: https://finance.yahoo.com/quote/LGD.TO/
+[2025-03-05T07:37:44.246Z] Added jmn URL for LGD.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/liberty-gold.html
+[2025-03-05T07:37:44.247Z] Pausing after processing URLs for LGD.TO for 1.712s
+[2025-03-05T07:37:48.549Z] Added yahoo_finance URL for LIO.V: https://finance.yahoo.com/quote/LIO.V/
+[2025-03-05T07:37:48.550Z] Added jmn URL for LIO.V: https://www.juniorminingnetwork.com/market-data/stock-quote/lion-one-metals.html
+[2025-03-05T07:37:48.552Z] Pausing after processing URLs for LIO.V for 1.892s
+[2025-03-05T07:37:51.897Z] Added yahoo_finance URL for LME.V: https://finance.yahoo.com/quote/LME.V/
+[2025-03-05T07:37:51.899Z] Added jmn URL for LME.V: https://www.juniorminingnetwork.com/market-data/stock-quote/laurion-mineral-exploration.html
+[2025-03-05T07:37:51.901Z] Pausing after processing URLs for LME.V for 1.05s
+[2025-03-05T07:37:53.528Z] Added yahoo_finance URL for LMG.V: https://finance.yahoo.com/quote/LMG.V/
+[2025-03-05T07:37:53.530Z] Pausing after processing URLs for LMG.V for 1.373s
+[2025-03-05T07:37:57.063Z] Added yahoo_finance URL for LN.TO: https://finance.yahoo.com/quote/LN.TO/
+[2025-03-05T07:37:57.065Z] Added jmn URL for LN.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/loncor-gold.html
+[2025-03-05T07:37:57.067Z] Pausing after processing URLs for LN.TO for 1.975s
+[2025-03-05T07:37:59.591Z] Added yahoo_finance URL for LOD.V: https://finance.yahoo.com/quote/LOD.V/
+[2025-03-05T07:37:59.593Z] Pausing after processing URLs for LOD.V for 1.289s
+[2025-03-05T07:38:03.389Z] Added yahoo_finance URL for LOT.V: https://finance.yahoo.com/quote/LOT.V/
+[2025-03-05T07:38:03.392Z] Added jmn URL for LOT.V: https://www.juniorminingnetwork.com/market-data/stock-quote/tomagold.html
+[2025-03-05T07:38:03.393Z] Pausing after processing URLs for LOT.V for 1.565s
+[2025-03-05T07:38:07.319Z] Added yahoo_finance URL for LPK.V: https://finance.yahoo.com/quote/LPK.V/
+[2025-03-05T07:38:07.320Z] Added jmn URL for LPK.V: https://www.juniorminingnetwork.com/market-data/stock-quote/lupaka-gold.html
+[2025-03-05T07:38:07.322Z] Pausing after processing URLs for LPK.V for 1.483s
+[2025-03-05T07:38:10.549Z] Added yahoo_finance URL for LSTR.V: https://finance.yahoo.com/quote/LSTR.V/
+[2025-03-05T07:38:10.552Z] Added jmn URL for LSTR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/lodestar-metals.html
+[2025-03-05T07:38:10.553Z] Pausing after processing URLs for LSTR.V for 1.616s
+[2025-03-05T07:38:12.733Z] Added yahoo_finance URL for LUCA.V: https://finance.yahoo.com/quote/LUCA.V/
+[2025-03-05T07:38:12.735Z] Pausing after processing URLs for LUCA.V for 1.133s
+[2025-03-05T07:38:15.670Z] Added yahoo_finance URL for LUG.TO: https://finance.yahoo.com/quote/LUG.TO/
+[2025-03-05T07:38:15.672Z] Added jmn URL for LUG.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/lundin-gold.html
+[2025-03-05T07:38:15.673Z] Pausing after processing URLs for LUG.TO for 1.661s
+[2025-03-05T07:38:19.507Z] Added yahoo_finance URL for LUM.V: https://finance.yahoo.com/quote/LUM.V/
+[2025-03-05T07:38:19.511Z] Added jmn URL for LUM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/lumina-gold.html
+[2025-03-05T07:38:19.512Z] Pausing after processing URLs for LUM.V for 1.7s
+[2025-03-05T07:38:23.593Z] Added yahoo_finance URL for LVG.V: https://finance.yahoo.com/quote/LVG.V/
+[2025-03-05T07:38:23.596Z] Added jmn URL for LVG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/lake-victoria-gold.html
+[2025-03-05T07:38:23.597Z] Pausing after processing URLs for LVG.V for 1.513s
+[2025-03-05T07:38:25.664Z] Added yahoo_finance URL for MAE.V: https://finance.yahoo.com/quote/MAE.V/
+[2025-03-05T07:38:25.666Z] Pausing after processing URLs for MAE.V for 1.747s
+[2025-03-05T07:38:29.307Z] Added yahoo_finance URL for MAG.TO: https://finance.yahoo.com/quote/MAG.TO/
+[2025-03-05T07:38:29.310Z] Added jmn URL for MAG.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/mag-silver.html
+[2025-03-05T07:38:29.312Z] Pausing after processing URLs for MAG.TO for 1.319s
+[2025-03-05T07:38:33.502Z] Added yahoo_finance URL for MAI.V: https://finance.yahoo.com/quote/MAI.V/
+[2025-03-05T07:38:33.506Z] Added jmn URL for MAI.V: https://www.juniorminingnetwork.com/market-data/stock-quote/minera-alamos.html
+[2025-03-05T07:38:33.508Z] Pausing after processing URLs for MAI.V for 1.923s
+[2025-03-05T07:38:37.145Z] Added yahoo_finance URL for MAU.V: https://finance.yahoo.com/quote/MAU.V/
+[2025-03-05T07:38:37.150Z] Added jmn URL for MAU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/montage-gold.html
+[2025-03-05T07:38:37.151Z] Pausing after processing URLs for MAU.V for 1.782s
+[2025-03-05T07:38:39.502Z] Added yahoo_finance URL for MEK.V: https://finance.yahoo.com/quote/MEK.V/
+[2025-03-05T07:38:39.504Z] Pausing after processing URLs for MEK.V for 1.503s
+[2025-03-05T07:38:43.249Z] Added yahoo_finance URL for MEX.V: https://finance.yahoo.com/quote/MEX.V/
+[2025-03-05T07:38:43.254Z] Added jmn URL for MEX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/mexican-gold.html
+[2025-03-05T07:38:43.255Z] Pausing after processing URLs for MEX.V for 1.37s
+[2025-03-05T07:38:47.179Z] Added yahoo_finance URL for MFG.V: https://finance.yahoo.com/quote/MFG.V/
+[2025-03-05T07:38:47.181Z] Added jmn URL for MFG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/mayfair-gold.html
+[2025-03-05T07:38:47.183Z] Pausing after processing URLs for MFG.V for 1.718s
+[2025-03-05T07:38:50.692Z] Added yahoo_finance URL for MFL.V: https://finance.yahoo.com/quote/MFL.V/
+[2025-03-05T07:38:50.695Z] Added jmn URL for MFL.V: https://www.juniorminingnetwork.com/market-data/stock-quote/mawson-finland.html
+[2025-03-05T07:38:50.696Z] Pausing after processing URLs for MFL.V for 1.725s
+[2025-03-05T07:38:55.181Z] Added yahoo_finance URL for MGG.V: https://finance.yahoo.com/quote/MGG.V/
+[2025-03-05T07:38:55.184Z] Added jmn URL for MGG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/minaurum-gold.html
+[2025-03-05T07:38:55.185Z] Pausing after processing URLs for MGG.V for 1.847s
+[2025-03-05T07:38:59.419Z] Added yahoo_finance URL for MGM.V: https://finance.yahoo.com/quote/MGM.V/
+[2025-03-05T07:38:59.422Z] Added jmn URL for MGM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/maple-gold-mines.html
+[2025-03-05T07:38:59.423Z] Pausing after processing URLs for MGM.V for 1.683s
+[2025-03-05T07:39:01.662Z] Added yahoo_finance URL for MIS.CN: https://finance.yahoo.com/quote/MIS.CN/
+[2025-03-05T07:39:01.664Z] Pausing after processing URLs for MIS.CN for 1.924s
+[2025-03-05T07:39:05.979Z] Added yahoo_finance URL for MJS.V: https://finance.yahoo.com/quote/MJS.V/
+[2025-03-05T07:39:05.981Z] Added jmn URL for MJS.V: https://www.juniorminingnetwork.com/market-data/stock-quote/majestic-gold.html
+[2025-03-05T07:39:05.983Z] Pausing after processing URLs for MJS.V for 1.433s
+[2025-03-05T07:39:07.967Z] Added yahoo_finance URL for MKO.V: https://finance.yahoo.com/quote/MKO.V/
+[2025-03-05T07:39:07.968Z] Pausing after processing URLs for MKO.V for 1.105s
+[2025-03-05T07:39:10.453Z] Pausing after processing URLs for MLM.TO for 1.191s
+[2025-03-05T07:39:13.508Z] Added yahoo_finance URL for MMET.CN: https://finance.yahoo.com/quote/MMET.CN/
+[2025-03-05T07:39:13.512Z] Added jmn URL for MMET.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/miata-metals.html
+[2025-03-05T07:39:13.513Z] Pausing after processing URLs for MMET.CN for 1.45s
+[2025-03-05T07:39:17.604Z] Added yahoo_finance URL for MMG.V: https://finance.yahoo.com/quote/MMG.V/
+[2025-03-05T07:39:17.605Z] Added jmn URL for MMG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/metallic-minerals.html
+[2025-03-05T07:39:17.607Z] Pausing after processing URLs for MMG.V for 1.031s
+[2025-03-05T07:39:20.919Z] Added yahoo_finance URL for MMN.V: https://finance.yahoo.com/quote/MMN.V/
+[2025-03-05T07:39:20.921Z] Added jmn URL for MMN.V: https://www.juniorminingnetwork.com/market-data/stock-quote/monarca-minerals.html
+[2025-03-05T07:39:20.922Z] Pausing after processing URLs for MMN.V for 1.923s
+[2025-03-05T07:39:23.550Z] Added yahoo_finance URL for MMY.V: https://finance.yahoo.com/quote/MMY.V/
+[2025-03-05T07:39:23.552Z] Pausing after processing URLs for MMY.V for 1.603s
+[2025-03-05T07:39:25.718Z] Added yahoo_finance URL for MND.TO: https://finance.yahoo.com/quote/MND.TO/
+[2025-03-05T07:39:25.720Z] Pausing after processing URLs for MND.TO for 1.203s
+[2025-03-05T07:39:27.509Z] Added yahoo_finance URL for MNO.TO: https://finance.yahoo.com/quote/MNO.TO/
+[2025-03-05T07:39:27.510Z] Pausing after processing URLs for MNO.TO for 1.324s
+[2025-03-05T07:39:29.388Z] Added yahoo_finance URL for MRZ.V: https://finance.yahoo.com/quote/MRZ.V/
+[2025-03-05T07:39:29.390Z] Pausing after processing URLs for MRZ.V for 1.981s
+[2025-03-05T07:39:33.476Z] Added yahoo_finance URL for MSA.TO: https://finance.yahoo.com/quote/MSA.TO/
+[2025-03-05T07:39:33.479Z] Added jmn URL for MSA.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/mineros.html
+[2025-03-05T07:39:33.481Z] Pausing after processing URLs for MSA.TO for 1.789s
+[2025-03-05T07:39:36.906Z] Retrying URL validation for https://www.calibremining.com for 2.296s
+[2025-03-05T07:39:39.238Z] Retrying URL validation for https://www.calibremining.com for 2.231s
+[2025-03-05T07:39:41.503Z] Added yahoo_finance URL for MSG.V: https://finance.yahoo.com/quote/MSG.V/
+[2025-03-05T07:39:41.505Z] Added jmn URL for MSG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/mithril-silver-and-gold.html
+[2025-03-05T07:39:41.506Z] Pausing after processing URLs for MSG.V for 1.762s
+[2025-03-05T07:39:44.505Z] Added yahoo_finance URL for MSR.V: https://finance.yahoo.com/quote/MSR.V/
+[2025-03-05T07:39:44.506Z] Pausing after processing URLs for MSR.V for 1.813s
+[2025-03-05T07:39:46.870Z] Added yahoo_finance URL for MSV.TO: https://finance.yahoo.com/quote/MSV.TO/
+[2025-03-05T07:39:46.872Z] Pausing after processing URLs for MSV.TO for 1.603s
+[2025-03-05T07:39:49.030Z] Added yahoo_finance URL for MTA.V: https://finance.yahoo.com/quote/MTA.V/
+[2025-03-05T07:39:49.032Z] Pausing after processing URLs for MTA.V for 1.745s
+[2025-03-05T07:39:51.485Z] Added yahoo_finance URL for MTS.V: https://finance.yahoo.com/quote/MTS.V/
+[2025-03-05T07:39:51.487Z] Pausing after processing URLs for MTS.V for 1.696s
+[2025-03-05T07:39:55.614Z] Added yahoo_finance URL for MTT.V: https://finance.yahoo.com/quote/MTT.V/
+[2025-03-05T07:39:55.616Z] Added jmn URL for MTT.V: https://www.juniorminingnetwork.com/market-data/stock-quote/magna-terra-minerals.html
+[2025-03-05T07:39:55.619Z] Pausing after processing URLs for MTT.V for 1.218s
+[2025-03-05T07:39:57.654Z] Added yahoo_finance URL for MUN.V: https://finance.yahoo.com/quote/MUN.V/
+[2025-03-05T07:39:57.655Z] Pausing after processing URLs for MUN.V for 1.043s
+[2025-03-05T07:39:59.247Z] Added yahoo_finance URL for MUX.TO: https://finance.yahoo.com/quote/MUX.TO/
+[2025-03-05T07:39:59.249Z] Pausing after processing URLs for MUX.TO for 1.076s
+[2025-03-05T07:40:02.212Z] Added yahoo_finance URL for NAU.V: https://finance.yahoo.com/quote/NAU.V/
+[2025-03-05T07:40:02.216Z] Added jmn URL for NAU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/nevgold.html
+[2025-03-05T07:40:02.218Z] Pausing after processing URLs for NAU.V for 1.543s
+[2025-03-05T07:40:04.322Z] Added yahoo_finance URL for NBRK.CN: https://finance.yahoo.com/quote/NBRK.CN/
+[2025-03-05T07:40:04.324Z] Pausing after processing URLs for NBRK.CN for 1.105s
+[2025-03-05T07:40:08.420Z] Added homepage URL for NCAU.V: https://newcoregold.com
+[2025-03-05T07:40:08.422Z] Added yahoo_finance URL for NCAU.V: https://finance.yahoo.com/quote/NCAU.V/
+[2025-03-05T07:40:08.424Z] Added jmn URL for NCAU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/newcore-gold.html
+[2025-03-05T07:40:08.426Z] Pausing after processing URLs for NCAU.V for 1.845s
+[2025-03-05T07:40:10.935Z] Added yahoo_finance URL for NCX.V: https://finance.yahoo.com/quote/NCX.V/
+[2025-03-05T07:40:10.936Z] Pausing after processing URLs for NCX.V for 1.776s
+[2025-03-05T07:40:14.912Z] Added yahoo_finance URL for NDM.TO: https://finance.yahoo.com/quote/NDM.TO/
+[2025-03-05T07:40:14.916Z] Added jmn URL for NDM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/northern-dynasty-minerals.html
+[2025-03-05T07:40:14.917Z] Pausing after processing URLs for NDM.TO for 1.43s
+[2025-03-05T07:40:16.889Z] Added yahoo_finance URL for NEV.V: https://finance.yahoo.com/quote/NEV.V/
+[2025-03-05T07:40:16.890Z] Pausing after processing URLs for NEV.V for 1.388s
+[2025-03-05T07:40:18.835Z] Added yahoo_finance URL for NEXG.V: https://finance.yahoo.com/quote/NEXG.V/
+[2025-03-05T07:40:18.836Z] Pausing after processing URLs for NEXG.V for 1.381s
+[2025-03-05T07:40:22.864Z] Added yahoo_finance URL for NFG.V: https://finance.yahoo.com/quote/NFG.V/
+[2025-03-05T07:40:22.866Z] Added jmn URL for NFG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/new-found-gold.html
+[2025-03-05T07:40:22.868Z] Pausing after processing URLs for NFG.V for 1.11s
+[2025-03-05T07:40:24.532Z] Added yahoo_finance URL for NG.TO: https://finance.yahoo.com/quote/NG.TO/
+[2025-03-05T07:40:24.533Z] Pausing after processing URLs for NG.TO for 1.45s
+[2025-03-05T07:40:27.551Z] Added yahoo_finance URL for NGD.TO: https://finance.yahoo.com/quote/NGD.TO/
+[2025-03-05T07:40:27.554Z] Added jmn URL for NGD.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/new-gold.html
+[2025-03-05T07:40:27.555Z] Pausing after processing URLs for NGD.TO for 1.506s
+[2025-03-05T07:40:30.371Z] Added yahoo_finance URL for NGEX.TO: https://finance.yahoo.com/quote/NGEX.TO/
+[2025-03-05T07:40:30.374Z] Added jmn URL for NGEX.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/ngex-minerals.html
+[2025-03-05T07:40:30.376Z] Pausing after processing URLs for NGEX.TO for 1.901s
+[2025-03-05T07:40:34.565Z] Added yahoo_finance URL for NILI.V: https://finance.yahoo.com/quote/NILI.V/
+[2025-03-05T07:40:34.568Z] Added jmn URL for NILI.V: https://www.juniorminingnetwork.com/market-data/stock-quote/surge-battery-metals.html
+[2025-03-05T07:40:34.570Z] Pausing after processing URLs for NILI.V for 1.063s
+[2025-03-05T07:40:36.206Z] Added yahoo_finance URL for NIM.V: https://finance.yahoo.com/quote/NIM.V/
+[2025-03-05T07:40:36.208Z] Pausing after processing URLs for NIM.V for 1.676s
+[2025-03-05T07:40:40.862Z] Added yahoo_finance URL for NKG.V: https://finance.yahoo.com/quote/NKG.V/
+[2025-03-05T07:40:40.864Z] Added jmn URL for NKG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/nevada-king-gold.html
+[2025-03-05T07:40:40.865Z] Pausing after processing URLs for NKG.V for 1.978s
+[2025-03-05T07:40:45.056Z] Added yahoo_finance URL for NFLD.CN: https://finance.yahoo.com/quote/NFLD.CN/
+[2025-03-05T07:40:45.059Z] Added jmn URL for NFLD.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/exploits-discovery.html
+[2025-03-05T07:40:45.060Z] Pausing after processing URLs for NFLD.CN for 1.613s
+[2025-03-05T07:40:48.404Z] Added yahoo_finance URL for NL.V: https://finance.yahoo.com/quote/NL.V/
+[2025-03-05T07:40:48.406Z] Added jmn URL for NL.V: https://www.juniorminingnetwork.com/market-data/stock-quote/northern-lion-gold.html
+[2025-03-05T07:40:48.407Z] Pausing after processing URLs for NL.V for 1.334s
+[2025-03-05T07:40:50.284Z] Added yahoo_finance URL for NOM.CN: https://finance.yahoo.com/quote/NOM.CN/
+[2025-03-05T07:40:50.286Z] Pausing after processing URLs for NOM.CN for 1.091s
+[2025-03-05T07:40:51.932Z] Added yahoo_finance URL for NPR.V: https://finance.yahoo.com/quote/NPR.V/
+[2025-03-05T07:40:51.933Z] Pausing after processing URLs for NPR.V for 1.217s
+[2025-03-05T07:40:56.556Z] Added yahoo_finance URL for NRC.V: https://finance.yahoo.com/quote/NRC.V/
+[2025-03-05T07:40:56.560Z] Added jmn URL for NRC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/nations-royalty.html
+[2025-03-05T07:40:56.562Z] Pausing after processing URLs for NRC.V for 1.515s
+[2025-03-05T07:41:01.744Z] Added yahoo_finance URL for NSG.CN: https://finance.yahoo.com/quote/NSG.CN/
+[2025-03-05T07:41:01.746Z] Added jmn URL for NSG.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/northstar-gold.html
+[2025-03-05T07:41:01.748Z] Pausing after processing URLs for NSG.CN for 1.457s
+[2025-03-05T07:41:07.008Z] Added yahoo_finance URL for NTH.V: https://finance.yahoo.com/quote/NTH.V/
+[2025-03-05T07:41:07.012Z] Added jmn URL for NTH.V: https://www.juniorminingnetwork.com/market-data/stock-quote/nord-precious-metals.html
+[2025-03-05T07:41:07.013Z] Pausing after processing URLs for NTH.V for 1.603s
+[2025-03-05T07:41:15.138Z] Added yahoo_finance URL for NUAG.TO: https://finance.yahoo.com/quote/NUAG.TO/
+[2025-03-05T07:41:15.143Z] Added jmn URL for NUAG.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/new-pacific-metals.html
+[2025-03-05T07:41:15.144Z] Pausing after processing URLs for NUAG.TO for 1.244s
+[2025-03-05T07:41:17.572Z] Added yahoo_finance URL for NVO.TO: https://finance.yahoo.com/quote/NVO.TO/
+[2025-03-05T07:41:17.573Z] Pausing after processing URLs for NVO.TO for 1.81s
+[2025-03-05T07:41:23.706Z] Added yahoo_finance URL for NVPC.CN: https://finance.yahoo.com/quote/NVPC.CN/
+[2025-03-05T07:41:23.710Z] Added jmn URL for NVPC.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/nova-pacific-metals.html
+[2025-03-05T07:41:23.712Z] Pausing after processing URLs for NVPC.CN for 1.503s
+[2025-03-05T07:41:26.410Z] Added yahoo_finance URL for OCG.V: https://finance.yahoo.com/quote/OCG.V/
+[2025-03-05T07:41:26.412Z] Pausing after processing URLs for OCG.V for 1.457s
+[2025-03-05T07:41:32.814Z] Added yahoo_finance URL for OCO.V: https://finance.yahoo.com/quote/OCO.V/
+[2025-03-05T07:41:32.817Z] Added jmn URL for OCO.V: https://www.juniorminingnetwork.com/market-data/stock-quote/oroco-resource.html
+[2025-03-05T07:41:32.818Z] Pausing after processing URLs for OCO.V for 1.194s
+[2025-03-05T07:41:35.197Z] Added yahoo_finance URL for ODV.V: https://finance.yahoo.com/quote/ODV.V/
+[2025-03-05T07:41:35.199Z] Pausing after processing URLs for ODV.V for 1.169s
+[2025-03-05T07:41:38.125Z] Added yahoo_finance URL for OGC.TO: https://finance.yahoo.com/quote/OGC.TO/
+[2025-03-05T07:41:38.129Z] Added jmn URL for OGC.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/oceanagold.html
+[2025-03-05T07:41:38.131Z] Pausing after processing URLs for OGC.TO for 1.066s
+[2025-03-05T07:41:41.830Z] Added yahoo_finance URL for OGN.V: https://finance.yahoo.com/quote/OGN.V/
+[2025-03-05T07:41:41.832Z] Added jmn URL for OGN.V: https://www.juniorminingnetwork.com/market-data/stock-quote/orogen-royalties.html
+[2025-03-05T07:41:41.835Z] Pausing after processing URLs for OGN.V for 1.173s
+[2025-03-05T07:41:43.579Z] Added yahoo_finance URL for OIII.V: https://finance.yahoo.com/quote/OIII.V/
+[2025-03-05T07:41:43.580Z] Pausing after processing URLs for OIII.V for 1.629s
+[2025-03-05T07:41:45.760Z] Added yahoo_finance URL for OLA.TO: https://finance.yahoo.com/quote/OLA.TO/
+[2025-03-05T07:41:45.762Z] Pausing after processing URLs for OLA.TO for 1.975s
+[2025-03-05T07:41:49.645Z] Added yahoo_finance URL for OMG.V: https://finance.yahoo.com/quote/OMG.V/
+[2025-03-05T07:41:49.649Z] Added jmn URL for OMG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/omai-gold-mines.html
+[2025-03-05T07:41:49.650Z] Pausing after processing URLs for OMG.V for 1.982s
+[2025-03-05T07:41:52.205Z] Added yahoo_finance URL for OMGA.CN: https://finance.yahoo.com/quote/OMGA.CN/
+[2025-03-05T07:41:52.207Z] Pausing after processing URLs for OMGA.CN for 1.8s
+[2025-03-05T07:41:54.588Z] Added yahoo_finance URL for OMI.V: https://finance.yahoo.com/quote/OMI.V/
+[2025-03-05T07:41:54.590Z] Pausing after processing URLs for OMI.V for 1.48s
+[2025-03-05T07:41:56.617Z] Added yahoo_finance URL for OMM.V: https://finance.yahoo.com/quote/OMM.V/
+[2025-03-05T07:41:56.619Z] Pausing after processing URLs for OMM.V for 1.424s
+[2025-03-05T07:41:58.596Z] Added yahoo_finance URL for ONAU.V: https://finance.yahoo.com/quote/ONAU.V/
+[2025-03-05T07:41:58.597Z] Pausing after processing URLs for ONAU.V for 1.95s
+[2025-03-05T07:42:01.696Z] Added yahoo_finance URL for ONYX.V: https://finance.yahoo.com/quote/ONYX.V/
+[2025-03-05T07:42:01.699Z] Added jmn URL for ONYX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/onyx-gold.html
+[2025-03-05T07:42:01.701Z] Pausing after processing URLs for ONYX.V for 1.407s
+[2025-03-05T07:42:05.028Z] Added yahoo_finance URL for OPW.V: https://finance.yahoo.com/quote/OPW.V/
+[2025-03-05T07:42:05.031Z] Added jmn URL for OPW.V: https://www.juniorminingnetwork.com/market-data/stock-quote/opawica-explorations.html
+[2025-03-05T07:42:05.032Z] Pausing after processing URLs for OPW.V for 1.072s
+[2025-03-05T07:42:08.684Z] Added homepage URL for OR.TO: https://newcoregold.com
+[2025-03-05T07:42:08.687Z] Added yahoo_finance URL for OR.TO: https://finance.yahoo.com/quote/OR.TO/
+[2025-03-05T07:42:08.689Z] Added jmn URL for OR.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/osisko-gold-royalties.html
+[2025-03-05T07:42:08.690Z] Pausing after processing URLs for OR.TO for 1.408s
+[2025-03-05T07:42:12.377Z] Added yahoo_finance URL for ORA.TO: https://finance.yahoo.com/quote/ORA.TO/
+[2025-03-05T07:42:12.380Z] Added jmn URL for ORA.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/aura-minerals.html
+[2025-03-05T07:42:12.381Z] Pausing after processing URLs for ORA.TO for 1.319s
+[2025-03-05T07:42:16.034Z] Added homepage URL for ORE.TO: https://newcoregold.com
+[2025-03-05T07:42:16.036Z] Added yahoo_finance URL for ORE.TO: https://finance.yahoo.com/quote/ORE.TO/
+[2025-03-05T07:42:16.038Z] Added jmn URL for ORE.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/orezone-gold.html
+[2025-03-05T07:42:16.039Z] Pausing after processing URLs for ORE.TO for 1.353s
+[2025-03-05T07:42:20.995Z] Added yahoo_finance URL for ORV.TO: https://finance.yahoo.com/quote/ORV.TO/
+[2025-03-05T07:42:20.998Z] Added jmn URL for ORV.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/orvana-minerals.html
+[2025-03-05T07:42:21.000Z] Pausing after processing URLs for ORV.TO for 1.182s
+[2025-03-05T07:42:22.876Z] Added yahoo_finance URL for OZ.V: https://finance.yahoo.com/quote/OZ.V/
+[2025-03-05T07:42:22.877Z] Pausing after processing URLs for OZ.V for 1.479s
+[2025-03-05T07:42:24.902Z] Added yahoo_finance URL for PA.V: https://finance.yahoo.com/quote/PA.V/
+[2025-03-05T07:42:24.903Z] Pausing after processing URLs for PA.V for 1.962s
+[2025-03-05T07:42:29.174Z] Added yahoo_finance URL for PAAS.TO: https://finance.yahoo.com/quote/PAAS.TO/
+[2025-03-05T07:42:29.177Z] Added jmn URL for PAAS.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/pan-american-silver.html
+[2025-03-05T07:42:29.178Z] Pausing after processing URLs for PAAS.TO for 1.183s
+[2025-03-05T07:42:31.775Z] Pausing after processing URLs for PAL.V for 1.299s
+[2025-03-05T07:42:35.575Z] Added yahoo_finance URL for PAU.CN: https://finance.yahoo.com/quote/PAU.CN/
+[2025-03-05T07:42:35.576Z] Added jmn URL for PAU.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/provenance-gold.html
+[2025-03-05T07:42:35.578Z] Pausing after processing URLs for PAU.CN for 1.084s
+[2025-03-05T07:42:37.210Z] Added yahoo_finance URL for PEX.V: https://finance.yahoo.com/quote/PEX.V/
+[2025-03-05T07:42:37.212Z] Pausing after processing URLs for PEX.V for 1.794s
+[2025-03-05T07:42:43.806Z] Added yahoo_finance URL for PGC.V: https://finance.yahoo.com/quote/PGC.V/
+[2025-03-05T07:42:43.808Z] Added jmn URL for PGC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/plato-gold.html
+[2025-03-05T07:42:43.809Z] Pausing after processing URLs for PGC.V for 1.938s
+[2025-03-05T07:42:50.953Z] Added yahoo_finance URL for PGDC.V: https://finance.yahoo.com/quote/PGDC.V/
+[2025-03-05T07:42:50.957Z] Added jmn URL for PGDC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/patagonia-gold.html
+[2025-03-05T07:42:50.959Z] Pausing after processing URLs for PGDC.V for 1.594s
+[2025-03-05T07:42:55.445Z] Added yahoo_finance URL for PGLD.V: https://finance.yahoo.com/quote/PGLD.V/
+[2025-03-05T07:42:55.448Z] Added jmn URL for PGLD.V: https://www.juniorminingnetwork.com/market-data/stock-quote/p2-gold.html
+[2025-03-05T07:42:55.449Z] Pausing after processing URLs for PGLD.V for 1.947s
+[2025-03-05T07:42:59.971Z] Added yahoo_finance URL for PGX.V: https://finance.yahoo.com/quote/PGX.V/
+[2025-03-05T07:42:59.973Z] Added jmn URL for PGX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/prosper-gold.html
+[2025-03-05T07:42:59.974Z] Pausing after processing URLs for PGX.V for 1.227s
+[2025-03-05T07:43:01.774Z] Added yahoo_finance URL for PJX.V: https://finance.yahoo.com/quote/PJX.V/
+[2025-03-05T07:43:01.775Z] Pausing after processing URLs for PJX.V for 1.318s
+[2025-03-05T07:43:03.649Z] Added yahoo_finance URL for PLY.V: https://finance.yahoo.com/quote/PLY.V/
+[2025-03-05T07:43:03.651Z] Pausing after processing URLs for PLY.V for 1.881s
+[2025-03-05T07:43:07.517Z] Added yahoo_finance URL for PNTR.V: https://finance.yahoo.com/quote/PNTR.V/
+[2025-03-05T07:43:07.520Z] Added jmn URL for PNTR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/pantera-silver.html
+[2025-03-05T07:43:07.521Z] Pausing after processing URLs for PNTR.V for 1.04s
+[2025-03-05T07:43:10.987Z] Added yahoo_finance URL for PPP.V: https://finance.yahoo.com/quote/PPP.V/
+[2025-03-05T07:43:10.989Z] Added jmn URL for PPP.V: https://www.juniorminingnetwork.com/market-data/stock-quote/prospector-metals.html
+[2025-03-05T07:43:10.991Z] Pausing after processing URLs for PPP.V for 1.892s
+[2025-03-05T07:43:13.536Z] Added yahoo_finance URL for PPX.V: https://finance.yahoo.com/quote/PPX.V/
+[2025-03-05T07:43:13.538Z] Pausing after processing URLs for PPX.V for 1.402s
+[2025-03-05T07:43:16.347Z] Added yahoo_finance URL for PRB.TO: https://finance.yahoo.com/quote/PRB.TO/
+[2025-03-05T07:43:16.349Z] Added jmn URL for PRB.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/probe-gold.html
+[2025-03-05T07:43:16.351Z] Pausing after processing URLs for PRB.TO for 1.104s
+[2025-03-05T07:43:19.637Z] Added yahoo_finance URL for PRG.V: https://finance.yahoo.com/quote/PRG.V/
+[2025-03-05T07:43:19.641Z] Added jmn URL for PRG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/precipitate-gold.html
+[2025-03-05T07:43:19.642Z] Pausing after processing URLs for PRG.V for 1.126s
+[2025-03-05T07:43:23.067Z] Added yahoo_finance URL for PRIZ.CN: https://finance.yahoo.com/quote/PRIZ.CN/
+[2025-03-05T07:43:23.069Z] Added jmn URL for PRIZ.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/prismo-metals.html
+[2025-03-05T07:43:23.070Z] Pausing after processing URLs for PRIZ.CN for 1.741s
+[2025-03-05T07:43:25.362Z] Added yahoo_finance URL for PRU.TO: https://finance.yahoo.com/quote/PRU.TO/
+[2025-03-05T07:43:25.364Z] Pausing after processing URLs for PRU.TO for 1.582s
+[2025-03-05T07:43:27.507Z] Added yahoo_finance URL for PRYM.TO: https://finance.yahoo.com/quote/PRYM.TO/
+[2025-03-05T07:43:27.509Z] Pausing after processing URLs for PRYM.TO for 1.912s
+[2025-03-05T07:43:32.394Z] Added yahoo_finance URL for PUMA.V: https://finance.yahoo.com/quote/PUMA.V/
+[2025-03-05T07:43:32.398Z] Added jmn URL for PUMA.V: https://www.juniorminingnetwork.com/market-data/stock-quote/puma-exploration.html
+[2025-03-05T07:43:32.399Z] Pausing after processing URLs for PUMA.V for 1.85s
+[2025-03-05T07:43:37.164Z] Added yahoo_finance URL for PX.V: https://finance.yahoo.com/quote/PX.V/
+[2025-03-05T07:43:37.166Z] Added jmn URL for PX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/pelangio-exploration.html
+[2025-03-05T07:43:37.168Z] Pausing after processing URLs for PX.V for 1.494s
+[2025-03-05T07:43:40.801Z] Added yahoo_finance URL for QIM.CN: https://finance.yahoo.com/quote/QIM.CN/
+[2025-03-05T07:43:40.803Z] Added jmn URL for QIM.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/quimbaya-gold.html
+[2025-03-05T07:43:40.805Z] Pausing after processing URLs for QIM.CN for 1.231s
+[2025-03-05T07:43:42.586Z] Added yahoo_finance URL for QZM.V: https://finance.yahoo.com/quote/QZM.V/
+[2025-03-05T07:43:42.587Z] Pausing after processing URLs for QZM.V for 1.228s
+[2025-03-05T07:43:46.552Z] Added yahoo_finance URL for RAGE.V: https://finance.yahoo.com/quote/RAGE.V/
+[2025-03-05T07:43:46.554Z] Added jmn URL for RAGE.V: https://www.juniorminingnetwork.com/market-data/stock-quote/renegade-gold.html
+[2025-03-05T07:43:46.555Z] Pausing after processing URLs for RAGE.V for 1.174s
+[2025-03-05T07:43:49.898Z] Added yahoo_finance URL for RAMP.V: https://finance.yahoo.com/quote/RAMP.V/
+[2025-03-05T07:43:49.901Z] Added jmn URL for RAMP.V: https://www.juniorminingnetwork.com/market-data/stock-quote/ramp-metals.html
+[2025-03-05T07:43:49.903Z] Pausing after processing URLs for RAMP.V for 1.871s
+[2025-03-05T07:43:52.328Z] Added yahoo_finance URL for RBX.V: https://finance.yahoo.com/quote/RBX.V/
+[2025-03-05T07:43:52.330Z] Pausing after processing URLs for RBX.V for 1.994s
+[2025-03-05T07:43:56.798Z] Added yahoo_finance URL for RDG.V: https://finance.yahoo.com/quote/RDG.V/
+[2025-03-05T07:43:56.801Z] Added jmn URL for RDG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/ridgeline-minerals.html
+[2025-03-05T07:43:56.802Z] Pausing after processing URLs for RDG.V for 1.91s
+[2025-03-05T07:43:59.408Z] Added yahoo_finance URL for RDS.V: https://finance.yahoo.com/quote/RDS.V/
+[2025-03-05T07:43:59.410Z] Pausing after processing URLs for RDS.V for 1.905s
+[2025-03-05T07:44:02.646Z] Added yahoo_finance URL for RDU.V: https://finance.yahoo.com/quote/RDU.V/
+[2025-03-05T07:44:02.648Z] Added jmn URL for RDU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/radius-gold.html
+[2025-03-05T07:44:02.649Z] Pausing after processing URLs for RDU.V for 1.135s
+[2025-03-05T07:44:06.215Z] Added yahoo_finance URL for REX.V: https://finance.yahoo.com/quote/REX.V/
+[2025-03-05T07:44:06.217Z] Added jmn URL for REX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/orex-minerals.html
+[2025-03-05T07:44:06.217Z] Pausing after processing URLs for REX.V for 1.743s
+[2025-03-05T07:44:08.686Z] Added yahoo_finance URL for RG.V: https://finance.yahoo.com/quote/RG.V/
+[2025-03-05T07:44:08.688Z] Pausing after processing URLs for RG.V for 1.11s
+[2025-03-05T07:44:11.809Z] Added yahoo_finance URL for RGC.V: https://finance.yahoo.com/quote/RGC.V/
+[2025-03-05T07:44:11.810Z] Added jmn URL for RGC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/relevant-gold.html
+[2025-03-05T07:44:11.812Z] Pausing after processing URLs for RGC.V for 1.453s
+[2025-03-05T07:44:14.643Z] Added yahoo_finance URL for RGLD.CN: https://finance.yahoo.com/quote/RGLD.CN/
+[2025-03-05T07:44:14.646Z] Added jmn URL for RGLD.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/red-lake-gold.html
+[2025-03-05T07:44:14.648Z] Pausing after processing URLs for RGLD.CN for 1.141s
+[2025-03-05T07:44:16.400Z] Added yahoo_finance URL for RIO.V: https://finance.yahoo.com/quote/RIO.V/
+[2025-03-05T07:44:16.402Z] Pausing after processing URLs for RIO.V for 1.319s
+[2025-03-05T07:44:18.287Z] Added yahoo_finance URL for RK.V: https://finance.yahoo.com/quote/RK.V/
+[2025-03-05T07:44:18.289Z] Pausing after processing URLs for RK.V for 1.816s
+[2025-03-05T07:44:20.650Z] Added yahoo_finance URL for RKR.V: https://finance.yahoo.com/quote/RKR.V/
+[2025-03-05T07:44:20.652Z] Pausing after processing URLs for RKR.V for 1.805s
+[2025-03-05T07:44:24.623Z] Added yahoo_finance URL for RLYG.V: https://finance.yahoo.com/quote/RLYG.V/
+[2025-03-05T07:44:24.627Z] Added jmn URL for RLYG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/riley-gold.html
+[2025-03-05T07:44:24.629Z] Pausing after processing URLs for RLYG.V for 1.654s
+[2025-03-05T07:44:26.846Z] Added yahoo_finance URL for ROCK.V: https://finance.yahoo.com/quote/ROCK.V/
+[2025-03-05T07:44:26.848Z] Pausing after processing URLs for ROCK.V for 1.45s
+[2025-03-05T07:44:31.045Z] Added yahoo_finance URL for ROS.V: https://finance.yahoo.com/quote/ROS.V/
+[2025-03-05T07:44:31.049Z] Added jmn URL for ROS.V: https://www.juniorminingnetwork.com/market-data/stock-quote/roscan-gold.html
+[2025-03-05T07:44:31.050Z] Pausing after processing URLs for ROS.V for 1.968s
+[2025-03-05T07:44:33.662Z] Added yahoo_finance URL for ROX.V: https://finance.yahoo.com/quote/ROX.V/
+[2025-03-05T07:44:33.665Z] Pausing after processing URLs for ROX.V for 1.946s
+[2025-03-05T07:44:37.918Z] Added yahoo_finance URL for RPX.V: https://finance.yahoo.com/quote/RPX.V/
+[2025-03-05T07:44:37.921Z] Added jmn URL for RPX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/red-pine-exploration.html
+[2025-03-05T07:44:37.922Z] Pausing after processing URLs for RPX.V for 1.552s
+[2025-03-05T07:44:40.016Z] Added yahoo_finance URL for RR.CN: https://finance.yahoo.com/quote/RR.CN/
+[2025-03-05T07:44:40.018Z] Pausing after processing URLs for RR.CN for 1.575s
+[2025-03-05T07:44:42.147Z] Added yahoo_finance URL for RRI.V: https://finance.yahoo.com/quote/RRI.V/
+[2025-03-05T07:44:42.149Z] Pausing after processing URLs for RRI.V for 1.858s
+[2025-03-05T07:44:47.153Z] Added yahoo_finance URL for RSG.CN: https://finance.yahoo.com/quote/RSG.CN/
+[2025-03-05T07:44:47.156Z] Added jmn URL for RSG.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/rocky-shore-gold.html
+[2025-03-05T07:44:47.157Z] Pausing after processing URLs for RSG.CN for 1.508s
+[2025-03-05T07:44:50.983Z] Added yahoo_finance URL for RSLV.V: https://finance.yahoo.com/quote/RSLV.V/
+[2025-03-05T07:44:50.986Z] Added jmn URL for RSLV.V: https://www.juniorminingnetwork.com/market-data/stock-quote/reyna-silver.html
+[2025-03-05T07:44:50.988Z] Pausing after processing URLs for RSLV.V for 1.486s
+[2025-03-05T07:44:55.463Z] Added yahoo_finance URL for RSM.V: https://finance.yahoo.com/quote/RSM.V/
+[2025-03-05T07:44:55.465Z] Added jmn URL for RSM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/resouro-strategic-metals.html
+[2025-03-05T07:44:55.467Z] Pausing after processing URLs for RSM.V for 1.75s
+[2025-03-05T07:44:59.345Z] Added yahoo_finance URL for RSMX.V: https://finance.yahoo.com/quote/RSMX.V/
+[2025-03-05T07:44:59.347Z] Added jmn URL for RSMX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/regency-silver.html
+[2025-03-05T07:44:59.348Z] Pausing after processing URLs for RSMX.V for 1.918s
+[2025-03-05T07:45:01.823Z] Added yahoo_finance URL for RTG.TO: https://finance.yahoo.com/quote/RTG.TO/
+[2025-03-05T07:45:01.825Z] Pausing after processing URLs for RTG.TO for 1.568s
+[2025-03-05T07:45:05.833Z] Added homepage URL for RUA.V: https://ruagold.com
+[2025-03-05T07:45:05.835Z] Added yahoo_finance URL for RUA.V: https://finance.yahoo.com/quote/RUA.V/
+[2025-03-05T07:45:05.837Z] Added jmn URL for RUA.V: https://www.juniorminingnetwork.com/market-data/stock-quote/rua-gold.html
+[2025-03-05T07:45:05.839Z] Pausing after processing URLs for RUA.V for 1.011s
+[2025-03-05T07:45:07.408Z] Added yahoo_finance URL for RUG.V: https://finance.yahoo.com/quote/RUG.V/
+[2025-03-05T07:45:07.411Z] Pausing after processing URLs for RUG.V for 1.359s
+[2025-03-05T07:45:09.326Z] Added yahoo_finance URL for RUP.TO: https://finance.yahoo.com/quote/RUP.TO/
+[2025-03-05T07:45:09.327Z] Pausing after processing URLs for RUP.TO for 1.878s
+[2025-03-05T07:45:13.629Z] Added yahoo_finance URL for RUSH.V: https://finance.yahoo.com/quote/RUSH.V/
+[2025-03-05T07:45:13.631Z] Added jmn URL for RUSH.V: https://www.juniorminingnetwork.com/market-data/stock-quote/carolina-rush.html
+[2025-03-05T07:45:13.632Z] Pausing after processing URLs for RUSH.V for 1.877s
+[2025-03-05T07:45:18.355Z] Added yahoo_finance URL for RVG.V: https://finance.yahoo.com/quote/RVG.V/
+[2025-03-05T07:45:18.357Z] Added jmn URL for RVG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/revival-gold.html
+[2025-03-05T07:45:18.358Z] Pausing after processing URLs for RVG.V for 1.143s
+[2025-03-05T07:45:20.060Z] Added yahoo_finance URL for RYE.V: https://finance.yahoo.com/quote/RYE.V/
+[2025-03-05T07:45:20.062Z] Pausing after processing URLs for RYE.V for 1.01s
+[2025-03-05T07:45:23.060Z] Added yahoo_finance URL for RYR.V: https://finance.yahoo.com/quote/RYR.V/
+[2025-03-05T07:45:23.063Z] Added jmn URL for RYR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/royal-road-minerals.html
+[2025-03-05T07:45:23.064Z] Pausing after processing URLs for RYR.V for 1.802s
+[2025-03-05T07:45:26.291Z] Added yahoo_finance URL for SAG.V: https://finance.yahoo.com/quote/SAG.V/
+[2025-03-05T07:45:26.296Z] Added jmn URL for SAG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/sterling-metals.html
+[2025-03-05T07:45:26.297Z] Pausing after processing URLs for SAG.V for 1.828s
+[2025-03-05T07:45:28.681Z] Added yahoo_finance URL for SAM.TO: https://finance.yahoo.com/quote/SAM.TO/
+[2025-03-05T07:45:28.683Z] Pausing after processing URLs for SAM.TO for 1.2s
+[2025-03-05T07:45:31.849Z] Added yahoo_finance URL for SANU.CN: https://finance.yahoo.com/quote/SANU.CN/
+[2025-03-05T07:45:31.853Z] Added jmn URL for SANU.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/sanu-gold.html
+[2025-03-05T07:45:31.855Z] Pausing after processing URLs for SANU.CN for 1.877s
+[2025-03-05T07:45:36.153Z] Added yahoo_finance URL for SBMI.V: https://finance.yahoo.com/quote/SBMI.V/
+[2025-03-05T07:45:36.155Z] Added jmn URL for SBMI.V: https://www.juniorminingnetwork.com/market-data/stock-quote/silver-bullet-mines.html
+[2025-03-05T07:45:36.158Z] Pausing after processing URLs for SBMI.V for 1.561s
+[2025-03-05T07:45:38.334Z] Added yahoo_finance URL for SCOT.V: https://finance.yahoo.com/quote/SCOT.V/
+[2025-03-05T07:45:38.336Z] Pausing after processing URLs for SCOT.V for 1.116s
+[2025-03-05T07:45:41.546Z] Added yahoo_finance URL for SCZ.V: https://finance.yahoo.com/quote/SCZ.V/
+[2025-03-05T07:45:41.548Z] Added jmn URL for SCZ.V: https://www.juniorminingnetwork.com/market-data/stock-quote/santacruz-silver.html
+[2025-03-05T07:45:41.549Z] Pausing after processing URLs for SCZ.V for 1.146s
+[2025-03-05T07:45:43.252Z] Added yahoo_finance URL for SDR.V: https://finance.yahoo.com/quote/SDR.V/
+[2025-03-05T07:45:43.254Z] Pausing after processing URLs for SDR.V for 1.565s
+[2025-03-05T07:45:47.089Z] Added yahoo_finance URL for SEA.TO: https://finance.yahoo.com/quote/SEA.TO/
+[2025-03-05T07:45:47.091Z] Added jmn URL for SEA.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/seabridge-gold.html
+[2025-03-05T07:45:47.093Z] Pausing after processing URLs for SEA.TO for 1.993s
+[2025-03-05T07:45:51.872Z] Added yahoo_finance URL for SEEM.CN: https://finance.yahoo.com/quote/SEEM.CN/
+[2025-03-05T07:45:51.875Z] Added jmn URL for SEEM.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/serra-energy-metals.html
+[2025-03-05T07:45:51.877Z] Pausing after processing URLs for SEEM.CN for 1.322s
+[2025-03-05T07:45:57.482Z] Added yahoo_finance URL for SGC.V: https://finance.yahoo.com/quote/SGC.V/
+[2025-03-05T07:45:57.485Z] Added jmn URL for SGC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/solstice-gold.html
+[2025-03-05T07:45:57.486Z] Pausing after processing URLs for SGC.V for 1.671s
+[2025-03-05T07:46:02.617Z] Added yahoo_finance URL for SGD.V: https://finance.yahoo.com/quote/SGD.V/
+[2025-03-05T07:46:02.620Z] Added jmn URL for SGD.V: https://www.juniorminingnetwork.com/market-data/stock-quote/snowline-gold.html
+[2025-03-05T07:46:02.621Z] Pausing after processing URLs for SGD.V for 1.244s
+[2025-03-05T07:46:07.593Z] Added yahoo_finance URL for SGLD.TO: https://finance.yahoo.com/quote/SGLD.TO/
+[2025-03-05T07:46:07.595Z] Added jmn URL for SGLD.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/sabre-gold-mines.html
+[2025-03-05T07:46:07.597Z] Pausing after processing URLs for SGLD.TO for 1.773s
+[2025-03-05T07:46:12.711Z] Added yahoo_finance URL for SGO.V: https://finance.yahoo.com/quote/SGO.V/
+[2025-03-05T07:46:12.713Z] Added jmn URL for SGO.V: https://www.juniorminingnetwork.com/market-data/stock-quote/sonoro-gold.html
+[2025-03-05T07:46:12.714Z] Pausing after processing URLs for SGO.V for 1.201s
+[2025-03-05T07:46:16.580Z] Added yahoo_finance URL for SGN.V: https://finance.yahoo.com/quote/SGN.V/
+[2025-03-05T07:46:16.584Z] Added jmn URL for SGN.V: https://www.juniorminingnetwork.com/market-data/stock-quote/scorpio-gold.html
+[2025-03-05T07:46:16.586Z] Pausing after processing URLs for SGN.V for 1.082s
+[2025-03-05T07:46:18.217Z] Added yahoo_finance URL for SGU.V: https://finance.yahoo.com/quote/SGU.V/
+[2025-03-05T07:46:18.219Z] Pausing after processing URLs for SGU.V for 1.797s
+[2025-03-05T07:46:20.572Z] Added yahoo_finance URL for SGZ.V: https://finance.yahoo.com/quote/SGZ.V/
+[2025-03-05T07:46:20.575Z] Pausing after processing URLs for SGZ.V for 1.293s
+[2025-03-05T07:46:26.854Z] Added yahoo_finance URL for SHL.V: https://finance.yahoo.com/quote/SHL.V/
+[2025-03-05T07:46:26.856Z] Added jmn URL for SHL.V: https://www.juniorminingnetwork.com/market-data/stock-quote/homeland-nickel.html
+[2025-03-05T07:46:26.858Z] Pausing after processing URLs for SHL.V for 1.662s
+[2025-03-05T07:46:31.145Z] Added yahoo_finance URL for SIC.V: https://finance.yahoo.com/quote/SIC.V/
+[2025-03-05T07:46:31.148Z] Added jmn URL for SIC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/sokoman-minerals.html
+[2025-03-05T07:46:31.150Z] Pausing after processing URLs for SIC.V for 1.006s
+[2025-03-05T07:46:34.804Z] Added yahoo_finance URL for SIG.V: https://finance.yahoo.com/quote/SIG.V/
+[2025-03-05T07:46:34.808Z] Added jmn URL for SIG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/sitka-gold.html
+[2025-03-05T07:46:34.809Z] Pausing after processing URLs for SIG.V for 1.295s
+[2025-03-05T07:46:39.189Z] Added yahoo_finance URL for SIL.TO: https://finance.yahoo.com/quote/SIL.TO/
+[2025-03-05T07:46:39.192Z] Added jmn URL for SIL.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/silvercrest-metals.html
+[2025-03-05T07:46:39.194Z] Pausing after processing URLs for SIL.TO for 1.081s
+[2025-03-05T07:46:42.863Z] Added yahoo_finance URL for SILV.V: https://finance.yahoo.com/quote/SILV.V/
+[2025-03-05T07:46:42.866Z] Added jmn URL for SILV.V: https://www.juniorminingnetwork.com/market-data/stock-quote/silver-valley-metals.html
+[2025-03-05T07:46:42.868Z] Pausing after processing URLs for SILV.V for 1.258s
+[2025-03-05T07:46:44.678Z] Added yahoo_finance URL for SKE.TO: https://finance.yahoo.com/quote/SKE.TO/
+[2025-03-05T07:46:44.681Z] Pausing after processing URLs for SKE.TO for 1.822s
+[2025-03-05T07:46:48.832Z] Added yahoo_finance URL for SKP.V: https://finance.yahoo.com/quote/SKP.V/
+[2025-03-05T07:46:48.834Z] Added jmn URL for SKP.V: https://www.juniorminingnetwork.com/market-data/stock-quote/strikepoint-gold.html
+[2025-03-05T07:46:48.836Z] Pausing after processing URLs for SKP.V for 1.538s
+[2025-03-05T07:46:53.100Z] Added yahoo_finance URL for SLI.V: https://finance.yahoo.com/quote/SLI.V/
+[2025-03-05T07:46:53.104Z] Added jmn URL for SLI.V: https://www.juniorminingnetwork.com/market-data/stock-quote/standard-lithium.html
+[2025-03-05T07:46:53.105Z] Pausing after processing URLs for SLI.V for 1.004s
+[2025-03-05T07:46:54.658Z] Added yahoo_finance URL for SLR.TO: https://finance.yahoo.com/quote/SLR.TO/
+[2025-03-05T07:46:54.660Z] Pausing after processing URLs for SLR.TO for 1.055s
+[2025-03-05T07:46:56.267Z] Added yahoo_finance URL for SLV.CN: https://finance.yahoo.com/quote/SLV.CN/
+[2025-03-05T07:46:56.270Z] Pausing after processing URLs for SLV.CN for 1.715s
+[2025-03-05T07:46:59.608Z] Retrying URL validation for https://www.calibremining.com for 2.255s
+[2025-03-05T07:47:01.891Z] Retrying URL validation for https://www.calibremining.com for 2.118s
+[2025-03-05T07:47:04.036Z] Added yahoo_finance URL for SLVR.V: https://finance.yahoo.com/quote/SLVR.V/
+[2025-03-05T07:47:04.038Z] Added jmn URL for SLVR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/silver-tiger-metals.html
+[2025-03-05T07:47:04.039Z] Pausing after processing URLs for SLVR.V for 1.346s
+[2025-03-05T07:47:08.527Z] Added yahoo_finance URL for SM.V: https://finance.yahoo.com/quote/SM.V/
+[2025-03-05T07:47:08.531Z] Added jmn URL for SM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/sierra-madre-gold-and-silver.html
+[2025-03-05T07:47:08.533Z] Pausing after processing URLs for SM.V for 1.742s
+[2025-03-05T07:47:13.939Z] Added yahoo_finance URL for SMN.V: https://finance.yahoo.com/quote/SMN.V/
+[2025-03-05T07:47:13.943Z] Added jmn URL for SMN.V: https://www.juniorminingnetwork.com/market-data/stock-quote/sun-summit-minerals.html
+[2025-03-05T07:47:13.945Z] Pausing after processing URLs for SMN.V for 1.292s
+[2025-03-05T07:47:17.826Z] Added yahoo_finance URL for SMT.TO: https://finance.yahoo.com/quote/SMT.TO/
+[2025-03-05T07:47:17.828Z] Added jmn URL for SMT.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/sierra-metals.html
+[2025-03-05T07:47:17.830Z] Pausing after processing URLs for SMT.TO for 1.648s
+[2025-03-05T07:47:20.028Z] Added yahoo_finance URL for SNAG.V: https://finance.yahoo.com/quote/SNAG.V/
+[2025-03-05T07:47:20.030Z] Pausing after processing URLs for SNAG.V for 1.008s
+[2025-03-05T07:47:21.597Z] Added yahoo_finance URL for SNG.V: https://finance.yahoo.com/quote/SNG.V/
+[2025-03-05T07:47:21.599Z] Pausing after processing URLs for SNG.V for 1.242s
+[2025-03-05T07:47:23.387Z] Added yahoo_finance URL for SOI.V: https://finance.yahoo.com/quote/SOI.V/
+[2025-03-05T07:47:23.389Z] Pausing after processing URLs for SOI.V for 1.406s
+[2025-03-05T07:47:28.612Z] Added yahoo_finance URL for SOMA.V: https://finance.yahoo.com/quote/SOMA.V/
+[2025-03-05T07:47:28.613Z] Added jmn URL for SOMA.V: https://www.juniorminingnetwork.com/market-data/stock-quote/soma-gold.html
+[2025-03-05T07:47:28.614Z] Pausing after processing URLs for SOMA.V for 1.947s
+[2025-03-05T07:47:33.584Z] Added yahoo_finance URL for SPA.V: https://finance.yahoo.com/quote/SPA.V/
+[2025-03-05T07:47:33.588Z] Added jmn URL for SPA.V: https://www.juniorminingnetwork.com/market-data/stock-quote/spanish-mountain-gold.html
+[2025-03-05T07:47:33.590Z] Pausing after processing URLs for SPA.V for 1.923s
+[2025-03-05T07:47:38.074Z] Added homepage URL for SPMC.V: https://southpacificmetals.ca
+[2025-03-05T07:47:38.077Z] Added yahoo_finance URL for SPMC.V: https://finance.yahoo.com/quote/SPMC.V/
+[2025-03-05T07:47:38.080Z] Added jmn URL for SPMC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/south-pacific-metals.html
+[2025-03-05T07:47:38.081Z] Pausing after processing URLs for SPMC.V for 1.792s
+[2025-03-05T07:47:42.468Z] Added yahoo_finance URL for SPX.V: https://finance.yahoo.com/quote/SPX.V/
+[2025-03-05T07:47:42.469Z] Added jmn URL for SPX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/stellar-africagold.html
+[2025-03-05T07:47:42.471Z] Pausing after processing URLs for SPX.V for 1.564s
+[2025-03-05T07:47:48.217Z] Added yahoo_finance URL for SRC.V: https://finance.yahoo.com/quote/SRC.V/
+[2025-03-05T07:47:48.220Z] Added jmn URL for SRC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/stakeholder-gold.html
+[2025-03-05T07:47:48.224Z] Pausing after processing URLs for SRC.V for 1.11s
+[2025-03-05T07:47:50.534Z] Added yahoo_finance URL for SRL.V: https://finance.yahoo.com/quote/SRL.V/
+[2025-03-05T07:47:50.536Z] Pausing after processing URLs for SRL.V for 1.435s
+[2025-03-05T07:47:54.776Z] Added yahoo_finance URL for SSL.TO: https://finance.yahoo.com/quote/SSL.TO/
+[2025-03-05T07:47:54.779Z] Added jmn URL for SSL.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/sandstorm-gold-royalties.html
+[2025-03-05T07:47:54.780Z] Pausing after processing URLs for SSL.TO for 1.526s
+[2025-03-05T07:47:56.852Z] Added yahoo_finance URL for SSRM.TO: https://finance.yahoo.com/quote/SSRM.TO/
+[2025-03-05T07:47:56.853Z] Pausing after processing URLs for SSRM.TO for 1.432s
+[2025-03-05T07:48:00.535Z] Added yahoo_finance URL for SSV.V: https://finance.yahoo.com/quote/SSV.V/
+[2025-03-05T07:48:00.538Z] Added jmn URL for SSV.V: https://www.juniorminingnetwork.com/market-data/stock-quote/southern-silver-exploration.html
+[2025-03-05T07:48:00.540Z] Pausing after processing URLs for SSV.V for 1.938s
+[2025-03-05T07:48:04.923Z] Added yahoo_finance URL for SSVR.V: https://finance.yahoo.com/quote/SSVR.V/
+[2025-03-05T07:48:04.926Z] Added jmn URL for SSVR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/summa-silver.html
+[2025-03-05T07:48:04.927Z] Pausing after processing URLs for SSVR.V for 1.946s
+[2025-03-05T07:48:10.713Z] Added yahoo_finance URL for STGO.TO: https://finance.yahoo.com/quote/STGO.TO/
+[2025-03-05T07:48:10.715Z] Added jmn URL for STGO.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/steppe-gold.html
+[2025-03-05T07:48:10.717Z] Pausing after processing URLs for STGO.TO for 1.138s
+[2025-03-05T07:48:15.276Z] Added yahoo_finance URL for STLR.TO: https://finance.yahoo.com/quote/STLR.TO/
+[2025-03-05T07:48:15.279Z] Added jmn URL for STLR.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/stllr-gold.html
+[2025-03-05T07:48:15.281Z] Pausing after processing URLs for STLR.TO for 1.372s
+[2025-03-05T07:48:19.131Z] Added yahoo_finance URL for STRR.V: https://finance.yahoo.com/quote/STRR.V/
+[2025-03-05T07:48:19.135Z] Added jmn URL for STRR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/star-royalties.html
+[2025-03-05T07:48:19.137Z] Pausing after processing URLs for STRR.V for 1.887s
+[2025-03-05T07:48:23.689Z] Added yahoo_finance URL for STS.V: https://finance.yahoo.com/quote/STS.V/
+[2025-03-05T07:48:23.691Z] Added jmn URL for STS.V: https://www.juniorminingnetwork.com/market-data/stock-quote/south-star-battery-metals.html
+[2025-03-05T07:48:23.693Z] Pausing after processing URLs for STS.V for 1.005s
+[2025-03-05T07:48:27.006Z] Added yahoo_finance URL for STU.V: https://finance.yahoo.com/quote/STU.V/
+[2025-03-05T07:48:27.008Z] Added jmn URL for STU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/stuhini-exploration.html
+[2025-03-05T07:48:27.008Z] Pausing after processing URLs for STU.V for 1.16s
+[2025-03-05T07:48:28.710Z] Added yahoo_finance URL for SUP.V: https://finance.yahoo.com/quote/SUP.V/
+[2025-03-05T07:48:28.711Z] Pausing after processing URLs for SUP.V for 1.403s
+[2025-03-05T07:48:30.672Z] Added yahoo_finance URL for SURG.V: https://finance.yahoo.com/quote/SURG.V/
+[2025-03-05T07:48:30.674Z] Pausing after processing URLs for SURG.V for 1.593s
+[2025-03-05T07:48:32.814Z] Added yahoo_finance URL for SVE.V: https://finance.yahoo.com/quote/SVE.V/
+[2025-03-05T07:48:32.815Z] Pausing after processing URLs for SVE.V for 1.896s
+[2025-03-05T07:48:36.631Z] Added yahoo_finance URL for SVM.TO: https://finance.yahoo.com/quote/SVM.TO/
+[2025-03-05T07:48:36.633Z] Added jmn URL for SVM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/silvercorp-metals.html
+[2025-03-05T07:48:36.635Z] Pausing after processing URLs for SVM.TO for 1.699s
+[2025-03-05T07:48:38.889Z] Added yahoo_finance URL for SVRS.V: https://finance.yahoo.com/quote/SVRS.V/
+[2025-03-05T07:48:38.891Z] Pausing after processing URLs for SVRS.V for 1.68s
+[2025-03-05T07:48:41.145Z] Added yahoo_finance URL for SWA.V: https://finance.yahoo.com/quote/SWA.V/
+[2025-03-05T07:48:41.146Z] Pausing after processing URLs for SWA.V for 1.518s
+[2025-03-05T07:48:45.536Z] Added yahoo_finance URL for SWLF.V: https://finance.yahoo.com/quote/SWLF.V/
+[2025-03-05T07:48:45.538Z] Added jmn URL for SWLF.V: https://www.juniorminingnetwork.com/market-data/stock-quote/silver-wolf-exploration.html
+[2025-03-05T07:48:45.540Z] Pausing after processing URLs for SWLF.V for 1.288s
+[2025-03-05T07:48:48.754Z] Added yahoo_finance URL for SXGC.V: https://finance.yahoo.com/quote/SXGC.V/
+[2025-03-05T07:48:48.758Z] Added jmn URL for SXGC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/southern-cross-gold.html
+[2025-03-05T07:48:48.760Z] Pausing after processing URLs for SXGC.V for 1.707s
+[2025-03-05T07:48:51.022Z] Added yahoo_finance URL for TAJ.V: https://finance.yahoo.com/quote/TAJ.V/
+[2025-03-05T07:48:51.024Z] Pausing after processing URLs for TAJ.V for 1.095s
+[2025-03-05T07:48:54.558Z] Added yahoo_finance URL for TAU.V: https://finance.yahoo.com/quote/TAU.V/
+[2025-03-05T07:48:54.561Z] Added jmn URL for TAU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/thesis-gold.html
+[2025-03-05T07:48:54.562Z] Pausing after processing URLs for TAU.V for 1.758s
+[2025-03-05T07:48:56.986Z] Added yahoo_finance URL for TBK.V: https://finance.yahoo.com/quote/TBK.V/
+[2025-03-05T07:48:56.988Z] Pausing after processing URLs for TBK.V for 1.562s
+[2025-03-05T07:49:01.603Z] Added yahoo_finance URL for TBX.V: https://finance.yahoo.com/quote/TBX.V/
+[2025-03-05T07:49:01.606Z] Added jmn URL for TBX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/turmalina-metals.html
+[2025-03-05T07:49:01.609Z] Pausing after processing URLs for TBX.V for 1.376s
+[2025-03-05T07:49:03.718Z] Added yahoo_finance URL for TCO.V: https://finance.yahoo.com/quote/TCO.V/
+[2025-03-05T07:49:03.720Z] Pausing after processing URLs for TCO.V for 1.457s
+[2025-03-05T07:49:08.170Z] Added yahoo_finance URL for TDG.V: https://finance.yahoo.com/quote/TDG.V/
+[2025-03-05T07:49:08.174Z] Added jmn URL for TDG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/tdg-gold.html
+[2025-03-05T07:49:08.175Z] Pausing after processing URLs for TDG.V for 1.097s
+[2025-03-05T07:49:10.745Z] Retrying URL validation for https://www.calibremining.com for 2.936s
+[2025-03-05T07:49:13.701Z] Retrying URL validation for https://www.calibremining.com for 2.192s
+[2025-03-05T07:49:15.924Z] Added yahoo_finance URL for TECT.V: https://finance.yahoo.com/quote/TECT.V/
+[2025-03-05T07:49:15.927Z] Added jmn URL for TECT.V: https://www.juniorminingnetwork.com/market-data/stock-quote/tectonic-metals.html
+[2025-03-05T07:49:15.929Z] Pausing after processing URLs for TECT.V for 1.564s
+[2025-03-05T07:49:18.680Z] Added yahoo_finance URL for TERA.CN: https://finance.yahoo.com/quote/TERA.CN/
+[2025-03-05T07:49:18.681Z] Pausing after processing URLs for TERA.CN for 1.388s
+[2025-03-05T07:49:22.447Z] Added yahoo_finance URL for TFPM.TO: https://finance.yahoo.com/quote/TFPM.TO/
+[2025-03-05T07:49:22.450Z] Added jmn URL for TFPM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/triple-flag-precious-metals.html
+[2025-03-05T07:49:22.451Z] Pausing after processing URLs for TFPM.TO for 1.806s
+[2025-03-05T07:49:27.305Z] Added yahoo_finance URL for TG.V: https://finance.yahoo.com/quote/TG.V/
+[2025-03-05T07:49:27.309Z] Added jmn URL for TG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/trifecta-gold.html
+[2025-03-05T07:49:27.310Z] Pausing after processing URLs for TG.V for 1.594s
+[2025-03-05T07:49:33.638Z] Added yahoo_finance URL for TGOL.V: https://finance.yahoo.com/quote/TGOL.V/
+[2025-03-05T07:49:33.642Z] Added jmn URL for TGOL.V: https://www.juniorminingnetwork.com/market-data/stock-quote/thunder-gold.html
+[2025-03-05T07:49:33.644Z] Pausing after processing URLs for TGOL.V for 1.193s
+[2025-03-05T07:49:38.880Z] Added yahoo_finance URL for THX.V: https://finance.yahoo.com/quote/THX.V/
+[2025-03-05T07:49:38.883Z] Added jmn URL for THX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/thor-explorations.html
+[2025-03-05T07:49:38.884Z] Pausing after processing URLs for THX.V for 1.34s
+[2025-03-05T07:49:42.459Z] Added yahoo_finance URL for TIN.V: https://finance.yahoo.com/quote/TIN.V/
+[2025-03-05T07:49:42.461Z] Added jmn URL for TIN.V: https://www.juniorminingnetwork.com/market-data/stock-quote/tincorp-metals.html
+[2025-03-05T07:49:42.463Z] Pausing after processing URLs for TIN.V for 1.033s
+[2025-03-05T07:49:44.054Z] Added yahoo_finance URL for TK.V: https://finance.yahoo.com/quote/TK.V/
+[2025-03-05T07:49:44.055Z] Pausing after processing URLs for TK.V for 1.581s
+[2025-03-05T07:49:47.293Z] Added yahoo_finance URL for TLG.TO: https://finance.yahoo.com/quote/TLG.TO/
+[2025-03-05T07:49:47.295Z] Added jmn URL for TLG.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/troilus-gold.html
+[2025-03-05T07:49:47.298Z] Pausing after processing URLs for TLG.TO for 1.55s
+[2025-03-05T07:49:53.833Z] Added yahoo_finance URL for TSG.V: https://finance.yahoo.com/quote/TSG.V/
+[2025-03-05T07:49:53.836Z] Added jmn URL for TSG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/tristar-gold.html
+[2025-03-05T07:49:53.837Z] Pausing after processing URLs for TSG.V for 1.96s
+[2025-03-05T07:49:59.345Z] Added yahoo_finance URL for TM.V: https://finance.yahoo.com/quote/TM.V/
+[2025-03-05T07:49:59.348Z] Added jmn URL for TM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/trigon-metals.html
+[2025-03-05T07:49:59.350Z] Pausing after processing URLs for TM.V for 1.455s
+[2025-03-05T07:50:03.931Z] Added yahoo_finance URL for TMQ.TO: https://finance.yahoo.com/quote/TMQ.TO/
+[2025-03-05T07:50:03.934Z] Added jmn URL for TMQ.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/trilogy-metals.html
+[2025-03-05T07:50:03.935Z] Pausing after processing URLs for TMQ.TO for 1.027s
+[2025-03-05T07:50:06.296Z] Added yahoo_finance URL for TNR.V: https://finance.yahoo.com/quote/TNR.V/
+[2025-03-05T07:50:06.299Z] Added jmn URL for TNR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/tnr-gold.html
+[2025-03-05T07:50:06.301Z] Pausing after processing URLs for TNR.V for 1.738s
+[2025-03-05T07:50:14.274Z] Added yahoo_finance URL for TOC.CN: https://finance.yahoo.com/quote/TOC.CN/
+[2025-03-05T07:50:14.278Z] Added jmn URL for TOC.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/tocvan-ventures.html
+[2025-03-05T07:50:14.279Z] Pausing after processing URLs for TOC.CN for 1.717s
+[2025-03-05T07:50:17.190Z] Added yahoo_finance URL for TORQ.V: https://finance.yahoo.com/quote/TORQ.V/
+[2025-03-05T07:50:17.192Z] Pausing after processing URLs for TORQ.V for 1.363s
+[2025-03-05T07:50:19.099Z] Added yahoo_finance URL for TRO.V: https://finance.yahoo.com/quote/TRO.V/
+[2025-03-05T07:50:19.101Z] Pausing after processing URLs for TRO.V for 1.142s
+[2025-03-05T07:50:23.489Z] Added yahoo_finance URL for TRX.TO: https://finance.yahoo.com/quote/TRX.TO/
+[2025-03-05T07:50:23.491Z] Added jmn URL for TRX.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/trx-gold.html
+[2025-03-05T07:50:23.493Z] Pausing after processing URLs for TRX.TO for 1.737s
+[2025-03-05T07:50:27.095Z] Added yahoo_finance URL for TSG.V: https://finance.yahoo.com/quote/TSG.V/
+[2025-03-05T07:50:27.099Z] Added jmn URL for TSG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/tristar-gold.html
+[2025-03-05T07:50:27.101Z] Pausing after processing URLs for TSG.V for 1.158s
+[2025-03-05T07:50:28.830Z] Added yahoo_finance URL for TSK.TO: https://finance.yahoo.com/quote/TSK.TO/
+[2025-03-05T07:50:28.831Z] Pausing after processing URLs for TSK.TO for 1.873s
+[2025-03-05T07:50:32.496Z] Added yahoo_finance URL for TSLV.V: https://finance.yahoo.com/quote/TSLV.V/
+[2025-03-05T07:50:32.499Z] Added jmn URL for TSLV.V: https://www.juniorminingnetwork.com/market-data/stock-quote/tier-one-silver.html
+[2025-03-05T07:50:32.500Z] Pausing after processing URLs for TSLV.V for 1.436s
+[2025-03-05T07:50:37.784Z] Added yahoo_finance URL for TUD.V: https://finance.yahoo.com/quote/TUD.V/
+[2025-03-05T07:50:37.787Z] Added jmn URL for TUD.V: https://www.juniorminingnetwork.com/market-data/stock-quote/tudor-gold.html
+[2025-03-05T07:50:37.789Z] Pausing after processing URLs for TUD.V for 1.198s
+[2025-03-05T07:50:41.114Z] Added yahoo_finance URL for TUF.V: https://finance.yahoo.com/quote/TUF.V/
+[2025-03-05T07:50:41.116Z] Added jmn URL for TUF.V: https://www.juniorminingnetwork.com/market-data/stock-quote/honey-badger-silver.html
+[2025-03-05T07:50:41.117Z] Pausing after processing URLs for TUF.V for 1.374s
+[2025-03-05T07:50:43.041Z] Added yahoo_finance URL for TUO.V: https://finance.yahoo.com/quote/TUO.V/
+[2025-03-05T07:50:43.043Z] Pausing after processing URLs for TUO.V for 1.113s
+[2025-03-05T07:50:44.712Z] Added yahoo_finance URL for TWR.V: https://finance.yahoo.com/quote/TWR.V/
+[2025-03-05T07:50:44.713Z] Pausing after processing URLs for TWR.V for 1.697s
+[2025-03-05T07:50:46.982Z] Added yahoo_finance URL for TXG.TO: https://finance.yahoo.com/quote/TXG.TO/
+[2025-03-05T07:50:46.984Z] Pausing after processing URLs for TXG.TO for 1.31s
+[2025-03-05T07:50:48.837Z] Added yahoo_finance URL for UGD.V: https://finance.yahoo.com/quote/UGD.V/
+[2025-03-05T07:50:48.838Z] Pausing after processing URLs for UGD.V for 1.326s
+[2025-03-05T07:50:52.935Z] Added yahoo_finance URL for USA.TO: https://finance.yahoo.com/quote/USA.TO/
+[2025-03-05T07:50:52.937Z] Added jmn URL for USA.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/americas-gold-and-silver.html
+[2025-03-05T07:50:52.938Z] Pausing after processing URLs for USA.TO for 1.966s
+[2025-03-05T07:50:55.590Z] Added yahoo_finance URL for USGD.CN: https://finance.yahoo.com/quote/USGD.CN/
+[2025-03-05T07:50:55.592Z] Pausing after processing URLs for USGD.CN for 1.547s
+[2025-03-05T07:50:59.449Z] Added yahoo_finance URL for VAU.V: https://finance.yahoo.com/quote/VAU.V/
+[2025-03-05T07:50:59.452Z] Added jmn URL for VAU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/viva-gold.html
+[2025-03-05T07:50:59.454Z] Pausing after processing URLs for VAU.V for 1.449s
+[2025-03-05T07:51:04.726Z] Added yahoo_finance URL for VEIN.V: https://finance.yahoo.com/quote/VEIN.V/
+[2025-03-05T07:51:04.729Z] Added jmn URL for VEIN.V: https://www.juniorminingnetwork.com/market-data/stock-quote/pasofino-gold.html
+[2025-03-05T07:51:04.731Z] Pausing after processing URLs for VEIN.V for 1.903s
+[2025-03-05T07:51:09.940Z] Added yahoo_finance URL for VG.V: https://finance.yahoo.com/quote/VG.V/
+[2025-03-05T07:51:09.943Z] Added jmn URL for VG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/volcanic-gold-mines.html
+[2025-03-05T07:51:09.945Z] Pausing after processing URLs for VG.V for 1.239s
+[2025-03-05T07:51:13.994Z] Added jmn URL for VGCX.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/victoria-gold.html
+[2025-03-05T07:51:13.996Z] Pausing after processing URLs for VGCX.TO for 1.949s
+[2025-03-05T07:51:16.616Z] Added yahoo_finance URL for VIO.V: https://finance.yahoo.com/quote/VIO.V/
+[2025-03-05T07:51:16.618Z] Pausing after processing URLs for VIO.V for 1.136s
+[2025-03-05T07:51:20.361Z] Added yahoo_finance URL for VIPR.V: https://finance.yahoo.com/quote/VIPR.V/
+[2025-03-05T07:51:20.364Z] Added jmn URL for VIPR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/silver-viper-minerals.html
+[2025-03-05T07:51:20.366Z] Pausing after processing URLs for VIPR.V for 1.51s
+[2025-03-05T07:51:23.432Z] Retrying URL validation for https://www.calibremining.com for 2.579s
+[2025-03-05T07:51:26.041Z] Retrying URL validation for https://www.calibremining.com for 2.857s
+[2025-03-05T07:51:28.924Z] Added yahoo_finance URL for VLC.V: https://finance.yahoo.com/quote/VLC.V/
+[2025-03-05T07:51:28.926Z] Added jmn URL for VLC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/velocity-minerals.html
+[2025-03-05T07:51:28.927Z] Pausing after processing URLs for VLC.V for 1.012s
+[2025-03-05T07:51:31.160Z] Added yahoo_finance URL for VML.V: https://finance.yahoo.com/quote/VML.V/
+[2025-03-05T07:51:31.162Z] Pausing after processing URLs for VML.V for 1.125s
+[2025-03-05T07:51:34.654Z] Added yahoo_finance URL for VOXR.TO: https://finance.yahoo.com/quote/VOXR.TO/
+[2025-03-05T07:51:34.656Z] Added jmn URL for VOXR.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/vox-royalty.html
+[2025-03-05T07:51:34.658Z] Pausing after processing URLs for VOXR.TO for 1.592s
+[2025-03-05T07:51:38.813Z] Added yahoo_finance URL for VROY.V: https://finance.yahoo.com/quote/VROY.V/
+[2025-03-05T07:51:38.815Z] Added jmn URL for VROY.V: https://www.juniorminingnetwork.com/market-data/stock-quote/vizsla-royalties.html
+[2025-03-05T07:51:38.817Z] Pausing after processing URLs for VROY.V for 1.977s
+[2025-03-05T07:51:41.459Z] Added yahoo_finance URL for VVC.V: https://finance.yahoo.com/quote/VVC.V/
+[2025-03-05T07:51:41.461Z] Pausing after processing URLs for VVC.V for 1.545s
+[2025-03-05T07:51:46.096Z] Added homepage URL for VZLA.V: https://vizslasilvercorp.com
+[2025-03-05T07:51:46.099Z] Added jmn URL for VZLA.V: https://www.juniorminingnetwork.com/market-data/stock-quote/vizsla-silver.html
+[2025-03-05T07:51:46.100Z] Pausing after processing URLs for VZLA.V for 1.398s
+[2025-03-05T07:51:50.693Z] Added homepage URL for WAM.V: https://westernalaskaminerals.com
+[2025-03-05T07:51:50.695Z] Added yahoo_finance URL for WAM.V: https://finance.yahoo.com/quote/WAM.V/
+[2025-03-05T07:51:50.696Z] Added jmn URL for WAM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/western-alaska-minerals.html
+[2025-03-05T07:51:50.697Z] Pausing after processing URLs for WAM.V for 1.807s
+[2025-03-05T07:51:54.757Z] Added yahoo_finance URL for WDO.TO: https://finance.yahoo.com/quote/WDO.TO/
+[2025-03-05T07:51:54.759Z] Added jmn URL for WDO.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/wesdome-gold-mines.html
+[2025-03-05T07:51:54.760Z] Pausing after processing URLs for WDO.TO for 1.298s
+[2025-03-05T07:51:58.161Z] Added yahoo_finance URL for WEX.V: https://finance.yahoo.com/quote/WEX.V/
+[2025-03-05T07:51:58.164Z] Added jmn URL for WEX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/western-exploration.html
+[2025-03-05T07:51:58.166Z] Pausing after processing URLs for WEX.V for 1.198s
+[2025-03-05T07:52:00.568Z] Retrying URL validation for https://www.calibremining.com for 2.799s
+[2025-03-05T07:52:03.393Z] Retrying URL validation for https://www.calibremining.com for 2.696s
+[2025-03-05T07:52:06.117Z] Added yahoo_finance URL for WG.CN: https://finance.yahoo.com/quote/WG.CN/
+[2025-03-05T07:52:06.120Z] Added jmn URL for WG.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/westward-gold.html
+[2025-03-05T07:52:06.122Z] Pausing after processing URLs for WG.CN for 1.838s
+[2025-03-05T07:52:10.625Z] Added yahoo_finance URL for WGF.V: https://finance.yahoo.com/quote/WGF.V/
+[2025-03-05T07:52:10.628Z] Added jmn URL for WGF.V: https://www.juniorminingnetwork.com/market-data/stock-quote/wescan-goldfields.html
+[2025-03-05T07:52:10.630Z] Pausing after processing URLs for WGF.V for 1.201s
+[2025-03-05T07:52:12.986Z] Added yahoo_finance URL for WGLD.V: https://finance.yahoo.com/quote/WGLD.V/
+[2025-03-05T07:52:12.988Z] Added jmn URL for WGLD.V: https://www.juniorminingnetwork.com/market-data/stock-quote/western-gold-exploration.html
+[2025-03-05T07:52:12.989Z] Pausing after processing URLs for WGLD.V for 1.754s
+[2025-03-05T07:52:17.580Z] Added yahoo_finance URL for WGO.V: https://finance.yahoo.com/quote/WGO.V/
+[2025-03-05T07:52:17.584Z] Added jmn URL for WGO.V: https://www.juniorminingnetwork.com/market-data/stock-quote/white-gold.html
+[2025-03-05T07:52:17.585Z] Pausing after processing URLs for WGO.V for 1.408s
+[2025-03-05T07:52:19.682Z] Added yahoo_finance URL for WGX.TO: https://finance.yahoo.com/quote/WGX.TO/
+[2025-03-05T07:52:19.684Z] Pausing after processing URLs for WGX.TO for 1.873s
+[2025-03-05T07:52:24.214Z] Added yahoo_finance URL for WHN.V: https://finance.yahoo.com/quote/WHN.V/
+[2025-03-05T07:52:24.219Z] Added jmn URL for WHN.V: https://www.juniorminingnetwork.com/market-data/stock-quote/westhaven-gold.html
+[2025-03-05T07:52:24.220Z] Pausing after processing URLs for WHN.V for 1.409s
+[2025-03-05T07:52:26.175Z] Added yahoo_finance URL for WHY.V: https://finance.yahoo.com/quote/WHY.V/
+[2025-03-05T07:52:26.177Z] Pausing after processing URLs for WHY.V for 1.987s
+[2025-03-05T07:52:28.709Z] Added yahoo_finance URL for WLF.V: https://finance.yahoo.com/quote/WLF.V/
+[2025-03-05T07:52:28.712Z] Pausing after processing URLs for WLF.V for 1.777s
+[2025-03-05T07:52:31.043Z] Added yahoo_finance URL for WM.TO: https://finance.yahoo.com/quote/WM.TO/
+[2025-03-05T07:52:31.045Z] Pausing after processing URLs for WM.TO for 1.535s
+[2025-03-05T07:52:36.249Z] Added yahoo_finance URL for WPG.V: https://finance.yahoo.com/quote/WPG.V/
+[2025-03-05T07:52:36.254Z] Added jmn URL for WPG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/west-point-gold.html
+[2025-03-05T07:52:36.255Z] Pausing after processing URLs for WPG.V for 1.252s
+[2025-03-05T07:52:40.250Z] Added yahoo_finance URL for WPM.TO: https://finance.yahoo.com/quote/WPM.TO/
+[2025-03-05T07:52:40.252Z] Added jmn URL for WPM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/wheaton-precious-metals.html
+[2025-03-05T07:52:40.254Z] Pausing after processing URLs for WPM.TO for 1.789s
+[2025-03-05T07:52:44.175Z] Added yahoo_finance URL for WRLG.V: https://finance.yahoo.com/quote/WRLG.V/
+[2025-03-05T07:52:44.178Z] Added jmn URL for WRLG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/west-red-lake-gold.html
+[2025-03-05T07:52:44.180Z] Pausing after processing URLs for WRLG.V for 1.507s
+[2025-03-05T07:52:46.416Z] Added yahoo_finance URL for WRN.TO: https://finance.yahoo.com/quote/WRN.TO/
+[2025-03-05T07:52:46.418Z] Pausing after processing URLs for WRN.TO for 1.221s
+[2025-03-05T07:52:48.195Z] Added yahoo_finance URL for WRR.V: https://finance.yahoo.com/quote/WRR.V/
+[2025-03-05T07:52:48.197Z] Pausing after processing URLs for WRR.V for 1.659s
+[2025-03-05T07:52:50.403Z] Added yahoo_finance URL for WVM.V: https://finance.yahoo.com/quote/WVM.V/
+[2025-03-05T07:52:50.405Z] Pausing after processing URLs for WVM.V for 1.151s
+[2025-03-05T07:52:52.105Z] Added yahoo_finance URL for XIM.V: https://finance.yahoo.com/quote/XIM.V/
+[2025-03-05T07:52:52.106Z] Pausing after processing URLs for XIM.V for 1.171s
+[2025-03-05T07:52:53.840Z] Added yahoo_finance URL for XTG.TO: https://finance.yahoo.com/quote/XTG.TO/
+[2025-03-05T07:52:53.841Z] Pausing after processing URLs for XTG.TO for 1.518s
+[2025-03-05T07:52:58.029Z] Added yahoo_finance URL for XTM.V: https://finance.yahoo.com/quote/XTM.V/
+[2025-03-05T07:52:58.031Z] Added jmn URL for XTM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/transition-metals.html
+[2025-03-05T07:52:58.032Z] Pausing after processing URLs for XTM.V for 1.526s
+[2025-03-05T07:53:03.243Z] Added yahoo_finance URL for YGT.V: https://finance.yahoo.com/quote/YGT.V/
+[2025-03-05T07:53:03.245Z] Added jmn URL for YGT.V: https://www.juniorminingnetwork.com/market-data/stock-quote/gold-terra-resource.html
+[2025-03-05T07:53:03.246Z] Pausing after processing URLs for YGT.V for 1.913s
+[2025-03-05T07:53:06.348Z] Added yahoo_finance URL for YRB.TO: https://finance.yahoo.com/quote/YRB.TO/
+[2025-03-05T07:53:06.350Z] Pausing after processing URLs for YRB.TO for 1.141s
+[2025-03-05T07:53:09.687Z] Added yahoo_finance URL for ZAC.V: https://finance.yahoo.com/quote/ZAC.V/
+[2025-03-05T07:53:09.689Z] Added jmn URL for ZAC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/zacatecas-silver.html
+[2025-03-05T07:53:09.691Z] Pausing after processing URLs for ZAC.V for 1.13s
+[2025-03-05T07:53:13.849Z] Added yahoo_finance URL for ZAU.V: https://finance.yahoo.com/quote/ZAU.V/
+[2025-03-05T07:53:13.851Z] Added jmn URL for ZAU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/zodiac-gold.html
+[2025-03-05T07:53:13.852Z] Pausing after processing URLs for ZAU.V for 1.359s

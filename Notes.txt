@@ -27,3 +27,40 @@ You may also need to limit liability in your terms of service, similar to Vercel
                     EV per Resource Oz ALL   The enterprise value (EV) of the company (in dollars) divided by the company's resources of all types of minerals (in gold equivalent ounces).
 
                     Market Cap per Reserve Oz
+
+
+------------------------
+
+This is the wildest Grok 3 prompt I've ever used
+
+It can literally build you a business in one prompt
+
+Grok will research your audience, their challenges, then give you ideas for apps to build. If you take action on this post you'll have your own business
+
+BOOKMARK THIS
+
+Prompt:
+
+(using DeepSearch mode)
+
+"I am looking to build a business through my X. I have very little programming experience but I want to build an app. Generate a comprehensive business plan for an AI-powered app in [your area of interest], including:
+
+• Market analysis: Uncover key trends and opportunities in your chosen field.
+
+• Target audience identification: Define who your users are and what they need.
+
+• Key challenges faced by the audience: Pinpoint the biggest problems they’re facing.
+
+• Three innovative app ideas: Propose unique solutions that leverage AI (like machine learning, natural language processing, or computer vision) to tackle these challenges in ways no one’s seen before.
+
+• Evaluation and selection: Assess each idea based on market potential, feasibility, and wow-factor, then pick the standout winner.
+
+• Detailed business model and monetization strategy: Map out how your app will make money—think subscriptions, in-app purchases, or AI-driven upsells.
+
+• Launch plan with key milestones: Get a step-by-step roadmap to bring your app to life, from prototype to market domination.
+
+• A marketing campaign I can launch though my X using posts/Spaces/ and livestreams
+
+Then give me a very detailed step by step plan for the software I need to build this plus the skills I need to build this. Make it STUPID simple for me to build this business. Make it built for beginners"
+
+PLUG THIS INTO GROK AND WATCH THE MAGIC HAPPEN

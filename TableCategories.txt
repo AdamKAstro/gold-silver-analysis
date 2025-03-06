@@ -1,0 +1,159 @@
+Company Name
+
+TSX Code
+	
+Description of projects, capital raisings, etc.
+	
+Historic share price (choose date)
+	
+Recent share price (with price updater)
+
+Change in share price 1Yr %
+	
+Capital Structure
+
+Number of existing shares
+	
+Number of shares when fully diluted
+
+Number of in-the-money options
+
+Revenue from in-the-money options
+
+Financial
+
+Cash (with date, recent changes)
+
+Investments (table, listing them)
+
+Hedgebook
+
+Liabilities
+
+Other financial assets
+
+Market capitalization
+
+Enterprise value (EV)
+
+Net financial assets
+
+General
+
+Status (producer, developer, or explorer)
+
+Minerals of interest
+
+% in gold
+	
+% in silver
+
+Headquarters (state or country)
+
+Mineral Estimates
+
+Reserves, precious, in AuEq Moz
+
+Measured and indicated, precious, in AuEq Moz
+
+Resources, precious, in AuEq Moz
+
+Potential, precious, in AuEq Moz
+
+Mineable, non-precious, in AuEq Moz
+
+Reserves, non-precious, in AuEq Moz
+
+Measured and indicated, non-precious, in AuEq Moz
+
+Resources, non-precious, in AuEq Moz
+
+Potential, non-precious, in AuEq Moz
+
+Mineable, non-precious, in AuEq Moz
+
+Reserves, total, in AuEq Moz
+	
+Measured and indicated, total, in AuEq Moz
+
+Resources, total, in AuEq Moz
+
+Potential, total, in AuEq Moz
+
+Mineable, total, in AuEq Moz
+
+Market Capitalization per Ounce
+
+Market cap. per reserve oz, precious
+
+Market cap. per measured-or-indicated oz, precious
+
+Market cap. per resource oz, precious
+
+Market cap. per mineable oz, precious
+
+Market cap. per reserve oz, all metals
+
+Market cap. per measured-or-indicated oz, all metals
+
+Market cap. per resource oz, all metals
+
+Market cap. per mineable oz, all metals
+
+Enterprise Value per Ounce
+
+EV per reserve oz, precious
+
+EV per measured-or-indcated oz, precious
+
+EV per resource oz, precious
+
+EV per mineable oz, precious
+
+EV per reserve oz, all metals
+
+EV per measured-or-indicated oz, all metals
+
+EV per resource oz, all metals
+
+EV per mineable oz, all metals
+
+Mining
+
+Current annual production, precious, in AuEq koz
+
+Current annual production, non-precious, in AuEq koz
+
+Current production, all, in AuEq koz
+
+Future production, all, in AuEq koz
+
+Reserve life
+
+Market cap. per current production ounce
+
+EV per current production ounce
+
+Costs
+
+Construction costs
+
+AISC, last quarter
+
+AISC, last year
+
+AISC, future
+
+AIC, last quarter
+
+AIC, last year
+
+Total Cost of Ownership (TCO)
+
+Current TCO
+
+Future TCO
+
+Free Cash Flow (FCF)
+
+FCF

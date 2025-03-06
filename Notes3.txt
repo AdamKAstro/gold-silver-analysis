@@ -1,0 +1,124 @@
+
+Errors from running populate_mining_data.js 
+
+Updated mining data for GSTM.V in database
+[2025-03-06T00:54:41.400Z] Pausing after processing GSTM.V for 36.744s
+Processing GSVR.V (GUANAJUATO SILVER COMPANY)
+Warning: TT: undefined function: 21
+Warning: TT: invalid function id: 136
+Warning: TT: undefined function: 21
+Warning: TT: invalid function id: 136
+Warning: TT: undefined function: 21
+Updated mining data for GSVR.V in database
+[2025-03-06T00:55:20.926Z] Pausing after processing GSVR.V for 32.455s
+Processing GTCH.CN (GETCHELL GOLD)
+Updated mining data for GTCH.CN in database
+[2025-03-06T00:55:54.445Z] Pausing after processing GTCH.CN for 37.641s
+Processing GUN.V (GUNPOINT EXPLORATION)
+Updated mining data for GUN.V in database
+
+and 
+[2025-03-06T03:54:39.530Z] Pausing after processing WGLD.V for 33.916s
+Processing WGO.V (WHITE GOLD)
+Updated mining data for WGO.V in database
+[2025-03-06T03:55:14.559Z] Pausing after processing WGO.V for 37.516s
+Processing WGX.TO (WESTGOLD RESOURCES)
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+Updated mining data for WGX.TO in database
+[2025-03-06T03:56:14.901Z] Pausing after processing WGX.TO for 36.061s
+
+Processing VGCX.TO (VICTORIA GOLD)
+Failed to fetch Yahoo Finance data for VGCX.TO: Quote not found for ticker symbol: VGCX.TO
+No stock price data available for VGCX.TO
+Updated mining data for VGCX.TO in database
+[2025-03-06T03:46:00.944Z] Pausing after processing VGCX.TO for 34.938s
+
+Processing PAL.V (PALAMINA)
+Failed to fetch Yahoo Finance data for PAL.V: Quote not found for ticker symbol: PAL.V
+No stock price data available for PAL.V
+Updated mining data for PAL.V in database
+[2025-03-06T02:17:44.552Z] Pausing after processing PAL.V for 31.627s
+Processing PAU.CN (PROVENANCE GOLD)
+
+[2025-03-06T01:39:47.031Z] Pausing after processing MKO.V for 33.027s
+Processing MLM.TO (MCFARLANE LAKE MINING)
+Failed to fetch Yahoo Finance data for MLM.TO: Quote not found for ticker symbol: MLM.TO
+No stock price data available for MLM.TO
+Updated mining data for MLM.TO in database
+[2025-03-06T01:40:21.125Z] Pausing after processing MLM.TO for 34.667s
+Processing MMET.CN (MIATA METALS)
+Updated mining data for MMET.CN in database
+
+
+[2025-03-06T01:23:21.912Z] Pausing after processing LG.V for 39.596s
+Processing LGC.V (LAVRAS GOLD)
+Failed to fetch homepage data from https://lavrasgold.com for LGC.V: Request failed with status code 504
+Updated mining data for LGC.V in database
+[2025-03-06T01:24:03.686Z] Pausing after processing LGC.V for 39.078s
+Processing LGD.TO (LIBERTY GOLD)
+Updated mining data for LGD.TO in database
+
+[2025-03-06T01:18:54.616Z] Pausing after processing KTN.V for 34.237s
+Processing KTO.V (K2 GOLD)
+Failed to fetch homepage data from https://k2gold.com for KTO.V: Request failed with status code 504
+Updated mining data for KTO.V in database
+[2025-03-06T01:19:32.583Z] Pausing after processing KTO.V for 39.416s
+
+[2025-03-06T01:08:06.684Z] Pausing after processing JG.V for 39.592s
+Processing JUB.H (JUBILEE GOLD)
+Failed to fetch Yahoo Finance data for JUB.H: Quote not found for ticker symbol: JUB.H
+No stock price data available for JUB.H
+Updated mining data for JUB.H in database
+[2025-03-06T01:08:47.353Z] Pausing after processing JUB.H for 31.796s
+
+[2025-03-06T01:02:09.993Z] Pausing after processing HWY.V for 35.12s
+Processing IAU.V (I-80 GOLD)
+No stock price data found for IAU.V on Yahoo Finance
+No stock price data available for IAU.V
+Updated mining data for IAU.V in database
+[2025-03-06T01:02:46.167Z] Pausing after processing IAU.V for 34.04s
+Processing IGO.V (INDEPENDENCE GOLD)
+
+Processing G.TO (AUGUSTA GOLD)
+Failed to fetch homepage data from https://lavrasgold.com for G.TO: Request failed with status code 504
+Updated mining data for G.TO in database
+[2025-03-06T00:37:27.107Z] Pausing after processing G.TO for 31.274s
+
+Processing ELVT.V (ELEVATION GOLD MINING)
+Failed to fetch Yahoo Finance data for ELVT.V: Quote not found for ticker symbol: ELVT.V
+No stock price data available for ELVT.V
+Updated mining data for ELVT.V in database
+[2025-03-06T00:13:33.849Z] Pausing after processing ELVT.V for 35.97s
+
+Processing DRY.V (DRYDEN GOLD)
+Failed to fetch homepage data from https://drydengold.com for DRY.V: Request failed with status code 504
+Updated mining data for DRY.V in database
+[2025-03-06T00:05:46.567Z] Pausing after processing DRY.V for 37.987s
+Processing DSV.TO (DISCOVERY SILVER)
+
+Processing CN.TO (CONDOR RESOURCES)
+Failed to fetch Yahoo Finance data for CN.TO: Quote not found for ticker symbol: CN.TO
+No stock price data available for CN.TO
+Updated mining data for CN.TO in database
+[2025-03-05T23:55:32.184Z] Pausing after processing CN.TO for 39.842s
+
+Processing CLZ.V (CANASIL RESOURCES)
+Failed to fetch Yahoo Finance data for CLZ.V: Quote not found for ticker symbol: CLZ.V
+No stock price data available for CLZ.V
+Updated mining data for CLZ.V in database
+
+Processing AXM.H.V (AXMIN)
+Failed to fetch Yahoo Finance data for AXM.H.V: Quote not found for ticker symbol: AXM.H.V
+No stock price data available for AXM.H.V
+Updated mining data for AXM.H.V in database
+[2025-03-05T23:31:04.915Z] Pausing after processing AXM.H.V for 30.591s
+
+Processing AUR.H.V (AURORA ROYALTIES)
+Failed to fetch Yahoo Finance data for AUR.H.V: Quote not found for ticker symbol: AUR.H.V
+No stock price data available for AUR.H.V
+Updated mining data for AUR.H.V in database
+[2025-03-05T23:30:27.051Z] Pausing after processing AUR.H.V for 35.887s
