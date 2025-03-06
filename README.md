@@ -37,15 +37,38 @@ Follow these steps to set up the project locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/AdamKAstro/gold-silver-analysis.git
-cd mining-data-project
 
+git clone https://github.com/AdamKAstro/gold-silver-analysis.git
 
 Update Repo with local copy :
 git add .
 git commit -m "Update Notes, README, database, logs, and add new files"
 git push origin main
 git status
+---
+
+# Clone the repo (only needed once, skip if already cloned)
+git clone https://github.com/AdamKAstro/gold-silver-analysis.git
+cd gold-silver-analysis  
+# Pull the latest changes (run anytime after cloning)
+git pull origin main
+# Check the status to confirm everything’s in sync
+git status
+
+---
+ If You Have Uncommitted Local Changes
+Option A: Commit your changes first
+git add .
+git commit -m "Save local changes before pulling"
+git pull origin main
+
+Option B: Stash your changes temporarily
+git stash
+git pull origin main
+git stash pop  # Brings your changes back
+
+
+
 
 
 --------------
@@ -64,6 +87,13 @@ Output: Updates company_urls table and logs issues to url_population_log.txt.
 -----------
 
 Populate Mining Data
+
+
+npm install puppeteer-extra puppeteer-extra-plugin-stealth axios cheerio fs csv-parse sqlite3 pdf-parse yahoo-finance2 yargs
+node populate_mining_data.js or with options (e.g., --update-stock-prices).
+
+
+
 
 Stock prices only: node populate_mining_data.js --update-stock-prices
 
