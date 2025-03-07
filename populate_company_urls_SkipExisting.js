@@ -1,16 +1,17 @@
+// Ensure all required modules are imported correctly
 const puppeteer = require('puppeteer');
 const axios = require('axios');
 const cheerio = require('cheerio');
 const fs = require('fs').promises;
 const { parse } = require('csv-parse/sync');
-const sqlite3 = require('sqlite3').verbose();
+const sqlite3 = require('sqlite3').verbose(); // Use verbose mode for detailed errors
 const yahooFinance = require('yahoo-finance2').default;
 const urlModule = require('url');
 
 // Configuration
-const CSV_FILE = 'public/data/companies.csv';
-const LOG_FILE = 'url_population_log.txt';
-const DB_FILE = './mining_companies.db';
+const CSV_FILE = 'public/data/companies.csv'; // Path to your CSV
+const LOG_FILE = 'url_population_log.txt'; // Log file path
+const DB_FILE = './mining_companies.db'; // Path to your existing database
 const RETRIES = 3;
 const INITIAL_DELAY = 2000;
 const MAX_DELAY = 10000;
@@ -20,11 +21,17 @@ const BATCH_SIZE = 5;
 const MAX_CONCURRENT = 2;
 const PROTOCOL_TIMEOUT = 60000;
 const SKIP_DAYS = 3; // Skip companies processed within the last 3 days
+const VALIDATION_THRESHOLD_DAYS = 7; // Consider URLs valid within 7 days
 
-// Initialize Database
-const db = new sqlite3.Database(DB_FILE, (err) => {
-    if (err) console.error(`[${new Date().toISOString()}] Database error: ${err.message}`);
-    else console.log(`[${new Date().toISOString()}] Connected to database.`);
+// Initialize Database with explicit read-write mode
+const db = new sqlite3.Database(DB_FILE, sqlite3.OPEN_READWRITE, (err) => {
+    if (err) {
+        console.error(`[${new Date().toISOString()}] Database connection failed: ${err.message}`);
+        console.error('Ensure mining_companies.db exists at', DB_FILE);
+        process.exit(1); // Exit if connection fails
+    } else {
+        console.log(`[${new Date().toISOString()}] Connected to existing database at ${DB_FILE}`);
+    }
 });
 
 let isDbClosed = false;
@@ -34,7 +41,11 @@ let isDbClosed = false;
 async function log(message) {
     const msg = `[${new Date().toISOString()}] ${message}`;
     console.log(msg);
-    await fs.appendFile(LOG_FILE, msg + '\n');
+    try {
+        await fs.appendFile(LOG_FILE, msg + '\n');
+    } catch (err) {
+        console.error(`Failed to write to log: ${err.message}`);
+    }
 }
 
 async function logVerification(ticker, urlType, url, status) {
@@ -42,7 +53,7 @@ async function logVerification(ticker, urlType, url, status) {
     try {
         await new Promise((resolve, reject) => {
             db.run(
-                "INSERT INTO url_verification_log (company_ticker, url_type, attempted_url, status, timestamp) VALUES (?, ?, ?, ?, ?)",
+                'INSERT INTO url_verification_log (company_ticker, url_type, attempted_url, status, timestamp) VALUES (?, ?, ?, ?, ?)',
                 [ticker, urlType, url, status, new Date().toISOString()],
                 (err) => (err ? reject(err) : resolve())
             );
@@ -213,11 +224,30 @@ async function extractHomepageFromPage(page, companyName, ticker, source) {
 async function getExistingData(ticker) {
     return new Promise((resolve, reject) => {
         db.get(
-            "SELECT company_website, news_link, last_url_population_attempt FROM companies WHERE tsx_code = ?",
+            'SELECT company_website, last_updated_homepage, last_url_population_attempt FROM companies WHERE tsx_code = ?',
             [ticker],
             (err, row) => {
                 if (err) reject(err);
                 else resolve(row || {});
+            }
+        );
+    });
+}
+
+async function getExistingUrls(ticker) {
+    return new Promise((resolve, reject) => {
+        db.all(
+            'SELECT url_type, url, last_checked FROM company_urls WHERE tsx_code = ?',
+            [ticker],
+            (err, rows) => {
+                if (err) reject(err);
+                else {
+                    const urls = {};
+                    rows.forEach((row) => {
+                        urls[row.url_type] = { url: row.url, last_checked: row.last_checked };
+                    });
+                    resolve(urls);
+                }
             }
         );
     });
@@ -229,7 +259,7 @@ async function cleanNewsLink(ticker, newNewsLink) {
         try {
             await new Promise((resolve, reject) => {
                 db.run(
-                    "UPDATE companies SET news_link = ? WHERE tsx_code = ? AND (news_link IS NULL OR news_link != ?)",
+                    'UPDATE companies SET news_link = ? WHERE tsx_code = ? AND (news_link IS NULL OR news_link != ?)',
                     [newNewsLink, ticker, newNewsLink],
                     (err) => (err ? reject(err) : resolve())
                 );
@@ -241,12 +271,21 @@ async function cleanNewsLink(ticker, newNewsLink) {
     }
 }
 
+function isRecentlyValidated(lastChecked) {
+    if (!lastChecked) return false;
+    const daysSince = (new Date() - new Date(lastChecked)) / (1000 * 60 * 60 * 24);
+    return daysSince < VALIDATION_THRESHOLD_DAYS;
+}
+
 async function processCompany(browser, company) {
     const ticker = company.TICKER;
     const name = company.NAME || 'Unknown Name';
     await log(`\n--- Processing ${ticker} (${name}) ---`);
 
     const existing = await getExistingData(ticker);
+    const existingUrls = await getExistingUrls(ticker);
+
+    // Check if the company was recently processed
     const lastAttempt = existing.last_url_population_attempt
         ? new Date(existing.last_url_population_attempt)
         : null;
@@ -258,66 +297,70 @@ async function processCompany(browser, company) {
         return;
     }
 
+    // Check if there's a valid homepage
     let homepage = null;
-    if (existing.company_website) {
-        const validatedUrl = await validateHomepage(browser, existing.company_website);
-        if (validatedUrl) {
-            await log(`Existing company_website is valid for ${ticker}: ${validatedUrl}`);
-            homepage = validatedUrl;
-        } else {
-            await log(`Existing company_website is invalid for ${ticker}: ${existing.company_website}`);
-        }
+    const isHomepageRecent = existing.company_website && isRecentlyValidated(existing.last_updated_homepage);
+    if (isHomepageRecent) {
+        homepage = existing.company_website;
+        await log(`Skipping homepage extraction for ${ticker}: Using existing valid company_website ${homepage}`);
+        await updateLastAttempt(ticker); // Update attempt timestamp
+        return; // Skip further processing
     }
 
-    if (!homepage) {
-        const urls = { yahoo_finance: null, jmn: null, miningfeeds: null, homepage: null };
-        let page;
-        try {
-            page = await browser.newPage();
-            page.setDefaultNavigationTimeout(NAVIGATION_TIMEOUT);
-
-            const yahooFinanceUrl = `https://finance.yahoo.com/quote/${ticker}/`;
-            if (await validateYahooFinanceUrl(ticker)) {
-                urls.yahoo_finance = yahooFinanceUrl;
-                await cleanNewsLink(ticker, yahooFinanceUrl);
-                await page.goto(yahooFinanceUrl, { waitUntil: 'networkidle2' });
-                urls.homepage = await extractHomepageFromPage(page, name, ticker, 'yahoo_finance');
-            }
-
-            if (!urls.homepage) {
+    // If no valid homepage, attempt to extract it
+    const sources = ['yahoo_finance', 'jmn', 'miningfeeds'];
+    for (const source of sources) {
+        let sourceUrl = null;
+        if (existingUrls[source] && isRecentlyValidated(existingUrls[source].last_checked)) {
+            sourceUrl = existingUrls[source].url;
+            await log(`Using existing ${source} URL for ${ticker}: ${sourceUrl}`);
+        } else {
+            if (source === 'yahoo_finance') {
+                const yahooFinanceUrl = `https://finance.yahoo.com/quote/${ticker}/`;
+                if (await validateYahooFinanceUrl(ticker)) {
+                    sourceUrl = yahooFinanceUrl;
+                    await insertValidatedUrl(ticker, 'yahoo_finance', sourceUrl);
+                    await cleanNewsLink(ticker, sourceUrl);
+                }
+            } else if (source === 'jmn') {
                 const jmnUrl = await findValidJmnUrl(name, ticker);
                 if (jmnUrl) {
-                    urls.jmn = jmnUrl;
-                    await page.goto(jmnUrl, { waitUntil: 'networkidle2' });
-                    urls.homepage = await extractHomepageFromPage(page, name, ticker, 'jmn');
+                    sourceUrl = jmnUrl;
+                    await insertValidatedUrl(ticker, 'jmn', sourceUrl);
                 }
-            }
-
-            if (!urls.homepage) {
+            } else if (source === 'miningfeeds') {
                 const exchange = getExchange(ticker);
                 const miningFeedsUrl = generateMiningFeedsUrl(name, exchange);
                 if (miningFeedsUrl && (await validateUrl(miningFeedsUrl, ticker, 'miningfeeds'))) {
-                    urls.miningfeeds = miningFeedsUrl;
-                    await page.goto(miningFeedsUrl, { waitUntil: 'networkidle2' });
-                    urls.homepage = await extractHomepageFromPage(page, name, ticker, 'miningfeeds');
+                    sourceUrl = miningFeedsUrl;
+                    await insertValidatedUrl(ticker, 'miningfeeds', sourceUrl);
                 }
             }
-        } catch (error) {
-            await log(`Error processing ${ticker}: ${error.message}`);
-            await logVerification(ticker, 'navigation', '', `failed: ${error.message}`);
-        } finally {
-            if (page) await page.close();
         }
-
-        for (const [type, url] of Object.entries(urls)) {
-            if (url) await insertValidatedUrl(ticker, type, url);
+        if (sourceUrl) {
+            let page;
+            try {
+                page = await browser.newPage();
+                page.setDefaultNavigationTimeout(NAVIGATION_TIMEOUT);
+                await page.goto(sourceUrl, { waitUntil: 'networkidle2' });
+                const extractedHomepage = await extractHomepageFromPage(page, name, ticker, source);
+                if (extractedHomepage) {
+                    homepage = extractedHomepage;
+                    break; // Found a homepage, stop checking other sources
+                }
+            } catch (error) {
+                await log(`Error extracting homepage from ${source} for ${ticker}: ${error.message}`);
+                await logVerification(ticker, source, sourceUrl, `failed: ${error.message}`);
+            } finally {
+                if (page) await page.close();
+            }
         }
-
-        homepage = urls.homepage;
     }
 
-    if (homepage && (!existing.company_website || existing.company_website !== homepage)) {
+    if (homepage) {
         await updateCompaniesTable(ticker, homepage);
+    } else {
+        await log(`No valid homepage found for ${ticker}`);
     }
 
     await updateLastAttempt(ticker);
@@ -329,7 +372,7 @@ async function insertValidatedUrl(ticker, urlType, url) {
     try {
         await new Promise((resolve, reject) => {
             db.run(
-                "INSERT OR REPLACE INTO company_urls (tsx_code, url_type, url, last_checked) VALUES (?, ?, ?, ?)",
+                'INSERT OR REPLACE INTO company_urls (tsx_code, url_type, url, last_checked) VALUES (?, ?, ?, ?)',
                 [ticker, urlType, url, new Date().toISOString()],
                 (err) => (err ? reject(err) : resolve())
             );
@@ -345,7 +388,7 @@ async function updateCompaniesTable(ticker, homepage) {
     try {
         await new Promise((resolve, reject) => {
             db.run(
-                "UPDATE companies SET company_website = ?, last_updated_homepage = ? WHERE tsx_code = ?",
+                'UPDATE companies SET company_website = ?, last_updated_homepage = ? WHERE tsx_code = ?',
                 [homepage, new Date().toISOString(), ticker],
                 (err) => (err ? reject(err) : resolve())
             );
@@ -361,7 +404,7 @@ async function updateLastAttempt(ticker) {
     try {
         await new Promise((resolve, reject) => {
             db.run(
-                "UPDATE companies SET last_url_population_attempt = ? WHERE tsx_code = ?",
+                'UPDATE companies SET last_url_population_attempt = ? WHERE tsx_code = ?',
                 [new Date().toISOString(), ticker],
                 (err) => (err ? reject(err) : resolve())
             );
@@ -410,15 +453,18 @@ async function main() {
         }
 
         await browser.close();
-        isDbClosed = true;
         await log('Completed processing all companies');
     } catch (err) {
         await log(`Fatal error: ${err.message}`);
     } finally {
         if (!isDbClosed) {
-            db.close((err) => {
-                if (err) console.error(`[${new Date().toISOString()}] Error closing database: ${err.message}`);
-                else console.log(`[${new Date().toISOString()}] Database connection closed.`);
+            await new Promise((resolve) => {
+                db.close((err) => {
+                    if (err) console.error(`[${new Date().toISOString()}] Error closing database: ${err.message}`);
+                    else console.log(`[${new Date().toISOString()}] Database connection closed`);
+                    isDbClosed = true;
+                    resolve();
+                });
             });
         }
     }

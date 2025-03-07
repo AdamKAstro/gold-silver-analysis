@@ -1,39 +1,37 @@
-
-const ALPHA_VANTAGE_KEY = 'BIV80TT696VJIUL2';           // Replace with your Alpha Vantage API key
 // Required dependencies
-// Required dependencies
-const yahooFinance = require('yahoo-finance2').default; // For Yahoo Finance API
-const axios = require('axios'); // For making HTTP requests to Alpha Vantage
-const fs = require('fs').promises; // For file operations (CSV reading, logging)
-const { parse } = require('csv-parse/sync'); // For parsing CSV files
-const sqlite3 = require('sqlite3').verbose(); // SQLite database client with verbose mode
+const yahooFinance = require('yahoo-finance2').default;
+const axios = require('axios');
+const fs = require('fs').promises;
+const { parse } = require('csv-parse/sync');
+const sqlite3 = require('sqlite3').verbose();
+const puppeteer = require('puppeteer');
 
 // Configuration constants
-const CSV_FILE = 'public/data/companies.csv'; // Path to companies CSV file
-const LOG_FILE = 'financial_population_log.txt'; // Log file for debugging and auditing
+const CSV_FILE = 'public/data/companies.csv';
+const LOG_FILE = 'financial_population_log.txt';
+const ALPHA_VANTAGE_KEY = 'BIV80TT696VJIUL2';
+const MAX_RETRIES = 3;
+const DELAY_BETWEEN_CALLS = 1500;
+const CAD_THRESHOLD = 0.05;
 
-const MAX_RETRIES = 3; // Maximum retries for API calls
-const DELAY_BETWEEN_CALLS = 15000; // 15-second delay to respect API rate limits (Alpha Vantage: 5 calls/min)
-const CAD_THRESHOLD = 0.05; // 5% threshold for cross-verification discrepancies
+// Flags to enable/disable data sources
+const USE_TRADINGVIEW = true;   // Set to false to disable TradingView
+const USE_ALPHA_VANTAGE = false; // Set to false to disable Alpha Vantage
 
-// Initialize SQLite database connection with error handling
+// Initialize SQLite database
 const db = new sqlite3.Database('./mining_companies.db', (err) => {
   if (err) {
     console.error(`[ERROR] Database connection failed: ${err.message}`);
-    process.exit(1); // Exit if connection fails to prevent further execution
-  } else {
-    console.log('[INFO] Successfully connected to the database.');
+    process.exit(1);
   }
+  console.log('[INFO] Connected to database.');
 });
 
-// Cache for exchange rates to avoid redundant API calls
+// Cache for exchange rates
 const exchangeRatesCache = {};
 
 /**
- * Introduces a delay to respect API rate limits and logs the action.
- * @param {number} ms - Delay duration in milliseconds.
- * @param {string} [message='Delaying'] - Descriptive message for logging.
- * @returns {Promise<void>}
+ * Delays execution to respect API rate limits.
  */
 async function delay(ms, message = 'Delaying') {
   const logMessage = `[${new Date().toISOString()}] [INFO] ${message} for ${ms / 1000} seconds`;
@@ -43,10 +41,18 @@ async function delay(ms, message = 'Delaying') {
 }
 
 /**
- * Fetches the exchange rate between two currencies from Alpha Vantage and caches it.
- * @param {string} fromCurrency - Source currency (e.g., 'USD').
- * @param {string} toCurrency - Target currency (e.g., 'CAD').
- * @returns {Promise<number>} - Exchange rate, defaults to 1 if fetch fails.
+ * Extracts exchange code from ticker.
+ */
+function getExchangeFromTicker(ticker) {
+  if (ticker.endsWith('.TO')) return 'TSX';
+  if (ticker.endsWith('.V')) return 'TSXV';
+  if (ticker.endsWith('.CN')) return 'CSE';
+  console.warn(`[WARN] Unknown ticker suffix for ${ticker}, defaulting to TSX`);
+  return 'TSX';
+}
+
+/**
+ * Fetches exchange rate, prioritizing database, then TradingView, then Alpha Vantage.
  */
 async function getExchangeRate(fromCurrency, toCurrency) {
   const key = `${fromCurrency}_${toCurrency}`;
@@ -55,32 +61,121 @@ async function getExchangeRate(fromCurrency, toCurrency) {
     return exchangeRatesCache[key];
   }
 
-  for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
-    try {
-      const response = await axios.get(
-        `https://www.alphavantage.co/query?function=CURRENCY_EXCHANGE_RATE&from_currency=${fromCurrency}&to_currency=${toCurrency}&apikey=${ALPHA_VANTAGE_KEY}`
-      );
-      const rate = response.data['Realtime Currency Exchange Rate']['5. Exchange Rate'];
-      if (!rate) throw new Error('Invalid exchange rate response');
-      
-      exchangeRatesCache[key] = parseFloat(rate);
-      console.log(`[INFO] Fetched exchange rate for ${key}: ${exchangeRatesCache[key]}`);
-      return exchangeRatesCache[key];
-    } catch (e) {
-      console.error(`[ERROR] Attempt ${attempt + 1} failed to fetch exchange rate for ${key}: ${e.message}`);
-      if (attempt < MAX_RETRIES - 1) await delay(5000 * Math.pow(2, attempt), `Retrying exchange rate fetch for ${key}`);
-    }
+  // Ensure toCurrency is CAD
+  if (toCurrency !== 'CAD') {
+    console.warn(`[WARN] Only CAD conversions are supported. Requested ${toCurrency}, defaulting to CAD.`);
+    toCurrency = 'CAD';
   }
-  
-  console.error(`[ERROR] Exhausted retries for exchange rate ${key}, defaulting to 1`);
-  return 1; // Fallback to no conversion if all retries fail
+
+  // 1. Database
+  try {
+    const rate = await new Promise((resolve, reject) => {
+      db.get(
+        `SELECT rate_to_cad FROM exchange_rates WHERE currency = ?`,
+        [fromCurrency],
+        (err, row) => {
+          if (err) reject(err);
+          else resolve(row ? parseFloat(row.rate_to_cad) : null);
+        }
+      );
+    });
+    if (rate && rate > 0) {
+      exchangeRatesCache[key] = rate;
+      console.log(`[INFO] Fetched exchange rate from database for ${key}: ${rate}`);
+      return rate;
+    }
+    console.log(`[INFO] No valid exchange rate in database for ${key}, trying next source`);
+  } catch (e) {
+    console.error(`[ERROR] Database exchange rate fetch failed for ${key}: ${e.message}`);
+  }
+
+  // 2. TradingView (if enabled)
+  if (USE_TRADINGVIEW) {
+    try {
+      const rate = await fetchExchangeRateFromTradingView(fromCurrency, toCurrency);
+      if (rate) {
+        exchangeRatesCache[key] = rate;
+        console.log(`[INFO] Fetched exchange rate from TradingView for ${key}: ${rate}`);
+        return rate;
+      }
+      console.log(`[INFO] No exchange rate from TradingView for ${key}, falling back`);
+    } catch (e) {
+      console.error(`[ERROR] TradingView exchange rate fetch failed for ${key}: ${e.message}`);
+    }
+  } else {
+    console.log(`[INFO] TradingView disabled for exchange rate fetch for ${key}`);
+  }
+
+  // 3. Alpha Vantage (if enabled)
+  if (USE_ALPHA_VANTAGE) {
+    for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
+      try {
+        const response = await axios.get(
+          `https://www.alphavantage.co/query?function=CURRENCY_EXCHANGE_RATE&from_currency=${fromCurrency}&to_currency=${toCurrency}&apikey=${ALPHA_VANTAGE_KEY}`
+        );
+        console.log(`[DEBUG] Alpha Vantage response for ${key}:`, JSON.stringify(response.data));
+        const rate = parseFloat(response.data['Realtime Currency Exchange Rate']?.['5. Exchange Rate']);
+        if (rate) {
+          exchangeRatesCache[key] = rate;
+          console.log(`[INFO] Fetched exchange rate from Alpha Vantage for ${key}: ${rate}`);
+          return rate;
+        }
+        throw new Error('Invalid response');
+      } catch (e) {
+        console.error(`[ERROR] Alpha Vantage attempt ${attempt + 1} failed for ${key}: ${e.message}`);
+        if (attempt < MAX_RETRIES - 1) await delay(5000 * Math.pow(2, attempt), `Retrying Alpha Vantage for ${key}`);
+      }
+    }
+  } else {
+    console.log(`[INFO] Alpha Vantage disabled for exchange rate fetch for ${key}`);
+  }
+
+  // Hardcoded fallback
+  const fallbackRate = fromCurrency === 'USD' ? 1.35 : 1.0;
+  console.warn(`[WARN] All exchange rate sources failed for ${key}, using fallback rate: ${fallbackRate}`);
+  exchangeRatesCache[key] = fallbackRate;
+  return fallbackRate;
 }
 
 /**
- * Converts a monetary value to CAD using the appropriate exchange rate.
- * @param {number} value - Value to convert.
- * @param {string} currency - Currency of the value.
- * @returns {Promise<number>} - Converted value in CAD.
+ * Scrapes exchange rate from TradingView.
+ */
+async function fetchExchangeRateFromTradingView(fromCurrency, toCurrency) {
+  const url = `https://www.tradingview.com/symbols/${fromCurrency}${toCurrency}/`;
+  console.log(`[INFO] Scraping exchange rate from TradingView: ${url}`);
+  const browser = await puppeteer.launch({ headless: true });
+  try {
+    const page = await browser.newPage();
+    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
+    await page.goto(url, { waitUntil: 'networkidle2', timeout: 30000 });
+
+    const rate = await page.evaluate(() => {
+      const selectors = [
+        '.tv-symbol-price-quote__value',
+        '.js-symbol-last',
+        '.priceWrapper-ujadn3P8 span'
+      ];
+      for (const selector of selectors) {
+        const element = document.querySelector(selector);
+        if (element) {
+          const text = element.textContent.trim().replace(/[^0-9.]/g, '');
+          return parseFloat(text);
+        }
+      }
+      return null;
+    });
+
+    if (!rate || isNaN(rate)) throw new Error('Could not find exchange rate');
+    return rate;
+  } catch (e) {
+    throw new Error(`Failed to scrape exchange rate: ${e.message}`);
+  } finally {
+    await browser.close();
+  }
+}
+
+/**
+ * Converts a value to CAD.
  */
 async function convertToCAD(value, currency) {
   if (!value || currency === 'CAD') return value || 0;
@@ -91,9 +186,7 @@ async function convertToCAD(value, currency) {
 }
 
 /**
- * Fetches financial data from Yahoo Finance with retry logic.
- * @param {string} ticker - Company ticker symbol (e.g., 'AAB.TO').
- * @returns {Promise<Object|null>} - Financial data or null if all retries fail.
+ * Fetches financial data from Yahoo Finance.
  */
 async function fetchYahooData(ticker) {
   for (let attempt = 0; attempt < MAX_RETRIES; attempt++) {
@@ -108,7 +201,7 @@ async function fetchYahooData(ticker) {
 
       const data = {
         stock_price: priceData.regularMarketPrice,
-        stock_price_currency: priceData.currency || 'CAD', // TSX companies typically in CAD
+        stock_price_currency: priceData.currency || 'CAD',
         number_of_shares: statsData.sharesOutstanding,
         market_cap_value: priceData.marketCap,
         market_cap_currency: priceData.currency || 'CAD',
@@ -123,42 +216,103 @@ async function fetchYahooData(ticker) {
         net_income_value: incomeData.netIncome,
         net_income_currency: incomeData.currency || 'USD'
       };
-      
       console.log(`[INFO] Successfully fetched Yahoo Finance data for ${ticker}:`, JSON.stringify(data));
       return data;
     } catch (e) {
-      console.error(`[ERROR] Yahoo fetch attempt ${attempt + 1} failed for ${ticker}: ${e.message}`);
-      if (attempt < MAX_RETRIES - 1) await delay(5000 * Math.pow(2, attempt), `Retrying Yahoo fetch for ${ticker}`);
+      console.error(`[ERROR] Yahoo Finance attempt ${attempt + 1} failed for ${ticker}: ${e.message}`);
+      if (attempt < MAX_RETRIES - 1) await delay(5000 * Math.pow(2, attempt), `Retrying Yahoo Finance for ${ticker}`);
     }
   }
-  
   console.error(`[ERROR] Exhausted retries for Yahoo Finance fetch for ${ticker}`);
   return null;
 }
 
 /**
- * Fetches financial data from Alpha Vantage with error handling.
- * @param {string} ticker - Company ticker symbol.
- * @returns {Promise<Object>} - Financial data (partial if some calls fail).
+ * Scrapes financial data from TradingView.
+ */
+async function fetchTradingViewData(ticker) {
+  const exchange = getExchangeFromTicker(ticker);
+  const symbol = ticker.split('.')[0];
+  const url = `https://www.tradingview.com/symbols/${exchange}-${symbol}/financials-overview/`;
+  console.log(`[INFO] Scraping TradingView data for ${ticker} from ${url}`);
+
+  let browser;
+  try {
+    browser = await puppeteer.launch({ headless: true });
+    const page = await browser.newPage();
+    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36');
+    await page.goto(url, { waitUntil: 'networkidle2', timeout: 30000 });
+
+    const data = await page.evaluate(() => {
+      const priceSelectors = [
+        '.tv-symbol-price-quote__value',
+        '.js-symbol-last',
+        '.priceWrapper-ujadn3P8 span'
+      ];
+      const marketCapSelectors = [
+        '[data-field-key="market_cap"]',
+        '.marketCapValue-ujadn3P8'
+      ];
+
+      let stockPrice = null;
+      for (const selector of priceSelectors) {
+        const element = document.querySelector(selector);
+        if (element) {
+          stockPrice = parseFloat(element.textContent.trim().replace(/[^0-9.]/g, ''));
+          break;
+        }
+      }
+
+      let marketCap = null;
+      for (const selector of marketCapSelectors) {
+        const element = document.querySelector(selector);
+        if (element) {
+          marketCap = parseFloat(element.textContent.trim().replace(/[^0-9.]/g, ''));
+          break;
+        }
+      }
+
+      return {
+        stock_price: stockPrice,
+        stock_price_currency: 'CAD',
+        market_cap_value: marketCap,
+        market_cap_currency: 'CAD'
+      };
+    });
+
+    if (!data.stock_price) {
+      console.error(`[ERROR] Could not scrape stock price for ${ticker}`);
+      return null;
+    }
+    console.log(`[INFO] Successfully scraped TradingView data for ${ticker}:`, JSON.stringify(data));
+    return data;
+  } catch (e) {
+    console.error(`[ERROR] Failed to fetch TradingView data for ${ticker}: ${e.message}`);
+    return null;
+  } finally {
+    if (browser) await browser.close();
+  }
+}
+
+/**
+ * Fetches financial data from Alpha Vantage.
  */
 async function fetchAlphaVantageData(ticker) {
   const baseUrl = 'https://www.alphavantage.co/query';
   const data = {};
 
-  // Fetch stock price
   try {
     const quoteResponse = await axios.get(`${baseUrl}?function=GLOBAL_QUOTE&symbol=${ticker}&apikey=${ALPHA_VANTAGE_KEY}`);
     const quoteData = quoteResponse.data['Global Quote'];
     if (quoteData && quoteData['05. price']) {
       data.stock_price = parseFloat(quoteData['05. price']);
-      data.stock_price_currency = 'CAD'; // Assuming CAD for TSX-listed companies
-      console.log(`[INFO] Fetched Alpha Vantage stock price for ${ticker}: ${data.stock_price} ${data.stock_price_currency}`);
+      data.stock_price_currency = 'CAD';
+      console.log(`[INFO] Fetched Alpha Vantage stock price for ${ticker}: ${data.stock_price}`);
     }
   } catch (e) {
     console.warn(`[WARN] Failed to fetch Alpha Vantage stock price for ${ticker}: ${e.message}`);
   }
 
-  // Fetch balance sheet data (cash and debt)
   try {
     const balanceResponse = await axios.get(`${baseUrl}?function=BALANCE_SHEET&symbol=${ticker}&apikey=${ALPHA_VANTAGE_KEY}`);
     const balanceData = balanceResponse.data.annualReports?.[0];
@@ -173,7 +327,6 @@ async function fetchAlphaVantageData(ticker) {
     console.warn(`[WARN] Failed to fetch Alpha Vantage balance sheet for ${ticker}: ${e.message}`);
   }
 
-  // Fetch income statement data (revenue and net income)
   try {
     const incomeResponse = await axios.get(`${baseUrl}?function=INCOME_STATEMENT&symbol=${ticker}&apikey=${ALPHA_VANTAGE_KEY}`);
     const incomeData = incomeResponse.data.annualReports?.[0];
@@ -192,70 +345,50 @@ async function fetchAlphaVantageData(ticker) {
 }
 
 /**
- * Cross-verifies data from Yahoo Finance and Alpha Vantage, preferring Yahoo when available.
- * @param {Object|null} yahooData - Data from Yahoo Finance.
- * @param {Object} alphaData - Data from Alpha Vantage.
- * @returns {Object} - Verified and consolidated financial data.
+ * Cross-verifies data from multiple sources.
  */
-function crossVerifyData(yahooData, alphaData) {
+function crossVerifyData(yahooData, tradingViewData, alphaData) {
   const verified = {};
 
-  // Helper function to log discrepancies
-  const logDiscrepancy = (field, yahooValue, alphaValue, threshold = CAD_THRESHOLD) => {
-    if (yahooValue && alphaValue && Math.abs(yahooValue - alphaValue) / Math.max(yahooValue, alphaValue) > threshold) {
-      console.warn(`[WARN] Discrepancy in ${field}: Yahoo=${yahooValue}, Alpha=${alphaValue}`);
+  const logDiscrepancy = (field, value1, value2, source1, source2, threshold = CAD_THRESHOLD) => {
+    if (value1 && value2 && Math.abs(value1 - value2) / Math.max(value1, value2) > threshold) {
+      console.warn(`[WARN] Discrepancy in ${field}: ${source1}=${value1}, ${source2}=${value2}`);
     }
   };
 
-  // Stock price
-  verified.stock_price = yahooData?.stock_price ?? alphaData?.stock_price ?? 0;
-  verified.stock_price_currency = yahooData?.stock_price_currency ?? alphaData?.stock_price_currency ?? 'CAD';
-  logDiscrepancy('stock_price', yahooData?.stock_price, alphaData?.stock_price);
+  verified.stock_price = yahooData?.stock_price ?? tradingViewData?.stock_price ?? alphaData?.stock_price ?? 0;
+  verified.stock_price_currency = yahooData?.stock_price_currency ?? tradingViewData?.stock_price_currency ?? alphaData?.stock_price_currency ?? 'CAD';
+  logDiscrepancy('stock_price', yahooData?.stock_price, tradingViewData?.stock_price, 'Yahoo', 'TradingView');
 
-  // Number of shares (Yahoo only, as Alpha Vantage doesn't provide this directly)
   verified.number_of_shares = yahooData?.number_of_shares ?? 0;
 
-  // Market capitalization
-  verified.market_cap_value = yahooData?.market_cap_value ?? (verified.stock_price * verified.number_of_shares) ?? 0;
-  verified.market_cap_currency = yahooData?.market_cap_currency ?? verified.stock_price_currency;
+  verified.market_cap_value = yahooData?.market_cap_value ?? tradingViewData?.market_cap_value ?? (verified.stock_price * verified.number_of_shares) ?? 0;
+  verified.market_cap_currency = yahooData?.market_cap_currency ?? tradingViewData?.market_cap_currency ?? verified.stock_price_currency;
 
-  // Cash
   verified.cash_value = yahooData?.cash_value ?? alphaData?.cash_value ?? 0;
   verified.cash_currency = yahooData?.cash_currency ?? alphaData?.cash_currency ?? 'USD';
-  logDiscrepancy('cash_value', yahooData?.cash_value, alphaData?.cash_value);
 
-  // Debt
   verified.debt_value = yahooData?.debt_value ?? alphaData?.debt_value ?? 0;
   verified.debt_currency = yahooData?.debt_currency ?? alphaData?.debt_currency ?? 'USD';
-  logDiscrepancy('debt_value', yahooData?.debt_value, alphaData?.debt_value);
 
-  // Enterprise value
   verified.enterprise_value_value = yahooData?.enterprise_value_value ?? 
     (verified.market_cap_value + verified.debt_value - verified.cash_value) ?? 0;
   verified.enterprise_value_currency = yahooData?.enterprise_value_currency ?? verified.market_cap_currency;
 
-  // Revenue
   verified.revenue_value = yahooData?.revenue_value ?? alphaData?.revenue_value ?? 0;
   verified.revenue_currency = yahooData?.revenue_currency ?? alphaData?.revenue_currency ?? 'USD';
-  logDiscrepancy('revenue_value', yahooData?.revenue_value, alphaData?.revenue_value);
 
-  // Net income
   verified.net_income_value = yahooData?.net_income_value ?? alphaData?.net_income_value ?? 0;
   verified.net_income_currency = yahooData?.net_income_currency ?? alphaData?.net_income_currency ?? 'USD';
-  logDiscrepancy('net_income_value', yahooData?.net_income_value, alphaData?.net_income_value);
 
   console.log(`[INFO] Verified data for cross-verification:`, JSON.stringify(verified));
   return verified;
 }
 
 /**
- * Updates the companies table in the database with verified financial data.
- * @param {string} ticker - Company ticker symbol.
- * @param {Object} data - Verified financial data.
- * @returns {Promise<void>}
+ * Updates the database with verified data.
  */
 async function updateDatabase(ticker, data) {
-  // Prepare all values, including CAD conversions
   const values = [
     data.stock_price,
     data.stock_price_currency,
@@ -272,13 +405,14 @@ async function updateDatabase(ticker, data) {
     data.revenue_currency,
     data.net_income_value,
     data.net_income_currency,
-    new Date().toISOString(), // last_updated
+    new Date().toISOString(),
     await convertToCAD(data.market_cap_value, data.market_cap_currency),
     await convertToCAD(data.cash_value, data.cash_currency),
     await convertToCAD(data.debt_value, data.debt_currency),
     await convertToCAD(data.enterprise_value_value, data.enterprise_value_currency),
     await convertToCAD(data.revenue_value, data.revenue_currency),
-    await convertToCAD(data.net_income_value, data.net_income_currency)
+    await convertToCAD(data.net_income_value, data.net_income_currency),
+    ticker
   ];
 
   const sql = `
@@ -303,7 +437,7 @@ async function updateDatabase(ticker, data) {
   `;
 
   return new Promise((resolve, reject) => {
-    db.run(sql, [...values, ticker], async function(err) {
+    db.run(sql, values, async function(err) {
       if (err) {
         const errorMsg = `[ERROR] Failed to update database for ${ticker}: ${err.message}`;
         console.error(errorMsg);
@@ -320,30 +454,16 @@ async function updateDatabase(ticker, data) {
 }
 
 /**
- * Main function to orchestrate the population of the companies table.
+ * Main function to process companies.
  */
 async function main() {
   try {
-    // Read and parse the CSV file
     const csvData = await fs.readFile(CSV_FILE, 'utf8');
-    const cleanedCsvData = csvData.trim().replace(/^\ufeff/, ''); // Remove BOM if present at the start
+    const cleanedCsvData = csvData.trim().replace(/^\ufeff/, '');
     const companies = parse(cleanedCsvData, { columns: true, skip_empty_lines: true, trim: true });
-
-    // Clean BOM from all keys in each company object
-    companies.forEach(company => {
-      Object.keys(company).forEach(key => {
-        const cleanedKey = key.replace(/^\ufeff/, '');
-        if (cleanedKey !== key) {
-          company[cleanedKey] = company[key];
-          delete company[key];
-          console.log(`[INFO] Cleaned BOM from key '${key}' to '${cleanedKey}' for company: ${JSON.stringify(company)}`);
-        }
-      });
-    });
 
     console.log(`[INFO] Parsed ${companies.length} companies from CSV: ${companies.map(c => c.TICKER).join(', ')}`);
 
-    // Process each company
     for (const company of companies) {
       const ticker = company.TICKER;
       if (!ticker) {
@@ -353,17 +473,26 @@ async function main() {
 
       console.log(`\n=== Processing ${ticker} ===`);
 
-      // Fetch data from both sources
       const yahooData = await fetchYahooData(ticker);
       await delay(DELAY_BETWEEN_CALLS, `Pausing after Yahoo fetch for ${ticker}`);
 
-      const alphaData = await fetchAlphaVantageData(ticker);
-      await delay(DELAY_BETWEEN_CALLS, `Pausing after Alpha Vantage fetch for ${ticker}`);
+      let tradingViewData = null;
+      if (USE_TRADINGVIEW) {
+        tradingViewData = await fetchTradingViewData(ticker);
+        await delay(DELAY_BETWEEN_CALLS, `Pausing after TradingView fetch for ${ticker}`);
+      } else {
+        console.log(`[INFO] TradingView disabled for ${ticker}`);
+      }
 
-      // Verify and consolidate data
-      const verifiedData = crossVerifyData(yahooData, alphaData);
+      let alphaData = {};
+      if (USE_ALPHA_VANTAGE) {
+        alphaData = await fetchAlphaVantageData(ticker);
+        await delay(DELAY_BETWEEN_CALLS, `Pausing after Alpha Vantage fetch for ${ticker}`);
+      } else {
+        console.log(`[INFO] Alpha Vantage disabled for ${ticker}`);
+      }
 
-      // Update the database
+      const verifiedData = crossVerifyData(yahooData, tradingViewData, alphaData);
       await updateDatabase(ticker, verifiedData);
 
       console.log(`[INFO] Completed processing ${ticker}`);
@@ -382,5 +511,4 @@ async function main() {
   }
 }
 
-// Run the script
 main();
