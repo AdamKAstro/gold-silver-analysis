@@ -456,3 +456,2061 @@ net_income_value: No data, defaulting to 0 USD
 [INFO] Successfully updated database for ALDE.V
 [2025-03-06T14:30:14.184Z] [INFO] Pausing after Yahoo fetch for ALEX.V for 15 seconds
 [2025-03-06T14:30:30.123Z] [INFO] Pausing after Alpha Vantage fetch for ALEX.V for 15 seconds
+[2025-03-06T22:57:50.538Z] [INFO] Pausing after Yahoo fetch for AAB.TO for 15 seconds
+[2025-03-06T22:58:11.088Z] [INFO] Pausing after Alpha Vantage fetch for AAB.TO for 15 seconds
+[2025-03-06T22:58:26.907Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T22:58:32.406Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[2025-03-06T22:58:43.569Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T22:58:49.608Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[INFO] Successfully updated database for AAB.TO
+[2025-03-06T22:59:02.226Z] [INFO] Pausing after Yahoo fetch for IRV.CN for 15 seconds
+[2025-03-06T22:59:19.938Z] [INFO] Pausing after Alpha Vantage fetch for IRV.CN for 15 seconds
+[2025-03-06T22:59:35.322Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T22:59:41.555Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[2025-03-06T22:59:52.836Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T22:59:58.668Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[INFO] Successfully updated database for IRV.CN
+[2025-03-06T23:00:11.587Z] [INFO] Pausing after Yahoo fetch for ITH.TO for 15 seconds
+[2025-03-06T23:00:28.153Z] [INFO] Pausing after Alpha Vantage fetch for ITH.TO for 15 seconds
+[2025-03-06T23:00:43.996Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T23:00:49.826Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[2025-03-06T23:01:06.100Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T23:01:11.523Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[INFO] Successfully updated database for ITH.TO
+[2025-03-06T23:01:22.890Z] [INFO] Pausing after Yahoo fetch for ITR.V for 15 seconds
+[2025-03-06T23:01:39.848Z] [INFO] Pausing after Alpha Vantage fetch for ITR.V for 15 seconds
+[2025-03-06T23:01:55.718Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T23:02:02.888Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[2025-03-06T23:02:14.929Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T23:02:20.322Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[INFO] Successfully updated database for ITR.V
+[2025-03-06T23:02:31.223Z] [INFO] Pausing after Yahoo fetch for AAG.V for 15 seconds
+[2025-03-06T23:02:47.823Z] [INFO] Pausing after Alpha Vantage fetch for AAG.V for 15 seconds
+[2025-03-06T23:03:06.127Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T23:03:12.288Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[INFO] Successfully updated database for AAG.V
+[2025-03-06T23:03:23.681Z] [INFO] Pausing after Yahoo fetch for AAN.V for 15 seconds
+[2025-03-06T23:03:39.578Z] [INFO] Pausing after Alpha Vantage fetch for AAN.V for 15 seconds
+[2025-03-06T23:03:55.012Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T23:04:02.475Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[2025-03-06T23:04:13.652Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T23:04:19.447Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[2025-03-06T23:04:30.175Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T23:04:36.268Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[INFO] Successfully updated database for AAN.V
+[2025-03-06T23:04:47.281Z] [INFO] Pausing after Yahoo fetch for AAUC.TO for 15 seconds
+[2025-03-06T23:05:07.567Z] [INFO] Pausing after Alpha Vantage fetch for AAUC.TO for 15 seconds
+[2025-03-06T23:05:23.490Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T23:05:29.492Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[2025-03-06T23:05:40.234Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T23:05:46.103Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[2025-03-06T23:05:57.346Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T23:06:05.552Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[2025-03-06T23:06:18.030Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T23:06:23.952Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[INFO] Successfully updated database for AAUC.TO
+[2025-03-06T23:06:35.105Z] [INFO] Pausing after Yahoo fetch for ABI.V for 15 seconds
+[2025-03-06T23:06:52.251Z] [INFO] Pausing after Alpha Vantage fetch for ABI.V for 15 seconds
+[2025-03-06T23:11:28.989Z] [INFO] Pausing after Yahoo fetch for AAB.TO for 15 seconds
+[2025-03-06T23:11:45.399Z] [INFO] Pausing after Alpha Vantage fetch for AAB.TO for 15 seconds
+[2025-03-06T23:12:04.193Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T23:12:11.144Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[2025-03-06T23:12:23.929Z] [INFO] Retrying exchange rate fetch for USD_CAD for 5 seconds
+[2025-03-06T23:12:29.855Z] [INFO] Retrying exchange rate fetch for USD_CAD for 10 seconds
+[INFO] Successfully updated database for AAB.TO
+[2025-03-06T23:12:41.449Z] [INFO] Pausing after Yahoo fetch for IRV.CN for 15 seconds
+[2025-03-06T23:30:03.371Z] [INFO] Pausing after Yahoo fetch for AAB.TO for 15 seconds
+[2025-03-06T23:30:23.358Z] [INFO] Pausing after TradingView fetch for AAB.TO for 15 seconds
+[2025-03-06T23:30:40.189Z] [INFO] Pausing after Alpha Vantage fetch for AAB.TO for 15 seconds
+[2025-03-06T23:31:02.298Z] [INFO] Retrying Alpha Vantage for USD_CAD for 5 seconds
+[2025-03-06T23:31:08.144Z] [INFO] Retrying Alpha Vantage for USD_CAD for 10 seconds
+[2025-03-06T23:38:24.047Z] [INFO] Pausing after Yahoo fetch for AAB.TO for 15 seconds
+[2025-03-06T23:38:43.020Z] [INFO] Pausing after TradingView fetch for AAB.TO for 15 seconds
+[INFO] Successfully updated database for AAB.TO
+[2025-03-06T23:38:58.331Z] [INFO] Pausing after Yahoo fetch for IRV.CN for 15 seconds
+[2025-03-06T23:39:17.206Z] [INFO] Pausing after TradingView fetch for IRV.CN for 15 seconds
+[INFO] Successfully updated database for IRV.CN
+[2025-03-06T23:39:32.516Z] [INFO] Pausing after Yahoo fetch for ITH.TO for 15 seconds
+[2025-03-06T23:39:51.552Z] [INFO] Pausing after TradingView fetch for ITH.TO for 15 seconds
+[INFO] Successfully updated database for ITH.TO
+[2025-03-06T23:40:06.919Z] [INFO] Pausing after Yahoo fetch for ITR.V for 15 seconds
+[2025-03-06T23:40:25.952Z] [INFO] Pausing after TradingView fetch for ITR.V for 15 seconds
+[INFO] Successfully updated database for ITR.V
+[2025-03-06T23:40:41.257Z] [INFO] Pausing after Yahoo fetch for AAG.V for 15 seconds
+[2025-03-06T23:41:01.226Z] [INFO] Pausing after TradingView fetch for AAG.V for 15 seconds
+[INFO] Successfully updated database for AAG.V
+[2025-03-06T23:41:16.564Z] [INFO] Pausing after Yahoo fetch for AAN.V for 15 seconds
+[2025-03-06T23:41:35.607Z] [INFO] Pausing after TradingView fetch for AAN.V for 15 seconds
+[INFO] Successfully updated database for AAN.V
+[2025-03-06T23:41:50.921Z] [INFO] Pausing after Yahoo fetch for AAUC.TO for 15 seconds
+[2025-03-06T23:42:10.022Z] [INFO] Pausing after TradingView fetch for AAUC.TO for 15 seconds
+[INFO] Successfully updated database for AAUC.TO
+[2025-03-06T23:42:25.332Z] [INFO] Pausing after Yahoo fetch for ABI.V for 15 seconds
+[2025-03-06T23:42:43.826Z] [INFO] Pausing after TradingView fetch for ABI.V for 15 seconds
+[INFO] Successfully updated database for ABI.V
+[2025-03-06T23:42:59.146Z] [INFO] Pausing after Yahoo fetch for ABRA.TO for 15 seconds
+[2025-03-06T23:43:18.082Z] [INFO] Pausing after TradingView fetch for ABRA.TO for 15 seconds
+[INFO] Successfully updated database for ABRA.TO
+[2025-03-06T23:43:33.399Z] [INFO] Pausing after Yahoo fetch for ADY.V for 15 seconds
+[2025-03-06T23:43:52.472Z] [INFO] Pausing after TradingView fetch for ADY.V for 15 seconds
+[INFO] Successfully updated database for ADY.V
+[2025-03-06T23:44:07.776Z] [INFO] Pausing after Yahoo fetch for ADZ.V for 15 seconds
+[2025-03-06T23:44:26.613Z] [INFO] Pausing after TradingView fetch for ADZ.V for 15 seconds
+[INFO] Successfully updated database for ADZ.V
+[2025-03-06T23:44:41.925Z] [INFO] Pausing after Yahoo fetch for AE.V for 15 seconds
+[2025-03-06T23:45:00.870Z] [INFO] Pausing after TradingView fetch for AE.V for 15 seconds
+[INFO] Successfully updated database for AE.V
+[2025-03-06T23:45:16.186Z] [INFO] Pausing after Yahoo fetch for AEM.TO for 15 seconds
+[2025-03-06T23:45:34.986Z] [INFO] Pausing after TradingView fetch for AEM.TO for 15 seconds
+[INFO] Successfully updated database for AEM.TO
+[2025-03-06T23:45:50.288Z] [INFO] Pausing after Yahoo fetch for AERO.V for 15 seconds
+[2025-03-06T23:46:09.325Z] [INFO] Pausing after TradingView fetch for AERO.V for 15 seconds
+[INFO] Successfully updated database for AERO.V
+[2025-03-06T23:46:24.618Z] [INFO] Pausing after Yahoo fetch for AG.TO for 15 seconds
+[2025-03-06T23:46:43.734Z] [INFO] Pausing after TradingView fetch for AG.TO for 15 seconds
+[INFO] Successfully updated database for AG.TO
+[2025-03-06T23:46:59.046Z] [INFO] Pausing after Yahoo fetch for AGA.V for 15 seconds
+[ERROR] Main execution failed: Failed to scrape TradingView data: Could not scrape stock price
+[2025-03-06T23:59:56.733Z] [INFO] Pausing after Yahoo fetch for AAB.TO for 15 seconds
+[2025-03-07T00:00:16.020Z] [INFO] Pausing after TradingView fetch for AAB.TO for 15 seconds
+[INFO] Successfully updated database for AAB.TO
+[2025-03-07T00:00:31.330Z] [INFO] Pausing after Yahoo fetch for IRV.CN for 15 seconds
+[2025-03-07T00:00:50.579Z] [INFO] Pausing after TradingView fetch for IRV.CN for 15 seconds
+[INFO] Successfully updated database for IRV.CN
+[2025-03-07T00:01:05.922Z] [INFO] Pausing after Yahoo fetch for ITH.TO for 15 seconds
+[2025-03-07T00:01:24.925Z] [INFO] Pausing after TradingView fetch for ITH.TO for 15 seconds
+[INFO] Successfully updated database for ITH.TO
+[2025-03-07T00:01:40.222Z] [INFO] Pausing after Yahoo fetch for ITR.V for 15 seconds
+[2025-03-07T00:01:59.323Z] [INFO] Pausing after TradingView fetch for ITR.V for 15 seconds
+[INFO] Successfully updated database for ITR.V
+[2025-03-07T00:02:14.625Z] [INFO] Pausing after Yahoo fetch for AAG.V for 15 seconds
+[2025-03-07T00:02:33.551Z] [INFO] Pausing after TradingView fetch for AAG.V for 15 seconds
+[INFO] Successfully updated database for AAG.V
+[2025-03-07T00:02:48.886Z] [INFO] Pausing after Yahoo fetch for AAN.V for 15 seconds
+[2025-03-07T00:03:07.961Z] [INFO] Pausing after TradingView fetch for AAN.V for 15 seconds
+[INFO] Successfully updated database for AAN.V
+[2025-03-07T00:03:23.260Z] [INFO] Pausing after Yahoo fetch for AAUC.TO for 15 seconds
+[2025-03-07T00:03:42.288Z] [INFO] Pausing after TradingView fetch for AAUC.TO for 15 seconds
+[INFO] Successfully updated database for AAUC.TO
+[2025-03-07T00:03:57.581Z] [INFO] Pausing after Yahoo fetch for ABI.V for 15 seconds
+[2025-03-07T00:04:16.085Z] [INFO] Pausing after TradingView fetch for ABI.V for 15 seconds
+[INFO] Successfully updated database for ABI.V
+[2025-03-07T00:04:31.385Z] [INFO] Pausing after Yahoo fetch for ABRA.TO for 15 seconds
+[2025-03-07T00:04:50.400Z] [INFO] Pausing after TradingView fetch for ABRA.TO for 15 seconds
+[INFO] Successfully updated database for ABRA.TO
+[2025-03-07T00:05:05.690Z] [INFO] Pausing after Yahoo fetch for ADY.V for 15 seconds
+[2025-03-07T00:05:24.637Z] [INFO] Pausing after TradingView fetch for ADY.V for 15 seconds
+[INFO] Successfully updated database for ADY.V
+[2025-03-07T00:05:39.982Z] [INFO] Pausing after Yahoo fetch for ADZ.V for 15 seconds
+[2025-03-07T00:05:59.075Z] [INFO] Pausing after TradingView fetch for ADZ.V for 15 seconds
+[INFO] Successfully updated database for ADZ.V
+[2025-03-07T00:06:14.368Z] [INFO] Pausing after Yahoo fetch for AE.V for 15 seconds
+[2025-03-07T00:06:33.364Z] [INFO] Pausing after TradingView fetch for AE.V for 15 seconds
+[INFO] Successfully updated database for AE.V
+[2025-03-07T00:06:48.854Z] [INFO] Pausing after Yahoo fetch for AEM.TO for 15 seconds
+[2025-03-07T00:07:07.939Z] [INFO] Pausing after TradingView fetch for AEM.TO for 15 seconds
+[INFO] Successfully updated database for AEM.TO
+[2025-03-07T00:07:23.300Z] [INFO] Pausing after Yahoo fetch for AERO.V for 15 seconds
+[2025-03-07T00:07:42.202Z] [INFO] Pausing after TradingView fetch for AERO.V for 15 seconds
+[INFO] Successfully updated database for AERO.V
+[2025-03-07T00:07:57.488Z] [INFO] Pausing after Yahoo fetch for AG.TO for 15 seconds
+[2025-03-07T00:08:16.580Z] [INFO] Pausing after TradingView fetch for AG.TO for 15 seconds
+[INFO] Successfully updated database for AG.TO
+[2025-03-07T00:08:31.884Z] [INFO] Pausing after Yahoo fetch for AGA.V for 15 seconds
+[2025-03-07T00:08:50.363Z] [INFO] Pausing after TradingView fetch for AGA.V for 15 seconds
+[INFO] Successfully updated database for AGA.V
+[2025-03-07T00:09:05.667Z] [INFO] Pausing after Yahoo fetch for AGAG.V for 15 seconds
+[2025-03-07T00:09:24.604Z] [INFO] Pausing after TradingView fetch for AGAG.V for 15 seconds
+[INFO] Successfully updated database for AGAG.V
+[2025-03-07T00:09:39.898Z] [INFO] Pausing after Yahoo fetch for AGI.TO for 15 seconds
+[2025-03-07T00:09:59.139Z] [INFO] Pausing after TradingView fetch for AGI.TO for 15 seconds
+[INFO] Successfully updated database for AGI.TO
+[2025-03-07T00:10:14.622Z] [INFO] Pausing after Yahoo fetch for AGLD.V for 15 seconds
+[2025-03-07T00:10:33.235Z] [INFO] Pausing after TradingView fetch for AGLD.V for 15 seconds
+[INFO] Successfully updated database for AGLD.V
+[2025-03-07T00:10:48.531Z] [INFO] Pausing after Yahoo fetch for AGMR.V for 15 seconds
+[2025-03-07T00:11:07.657Z] [INFO] Pausing after TradingView fetch for AGMR.V for 15 seconds
+[INFO] Successfully updated database for AGMR.V
+[2025-03-07T00:11:22.980Z] [INFO] Pausing after Yahoo fetch for AGX.V for 15 seconds
+[2025-03-07T00:11:41.512Z] [INFO] Pausing after TradingView fetch for AGX.V for 15 seconds
+[INFO] Successfully updated database for AGX.V
+[2025-03-07T00:11:57.067Z] [INFO] Pausing after Yahoo fetch for ALDE.V for 15 seconds
+[2025-03-07T00:12:16.010Z] [INFO] Pausing after TradingView fetch for ALDE.V for 15 seconds
+[INFO] Successfully updated database for ALDE.V
+[2025-03-07T00:12:31.316Z] [INFO] Pausing after Yahoo fetch for ALEX.V for 15 seconds
+[2025-03-07T00:12:50.210Z] [INFO] Pausing after TradingView fetch for ALEX.V for 15 seconds
+[INFO] Successfully updated database for ALEX.V
+[2025-03-07T00:13:05.506Z] [INFO] Pausing after Yahoo fetch for ALTA.V for 15 seconds
+[2025-03-07T00:13:24.642Z] [INFO] Pausing after TradingView fetch for ALTA.V for 15 seconds
+[INFO] Successfully updated database for ALTA.V
+[2025-03-07T00:13:39.943Z] [INFO] Pausing after Yahoo fetch for AMC.TO for 15 seconds
+[2025-03-07T00:13:59.356Z] [INFO] Pausing after TradingView fetch for AMC.TO for 15 seconds
+[INFO] Successfully updated database for AMC.TO
+[2025-03-07T00:14:14.672Z] [INFO] Pausing after Yahoo fetch for AMQ.CN for 15 seconds
+[2025-03-07T00:14:33.828Z] [INFO] Pausing after TradingView fetch for AMQ.CN for 15 seconds
+[INFO] Successfully updated database for AMQ.CN
+[2025-03-07T00:14:49.145Z] [INFO] Pausing after Yahoo fetch for AMRQ.V for 15 seconds
+[2025-03-07T00:15:08.643Z] [INFO] Pausing after TradingView fetch for AMRQ.V for 15 seconds
+[INFO] Successfully updated database for AMRQ.V
+[2025-03-07T00:15:23.963Z] [INFO] Pausing after Yahoo fetch for AMX.V for 15 seconds
+[2025-03-07T00:15:43.433Z] [INFO] Pausing after TradingView fetch for AMX.V for 15 seconds
+[INFO] Successfully updated database for AMX.V
+[2025-03-07T00:15:58.730Z] [INFO] Pausing after Yahoo fetch for ANK.V for 15 seconds
+[2025-03-07T00:16:17.745Z] [INFO] Pausing after TradingView fetch for ANK.V for 15 seconds
+[INFO] Successfully updated database for ANK.V
+[2025-03-07T00:16:33.091Z] [INFO] Pausing after Yahoo fetch for ANTL.V for 15 seconds
+[2025-03-07T00:16:52.200Z] [INFO] Pausing after TradingView fetch for ANTL.V for 15 seconds
+[INFO] Successfully updated database for ANTL.V
+[2025-03-07T00:17:07.493Z] [INFO] Pausing after Yahoo fetch for AOT.TO for 15 seconds
+[2025-03-07T00:17:27.379Z] [INFO] Pausing after TradingView fetch for AOT.TO for 15 seconds
+[INFO] Successfully updated database for AOT.TO
+[2025-03-07T00:17:42.676Z] [INFO] Pausing after Yahoo fetch for APGO.V for 15 seconds
+[2025-03-07T00:18:01.653Z] [INFO] Pausing after TradingView fetch for APGO.V for 15 seconds
+[INFO] Successfully updated database for APGO.V
+[2025-03-07T00:18:16.943Z] [INFO] Pausing after Yahoo fetch for APM.TO for 15 seconds
+[2025-03-07T00:18:35.916Z] [INFO] Pausing after TradingView fetch for APM.TO for 15 seconds
+[INFO] Successfully updated database for APM.TO
+[2025-03-07T00:18:51.228Z] [INFO] Pausing after Yahoo fetch for ARIC.V for 15 seconds
+[2025-03-07T00:19:10.397Z] [INFO] Pausing after TradingView fetch for ARIC.V for 15 seconds
+[INFO] Successfully updated database for ARIC.V
+[2025-03-07T00:19:25.689Z] [INFO] Pausing after Yahoo fetch for ARIS.TO for 15 seconds
+[2025-03-07T00:19:44.417Z] [INFO] Pausing after TradingView fetch for ARIS.TO for 15 seconds
+[INFO] Successfully updated database for ARIS.TO
+[2025-03-07T00:19:59.755Z] [INFO] Pausing after Yahoo fetch for ARK.V for 15 seconds
+[2025-03-07T00:20:18.653Z] [INFO] Pausing after TradingView fetch for ARK.V for 15 seconds
+[INFO] Successfully updated database for ARK.V
+[2025-03-07T00:20:33.958Z] [INFO] Pausing after Yahoo fetch for ARTG.V for 15 seconds
+[2025-03-07T00:20:52.994Z] [INFO] Pausing after TradingView fetch for ARTG.V for 15 seconds
+[INFO] Successfully updated database for ARTG.V
+[2025-03-07T00:21:08.318Z] [INFO] Pausing after Yahoo fetch for ARU.V for 15 seconds
+[2025-03-07T00:21:27.207Z] [INFO] Pausing after TradingView fetch for ARU.V for 15 seconds
+[INFO] Successfully updated database for ARU.V
+[2025-03-07T00:21:42.505Z] [INFO] Pausing after Yahoo fetch for ASE.CN for 15 seconds
+[2025-03-07T00:22:01.458Z] [INFO] Pausing after TradingView fetch for ASE.CN for 15 seconds
+[INFO] Successfully updated database for ASE.CN
+[2025-03-07T00:22:16.763Z] [INFO] Pausing after Yahoo fetch for ASM.TO for 15 seconds
+[2025-03-07T00:22:35.703Z] [INFO] Pausing after TradingView fetch for ASM.TO for 15 seconds
+[INFO] Successfully updated database for ASM.TO
+[2025-03-07T00:22:51.009Z] [INFO] Pausing after Yahoo fetch for ASTR.V for 15 seconds
+[2025-03-07T00:23:10.063Z] [INFO] Pausing after TradingView fetch for ASTR.V for 15 seconds
+[INFO] Successfully updated database for ASTR.V
+[2025-03-07T00:23:25.367Z] [INFO] Pausing after Yahoo fetch for ATHA.CN for 15 seconds
+[2025-03-07T00:23:44.608Z] [INFO] Pausing after TradingView fetch for ATHA.CN for 15 seconds
+[INFO] Successfully updated database for ATHA.CN
+[2025-03-07T00:24:00.040Z] [INFO] Pausing after Yahoo fetch for AU.V for 15 seconds
+[2025-03-07T00:24:19.135Z] [INFO] Pausing after TradingView fetch for AU.V for 15 seconds
+[INFO] Successfully updated database for AU.V
+[2025-03-07T00:24:34.426Z] [INFO] Pausing after Yahoo fetch for AUAU.V for 15 seconds
+[2025-03-07T00:24:54.476Z] [INFO] Pausing after TradingView fetch for AUAU.V for 15 seconds
+[INFO] Successfully updated database for AUAU.V
+[2025-03-07T00:25:09.836Z] [INFO] Pausing after Yahoo fetch for AWM.V for 15 seconds
+[2025-03-07T00:25:28.781Z] [INFO] Pausing after TradingView fetch for AWM.V for 15 seconds
+[INFO] Successfully updated database for AWM.V
+[2025-03-07T00:25:44.073Z] [INFO] Pausing after Yahoo fetch for AUM.V for 15 seconds
+[2025-03-07T00:26:03.254Z] [INFO] Pausing after TradingView fetch for AUM.V for 15 seconds
+[INFO] Successfully updated database for AUM.V
+[2025-03-07T00:26:18.564Z] [INFO] Pausing after Yahoo fetch for AUMB.V for 15 seconds
+[2025-03-07T00:26:37.590Z] [INFO] Pausing after TradingView fetch for AUMB.V for 15 seconds
+[INFO] Successfully updated database for AUMB.V
+[2025-03-07T00:26:52.928Z] [INFO] Pausing after Yahoo fetch for AUOZ.CN for 15 seconds
+[2025-03-07T00:27:11.903Z] [INFO] Pausing after TradingView fetch for AUOZ.CN for 15 seconds
+[INFO] Successfully updated database for AUOZ.CN
+[2025-03-07T00:27:27.192Z] [INFO] Retrying Yahoo Finance for AUR.H.V for 5 seconds
+[2025-03-07T00:27:32.463Z] [INFO] Retrying Yahoo Finance for AUR.H.V for 10 seconds
+[2025-03-07T00:27:42.736Z] [INFO] Pausing after Yahoo fetch for AUR.H.V for 15 seconds
+[2025-03-07T00:27:59.875Z] [INFO] Pausing after TradingView fetch for AUR.H.V for 15 seconds
+[INFO] Successfully updated database for AUR.H.V
+[2025-03-07T00:28:15.197Z] [INFO] Retrying Yahoo Finance for AXM.H.V for 5 seconds
+[2025-03-07T00:28:20.472Z] [INFO] Retrying Yahoo Finance for AXM.H.V for 10 seconds
+[2025-03-07T00:28:30.781Z] [INFO] Pausing after Yahoo fetch for AXM.H.V for 15 seconds
+[2025-03-07T00:28:49.464Z] [INFO] Pausing after TradingView fetch for AXM.H.V for 15 seconds
+[INFO] Successfully updated database for AXM.H.V
+[2025-03-07T00:29:04.766Z] [INFO] Pausing after Yahoo fetch for AYA.TO for 15 seconds
+[2025-03-07T00:29:23.303Z] [INFO] Pausing after TradingView fetch for AYA.TO for 15 seconds
+[INFO] Successfully updated database for AYA.TO
+[2025-03-07T00:29:38.636Z] [INFO] Pausing after Yahoo fetch for AZM.V for 15 seconds
+[2025-03-07T00:29:57.941Z] [INFO] Pausing after TradingView fetch for AZM.V for 15 seconds
+[INFO] Successfully updated database for AZM.V
+[2025-03-07T00:30:13.291Z] [INFO] Pausing after Yahoo fetch for AZS.V for 15 seconds
+[2025-03-07T00:30:32.243Z] [INFO] Pausing after TradingView fetch for AZS.V for 15 seconds
+[INFO] Successfully updated database for AZS.V
+[2025-03-07T00:30:47.537Z] [INFO] Pausing after Yahoo fetch for AZT.V for 15 seconds
+[2025-03-07T00:31:06.436Z] [INFO] Pausing after TradingView fetch for AZT.V for 15 seconds
+[INFO] Successfully updated database for AZT.V
+[2025-03-07T00:31:21.743Z] [INFO] Pausing after Yahoo fetch for BAT.V for 15 seconds
+[2025-03-07T00:31:40.762Z] [INFO] Pausing after TradingView fetch for BAT.V for 15 seconds
+[INFO] Successfully updated database for BAT.V
+[2025-03-07T00:31:56.060Z] [INFO] Pausing after Yahoo fetch for BAU.V for 15 seconds
+[2025-03-07T00:32:15.089Z] [INFO] Pausing after TradingView fetch for BAU.V for 15 seconds
+[INFO] Successfully updated database for BAU.V
+[2025-03-07T00:32:30.400Z] [INFO] Pausing after Yahoo fetch for BBB.V for 15 seconds
+[2025-03-07T00:32:49.442Z] [INFO] Pausing after TradingView fetch for BBB.V for 15 seconds
+[INFO] Successfully updated database for BBB.V
+[2025-03-07T00:33:04.744Z] [INFO] Pausing after Yahoo fetch for BCM.V for 15 seconds
+[2025-03-07T00:33:23.536Z] [INFO] Pausing after TradingView fetch for BCM.V for 15 seconds
+[INFO] Successfully updated database for BCM.V
+[2025-03-07T00:33:38.841Z] [INFO] Pausing after Yahoo fetch for BEX.V for 15 seconds
+[2025-03-07T00:33:57.838Z] [INFO] Pausing after TradingView fetch for BEX.V for 15 seconds
+[INFO] Successfully updated database for BEX.V
+[2025-03-07T00:34:13.308Z] [INFO] Pausing after Yahoo fetch for BGF.V for 15 seconds
+[2025-03-07T00:34:32.438Z] [INFO] Pausing after TradingView fetch for BGF.V for 15 seconds
+[INFO] Successfully updated database for BGF.V
+[2025-03-07T00:34:47.734Z] [INFO] Pausing after Yahoo fetch for BGS for 15 seconds
+[2025-03-07T00:35:06.192Z] [INFO] Pausing after TradingView fetch for BGS for 15 seconds
+[INFO] Successfully updated database for BGS
+[2025-03-07T00:35:21.484Z] [INFO] Pausing after Yahoo fetch for BHS.V for 15 seconds
+[2025-03-07T00:35:40.656Z] [INFO] Pausing after TradingView fetch for BHS.V for 15 seconds
+[INFO] Successfully updated database for BHS.V
+[2025-03-07T00:35:55.980Z] [INFO] Pausing after Yahoo fetch for BIG.V for 15 seconds
+[2025-03-07T00:36:14.882Z] [INFO] Pausing after TradingView fetch for BIG.V for 15 seconds
+[INFO] Successfully updated database for BIG.V
+[2025-03-07T00:36:30.167Z] [INFO] Pausing after Yahoo fetch for BLLG.CN for 15 seconds
+[2025-03-07T00:36:49.511Z] [INFO] Pausing after TradingView fetch for BLLG.CN for 15 seconds
+[INFO] Successfully updated database for BLLG.CN
+[2025-03-07T00:37:04.801Z] [INFO] Pausing after Yahoo fetch for BMM.V for 15 seconds
+[2025-03-07T00:37:23.679Z] [INFO] Pausing after TradingView fetch for BMM.V for 15 seconds
+[INFO] Successfully updated database for BMM.V
+[2025-03-07T00:37:38.986Z] [INFO] Pausing after Yahoo fetch for BOGO.V for 15 seconds
+[2025-03-07T00:37:58.111Z] [INFO] Pausing after TradingView fetch for BOGO.V for 15 seconds
+[INFO] Successfully updated database for BOGO.V
+[2025-03-07T00:38:13.399Z] [INFO] Pausing after Yahoo fetch for BRAU.V for 15 seconds
+[2025-03-07T00:38:32.193Z] [INFO] Pausing after TradingView fetch for BRAU.V for 15 seconds
+[INFO] Successfully updated database for BRAU.V
+[2025-03-07T00:38:47.506Z] [INFO] Pausing after Yahoo fetch for BRAZ.CN for 15 seconds
+[2025-03-07T00:39:06.133Z] [INFO] Pausing after TradingView fetch for BRAZ.CN for 15 seconds
+[INFO] Successfully updated database for BRAZ.CN
+[2025-03-07T00:39:21.428Z] [INFO] Pausing after Yahoo fetch for BRC.V for 15 seconds
+[2025-03-07T00:39:40.489Z] [INFO] Pausing after TradingView fetch for BRC.V for 15 seconds
+[INFO] Successfully updated database for BRC.V
+[2025-03-07T00:39:55.803Z] [INFO] Pausing after Yahoo fetch for BSX.TO for 15 seconds
+[2025-03-07T00:40:14.833Z] [INFO] Pausing after TradingView fetch for BSX.TO for 15 seconds
+[INFO] Successfully updated database for BSX.TO
+[2025-03-07T00:40:30.125Z] [INFO] Pausing after Yahoo fetch for BTO.TO for 15 seconds
+[2025-03-07T00:40:49.151Z] [INFO] Pausing after TradingView fetch for BTO.TO for 15 seconds
+[INFO] Successfully updated database for BTO.TO
+[2025-03-07T00:41:04.517Z] [INFO] Pausing after Yahoo fetch for BTR.V for 15 seconds
+[2025-03-07T00:41:23.431Z] [INFO] Pausing after TradingView fetch for BTR.V for 15 seconds
+[INFO] Successfully updated database for BTR.V
+[2025-03-07T00:41:38.864Z] [INFO] Pausing after Yahoo fetch for BYN.V for 15 seconds
+[2025-03-07T00:41:57.995Z] [INFO] Pausing after TradingView fetch for BYN.V for 15 seconds
+[INFO] Successfully updated database for BYN.V
+[2025-03-07T00:42:13.290Z] [INFO] Pausing after Yahoo fetch for BZ.V for 15 seconds
+[2025-03-07T00:42:32.214Z] [INFO] Pausing after TradingView fetch for BZ.V for 15 seconds
+[INFO] Successfully updated database for BZ.V
+[2025-03-07T00:42:47.512Z] [INFO] Pausing after Yahoo fetch for CANX.V for 15 seconds
+[2025-03-07T00:43:06.415Z] [INFO] Pausing after TradingView fetch for CANX.V for 15 seconds
+[INFO] Successfully updated database for CANX.V
+[2025-03-07T00:43:21.704Z] [INFO] Pausing after Yahoo fetch for CAPT.V for 15 seconds
+[2025-03-07T00:43:41.123Z] [INFO] Pausing after TradingView fetch for CAPT.V for 15 seconds
+[INFO] Successfully updated database for CAPT.V
+[2025-03-07T00:43:56.411Z] [INFO] Pausing after Yahoo fetch for CBI.V for 15 seconds
+[2025-03-07T00:44:15.352Z] [INFO] Pausing after TradingView fetch for CBI.V for 15 seconds
+[INFO] Successfully updated database for CBI.V
+[2025-03-07T00:44:30.652Z] [INFO] Pausing after Yahoo fetch for CBR.V for 15 seconds
+[2025-03-07T00:44:49.695Z] [INFO] Pausing after TradingView fetch for CBR.V for 15 seconds
+[INFO] Successfully updated database for CBR.V
+[2025-03-07T00:45:04.982Z] [INFO] Pausing after Yahoo fetch for CC.CN for 15 seconds
+[2025-03-07T00:45:23.927Z] [INFO] Pausing after TradingView fetch for CC.CN for 15 seconds
+[INFO] Successfully updated database for CC.CN
+[2025-03-07T00:45:39.267Z] [INFO] Pausing after Yahoo fetch for CCM.TO for 15 seconds
+[2025-03-07T00:45:58.623Z] [INFO] Pausing after TradingView fetch for CCM.TO for 15 seconds
+[INFO] Successfully updated database for CCM.TO
+[2025-03-07T00:46:13.915Z] [INFO] Pausing after Yahoo fetch for CDPR.CN for 15 seconds
+[2025-03-07T00:46:32.997Z] [INFO] Pausing after TradingView fetch for CDPR.CN for 15 seconds
+[INFO] Successfully updated database for CDPR.CN
+[2025-03-07T00:46:48.299Z] [INFO] Pausing after Yahoo fetch for CERT.V for 15 seconds
+[2025-03-07T00:47:07.517Z] [INFO] Pausing after TradingView fetch for CERT.V for 15 seconds
+[INFO] Successfully updated database for CERT.V
+[2025-03-07T00:47:23.020Z] [INFO] Pausing after Yahoo fetch for CFE.CN for 15 seconds
+[2025-03-07T00:47:41.999Z] [INFO] Pausing after TradingView fetch for CFE.CN for 15 seconds
+[INFO] Successfully updated database for CFE.CN
+[2025-03-07T00:47:57.447Z] [INFO] Pausing after Yahoo fetch for CG.TO for 15 seconds
+[2025-03-07T00:48:16.439Z] [INFO] Pausing after TradingView fetch for CG.TO for 15 seconds
+[INFO] Successfully updated database for CG.TO
+[2025-03-07T00:48:31.739Z] [INFO] Pausing after Yahoo fetch for CGC.V for 15 seconds
+[2025-03-07T00:48:50.669Z] [INFO] Pausing after TradingView fetch for CGC.V for 15 seconds
+[INFO] Successfully updated database for CGC.V
+[2025-03-07T00:49:06.006Z] [INFO] Pausing after Yahoo fetch for CGG.TO for 15 seconds
+[2025-03-07T00:49:25.183Z] [INFO] Pausing after TradingView fetch for CGG.TO for 15 seconds
+[INFO] Successfully updated database for CGG.TO
+[2025-03-07T00:49:40.477Z] [INFO] Pausing after Yahoo fetch for CKG.V for 15 seconds
+[2025-03-07T00:49:59.449Z] [INFO] Pausing after TradingView fetch for CKG.V for 15 seconds
+[INFO] Successfully updated database for CKG.V
+[2025-03-07T00:50:14.754Z] [INFO] Retrying Yahoo Finance for CLZ.V for 5 seconds
+[2025-03-07T00:50:20.028Z] [INFO] Retrying Yahoo Finance for CLZ.V for 10 seconds
+[2025-03-07T00:50:30.325Z] [INFO] Pausing after Yahoo fetch for CLZ.V for 15 seconds
+[2025-03-07T00:50:47.520Z] [INFO] Pausing after TradingView fetch for CLZ.V for 15 seconds
+[INFO] Successfully updated database for CLZ.V
+[2025-03-07T00:51:02.843Z] [INFO] Pausing after Yahoo fetch for CMB.V for 15 seconds
+[2025-03-07T00:51:22.470Z] [INFO] Pausing after TradingView fetch for CMB.V for 15 seconds
+[INFO] Successfully updated database for CMB.V
+[2025-03-07T00:51:37.815Z] [INFO] Retrying Yahoo Finance for CN.TO for 5 seconds
+[2025-03-07T00:51:43.079Z] [INFO] Retrying Yahoo Finance for CN.TO for 10 seconds
+[2025-03-07T00:51:53.364Z] [INFO] Pausing after Yahoo fetch for CN.TO for 15 seconds
+[2025-03-07T00:52:11.866Z] [INFO] Pausing after TradingView fetch for CN.TO for 15 seconds
+[INFO] Successfully updated database for CN.TO
+[2025-03-07T00:52:27.156Z] [INFO] Pausing after Yahoo fetch for CNL.TO for 15 seconds
+[2025-03-07T00:52:46.230Z] [INFO] Pausing after TradingView fetch for CNL.TO for 15 seconds
+[INFO] Successfully updated database for CNL.TO
+[2025-03-07T00:53:01.531Z] [INFO] Pausing after Yahoo fetch for CPAU.V for 15 seconds
+[2025-03-07T00:53:20.586Z] [INFO] Pausing after TradingView fetch for CPAU.V for 15 seconds
+[INFO] Successfully updated database for CPAU.V
+[2025-03-07T00:53:35.887Z] [INFO] Pausing after Yahoo fetch for CRB.V for 15 seconds
+[2025-03-07T00:53:55.324Z] [INFO] Pausing after TradingView fetch for CRB.V for 15 seconds
+[INFO] Successfully updated database for CRB.V
+[2025-03-07T00:54:10.795Z] [INFO] Pausing after Yahoo fetch for CRI.V for 15 seconds
+[2025-03-07T00:54:29.880Z] [INFO] Pausing after TradingView fetch for CRI.V for 15 seconds
+[INFO] Successfully updated database for CRI.V
+[2025-03-07T00:54:45.212Z] [INFO] Pausing after Yahoo fetch for CSR.CN for 15 seconds
+[2025-03-07T00:55:04.609Z] [INFO] Pausing after TradingView fetch for CSR.CN for 15 seconds
+[INFO] Successfully updated database for CSR.CN
+[2025-03-07T00:55:19.923Z] [INFO] Pausing after Yahoo fetch for CTM.V for 15 seconds
+[2025-03-07T00:55:38.897Z] [INFO] Pausing after TradingView fetch for CTM.V for 15 seconds
+[INFO] Successfully updated database for CTM.V
+[2025-03-07T00:55:54.237Z] [INFO] Pausing after Yahoo fetch for CTN.V for 15 seconds
+[2025-03-07T00:56:13.402Z] [INFO] Pausing after TradingView fetch for CTN.V for 15 seconds
+[INFO] Successfully updated database for CTN.V
+[2025-03-07T00:56:28.693Z] [INFO] Pausing after Yahoo fetch for CVB.V for 15 seconds
+[2025-03-07T00:56:47.771Z] [INFO] Pausing after TradingView fetch for CVB.V for 15 seconds
+[INFO] Successfully updated database for CVB.V
+[2025-03-07T00:57:03.079Z] [INFO] Pausing after Yahoo fetch for CXB.TO for 15 seconds
+[2025-03-07T00:57:22.181Z] [INFO] Pausing after TradingView fetch for CXB.TO for 15 seconds
+[INFO] Successfully updated database for CXB.TO
+[2025-03-07T00:57:37.478Z] [INFO] Pausing after Yahoo fetch for CYG.V for 15 seconds
+[2025-03-07T00:57:56.693Z] [INFO] Pausing after TradingView fetch for CYG.V for 15 seconds
+[INFO] Successfully updated database for CYG.V
+[2025-03-07T00:58:11.996Z] [INFO] Pausing after Yahoo fetch for DAU.V for 15 seconds
+[2025-03-07T00:58:31.119Z] [INFO] Pausing after TradingView fetch for DAU.V for 15 seconds
+[INFO] Successfully updated database for DAU.V
+[2025-03-07T00:58:46.425Z] [INFO] Pausing after Yahoo fetch for DEF.V for 15 seconds
+[2025-03-07T00:59:05.568Z] [INFO] Pausing after TradingView fetch for DEF.V for 15 seconds
+[INFO] Successfully updated database for DEF.V
+[2025-03-07T00:59:20.937Z] [INFO] Pausing after Yahoo fetch for DEX.V for 15 seconds
+[2025-03-07T00:59:41.527Z] [INFO] Pausing after TradingView fetch for DEX.V for 15 seconds
+[INFO] Successfully updated database for DEX.V
+[2025-03-07T00:59:56.820Z] [INFO] Pausing after Yahoo fetch for DLTA.V for 15 seconds
+[2025-03-07T01:00:15.975Z] [INFO] Pausing after TradingView fetch for DLTA.V for 15 seconds
+[INFO] Successfully updated database for DLTA.V
+[2025-03-07T01:00:31.325Z] [INFO] Pausing after Yahoo fetch for DNG.TO for 15 seconds
+[2025-03-07T01:00:50.492Z] [INFO] Pausing after TradingView fetch for DNG.TO for 15 seconds
+[INFO] Successfully updated database for DNG.TO
+[2025-03-07T01:01:05.798Z] [INFO] Pausing after Yahoo fetch for DPM.TO for 15 seconds
+[2025-03-07T01:01:24.773Z] [INFO] Pausing after TradingView fetch for DPM.TO for 15 seconds
+[INFO] Successfully updated database for DPM.TO
+[2025-03-07T01:01:40.066Z] [INFO] Pausing after Yahoo fetch for DRY.V for 15 seconds
+[2025-03-07T01:01:58.840Z] [INFO] Pausing after TradingView fetch for DRY.V for 15 seconds
+[INFO] Successfully updated database for DRY.V
+[2025-03-07T01:02:14.132Z] [INFO] Pausing after Yahoo fetch for DSV.TO for 15 seconds
+[2025-03-07T01:02:33.364Z] [INFO] Pausing after TradingView fetch for DSV.TO for 15 seconds
+[INFO] Successfully updated database for DSV.TO
+[2025-03-07T01:02:48.678Z] [INFO] Pausing after Yahoo fetch for DV.V for 15 seconds
+[2025-03-07T01:03:07.647Z] [INFO] Pausing after TradingView fetch for DV.V for 15 seconds
+[INFO] Successfully updated database for DV.V
+[2025-03-07T01:03:22.944Z] [INFO] Pausing after Yahoo fetch for DYG.V for 15 seconds
+[2025-03-07T01:03:42.065Z] [INFO] Pausing after TradingView fetch for DYG.V for 15 seconds
+[INFO] Successfully updated database for DYG.V
+[2025-03-07T01:03:57.377Z] [INFO] Pausing after Yahoo fetch for EAM.V for 15 seconds
+[2025-03-07T01:04:16.434Z] [INFO] Pausing after TradingView fetch for EAM.V for 15 seconds
+[INFO] Successfully updated database for EAM.V
+[2025-03-07T01:04:31.735Z] [INFO] Pausing after Yahoo fetch for ECR.V for 15 seconds
+[2025-03-07T01:04:50.778Z] [INFO] Pausing after TradingView fetch for ECR.V for 15 seconds
+[INFO] Successfully updated database for ECR.V
+[2025-03-07T01:05:06.148Z] [INFO] Pausing after Yahoo fetch for EDG.V for 15 seconds
+[2025-03-07T01:05:25.362Z] [INFO] Pausing after TradingView fetch for EDG.V for 15 seconds
+[INFO] Successfully updated database for EDG.V
+[2025-03-07T01:05:40.661Z] [INFO] Pausing after Yahoo fetch for EDGM.CN for 15 seconds
+[2025-03-07T01:05:59.698Z] [INFO] Pausing after TradingView fetch for EDGM.CN for 15 seconds
+[INFO] Successfully updated database for EDGM.CN
+[2025-03-07T01:06:15.032Z] [INFO] Pausing after Yahoo fetch for EDR.TO for 15 seconds
+[2025-03-07T01:06:33.851Z] [INFO] Pausing after TradingView fetch for EDR.TO for 15 seconds
+[INFO] Successfully updated database for EDR.TO
+[2025-03-07T01:06:49.156Z] [INFO] Pausing after Yahoo fetch for ELD.TO for 15 seconds
+[2025-03-07T01:07:07.835Z] [INFO] Pausing after TradingView fetch for ELD.TO for 15 seconds
+[INFO] Successfully updated database for ELD.TO
+[2025-03-07T01:07:23.134Z] [INFO] Pausing after Yahoo fetch for ELE.V for 15 seconds
+[2025-03-07T01:07:42.313Z] [INFO] Pausing after TradingView fetch for ELE.V for 15 seconds
+[INFO] Successfully updated database for ELE.V
+[2025-03-07T01:07:57.619Z] [INFO] Pausing after Yahoo fetch for ELEF.TO for 15 seconds
+[2025-03-07T01:08:16.819Z] [INFO] Pausing after TradingView fetch for ELEF.TO for 15 seconds
+[INFO] Successfully updated database for ELEF.TO
+[2025-03-07T01:08:32.165Z] [INFO] Pausing after Yahoo fetch for ELO.TO for 15 seconds
+[2025-03-07T01:08:51.250Z] [INFO] Pausing after TradingView fetch for ELO.TO for 15 seconds
+[INFO] Successfully updated database for ELO.TO
+[2025-03-07T01:09:06.544Z] [INFO] Retrying Yahoo Finance for ELVT.V for 5 seconds
+[2025-03-07T01:09:11.810Z] [INFO] Retrying Yahoo Finance for ELVT.V for 10 seconds
+[2025-03-07T01:09:22.073Z] [INFO] Pausing after Yahoo fetch for ELVT.V for 15 seconds
+[2025-03-07T01:09:40.774Z] [INFO] Pausing after TradingView fetch for ELVT.V for 15 seconds
+[INFO] Successfully updated database for ELVT.V
+[2025-03-07T01:09:56.109Z] [INFO] Pausing after Yahoo fetch for EMNT.V for 15 seconds
+[2025-03-07T01:10:15.361Z] [INFO] Pausing after TradingView fetch for EMNT.V for 15 seconds
+[INFO] Successfully updated database for EMNT.V
+[2025-03-07T01:10:30.667Z] [INFO] Retrying Yahoo Finance for EMO.V for 5 seconds
+[2025-03-07T01:10:35.942Z] [INFO] Retrying Yahoo Finance for EMO.V for 10 seconds
+[2025-03-07T01:10:46.217Z] [INFO] Pausing after Yahoo fetch for EMO.V for 15 seconds
+[2025-03-07T01:11:05.459Z] [INFO] Pausing after TradingView fetch for EMO.V for 15 seconds
+[INFO] Successfully updated database for EMO.V
+[2025-03-07T01:11:20.794Z] [INFO] Pausing after Yahoo fetch for EMPR.V for 15 seconds
+[2025-03-07T01:11:40.484Z] [INFO] Pausing after TradingView fetch for EMPR.V for 15 seconds
+[INFO] Successfully updated database for EMPR.V
+[2025-03-07T01:11:55.780Z] [INFO] Pausing after Yahoo fetch for EMX.V for 15 seconds
+[2025-03-07T01:12:15.073Z] [INFO] Pausing after TradingView fetch for EMX.V for 15 seconds
+[INFO] Successfully updated database for EMX.V
+[2025-03-07T01:12:30.385Z] [INFO] Pausing after Yahoo fetch for ENDR.V for 15 seconds
+[2025-03-07T01:12:49.734Z] [INFO] Pausing after TradingView fetch for ENDR.V for 15 seconds
+[INFO] Successfully updated database for ENDR.V
+[2025-03-07T01:13:05.207Z] [INFO] Pausing after Yahoo fetch for EPL.V for 15 seconds
+[2025-03-07T01:13:24.370Z] [INFO] Pausing after TradingView fetch for EPL.V for 15 seconds
+[INFO] Successfully updated database for EPL.V
+[2025-03-07T01:13:39.668Z] [INFO] Pausing after Yahoo fetch for EQTY.V for 15 seconds
+[2025-03-07T01:13:58.731Z] [INFO] Pausing after TradingView fetch for EQTY.V for 15 seconds
+[INFO] Successfully updated database for EQTY.V
+[2025-03-07T01:14:14.037Z] [INFO] Pausing after Yahoo fetch for EQX.TO for 15 seconds
+[2025-03-07T01:14:33.677Z] [INFO] Pausing after TradingView fetch for EQX.TO for 15 seconds
+[INFO] Successfully updated database for EQX.TO
+[2025-03-07T01:14:48.978Z] [INFO] Pausing after Yahoo fetch for ER.CN for 15 seconds
+[2025-03-07T01:15:07.493Z] [INFO] Pausing after TradingView fetch for ER.CN for 15 seconds
+[INFO] Successfully updated database for ER.CN
+[2025-03-07T01:15:22.844Z] [INFO] Pausing after Yahoo fetch for ERD.TO for 15 seconds
+[2025-03-07T01:15:41.824Z] [INFO] Pausing after TradingView fetch for ERD.TO for 15 seconds
+[INFO] Successfully updated database for ERD.TO
+[2025-03-07T01:15:57.125Z] [INFO] Pausing after Yahoo fetch for ESK.V for 15 seconds
+[2025-03-07T01:16:16.129Z] [INFO] Pausing after TradingView fetch for ESK.V for 15 seconds
+[2025-03-07T01:29:24.349Z] [INFO] Pausing after Yahoo fetch for AAB.TO for 1.5 seconds
+[2025-03-07T01:29:29.965Z] [INFO] Pausing after TradingView fetch for AAB.TO for 1.5 seconds
+[INFO] Successfully updated database for AAB.TO
+[2025-03-07T01:29:31.778Z] [INFO] Pausing after Yahoo fetch for IRV.CN for 1.5 seconds
+[2025-03-07T01:29:40.150Z] [INFO] Pausing after TradingView fetch for IRV.CN for 1.5 seconds
+[INFO] Successfully updated database for IRV.CN
+[2025-03-07T01:29:42.119Z] [INFO] Pausing after Yahoo fetch for ITH.TO for 1.5 seconds
+[2025-03-07T01:29:47.595Z] [INFO] Pausing after TradingView fetch for ITH.TO for 1.5 seconds
+[INFO] Successfully updated database for ITH.TO
+[2025-03-07T01:29:49.401Z] [INFO] Pausing after Yahoo fetch for ITR.V for 1.5 seconds
+[2025-03-07T01:29:54.731Z] [INFO] Pausing after TradingView fetch for ITR.V for 1.5 seconds
+[INFO] Successfully updated database for ITR.V
+[2025-03-07T01:29:56.573Z] [INFO] Pausing after Yahoo fetch for AAG.V for 1.5 seconds
+[2025-03-07T01:30:02.171Z] [INFO] Pausing after TradingView fetch for AAG.V for 1.5 seconds
+[INFO] Successfully updated database for AAG.V
+[2025-03-07T01:30:03.988Z] [INFO] Pausing after Yahoo fetch for AAN.V for 1.5 seconds
+[2025-03-07T01:30:10.355Z] [INFO] Pausing after TradingView fetch for AAN.V for 1.5 seconds
+[INFO] Successfully updated database for AAN.V
+[2025-03-07T01:30:12.207Z] [INFO] Pausing after Yahoo fetch for AAUC.TO for 1.5 seconds
+[2025-03-07T01:30:17.579Z] [INFO] Pausing after TradingView fetch for AAUC.TO for 1.5 seconds
+[INFO] Successfully updated database for AAUC.TO
+[2025-03-07T01:30:19.389Z] [INFO] Pausing after Yahoo fetch for ABI.V for 1.5 seconds
+[2025-03-07T01:30:25.096Z] [INFO] Pausing after TradingView fetch for ABI.V for 1.5 seconds
+[INFO] Successfully updated database for ABI.V
+[2025-03-07T01:30:26.949Z] [INFO] Pausing after Yahoo fetch for ABRA.TO for 1.5 seconds
+[2025-03-07T01:30:32.347Z] [INFO] Pausing after TradingView fetch for ABRA.TO for 1.5 seconds
+[INFO] Successfully updated database for ABRA.TO
+[2025-03-07T01:30:34.132Z] [INFO] Pausing after Yahoo fetch for ADY.V for 1.5 seconds
+[2025-03-07T01:30:39.524Z] [INFO] Pausing after TradingView fetch for ADY.V for 1.5 seconds
+[INFO] Successfully updated database for ADY.V
+[2025-03-07T01:30:41.309Z] [INFO] Pausing after Yahoo fetch for ADZ.V for 1.5 seconds
+[2025-03-07T01:30:46.458Z] [INFO] Pausing after TradingView fetch for ADZ.V for 1.5 seconds
+[INFO] Successfully updated database for ADZ.V
+[2025-03-07T01:30:48.423Z] [INFO] Pausing after Yahoo fetch for AE.V for 1.5 seconds
+[2025-03-07T01:30:53.915Z] [INFO] Pausing after TradingView fetch for AE.V for 1.5 seconds
+[INFO] Successfully updated database for AE.V
+[2025-03-07T01:30:55.873Z] [INFO] Pausing after Yahoo fetch for AEM.TO for 1.5 seconds
+[2025-03-07T01:31:01.025Z] [INFO] Pausing after TradingView fetch for AEM.TO for 1.5 seconds
+[INFO] Successfully updated database for AEM.TO
+[2025-03-07T01:31:02.815Z] [INFO] Pausing after Yahoo fetch for AERO.V for 1.5 seconds
+[2025-03-07T01:31:07.966Z] [INFO] Pausing after TradingView fetch for AERO.V for 1.5 seconds
+[INFO] Successfully updated database for AERO.V
+[2025-03-07T01:31:09.750Z] [INFO] Pausing after Yahoo fetch for AG.TO for 1.5 seconds
+[2025-03-07T01:31:14.930Z] [INFO] Pausing after TradingView fetch for AG.TO for 1.5 seconds
+[INFO] Successfully updated database for AG.TO
+[2025-03-07T01:31:16.714Z] [INFO] Pausing after Yahoo fetch for AGA.V for 1.5 seconds
+[2025-03-07T01:31:21.499Z] [INFO] Pausing after TradingView fetch for AGA.V for 1.5 seconds
+[INFO] Successfully updated database for AGA.V
+[2025-03-07T01:31:23.321Z] [INFO] Pausing after Yahoo fetch for AGAG.V for 1.5 seconds
+[2025-03-07T01:31:28.431Z] [INFO] Pausing after TradingView fetch for AGAG.V for 1.5 seconds
+[INFO] Successfully updated database for AGAG.V
+[2025-03-07T01:31:30.231Z] [INFO] Pausing after Yahoo fetch for AGI.TO for 1.5 seconds
+[2025-03-07T01:31:35.689Z] [INFO] Pausing after TradingView fetch for AGI.TO for 1.5 seconds
+[INFO] Successfully updated database for AGI.TO
+[2025-03-07T01:31:37.470Z] [INFO] Pausing after Yahoo fetch for AGLD.V for 1.5 seconds
+[2025-03-07T01:31:42.843Z] [INFO] Pausing after TradingView fetch for AGLD.V for 1.5 seconds
+[INFO] Successfully updated database for AGLD.V
+[2025-03-07T01:31:44.617Z] [INFO] Pausing after Yahoo fetch for AGMR.V for 1.5 seconds
+[2025-03-07T01:31:49.741Z] [INFO] Pausing after TradingView fetch for AGMR.V for 1.5 seconds
+[INFO] Successfully updated database for AGMR.V
+[2025-03-07T01:31:51.522Z] [INFO] Pausing after Yahoo fetch for AGX.V for 1.5 seconds
+[2025-03-07T01:31:56.733Z] [INFO] Pausing after TradingView fetch for AGX.V for 1.5 seconds
+[INFO] Successfully updated database for AGX.V
+[2025-03-07T01:31:58.517Z] [INFO] Pausing after Yahoo fetch for ALDE.V for 1.5 seconds
+[2025-03-07T01:32:03.797Z] [INFO] Pausing after TradingView fetch for ALDE.V for 1.5 seconds
+[INFO] Successfully updated database for ALDE.V
+[2025-03-07T01:32:05.594Z] [INFO] Pausing after Yahoo fetch for ALEX.V for 1.5 seconds
+[2025-03-07T01:32:10.745Z] [INFO] Pausing after TradingView fetch for ALEX.V for 1.5 seconds
+[INFO] Successfully updated database for ALEX.V
+[2025-03-07T01:32:12.520Z] [INFO] Pausing after Yahoo fetch for ALTA.V for 1.5 seconds
+[2025-03-07T01:32:17.894Z] [INFO] Pausing after TradingView fetch for ALTA.V for 1.5 seconds
+[INFO] Successfully updated database for ALTA.V
+[2025-03-07T01:32:19.682Z] [INFO] Pausing after Yahoo fetch for AMC.TO for 1.5 seconds
+[2025-03-07T01:32:25.555Z] [INFO] Pausing after TradingView fetch for AMC.TO for 1.5 seconds
+[INFO] Successfully updated database for AMC.TO
+[2025-03-07T01:32:27.339Z] [INFO] Pausing after Yahoo fetch for AMQ.CN for 1.5 seconds
+[2025-03-07T01:32:32.862Z] [INFO] Pausing after TradingView fetch for AMQ.CN for 1.5 seconds
+[INFO] Successfully updated database for AMQ.CN
+[2025-03-07T01:32:34.639Z] [INFO] Pausing after Yahoo fetch for AMRQ.V for 1.5 seconds
+[2025-03-07T01:32:39.903Z] [INFO] Pausing after TradingView fetch for AMRQ.V for 1.5 seconds
+[INFO] Successfully updated database for AMRQ.V
+[2025-03-07T01:32:41.695Z] [INFO] Pausing after Yahoo fetch for AMX.V for 1.5 seconds
+[2025-03-07T01:32:46.848Z] [INFO] Pausing after TradingView fetch for AMX.V for 1.5 seconds
+[INFO] Successfully updated database for AMX.V
+[2025-03-07T01:32:48.632Z] [INFO] Pausing after Yahoo fetch for ANK.V for 1.5 seconds
+[2025-03-07T01:32:53.756Z] [INFO] Pausing after TradingView fetch for ANK.V for 1.5 seconds
+[INFO] Successfully updated database for ANK.V
+[2025-03-07T01:32:55.627Z] [INFO] Pausing after Yahoo fetch for ANTL.V for 1.5 seconds
+[2025-03-07T01:33:00.773Z] [INFO] Pausing after TradingView fetch for ANTL.V for 1.5 seconds
+[INFO] Successfully updated database for ANTL.V
+[2025-03-07T01:33:02.566Z] [INFO] Pausing after Yahoo fetch for AOT.TO for 1.5 seconds
+[2025-03-07T01:33:08.032Z] [INFO] Pausing after TradingView fetch for AOT.TO for 1.5 seconds
+[INFO] Successfully updated database for AOT.TO
+[2025-03-07T01:33:09.805Z] [INFO] Pausing after Yahoo fetch for APGO.V for 1.5 seconds
+[2025-03-07T01:33:14.747Z] [INFO] Pausing after TradingView fetch for APGO.V for 1.5 seconds
+[INFO] Successfully updated database for APGO.V
+[2025-03-07T01:33:16.591Z] [INFO] Pausing after Yahoo fetch for APM.TO for 1.5 seconds
+[2025-03-07T01:33:21.990Z] [INFO] Pausing after TradingView fetch for APM.TO for 1.5 seconds
+[INFO] Successfully updated database for APM.TO
+[2025-03-07T01:33:23.778Z] [INFO] Pausing after Yahoo fetch for ARIC.V for 1.5 seconds
+[2025-03-07T01:33:28.900Z] [INFO] Pausing after TradingView fetch for ARIC.V for 1.5 seconds
+[INFO] Successfully updated database for ARIC.V
+[2025-03-07T01:33:30.683Z] [INFO] Pausing after Yahoo fetch for ARIS.TO for 1.5 seconds
+[2025-03-07T01:33:36.151Z] [INFO] Pausing after TradingView fetch for ARIS.TO for 1.5 seconds
+[INFO] Successfully updated database for ARIS.TO
+[2025-03-07T01:33:37.982Z] [INFO] Pausing after Yahoo fetch for ARK.V for 1.5 seconds
+[2025-03-07T01:33:43.248Z] [INFO] Pausing after TradingView fetch for ARK.V for 1.5 seconds
+[INFO] Successfully updated database for ARK.V
+[2025-03-07T01:33:45.036Z] [INFO] Pausing after Yahoo fetch for ARTG.V for 1.5 seconds
+[2025-03-07T01:33:50.177Z] [INFO] Pausing after TradingView fetch for ARTG.V for 1.5 seconds
+[INFO] Successfully updated database for ARTG.V
+[2025-03-07T01:33:51.964Z] [INFO] Pausing after Yahoo fetch for ARU.V for 1.5 seconds
+[2025-03-07T01:33:57.279Z] [INFO] Pausing after TradingView fetch for ARU.V for 1.5 seconds
+[INFO] Successfully updated database for ARU.V
+[2025-03-07T01:33:59.066Z] [INFO] Pausing after Yahoo fetch for ASE.CN for 1.5 seconds
+[2025-03-07T01:34:04.708Z] [INFO] Pausing after TradingView fetch for ASE.CN for 1.5 seconds
+[INFO] Successfully updated database for ASE.CN
+[2025-03-07T01:34:06.509Z] [INFO] Pausing after Yahoo fetch for ASM.TO for 1.5 seconds
+[2025-03-07T01:34:11.690Z] [INFO] Pausing after TradingView fetch for ASM.TO for 1.5 seconds
+[INFO] Successfully updated database for ASM.TO
+[2025-03-07T01:34:13.465Z] [INFO] Pausing after Yahoo fetch for ASTR.V for 1.5 seconds
+[2025-03-07T01:34:18.963Z] [INFO] Pausing after TradingView fetch for ASTR.V for 1.5 seconds
+[INFO] Successfully updated database for ASTR.V
+[2025-03-07T01:34:20.742Z] [INFO] Pausing after Yahoo fetch for ATHA.CN for 1.5 seconds
+[2025-03-07T01:34:26.070Z] [INFO] Pausing after TradingView fetch for ATHA.CN for 1.5 seconds
+[INFO] Successfully updated database for ATHA.CN
+[2025-03-07T01:34:27.861Z] [INFO] Pausing after Yahoo fetch for AU.V for 1.5 seconds
+[2025-03-07T01:34:33.098Z] [INFO] Pausing after TradingView fetch for AU.V for 1.5 seconds
+[INFO] Successfully updated database for AU.V
+[2025-03-07T01:34:34.893Z] [INFO] Pausing after Yahoo fetch for AUAU.V for 1.5 seconds
+[2025-03-07T01:34:40.110Z] [INFO] Pausing after TradingView fetch for AUAU.V for 1.5 seconds
+[INFO] Successfully updated database for AUAU.V
+[2025-03-07T01:34:41.925Z] [INFO] Pausing after Yahoo fetch for AWM.V for 1.5 seconds
+[2025-03-07T01:34:47.129Z] [INFO] Pausing after TradingView fetch for AWM.V for 1.5 seconds
+[INFO] Successfully updated database for AWM.V
+[2025-03-07T01:34:48.941Z] [INFO] Pausing after Yahoo fetch for AUM.V for 1.5 seconds
+[2025-03-07T01:34:54.576Z] [INFO] Pausing after TradingView fetch for AUM.V for 1.5 seconds
+[INFO] Successfully updated database for AUM.V
+[2025-03-07T01:34:56.367Z] [INFO] Pausing after Yahoo fetch for AUMB.V for 1.5 seconds
+[2025-03-07T01:35:01.527Z] [INFO] Pausing after TradingView fetch for AUMB.V for 1.5 seconds
+[INFO] Successfully updated database for AUMB.V
+[2025-03-07T01:35:03.318Z] [INFO] Pausing after Yahoo fetch for AUOZ.CN for 1.5 seconds
+[2025-03-07T01:35:08.565Z] [INFO] Pausing after TradingView fetch for AUOZ.CN for 1.5 seconds
+[INFO] Successfully updated database for AUOZ.CN
+[2025-03-07T01:35:10.353Z] [INFO] Retrying Yahoo Finance for AUR.H.V for 5 seconds
+[2025-03-07T01:35:15.640Z] [INFO] Retrying Yahoo Finance for AUR.H.V for 10 seconds
+[2025-03-07T01:35:25.909Z] [INFO] Pausing after Yahoo fetch for AUR.H.V for 1.5 seconds
+[2025-03-07T01:35:30.752Z] [INFO] Pausing after TradingView fetch for AUR.H.V for 1.5 seconds
+[INFO] Successfully updated database for AUR.H.V
+[2025-03-07T01:35:32.531Z] [INFO] Retrying Yahoo Finance for AXM.H.V for 5 seconds
+[2025-03-07T01:35:37.804Z] [INFO] Retrying Yahoo Finance for AXM.H.V for 10 seconds
+[2025-03-07T01:35:48.076Z] [INFO] Pausing after Yahoo fetch for AXM.H.V for 1.5 seconds
+[2025-03-07T01:35:52.914Z] [INFO] Pausing after TradingView fetch for AXM.H.V for 1.5 seconds
+[INFO] Successfully updated database for AXM.H.V
+[2025-03-07T01:35:54.694Z] [INFO] Pausing after Yahoo fetch for AYA.TO for 1.5 seconds
+[2025-03-07T01:35:59.926Z] [INFO] Pausing after TradingView fetch for AYA.TO for 1.5 seconds
+[INFO] Successfully updated database for AYA.TO
+[2025-03-07T01:36:01.711Z] [INFO] Pausing after Yahoo fetch for AZM.V for 1.5 seconds
+[2025-03-07T01:36:06.925Z] [INFO] Pausing after TradingView fetch for AZM.V for 1.5 seconds
+[INFO] Successfully updated database for AZM.V
+[2025-03-07T01:36:08.712Z] [INFO] Pausing after Yahoo fetch for AZS.V for 1.5 seconds
+[2025-03-07T01:36:13.890Z] [INFO] Pausing after TradingView fetch for AZS.V for 1.5 seconds
+[INFO] Successfully updated database for AZS.V
+[2025-03-07T01:36:15.664Z] [INFO] Pausing after Yahoo fetch for AZT.V for 1.5 seconds
+[2025-03-07T01:36:20.943Z] [INFO] Pausing after TradingView fetch for AZT.V for 1.5 seconds
+[INFO] Successfully updated database for AZT.V
+[2025-03-07T01:36:22.733Z] [INFO] Pausing after Yahoo fetch for BAT.V for 1.5 seconds
+[2025-03-07T01:36:28.387Z] [INFO] Pausing after TradingView fetch for BAT.V for 1.5 seconds
+[INFO] Successfully updated database for BAT.V
+[2025-03-07T01:36:30.193Z] [INFO] Pausing after Yahoo fetch for BAU.V for 1.5 seconds
+[2025-03-07T01:36:35.301Z] [INFO] Pausing after TradingView fetch for BAU.V for 1.5 seconds
+[INFO] Successfully updated database for BAU.V
+[2025-03-07T01:36:37.086Z] [INFO] Pausing after Yahoo fetch for BBB.V for 1.5 seconds
+[2025-03-07T01:36:42.544Z] [INFO] Pausing after TradingView fetch for BBB.V for 1.5 seconds
+[INFO] Successfully updated database for BBB.V
+[2025-03-07T01:36:44.340Z] [INFO] Pausing after Yahoo fetch for BCM.V for 1.5 seconds
+[2025-03-07T01:36:49.537Z] [INFO] Pausing after TradingView fetch for BCM.V for 1.5 seconds
+[INFO] Successfully updated database for BCM.V
+[2025-03-07T01:36:51.364Z] [INFO] Pausing after Yahoo fetch for BEX.V for 1.5 seconds
+[2025-03-07T01:36:56.656Z] [INFO] Pausing after TradingView fetch for BEX.V for 1.5 seconds
+[INFO] Successfully updated database for BEX.V
+[2025-03-07T01:36:58.451Z] [INFO] Pausing after Yahoo fetch for BGF.V for 1.5 seconds
+[2025-03-07T01:37:03.806Z] [INFO] Pausing after TradingView fetch for BGF.V for 1.5 seconds
+[INFO] Successfully updated database for BGF.V
+[2025-03-07T01:37:05.591Z] [INFO] Pausing after Yahoo fetch for BGS for 1.5 seconds
+[2025-03-07T01:37:10.300Z] [INFO] Pausing after TradingView fetch for BGS for 1.5 seconds
+[INFO] Successfully updated database for BGS
+[2025-03-07T01:37:12.090Z] [INFO] Pausing after Yahoo fetch for BHS.V for 1.5 seconds
+[2025-03-07T01:37:17.492Z] [INFO] Pausing after TradingView fetch for BHS.V for 1.5 seconds
+[INFO] Successfully updated database for BHS.V
+[2025-03-07T01:37:19.274Z] [INFO] Pausing after Yahoo fetch for BIG.V for 1.5 seconds
+[2025-03-07T01:37:24.446Z] [INFO] Pausing after TradingView fetch for BIG.V for 1.5 seconds
+[INFO] Successfully updated database for BIG.V
+[2025-03-07T01:37:26.226Z] [INFO] Pausing after Yahoo fetch for BLLG.CN for 1.5 seconds
+[2025-03-07T01:37:31.463Z] [INFO] Pausing after TradingView fetch for BLLG.CN for 1.5 seconds
+[INFO] Successfully updated database for BLLG.CN
+[2025-03-07T01:37:33.235Z] [INFO] Pausing after Yahoo fetch for BMM.V for 1.5 seconds
+[2025-03-07T01:37:38.610Z] [INFO] Pausing after TradingView fetch for BMM.V for 1.5 seconds
+[INFO] Successfully updated database for BMM.V
+[2025-03-07T01:37:40.397Z] [INFO] Pausing after Yahoo fetch for BOGO.V for 1.5 seconds
+[2025-03-07T01:37:45.665Z] [INFO] Pausing after TradingView fetch for BOGO.V for 1.5 seconds
+[INFO] Successfully updated database for BOGO.V
+[2025-03-07T01:37:47.457Z] [INFO] Pausing after Yahoo fetch for BRAU.V for 1.5 seconds
+[2025-03-07T01:37:52.730Z] [INFO] Pausing after TradingView fetch for BRAU.V for 1.5 seconds
+[INFO] Successfully updated database for BRAU.V
+[2025-03-07T01:37:54.509Z] [INFO] Pausing after Yahoo fetch for BRAZ.CN for 1.5 seconds
+[2025-03-07T01:37:59.248Z] [INFO] Pausing after TradingView fetch for BRAZ.CN for 1.5 seconds
+[INFO] Successfully updated database for BRAZ.CN
+[2025-03-07T01:38:01.129Z] [INFO] Pausing after Yahoo fetch for BRC.V for 1.5 seconds
+[2025-03-07T01:38:06.479Z] [INFO] Pausing after TradingView fetch for BRC.V for 1.5 seconds
+[INFO] Successfully updated database for BRC.V
+[2025-03-07T01:38:08.270Z] [INFO] Pausing after Yahoo fetch for BSX.TO for 1.5 seconds
+[2025-03-07T01:38:13.434Z] [INFO] Pausing after TradingView fetch for BSX.TO for 1.5 seconds
+[INFO] Successfully updated database for BSX.TO
+[2025-03-07T01:38:15.483Z] [INFO] Pausing after Yahoo fetch for BTO.TO for 1.5 seconds
+[2025-03-07T01:38:20.334Z] [INFO] Pausing after TradingView fetch for BTO.TO for 1.5 seconds
+[INFO] Successfully updated database for BTO.TO
+[2025-03-07T01:38:22.326Z] [INFO] Pausing after Yahoo fetch for BTR.V for 1.5 seconds
+[2025-03-07T01:38:27.438Z] [INFO] Pausing after TradingView fetch for BTR.V for 1.5 seconds
+[INFO] Successfully updated database for BTR.V
+[2025-03-07T01:38:29.392Z] [INFO] Pausing after Yahoo fetch for BYN.V for 1.5 seconds
+[2025-03-07T01:38:34.833Z] [INFO] Pausing after TradingView fetch for BYN.V for 1.5 seconds
+[INFO] Successfully updated database for BYN.V
+[2025-03-07T01:38:36.623Z] [INFO] Pausing after Yahoo fetch for BZ.V for 1.5 seconds
+[2025-03-07T01:38:42.017Z] [INFO] Pausing after TradingView fetch for BZ.V for 1.5 seconds
+[INFO] Successfully updated database for BZ.V
+[2025-03-07T01:38:43.812Z] [INFO] Pausing after Yahoo fetch for CANX.V for 1.5 seconds
+[2025-03-07T01:38:48.979Z] [INFO] Pausing after TradingView fetch for CANX.V for 1.5 seconds
+[INFO] Successfully updated database for CANX.V
+[2025-03-07T01:38:50.763Z] [INFO] Pausing after Yahoo fetch for CAPT.V for 1.5 seconds
+[2025-03-07T01:38:56.220Z] [INFO] Pausing after TradingView fetch for CAPT.V for 1.5 seconds
+[INFO] Successfully updated database for CAPT.V
+[2025-03-07T01:38:58.005Z] [INFO] Pausing after Yahoo fetch for CBI.V for 1.5 seconds
+[2025-03-07T01:39:03.629Z] [INFO] Pausing after TradingView fetch for CBI.V for 1.5 seconds
+[INFO] Successfully updated database for CBI.V
+[2025-03-07T01:39:05.423Z] [INFO] Pausing after Yahoo fetch for CBR.V for 1.5 seconds
+[2025-03-07T01:39:10.807Z] [INFO] Pausing after TradingView fetch for CBR.V for 1.5 seconds
+[INFO] Successfully updated database for CBR.V
+[2025-03-07T01:39:12.596Z] [INFO] Pausing after Yahoo fetch for CC.CN for 1.5 seconds
+[2025-03-07T01:39:17.845Z] [INFO] Pausing after TradingView fetch for CC.CN for 1.5 seconds
+[INFO] Successfully updated database for CC.CN
+[2025-03-07T01:39:19.618Z] [INFO] Pausing after Yahoo fetch for CCM.TO for 1.5 seconds
+[2025-03-07T01:39:25.005Z] [INFO] Pausing after TradingView fetch for CCM.TO for 1.5 seconds
+[INFO] Successfully updated database for CCM.TO
+[2025-03-07T01:39:26.783Z] [INFO] Pausing after Yahoo fetch for CDPR.CN for 1.5 seconds
+[2025-03-07T01:39:31.942Z] [INFO] Pausing after TradingView fetch for CDPR.CN for 1.5 seconds
+[INFO] Successfully updated database for CDPR.CN
+[2025-03-07T01:39:33.728Z] [INFO] Pausing after Yahoo fetch for CERT.V for 1.5 seconds
+[2025-03-07T01:39:39.334Z] [INFO] Pausing after TradingView fetch for CERT.V for 1.5 seconds
+[INFO] Successfully updated database for CERT.V
+[2025-03-07T01:39:41.158Z] [INFO] Pausing after Yahoo fetch for CFE.CN for 1.5 seconds
+[2025-03-07T01:39:46.638Z] [INFO] Pausing after TradingView fetch for CFE.CN for 1.5 seconds
+[INFO] Successfully updated database for CFE.CN
+[2025-03-07T01:39:48.430Z] [INFO] Pausing after Yahoo fetch for CG.TO for 1.5 seconds
+[2025-03-07T01:39:53.618Z] [INFO] Pausing after TradingView fetch for CG.TO for 1.5 seconds
+[INFO] Successfully updated database for CG.TO
+[2025-03-07T01:39:55.407Z] [INFO] Pausing after Yahoo fetch for CGC.V for 1.5 seconds
+[2025-03-07T01:40:01.123Z] [INFO] Pausing after TradingView fetch for CGC.V for 1.5 seconds
+[INFO] Successfully updated database for CGC.V
+[2025-03-07T01:40:03.072Z] [INFO] Pausing after Yahoo fetch for CGG.TO for 1.5 seconds
+[2025-03-07T01:40:09.620Z] [INFO] Pausing after TradingView fetch for CGG.TO for 1.5 seconds
+[INFO] Successfully updated database for CGG.TO
+[2025-03-07T01:40:11.401Z] [INFO] Pausing after Yahoo fetch for CKG.V for 1.5 seconds
+[2025-03-07T01:40:16.614Z] [INFO] Pausing after TradingView fetch for CKG.V for 1.5 seconds
+[INFO] Successfully updated database for CKG.V
+[2025-03-07T01:40:18.405Z] [INFO] Retrying Yahoo Finance for CLZ.V for 5 seconds
+[2025-03-07T01:40:23.848Z] [INFO] Retrying Yahoo Finance for CLZ.V for 10 seconds
+[2025-03-07T01:40:34.108Z] [INFO] Pausing after Yahoo fetch for CLZ.V for 1.5 seconds
+[2025-03-07T01:40:38.905Z] [INFO] Pausing after TradingView fetch for CLZ.V for 1.5 seconds
+[INFO] Successfully updated database for CLZ.V
+[2025-03-07T01:40:40.678Z] [INFO] Pausing after Yahoo fetch for CMB.V for 1.5 seconds
+[2025-03-07T01:40:46.107Z] [INFO] Pausing after TradingView fetch for CMB.V for 1.5 seconds
+[INFO] Successfully updated database for CMB.V
+[2025-03-07T01:40:47.895Z] [INFO] Retrying Yahoo Finance for CN.TO for 5 seconds
+[2025-03-07T01:40:53.162Z] [INFO] Retrying Yahoo Finance for CN.TO for 10 seconds
+[2025-03-07T01:41:03.428Z] [INFO] Pausing after Yahoo fetch for CN.TO for 1.5 seconds
+[2025-03-07T01:41:08.296Z] [INFO] Pausing after TradingView fetch for CN.TO for 1.5 seconds
+[INFO] Successfully updated database for CN.TO
+[2025-03-07T01:41:10.077Z] [INFO] Pausing after Yahoo fetch for CNL.TO for 1.5 seconds
+[2025-03-07T01:41:15.363Z] [INFO] Pausing after TradingView fetch for CNL.TO for 1.5 seconds
+[INFO] Successfully updated database for CNL.TO
+[2025-03-07T01:41:17.154Z] [INFO] Pausing after Yahoo fetch for CPAU.V for 1.5 seconds
+[2025-03-07T01:41:22.245Z] [INFO] Pausing after TradingView fetch for CPAU.V for 1.5 seconds
+[INFO] Successfully updated database for CPAU.V
+[2025-03-07T01:41:24.018Z] [INFO] Pausing after Yahoo fetch for CRB.V for 1.5 seconds
+[2025-03-07T01:41:29.251Z] [INFO] Pausing after TradingView fetch for CRB.V for 1.5 seconds
+[INFO] Successfully updated database for CRB.V
+[2025-03-07T01:41:31.021Z] [INFO] Pausing after Yahoo fetch for CRI.V for 1.5 seconds
+[2025-03-07T01:41:36.206Z] [INFO] Pausing after TradingView fetch for CRI.V for 1.5 seconds
+[INFO] Successfully updated database for CRI.V
+[2025-03-07T01:41:37.994Z] [INFO] Pausing after Yahoo fetch for CSR.CN for 1.5 seconds
+[2025-03-07T01:41:43.288Z] [INFO] Pausing after TradingView fetch for CSR.CN for 1.5 seconds
+[INFO] Successfully updated database for CSR.CN
+[2025-03-07T01:41:45.073Z] [INFO] Pausing after Yahoo fetch for CTM.V for 1.5 seconds
+[2025-03-07T01:41:50.317Z] [INFO] Pausing after TradingView fetch for CTM.V for 1.5 seconds
+[INFO] Successfully updated database for CTM.V
+[2025-03-07T01:41:52.115Z] [INFO] Pausing after Yahoo fetch for CTN.V for 1.5 seconds
+[2025-03-07T01:41:58.439Z] [INFO] Pausing after TradingView fetch for CTN.V for 1.5 seconds
+[INFO] Successfully updated database for CTN.V
+[2025-03-07T01:42:00.221Z] [INFO] Pausing after Yahoo fetch for CVB.V for 1.5 seconds
+[2025-03-07T01:42:05.515Z] [INFO] Pausing after TradingView fetch for CVB.V for 1.5 seconds
+[INFO] Successfully updated database for CVB.V
+[2025-03-07T01:42:07.297Z] [INFO] Pausing after Yahoo fetch for CXB.TO for 1.5 seconds
+[2025-03-07T01:42:12.839Z] [INFO] Pausing after TradingView fetch for CXB.TO for 1.5 seconds
+[INFO] Successfully updated database for CXB.TO
+[2025-03-07T01:42:14.667Z] [INFO] Pausing after Yahoo fetch for CYG.V for 1.5 seconds
+[2025-03-07T01:42:19.830Z] [INFO] Pausing after TradingView fetch for CYG.V for 1.5 seconds
+[INFO] Successfully updated database for CYG.V
+[2025-03-07T01:42:21.621Z] [INFO] Pausing after Yahoo fetch for DAU.V for 1.5 seconds
+[2025-03-07T01:42:27.084Z] [INFO] Pausing after TradingView fetch for DAU.V for 1.5 seconds
+[INFO] Successfully updated database for DAU.V
+[2025-03-07T01:42:28.854Z] [INFO] Pausing after Yahoo fetch for DEF.V for 1.5 seconds
+[2025-03-07T01:42:35.036Z] [INFO] Pausing after TradingView fetch for DEF.V for 1.5 seconds
+[INFO] Successfully updated database for DEF.V
+[2025-03-07T01:42:36.820Z] [INFO] Pausing after Yahoo fetch for DEX.V for 1.5 seconds
+[2025-03-07T01:42:42.337Z] [INFO] Pausing after TradingView fetch for DEX.V for 1.5 seconds
+[INFO] Successfully updated database for DEX.V
+[2025-03-07T01:42:44.118Z] [INFO] Pausing after Yahoo fetch for DLTA.V for 1.5 seconds
+[2025-03-07T01:42:49.322Z] [INFO] Pausing after TradingView fetch for DLTA.V for 1.5 seconds
+[INFO] Successfully updated database for DLTA.V
+[2025-03-07T01:42:51.124Z] [INFO] Pausing after Yahoo fetch for DNG.TO for 1.5 seconds
+[2025-03-07T01:42:56.280Z] [INFO] Pausing after TradingView fetch for DNG.TO for 1.5 seconds
+[INFO] Successfully updated database for DNG.TO
+[2025-03-07T01:42:58.083Z] [INFO] Pausing after Yahoo fetch for DPM.TO for 1.5 seconds
+[2025-03-07T01:43:03.309Z] [INFO] Pausing after TradingView fetch for DPM.TO for 1.5 seconds
+[INFO] Successfully updated database for DPM.TO
+[2025-03-07T01:43:05.086Z] [INFO] Pausing after Yahoo fetch for DRY.V for 1.5 seconds
+[2025-03-07T01:43:08.716Z] [INFO] Pausing after TradingView fetch for DRY.V for 1.5 seconds
+[INFO] Successfully updated database for DRY.V
+[2025-03-07T01:43:10.504Z] [INFO] Pausing after Yahoo fetch for DSV.TO for 1.5 seconds
+[2025-03-07T01:43:15.350Z] [INFO] Pausing after TradingView fetch for DSV.TO for 1.5 seconds
+[INFO] Successfully updated database for DSV.TO
+[2025-03-07T01:43:17.143Z] [INFO] Pausing after Yahoo fetch for DV.V for 1.5 seconds
+[2025-03-07T01:43:22.419Z] [INFO] Pausing after TradingView fetch for DV.V for 1.5 seconds
+[INFO] Successfully updated database for DV.V
+[2025-03-07T01:43:24.217Z] [INFO] Pausing after Yahoo fetch for DYG.V for 1.5 seconds
+[2025-03-07T01:43:29.566Z] [INFO] Pausing after TradingView fetch for DYG.V for 1.5 seconds
+[INFO] Successfully updated database for DYG.V
+[2025-03-07T01:43:31.353Z] [INFO] Pausing after Yahoo fetch for EAM.V for 1.5 seconds
+[2025-03-07T01:43:36.598Z] [INFO] Pausing after TradingView fetch for EAM.V for 1.5 seconds
+[INFO] Successfully updated database for EAM.V
+[2025-03-07T01:43:38.386Z] [INFO] Pausing after Yahoo fetch for ECR.V for 1.5 seconds
+[2025-03-07T01:43:43.847Z] [INFO] Pausing after TradingView fetch for ECR.V for 1.5 seconds
+[INFO] Successfully updated database for ECR.V
+[2025-03-07T01:43:45.629Z] [INFO] Pausing after Yahoo fetch for EDG.V for 1.5 seconds
+[2025-03-07T01:43:51.380Z] [INFO] Pausing after TradingView fetch for EDG.V for 1.5 seconds
+[INFO] Successfully updated database for EDG.V
+[2025-03-07T01:43:53.182Z] [INFO] Pausing after Yahoo fetch for EDGM.CN for 1.5 seconds
+[2025-03-07T01:43:58.879Z] [INFO] Pausing after TradingView fetch for EDGM.CN for 1.5 seconds
+[INFO] Successfully updated database for EDGM.CN
+[2025-03-07T01:44:00.663Z] [INFO] Pausing after Yahoo fetch for EDR.TO for 1.5 seconds
+[2025-03-07T01:44:05.645Z] [INFO] Pausing after TradingView fetch for EDR.TO for 1.5 seconds
+[INFO] Successfully updated database for EDR.TO
+[2025-03-07T01:44:07.438Z] [INFO] Pausing after Yahoo fetch for ELD.TO for 1.5 seconds
+[2025-03-07T01:44:12.670Z] [INFO] Pausing after TradingView fetch for ELD.TO for 1.5 seconds
+[INFO] Successfully updated database for ELD.TO
+[2025-03-07T01:44:14.453Z] [INFO] Pausing after Yahoo fetch for ELE.V for 1.5 seconds
+[2025-03-07T01:44:19.804Z] [INFO] Pausing after TradingView fetch for ELE.V for 1.5 seconds
+[INFO] Successfully updated database for ELE.V
+[2025-03-07T01:44:21.590Z] [INFO] Pausing after Yahoo fetch for ELEF.TO for 1.5 seconds
+[2025-03-07T01:44:26.669Z] [INFO] Pausing after TradingView fetch for ELEF.TO for 1.5 seconds
+[INFO] Successfully updated database for ELEF.TO
+[2025-03-07T01:44:28.449Z] [INFO] Pausing after Yahoo fetch for ELO.TO for 1.5 seconds
+[2025-03-07T01:44:33.766Z] [INFO] Pausing after TradingView fetch for ELO.TO for 1.5 seconds
+[INFO] Successfully updated database for ELO.TO
+[2025-03-07T01:44:35.539Z] [INFO] Retrying Yahoo Finance for ELVT.V for 5 seconds
+[2025-03-07T01:44:40.796Z] [INFO] Retrying Yahoo Finance for ELVT.V for 10 seconds
+[2025-03-07T01:44:51.239Z] [INFO] Pausing after Yahoo fetch for ELVT.V for 1.5 seconds
+[2025-03-07T01:44:56.453Z] [INFO] Pausing after TradingView fetch for ELVT.V for 1.5 seconds
+[INFO] Successfully updated database for ELVT.V
+[2025-03-07T01:44:58.234Z] [INFO] Pausing after Yahoo fetch for EMNT.V for 1.5 seconds
+[2025-03-07T01:45:04.222Z] [INFO] Pausing after TradingView fetch for EMNT.V for 1.5 seconds
+[INFO] Successfully updated database for EMNT.V
+[2025-03-07T01:45:06.185Z] [INFO] Retrying Yahoo Finance for EMO.V for 5 seconds
+[2025-03-07T01:45:11.452Z] [INFO] Retrying Yahoo Finance for EMO.V for 10 seconds
+[2025-03-07T01:45:21.726Z] [INFO] Pausing after Yahoo fetch for EMO.V for 1.5 seconds
+[2025-03-07T01:45:27.268Z] [INFO] Pausing after TradingView fetch for EMO.V for 1.5 seconds
+[INFO] Successfully updated database for EMO.V
+[2025-03-07T01:45:29.053Z] [INFO] Pausing after Yahoo fetch for EMPR.V for 1.5 seconds
+[2025-03-07T01:45:34.412Z] [INFO] Pausing after TradingView fetch for EMPR.V for 1.5 seconds
+[INFO] Successfully updated database for EMPR.V
+[2025-03-07T01:45:36.207Z] [INFO] Pausing after Yahoo fetch for EMX.V for 1.5 seconds
+[2025-03-07T01:45:42.310Z] [INFO] Pausing after TradingView fetch for EMX.V for 1.5 seconds
+[INFO] Successfully updated database for EMX.V
+[2025-03-07T01:45:44.089Z] [INFO] Pausing after Yahoo fetch for ENDR.V for 1.5 seconds
+[2025-03-07T01:45:49.510Z] [INFO] Pausing after TradingView fetch for ENDR.V for 1.5 seconds
+[INFO] Successfully updated database for ENDR.V
+[2025-03-07T01:45:51.335Z] [INFO] Pausing after Yahoo fetch for EPL.V for 1.5 seconds
+[2025-03-07T01:45:56.464Z] [INFO] Pausing after TradingView fetch for EPL.V for 1.5 seconds
+[INFO] Successfully updated database for EPL.V
+[2025-03-07T01:45:58.247Z] [INFO] Pausing after Yahoo fetch for EQTY.V for 1.5 seconds
+[2025-03-07T01:46:03.953Z] [INFO] Pausing after TradingView fetch for EQTY.V for 1.5 seconds
+[INFO] Successfully updated database for EQTY.V
+[2025-03-07T01:46:05.738Z] [INFO] Pausing after Yahoo fetch for EQX.TO for 1.5 seconds
+[2025-03-07T01:46:11.644Z] [INFO] Pausing after TradingView fetch for EQX.TO for 1.5 seconds
+[INFO] Successfully updated database for EQX.TO
+[2025-03-07T01:46:13.451Z] [INFO] Pausing after Yahoo fetch for ER.CN for 1.5 seconds
+[2025-03-07T01:46:18.571Z] [INFO] Pausing after TradingView fetch for ER.CN for 1.5 seconds
+[INFO] Successfully updated database for ER.CN
+[2025-03-07T01:46:20.360Z] [INFO] Pausing after Yahoo fetch for ERD.TO for 1.5 seconds
+[2025-03-07T01:46:25.930Z] [INFO] Pausing after TradingView fetch for ERD.TO for 1.5 seconds
+[INFO] Successfully updated database for ERD.TO
+[2025-03-07T01:46:27.718Z] [INFO] Pausing after Yahoo fetch for ESK.V for 1.5 seconds
+[2025-03-07T01:46:33.637Z] [INFO] Pausing after TradingView fetch for ESK.V for 1.5 seconds
+[INFO] Successfully updated database for ESK.V
+[2025-03-07T01:46:35.432Z] [INFO] Pausing after Yahoo fetch for ESM.TO for 1.5 seconds
+[2025-03-07T01:46:41.281Z] [INFO] Pausing after TradingView fetch for ESM.TO for 1.5 seconds
+[INFO] Successfully updated database for ESM.TO
+[2025-03-07T01:46:43.085Z] [INFO] Pausing after Yahoo fetch for ETR.CN for 1.5 seconds
+[2025-03-07T01:46:49.071Z] [INFO] Pausing after TradingView fetch for ETR.CN for 1.5 seconds
+[INFO] Successfully updated database for ETR.CN
+[2025-03-07T01:46:50.864Z] [INFO] Pausing after Yahoo fetch for EXN.TO for 1.5 seconds
+[2025-03-07T01:46:56.626Z] [INFO] Pausing after TradingView fetch for EXN.TO for 1.5 seconds
+[INFO] Successfully updated database for EXN.TO
+[2025-03-07T01:46:58.448Z] [INFO] Pausing after Yahoo fetch for FAS.V for 1.5 seconds
+[2025-03-07T01:47:04.205Z] [INFO] Pausing after TradingView fetch for FAS.V for 1.5 seconds
+[INFO] Successfully updated database for FAS.V
+[2025-03-07T01:47:05.998Z] [INFO] Pausing after Yahoo fetch for FDR.V for 1.5 seconds
+[2025-03-07T01:47:11.626Z] [INFO] Pausing after TradingView fetch for FDR.V for 1.5 seconds
+[INFO] Successfully updated database for FDR.V
+[2025-03-07T01:47:13.420Z] [INFO] Pausing after Yahoo fetch for FF.TO for 1.5 seconds
+[2025-03-07T01:47:19.338Z] [INFO] Pausing after TradingView fetch for FF.TO for 1.5 seconds
+[INFO] Successfully updated database for FF.TO
+[2025-03-07T01:47:21.131Z] [INFO] Pausing after Yahoo fetch for FFOX.V for 1.5 seconds
+[2025-03-07T01:47:26.871Z] [INFO] Pausing after TradingView fetch for FFOX.V for 1.5 seconds
+[INFO] Successfully updated database for FFOX.V
+[2025-03-07T01:47:28.668Z] [INFO] Pausing after Yahoo fetch for FIN.V for 1.5 seconds
+[2025-03-07T01:47:34.247Z] [INFO] Pausing after TradingView fetch for FIN.V for 1.5 seconds
+[INFO] Successfully updated database for FIN.V
+[2025-03-07T01:47:36.054Z] [INFO] Pausing after Yahoo fetch for FISH.V for 1.5 seconds
+[2025-03-07T01:47:41.237Z] [INFO] Pausing after TradingView fetch for FISH.V for 1.5 seconds
+[INFO] Successfully updated database for FISH.V
+[2025-03-07T01:47:43.033Z] [INFO] Pausing after Yahoo fetch for FKM.V for 1.5 seconds
+[2025-03-07T01:47:48.593Z] [INFO] Pausing after TradingView fetch for FKM.V for 1.5 seconds
+[INFO] Successfully updated database for FKM.V
+[2025-03-07T01:47:50.569Z] [INFO] Pausing after Yahoo fetch for FMAN.V for 1.5 seconds
+[2025-03-07T01:47:55.968Z] [INFO] Pausing after TradingView fetch for FMAN.V for 1.5 seconds
+[INFO] Successfully updated database for FMAN.V
+[2025-03-07T01:47:57.775Z] [INFO] Pausing after Yahoo fetch for FMC.V for 1.5 seconds
+[2025-03-07T01:48:03.152Z] [INFO] Pausing after TradingView fetch for FMC.V for 1.5 seconds
+[INFO] Successfully updated database for FMC.V
+[2025-03-07T01:48:04.967Z] [INFO] Pausing after Yahoo fetch for FMT.V for 1.5 seconds
+[2025-03-07T01:48:10.404Z] [INFO] Pausing after TradingView fetch for FMT.V for 1.5 seconds
+[INFO] Successfully updated database for FMT.V
+[2025-03-07T01:48:12.194Z] [INFO] Pausing after Yahoo fetch for FNAU.CN for 1.5 seconds
+[2025-03-07T01:48:17.655Z] [INFO] Pausing after TradingView fetch for FNAU.CN for 1.5 seconds
+[INFO] Successfully updated database for FNAU.CN
+[2025-03-07T01:48:19.447Z] [INFO] Pausing after Yahoo fetch for FNM.V for 1.5 seconds
+[2025-03-07T01:48:24.860Z] [INFO] Pausing after TradingView fetch for FNM.V for 1.5 seconds
+[INFO] Successfully updated database for FNM.V
+[2025-03-07T01:48:26.677Z] [INFO] Pausing after Yahoo fetch for FNV.TO for 1.5 seconds
+[2025-03-07T01:48:31.689Z] [INFO] Pausing after TradingView fetch for FNV.TO for 1.5 seconds
+[INFO] Successfully updated database for FNV.TO
+[2025-03-07T01:48:33.478Z] [INFO] Pausing after Yahoo fetch for FOR.V for 1.5 seconds
+[2025-03-07T01:48:38.912Z] [INFO] Pausing after TradingView fetch for FOR.V for 1.5 seconds
+[INFO] Successfully updated database for FOR.V
+[2025-03-07T01:48:40.722Z] [INFO] Pausing after Yahoo fetch for FPC.V for 1.5 seconds
+[2025-03-07T01:48:46.115Z] [INFO] Pausing after TradingView fetch for FPC.V for 1.5 seconds
+[INFO] Successfully updated database for FPC.V
+[2025-03-07T01:48:47.910Z] [INFO] Pausing after Yahoo fetch for FRED.V for 1.5 seconds
+[2025-03-07T01:48:53.395Z] [INFO] Pausing after TradingView fetch for FRED.V for 1.5 seconds
+[INFO] Successfully updated database for FRED.V
+[2025-03-07T01:48:55.187Z] [INFO] Pausing after Yahoo fetch for FRG.CN for 1.5 seconds
+[2025-03-07T01:49:01.500Z] [INFO] Pausing after TradingView fetch for FRG.CN for 1.5 seconds
+[INFO] Successfully updated database for FRG.CN
+[2025-03-07T01:49:03.310Z] [INFO] Pausing after Yahoo fetch for FURY.TO for 1.5 seconds
+[2025-03-07T01:49:08.870Z] [INFO] Pausing after TradingView fetch for FURY.TO for 1.5 seconds
+[INFO] Successfully updated database for FURY.TO
+[2025-03-07T01:49:10.664Z] [INFO] Pausing after Yahoo fetch for FVI.TO for 1.5 seconds
+[2025-03-07T01:49:15.656Z] [INFO] Pausing after TradingView fetch for FVI.TO for 1.5 seconds
+[INFO] Successfully updated database for FVI.TO
+[2025-03-07T01:49:17.475Z] [INFO] Pausing after Yahoo fetch for FVL.TO for 1.5 seconds
+[2025-03-07T01:49:22.887Z] [INFO] Pausing after TradingView fetch for FVL.TO for 1.5 seconds
+[INFO] Successfully updated database for FVL.TO
+[2025-03-07T01:49:24.687Z] [INFO] Pausing after Yahoo fetch for GAL.V for 1.5 seconds
+[2025-03-07T01:49:29.732Z] [INFO] Pausing after TradingView fetch for GAL.V for 1.5 seconds
+[INFO] Successfully updated database for GAL.V
+[2025-03-07T01:49:31.557Z] [INFO] Pausing after Yahoo fetch for GAU.TO for 1.5 seconds
+[2025-03-07T01:49:40.029Z] [INFO] Pausing after TradingView fetch for GAU.TO for 1.5 seconds
+[INFO] Successfully updated database for GAU.TO
+[2025-03-07T01:49:41.812Z] [INFO] Pausing after Yahoo fetch for GBRC.V for 1.5 seconds
+[2025-03-07T01:49:47.322Z] [INFO] Pausing after TradingView fetch for GBRC.V for 1.5 seconds
+[INFO] Successfully updated database for GBRC.V
+[2025-03-07T01:49:49.122Z] [INFO] Pausing after Yahoo fetch for GDX.V for 1.5 seconds
+[2025-03-07T01:49:54.954Z] [INFO] Pausing after TradingView fetch for GDX.V for 1.5 seconds
+[INFO] Successfully updated database for GDX.V
+[2025-03-07T01:49:56.753Z] [INFO] Pausing after Yahoo fetch for GFG.V for 1.5 seconds
+[2025-03-07T01:50:02.203Z] [INFO] Pausing after TradingView fetch for GFG.V for 1.5 seconds
+[INFO] Successfully updated database for GFG.V
+[2025-03-07T01:50:04.020Z] [INFO] Pausing after Yahoo fetch for G.TO for 1.5 seconds
+[2025-03-07T01:50:08.849Z] [INFO] Pausing after TradingView fetch for G.TO for 1.5 seconds
+[INFO] Successfully updated database for G.TO
+[2025-03-07T01:50:10.850Z] [INFO] Pausing after Yahoo fetch for GCC.CN for 1.5 seconds
+[2025-03-07T01:50:16.398Z] [INFO] Pausing after TradingView fetch for GCC.CN for 1.5 seconds
+[INFO] Successfully updated database for GCC.CN
+[2025-03-07T01:50:18.204Z] [INFO] Pausing after Yahoo fetch for GHRT.V for 1.5 seconds
+[2025-03-07T01:50:23.546Z] [INFO] Pausing after TradingView fetch for GHRT.V for 1.5 seconds
+[INFO] Successfully updated database for GHRT.V
+[2025-03-07T01:50:25.334Z] [INFO] Pausing after Yahoo fetch for GG.V for 1.5 seconds
+[2025-03-07T01:50:31.070Z] [INFO] Pausing after TradingView fetch for GG.V for 1.5 seconds
+[INFO] Successfully updated database for GG.V
+[2025-03-07T01:50:32.868Z] [INFO] Pausing after Yahoo fetch for GGA.V for 1.5 seconds
+[2025-03-07T01:50:38.227Z] [INFO] Pausing after TradingView fetch for GGA.V for 1.5 seconds
+[INFO] Successfully updated database for GGA.V
+[2025-03-07T01:50:40.068Z] [INFO] Pausing after Yahoo fetch for GGD.TO for 1.5 seconds
+[2025-03-07T01:50:45.469Z] [INFO] Pausing after TradingView fetch for GGD.TO for 1.5 seconds
+[INFO] Successfully updated database for GGD.TO
+[2025-03-07T01:50:47.274Z] [INFO] Pausing after Yahoo fetch for GGL.V for 1.5 seconds
+[2025-03-07T01:50:52.681Z] [INFO] Pausing after TradingView fetch for GGL.V for 1.5 seconds
+[INFO] Successfully updated database for GGL.V
+[2025-03-07T01:50:54.638Z] [INFO] Pausing after Yahoo fetch for GGM.V for 1.5 seconds
+[2025-03-07T01:51:00.050Z] [INFO] Pausing after TradingView fetch for GGM.V for 1.5 seconds
+[INFO] Successfully updated database for GGM.V
+[2025-03-07T01:51:01.907Z] [INFO] Pausing after Yahoo fetch for GGO.V for 1.5 seconds
+[2025-03-07T01:51:05.483Z] [INFO] Pausing after TradingView fetch for GGO.V for 1.5 seconds
+[INFO] Successfully updated database for GGO.V
+[2025-03-07T01:51:07.292Z] [INFO] Pausing after Yahoo fetch for GLDC.V for 1.5 seconds
+[2025-03-07T01:51:12.710Z] [INFO] Pausing after TradingView fetch for GLDC.V for 1.5 seconds
+[INFO] Successfully updated database for GLDC.V
+[2025-03-07T01:51:14.502Z] [INFO] Pausing after Yahoo fetch for GLDN.V for 1.5 seconds
+[2025-03-07T01:51:20.372Z] [INFO] Pausing after TradingView fetch for GLDN.V for 1.5 seconds
+[INFO] Successfully updated database for GLDN.V
+[2025-03-07T01:51:22.168Z] [INFO] Pausing after Yahoo fetch for GLM.CN for 1.5 seconds
+[2025-03-07T01:51:27.610Z] [INFO] Pausing after TradingView fetch for GLM.CN for 1.5 seconds
+[INFO] Successfully updated database for GLM.CN
+[2025-03-07T01:51:29.398Z] [INFO] Pausing after Yahoo fetch for GMIN.TO for 1.5 seconds
+[2025-03-07T01:51:34.822Z] [INFO] Pausing after TradingView fetch for GMIN.TO for 1.5 seconds
+[INFO] Successfully updated database for GMIN.TO
+[2025-03-07T01:51:36.617Z] [INFO] Pausing after Yahoo fetch for GMTN.TO for 1.5 seconds
+[2025-03-07T01:51:41.848Z] [INFO] Pausing after TradingView fetch for GMTN.TO for 1.5 seconds
+[INFO] Successfully updated database for GMTN.TO
+[2025-03-07T01:51:43.643Z] [INFO] Pausing after Yahoo fetch for GMV.V for 1.5 seconds
+[2025-03-07T01:51:49.006Z] [INFO] Pausing after TradingView fetch for GMV.V for 1.5 seconds
+[INFO] Successfully updated database for GMV.V
+[2025-03-07T01:51:50.986Z] [INFO] Pausing after Yahoo fetch for GMX.TO for 1.5 seconds
+[2025-03-07T01:51:56.019Z] [INFO] Pausing after TradingView fetch for GMX.TO for 1.5 seconds
+[INFO] Successfully updated database for GMX.TO
+[2025-03-07T01:51:57.817Z] [INFO] Pausing after Yahoo fetch for GNG.V for 1.5 seconds
+[2025-03-07T01:52:03.416Z] [INFO] Pausing after TradingView fetch for GNG.V for 1.5 seconds
+[INFO] Successfully updated database for GNG.V
+[2025-03-07T01:52:05.210Z] [INFO] Pausing after Yahoo fetch for GOLD.TO for 1.5 seconds
+[2025-03-07T01:52:10.462Z] [INFO] Pausing after TradingView fetch for GOLD.TO for 1.5 seconds
+[INFO] Successfully updated database for GOLD.TO
+[2025-03-07T01:52:12.248Z] [INFO] Pausing after Yahoo fetch for GOT.V for 1.5 seconds
+[2025-03-07T01:52:17.694Z] [INFO] Pausing after TradingView fetch for GOT.V for 1.5 seconds
+[INFO] Successfully updated database for GOT.V
+[2025-03-07T01:52:19.489Z] [INFO] Pausing after Yahoo fetch for GPAC.V for 1.5 seconds
+[2025-03-07T01:52:24.885Z] [INFO] Pausing after TradingView fetch for GPAC.V for 1.5 seconds
+[INFO] Successfully updated database for GPAC.V
+[2025-03-07T01:52:26.684Z] [INFO] Pausing after Yahoo fetch for GPG.V for 1.5 seconds
+[2025-03-07T01:52:32.137Z] [INFO] Pausing after TradingView fetch for GPG.V for 1.5 seconds
+[INFO] Successfully updated database for GPG.V
+[2025-03-07T01:52:33.936Z] [INFO] Pausing after Yahoo fetch for GTWO.TO for 1.5 seconds
+[2025-03-07T01:52:39.539Z] [INFO] Pausing after TradingView fetch for GTWO.TO for 1.5 seconds
+[INFO] Successfully updated database for GTWO.TO
+[2025-03-07T01:52:41.331Z] [INFO] Pausing after Yahoo fetch for GQ.V for 1.5 seconds
+[2025-03-07T01:52:46.878Z] [INFO] Pausing after TradingView fetch for GQ.V for 1.5 seconds
+[INFO] Successfully updated database for GQ.V
+[2025-03-07T01:52:48.679Z] [INFO] Pausing after Yahoo fetch for GQC.V for 1.5 seconds
+[2025-03-07T01:52:54.009Z] [INFO] Pausing after TradingView fetch for GQC.V for 1.5 seconds
+[INFO] Successfully updated database for GQC.V
+[2025-03-07T01:52:55.824Z] [INFO] Pausing after Yahoo fetch for GRC.TO for 1.5 seconds
+[2025-03-07T01:53:00.942Z] [INFO] Pausing after TradingView fetch for GRC.TO for 1.5 seconds
+[INFO] Successfully updated database for GRC.TO
+[2025-03-07T01:53:02.920Z] [INFO] Pausing after Yahoo fetch for GRG.V for 1.5 seconds
+[2025-03-07T01:53:08.365Z] [INFO] Pausing after TradingView fetch for GRG.V for 1.5 seconds
+[INFO] Successfully updated database for GRG.V
+[2025-03-07T01:53:10.153Z] [INFO] Pausing after Yahoo fetch for GRSL.V for 1.5 seconds
+[2025-03-07T01:53:15.466Z] [INFO] Pausing after TradingView fetch for GRSL.V for 1.5 seconds
+[INFO] Successfully updated database for GRSL.V
+[2025-03-07T01:53:17.453Z] [INFO] Pausing after Yahoo fetch for GSHR.V for 1.5 seconds
+[2025-03-07T01:53:22.933Z] [INFO] Pausing after TradingView fetch for GSHR.V for 1.5 seconds
+[INFO] Successfully updated database for GSHR.V
+[2025-03-07T01:53:24.724Z] [INFO] Pausing after Yahoo fetch for GSTM.V for 1.5 seconds
+[2025-03-07T01:53:30.095Z] [INFO] Pausing after TradingView fetch for GSTM.V for 1.5 seconds
+[INFO] Successfully updated database for GSTM.V
+[2025-03-07T01:53:31.884Z] [INFO] Retrying Yahoo Finance for GSVR.V for 5 seconds
+[2025-03-07T01:53:37.164Z] [INFO] Retrying Yahoo Finance for GSVR.V for 10 seconds
+[2025-03-07T01:53:47.435Z] [INFO] Pausing after Yahoo fetch for GSVR.V for 1.5 seconds
+[2025-03-07T01:53:52.936Z] [INFO] Pausing after TradingView fetch for GSVR.V for 1.5 seconds
+[INFO] Successfully updated database for GSVR.V
+[2025-03-07T01:53:54.717Z] [INFO] Pausing after Yahoo fetch for GTCH.CN for 1.5 seconds
+[2025-03-07T01:54:00.008Z] [INFO] Pausing after TradingView fetch for GTCH.CN for 1.5 seconds
+[INFO] Successfully updated database for GTCH.CN
+[2025-03-07T01:54:01.806Z] [INFO] Pausing after Yahoo fetch for GUN.V for 1.5 seconds
+[2025-03-07T01:54:07.144Z] [INFO] Pausing after TradingView fetch for GUN.V for 1.5 seconds
+[INFO] Successfully updated database for GUN.V
+[2025-03-07T01:54:08.933Z] [INFO] Pausing after Yahoo fetch for GUS.V for 1.5 seconds
+[2025-03-07T01:54:14.727Z] [INFO] Pausing after TradingView fetch for GUS.V for 1.5 seconds
+[INFO] Successfully updated database for GUS.V
+[2025-03-07T01:54:16.564Z] [INFO] Pausing after Yahoo fetch for GWM.V for 1.5 seconds
+[2025-03-07T01:54:21.901Z] [INFO] Pausing after TradingView fetch for GWM.V for 1.5 seconds
+[INFO] Successfully updated database for GWM.V
+[2025-03-07T01:54:23.725Z] [INFO] Pausing after Yahoo fetch for GXX.V for 1.5 seconds
+[2025-03-07T01:54:29.131Z] [INFO] Pausing after TradingView fetch for GXX.V for 1.5 seconds
+[INFO] Successfully updated database for GXX.V
+[2025-03-07T01:54:30.942Z] [INFO] Pausing after Yahoo fetch for HAMR.CN for 1.5 seconds
+[2025-03-07T01:54:36.574Z] [INFO] Pausing after TradingView fetch for HAMR.CN for 1.5 seconds
+[INFO] Successfully updated database for HAMR.CN
+[2025-03-07T01:54:38.364Z] [INFO] Pausing after Yahoo fetch for HML.CN for 1.5 seconds
+[2025-03-07T01:54:43.796Z] [INFO] Pausing after TradingView fetch for HML.CN for 1.5 seconds
+[INFO] Successfully updated database for HML.CN
+[2025-03-07T01:54:45.594Z] [INFO] Pausing after Yahoo fetch for HSLV.CN for 1.5 seconds
+[2025-03-07T01:54:50.864Z] [INFO] Pausing after TradingView fetch for HSLV.CN for 1.5 seconds
+[INFO] Successfully updated database for HSLV.CN
+[2025-03-07T01:54:52.666Z] [INFO] Pausing after Yahoo fetch for HSTR.V for 1.5 seconds
+[2025-03-07T01:54:59.811Z] [INFO] Pausing after TradingView fetch for HSTR.V for 1.5 seconds
+[INFO] Successfully updated database for HSTR.V
+[2025-03-07T01:55:01.599Z] [INFO] Pausing after Yahoo fetch for HUNT.CN for 1.5 seconds
+[2025-03-07T01:55:06.922Z] [INFO] Pausing after TradingView fetch for HUNT.CN for 1.5 seconds
+[INFO] Successfully updated database for HUNT.CN
+[2025-03-07T01:55:08.721Z] [INFO] Pausing after Yahoo fetch for HWY.V for 1.5 seconds
+[2025-03-07T01:55:14.054Z] [INFO] Pausing after TradingView fetch for HWY.V for 1.5 seconds
+[INFO] Successfully updated database for HWY.V
+[2025-03-07T01:55:15.841Z] [INFO] Pausing after Yahoo fetch for IAU.V for 1.5 seconds
+[2025-03-07T01:55:20.811Z] [INFO] Pausing after TradingView fetch for IAU.V for 1.5 seconds
+[INFO] Successfully updated database for IAU.V
+[2025-03-07T01:55:22.607Z] [INFO] Pausing after Yahoo fetch for IGO.V for 1.5 seconds
+[2025-03-07T01:55:27.903Z] [INFO] Pausing after TradingView fetch for IGO.V for 1.5 seconds
+[INFO] Successfully updated database for IGO.V
+[2025-03-07T01:55:29.727Z] [INFO] Pausing after Yahoo fetch for IMG.TO for 1.5 seconds
+[2025-03-07T01:55:34.770Z] [INFO] Pausing after TradingView fetch for IMG.TO for 1.5 seconds
+[INFO] Successfully updated database for IMG.TO
+[2025-03-07T01:55:36.591Z] [INFO] Pausing after Yahoo fetch for IPT.V for 1.5 seconds
+[2025-03-07T01:55:41.946Z] [INFO] Pausing after TradingView fetch for IPT.V for 1.5 seconds
+[INFO] Successfully updated database for IPT.V
+[2025-03-07T01:55:43.735Z] [INFO] Pausing after Yahoo fetch for IVS.V for 1.5 seconds
+[2025-03-07T01:55:49.193Z] [INFO] Pausing after TradingView fetch for IVS.V for 1.5 seconds
+[INFO] Successfully updated database for IVS.V
+[2025-03-07T01:55:51.012Z] [INFO] Pausing after Yahoo fetch for JAG.TO for 1.5 seconds
+[2025-03-07T01:55:56.613Z] [INFO] Pausing after TradingView fetch for JAG.TO for 1.5 seconds
+[INFO] Successfully updated database for JAG.TO
+[2025-03-07T01:55:58.410Z] [INFO] Pausing after Yahoo fetch for JG.V for 1.5 seconds
+[2025-03-07T01:56:03.753Z] [INFO] Pausing after TradingView fetch for JG.V for 1.5 seconds
+[INFO] Successfully updated database for JG.V
+[2025-03-07T01:56:05.543Z] [INFO] Retrying Yahoo Finance for JUB.H for 5 seconds
+[2025-03-07T01:56:10.807Z] [INFO] Retrying Yahoo Finance for JUB.H for 10 seconds
+[2025-03-07T01:56:21.090Z] [INFO] Pausing after Yahoo fetch for JUB.H for 1.5 seconds
+[2025-03-07T01:56:26.458Z] [INFO] Pausing after TradingView fetch for JUB.H for 1.5 seconds
+[INFO] Successfully updated database for JUB.H
+[2025-03-07T01:56:28.244Z] [INFO] Pausing after Yahoo fetch for JUGR.V for 1.5 seconds
+[2025-03-07T01:56:33.886Z] [INFO] Pausing after TradingView fetch for JUGR.V for 1.5 seconds
+[INFO] Successfully updated database for JUGR.V
+[2025-03-07T01:56:35.677Z] [INFO] Pausing after Yahoo fetch for JZR.V for 1.5 seconds
+[2025-03-07T01:56:41.208Z] [INFO] Pausing after TradingView fetch for JZR.V for 1.5 seconds
+[INFO] Successfully updated database for JZR.V
+[2025-03-07T01:56:43.010Z] [INFO] Pausing after Yahoo fetch for K.TO for 1.5 seconds
+[2025-03-07T01:56:48.589Z] [INFO] Pausing after TradingView fetch for K.TO for 1.5 seconds
+[INFO] Successfully updated database for K.TO
+[2025-03-07T01:56:50.385Z] [INFO] Pausing after Yahoo fetch for KALO.V for 1.5 seconds
+[2025-03-07T01:56:55.854Z] [INFO] Pausing after TradingView fetch for KALO.V for 1.5 seconds
+[INFO] Successfully updated database for KALO.V
+[2025-03-07T01:56:57.653Z] [INFO] Pausing after Yahoo fetch for KAPA.V for 1.5 seconds
+[2025-03-07T01:57:03.044Z] [INFO] Pausing after TradingView fetch for KAPA.V for 1.5 seconds
+[INFO] Successfully updated database for KAPA.V
+[2025-03-07T01:57:04.835Z] [INFO] Pausing after Yahoo fetch for KFR.V for 1.5 seconds
+[2025-03-07T01:57:10.292Z] [INFO] Pausing after TradingView fetch for KFR.V for 1.5 seconds
+[INFO] Successfully updated database for KFR.V
+[2025-03-07T01:57:12.074Z] [INFO] Pausing after Yahoo fetch for KG.V for 1.5 seconds
+[2025-03-07T01:57:17.096Z] [INFO] Pausing after TradingView fetch for KG.V for 1.5 seconds
+[INFO] Successfully updated database for KG.V
+[2025-03-07T01:57:18.895Z] [INFO] Pausing after Yahoo fetch for KGC.V for 1.5 seconds
+[2025-03-07T01:57:24.359Z] [INFO] Pausing after TradingView fetch for KGC.V for 1.5 seconds
+[INFO] Successfully updated database for KGC.V
+[2025-03-07T01:57:26.187Z] [INFO] Pausing after Yahoo fetch for KLD.V for 1.5 seconds
+[2025-03-07T01:57:31.647Z] [INFO] Pausing after TradingView fetch for KLD.V for 1.5 seconds
+[INFO] Successfully updated database for KLD.V
+[2025-03-07T01:57:33.444Z] [INFO] Pausing after Yahoo fetch for KLM.V for 1.5 seconds
+[2025-03-07T01:57:38.839Z] [INFO] Pausing after TradingView fetch for KLM.V for 1.5 seconds
+[INFO] Successfully updated database for KLM.V
+[2025-03-07T01:57:40.637Z] [INFO] Pausing after Yahoo fetch for KNG.V for 1.5 seconds
+[2025-03-07T01:57:45.994Z] [INFO] Pausing after TradingView fetch for KNG.V for 1.5 seconds
+[INFO] Successfully updated database for KNG.V
+[2025-03-07T01:57:47.785Z] [INFO] Pausing after Yahoo fetch for KNT.TO for 1.5 seconds
+[2025-03-07T01:57:53.405Z] [INFO] Pausing after TradingView fetch for KNT.TO for 1.5 seconds
+[INFO] Successfully updated database for KNT.TO
+[2025-03-07T01:57:55.197Z] [INFO] Pausing after Yahoo fetch for KOG.CN for 1.5 seconds
+[2025-03-07T01:58:00.513Z] [INFO] Pausing after TradingView fetch for KOG.CN for 1.5 seconds
+[INFO] Successfully updated database for KOG.CN
+[2025-03-07T01:58:02.305Z] [INFO] Pausing after Yahoo fetch for KORE.V for 1.5 seconds
+[2025-03-07T01:58:08.051Z] [INFO] Pausing after TradingView fetch for KORE.V for 1.5 seconds
+[INFO] Successfully updated database for KORE.V
+[2025-03-07T01:58:09.838Z] [INFO] Pausing after Yahoo fetch for KRI.V for 1.5 seconds
+[2025-03-07T01:58:15.311Z] [INFO] Pausing after TradingView fetch for KRI.V for 1.5 seconds
+[INFO] Successfully updated database for KRI.V
+[2025-03-07T01:58:17.102Z] [INFO] Pausing after Yahoo fetch for KS.V for 1.5 seconds
+[2025-03-07T01:58:22.960Z] [INFO] Pausing after TradingView fetch for KS.V for 1.5 seconds
+[INFO] Successfully updated database for KS.V
+[2025-03-07T01:58:24.768Z] [INFO] Pausing after Yahoo fetch for KTN.V for 1.5 seconds
+[2025-03-07T01:58:30.323Z] [INFO] Pausing after TradingView fetch for KTN.V for 1.5 seconds
+[INFO] Successfully updated database for KTN.V
+[2025-03-07T01:58:32.131Z] [INFO] Pausing after Yahoo fetch for KTO.V for 1.5 seconds
+[2025-03-07T01:58:37.520Z] [INFO] Pausing after TradingView fetch for KTO.V for 1.5 seconds
+[INFO] Successfully updated database for KTO.V
+[2025-03-07T01:58:39.298Z] [INFO] Pausing after Yahoo fetch for KUYA.CN for 1.5 seconds
+[2025-03-07T01:58:44.907Z] [INFO] Pausing after TradingView fetch for KUYA.CN for 1.5 seconds
+[INFO] Successfully updated database for KUYA.CN
+[2025-03-07T01:58:46.696Z] [INFO] Pausing after Yahoo fetch for LAB.V for 1.5 seconds
+[2025-03-07T01:58:52.262Z] [INFO] Pausing after TradingView fetch for LAB.V for 1.5 seconds
+[INFO] Successfully updated database for LAB.V
+[2025-03-07T01:58:54.251Z] [INFO] Pausing after Yahoo fetch for LECR.CN for 1.5 seconds
+[2025-03-07T01:58:59.694Z] [INFO] Pausing after TradingView fetch for LECR.CN for 1.5 seconds
+[INFO] Successfully updated database for LECR.CN
+[2025-03-07T01:59:01.518Z] [INFO] Pausing after Yahoo fetch for LEGY.V for 1.5 seconds
+[2025-03-07T01:59:06.455Z] [INFO] Pausing after TradingView fetch for LEGY.V for 1.5 seconds
+[INFO] Successfully updated database for LEGY.V
+[2025-03-07T01:59:08.268Z] [INFO] Pausing after Yahoo fetch for LFLR.CN for 1.5 seconds
+[2025-03-07T01:59:13.738Z] [INFO] Pausing after TradingView fetch for LFLR.CN for 1.5 seconds
+[INFO] Successfully updated database for LFLR.CN
+[2025-03-07T01:59:15.553Z] [INFO] Pausing after Yahoo fetch for LG.V for 1.5 seconds
+[2025-03-07T01:59:21.055Z] [INFO] Pausing after TradingView fetch for LG.V for 1.5 seconds
+[INFO] Successfully updated database for LG.V
+[2025-03-07T01:59:22.939Z] [INFO] Pausing after Yahoo fetch for LGC.V for 1.5 seconds
+[2025-03-07T01:59:28.775Z] [INFO] Pausing after TradingView fetch for LGC.V for 1.5 seconds
+[INFO] Successfully updated database for LGC.V
+[2025-03-07T01:59:30.561Z] [INFO] Pausing after Yahoo fetch for LGD.TO for 1.5 seconds
+[2025-03-07T01:59:35.862Z] [INFO] Pausing after TradingView fetch for LGD.TO for 1.5 seconds
+[INFO] Successfully updated database for LGD.TO
+[2025-03-07T01:59:37.660Z] [INFO] Pausing after Yahoo fetch for LIO.V for 1.5 seconds
+[2025-03-07T01:59:42.735Z] [INFO] Pausing after TradingView fetch for LIO.V for 1.5 seconds
+[INFO] Successfully updated database for LIO.V
+[2025-03-07T01:59:44.552Z] [INFO] Pausing after Yahoo fetch for LME.V for 1.5 seconds
+[2025-03-07T01:59:50.335Z] [INFO] Pausing after TradingView fetch for LME.V for 1.5 seconds
+[INFO] Successfully updated database for LME.V
+[2025-03-07T01:59:52.130Z] [INFO] Pausing after Yahoo fetch for LMG.V for 1.5 seconds
+[2025-03-07T01:59:58.525Z] [INFO] Pausing after TradingView fetch for LMG.V for 1.5 seconds
+[INFO] Successfully updated database for LMG.V
+[2025-03-07T02:00:00.328Z] [INFO] Pausing after Yahoo fetch for LN.TO for 1.5 seconds
+[2025-03-07T02:00:05.739Z] [INFO] Pausing after TradingView fetch for LN.TO for 1.5 seconds
+[INFO] Successfully updated database for LN.TO
+[2025-03-07T02:00:07.531Z] [INFO] Pausing after Yahoo fetch for LOD.V for 1.5 seconds
+[2025-03-07T02:00:13.202Z] [INFO] Pausing after TradingView fetch for LOD.V for 1.5 seconds
+[INFO] Successfully updated database for LOD.V
+[2025-03-07T02:00:15.007Z] [INFO] Pausing after Yahoo fetch for LOT.V for 1.5 seconds
+[2025-03-07T02:00:20.361Z] [INFO] Pausing after TradingView fetch for LOT.V for 1.5 seconds
+[INFO] Successfully updated database for LOT.V
+[2025-03-07T02:00:22.164Z] [INFO] Pausing after Yahoo fetch for LPK.V for 1.5 seconds
+[2025-03-07T02:00:27.559Z] [INFO] Pausing after TradingView fetch for LPK.V for 1.5 seconds
+[INFO] Successfully updated database for LPK.V
+[2025-03-07T02:00:29.371Z] [INFO] Pausing after Yahoo fetch for LSTR.V for 1.5 seconds
+[2025-03-07T02:00:34.820Z] [INFO] Pausing after TradingView fetch for LSTR.V for 1.5 seconds
+[INFO] Successfully updated database for LSTR.V
+[2025-03-07T02:00:36.613Z] [INFO] Pausing after Yahoo fetch for LUCA.V for 1.5 seconds
+[2025-03-07T02:00:42.183Z] [INFO] Pausing after TradingView fetch for LUCA.V for 1.5 seconds
+[INFO] Successfully updated database for LUCA.V
+[2025-03-07T02:00:43.992Z] [INFO] Pausing after Yahoo fetch for LUG.TO for 1.5 seconds
+[2025-03-07T02:00:49.519Z] [INFO] Pausing after TradingView fetch for LUG.TO for 1.5 seconds
+[INFO] Successfully updated database for LUG.TO
+[2025-03-07T02:00:51.326Z] [INFO] Retrying Yahoo Finance for LUM.V for 5 seconds
+[2025-03-07T02:00:56.603Z] [INFO] Retrying Yahoo Finance for LUM.V for 10 seconds
+[2025-03-07T02:01:06.888Z] [INFO] Pausing after Yahoo fetch for LUM.V for 1.5 seconds
+[2025-03-07T02:01:12.399Z] [INFO] Pausing after TradingView fetch for LUM.V for 1.5 seconds
+[INFO] Successfully updated database for LUM.V
+[2025-03-07T02:01:14.194Z] [INFO] Pausing after Yahoo fetch for LVG.V for 1.5 seconds
+[2025-03-07T02:01:19.757Z] [INFO] Pausing after TradingView fetch for LVG.V for 1.5 seconds
+[INFO] Successfully updated database for LVG.V
+[2025-03-07T02:01:21.556Z] [INFO] Pausing after Yahoo fetch for MAE.V for 1.5 seconds
+[2025-03-07T02:01:28.106Z] [INFO] Pausing after TradingView fetch for MAE.V for 1.5 seconds
+[INFO] Successfully updated database for MAE.V
+[2025-03-07T02:01:29.969Z] [INFO] Pausing after Yahoo fetch for MAG.TO for 1.5 seconds
+[2025-03-07T02:01:34.978Z] [INFO] Pausing after TradingView fetch for MAG.TO for 1.5 seconds
+[INFO] Successfully updated database for MAG.TO
+[2025-03-07T02:01:36.805Z] [INFO] Retrying Yahoo Finance for MAI.V for 5 seconds
+[2025-03-07T02:01:42.083Z] [INFO] Retrying Yahoo Finance for MAI.V for 10 seconds
+[2025-03-07T02:01:52.352Z] [INFO] Pausing after Yahoo fetch for MAI.V for 1.5 seconds
+[2025-03-07T02:01:57.489Z] [INFO] Pausing after TradingView fetch for MAI.V for 1.5 seconds
+[INFO] Successfully updated database for MAI.V
+[2025-03-07T02:01:59.298Z] [INFO] Pausing after Yahoo fetch for MAU.V for 1.5 seconds
+[2025-03-07T02:02:05.119Z] [INFO] Pausing after TradingView fetch for MAU.V for 1.5 seconds
+[INFO] Successfully updated database for MAU.V
+[2025-03-07T02:02:06.934Z] [INFO] Pausing after Yahoo fetch for MEK.V for 1.5 seconds
+[2025-03-07T02:02:12.491Z] [INFO] Pausing after TradingView fetch for MEK.V for 1.5 seconds
+[INFO] Successfully updated database for MEK.V
+[2025-03-07T02:02:14.375Z] [INFO] Pausing after Yahoo fetch for MEX.V for 1.5 seconds
+[2025-03-07T02:02:19.443Z] [INFO] Pausing after TradingView fetch for MEX.V for 1.5 seconds
+[INFO] Successfully updated database for MEX.V
+[2025-03-07T02:02:21.302Z] [INFO] Pausing after Yahoo fetch for MFG.V for 1.5 seconds
+[2025-03-07T02:02:26.775Z] [INFO] Pausing after TradingView fetch for MFG.V for 1.5 seconds
+[INFO] Successfully updated database for MFG.V
+[2025-03-07T02:02:28.556Z] [INFO] Pausing after Yahoo fetch for MFL.V for 1.5 seconds
+[2025-03-07T02:02:33.370Z] [INFO] Pausing after TradingView fetch for MFL.V for 1.5 seconds
+[INFO] Successfully updated database for MFL.V
+[2025-03-07T02:02:35.210Z] [INFO] Pausing after Yahoo fetch for MGG.V for 1.5 seconds
+[2025-03-07T02:02:40.246Z] [INFO] Pausing after TradingView fetch for MGG.V for 1.5 seconds
+[INFO] Successfully updated database for MGG.V
+[2025-03-07T02:02:42.036Z] [INFO] Pausing after Yahoo fetch for MGM.V for 1.5 seconds
+[2025-03-07T02:02:47.479Z] [INFO] Pausing after TradingView fetch for MGM.V for 1.5 seconds
+[INFO] Successfully updated database for MGM.V
+[2025-03-07T02:02:49.265Z] [INFO] Pausing after Yahoo fetch for MIS.CN for 1.5 seconds
+[2025-03-07T02:02:54.809Z] [INFO] Pausing after TradingView fetch for MIS.CN for 1.5 seconds
+[INFO] Successfully updated database for MIS.CN
+[2025-03-07T02:02:56.620Z] [INFO] Pausing after Yahoo fetch for MJS.V for 1.5 seconds
+[2025-03-07T02:03:02.238Z] [INFO] Pausing after TradingView fetch for MJS.V for 1.5 seconds
+[INFO] Successfully updated database for MJS.V
+[2025-03-07T02:03:04.041Z] [INFO] Pausing after Yahoo fetch for MKO.V for 1.5 seconds
+[2025-03-07T02:03:09.924Z] [INFO] Pausing after TradingView fetch for MKO.V for 1.5 seconds
+[INFO] Successfully updated database for MKO.V
+[2025-03-07T02:03:11.730Z] [INFO] Retrying Yahoo Finance for MLM.TO for 5 seconds
+[2025-03-07T02:03:16.989Z] [INFO] Retrying Yahoo Finance for MLM.TO for 10 seconds
+[2025-03-07T02:03:27.301Z] [INFO] Pausing after Yahoo fetch for MLM.TO for 1.5 seconds
+[2025-03-07T02:03:32.296Z] [INFO] Pausing after TradingView fetch for MLM.TO for 1.5 seconds
+[INFO] Successfully updated database for MLM.TO
+[2025-03-07T02:03:34.098Z] [INFO] Pausing after Yahoo fetch for MMET.CN for 1.5 seconds
+[2025-03-07T02:03:39.059Z] [INFO] Pausing after TradingView fetch for MMET.CN for 1.5 seconds
+[INFO] Successfully updated database for MMET.CN
+[2025-03-07T02:03:40.856Z] [INFO] Pausing after Yahoo fetch for MMG.V for 1.5 seconds
+[2025-03-07T02:03:46.404Z] [INFO] Pausing after TradingView fetch for MMG.V for 1.5 seconds
+[INFO] Successfully updated database for MMG.V
+[2025-03-07T02:03:48.199Z] [INFO] Pausing after Yahoo fetch for MMN.V for 1.5 seconds
+[2025-03-07T02:03:53.803Z] [INFO] Pausing after TradingView fetch for MMN.V for 1.5 seconds
+[INFO] Successfully updated database for MMN.V
+[2025-03-07T02:03:55.592Z] [INFO] Pausing after Yahoo fetch for MMY.V for 1.5 seconds
+[2025-03-07T02:04:01.470Z] [INFO] Pausing after TradingView fetch for MMY.V for 1.5 seconds
+[INFO] Successfully updated database for MMY.V
+[2025-03-07T02:04:03.289Z] [INFO] Pausing after Yahoo fetch for MND.TO for 1.5 seconds
+[2025-03-07T02:04:08.340Z] [INFO] Pausing after TradingView fetch for MND.TO for 1.5 seconds
+[INFO] Successfully updated database for MND.TO
+[2025-03-07T02:04:10.145Z] [INFO] Pausing after Yahoo fetch for MNO.TO for 1.5 seconds
+[2025-03-07T02:04:16.047Z] [INFO] Pausing after TradingView fetch for MNO.TO for 1.5 seconds
+[INFO] Successfully updated database for MNO.TO
+[2025-03-07T02:04:17.860Z] [INFO] Pausing after Yahoo fetch for MRZ.V for 1.5 seconds
+[2025-03-07T02:04:23.419Z] [INFO] Pausing after TradingView fetch for MRZ.V for 1.5 seconds
+[INFO] Successfully updated database for MRZ.V
+[2025-03-07T02:04:25.215Z] [INFO] Pausing after Yahoo fetch for MSA.TO for 1.5 seconds
+[2025-03-07T02:04:30.322Z] [INFO] Pausing after TradingView fetch for MSA.TO for 1.5 seconds
+[INFO] Successfully updated database for MSA.TO
+[2025-03-07T02:04:32.118Z] [INFO] Pausing after Yahoo fetch for MSG.V for 1.5 seconds
+[2025-03-07T02:04:39.837Z] [INFO] Pausing after TradingView fetch for MSG.V for 1.5 seconds
+[INFO] Successfully updated database for MSG.V
+[2025-03-07T02:04:41.648Z] [INFO] Pausing after Yahoo fetch for MSR.V for 1.5 seconds
+[2025-03-07T02:04:47.252Z] [INFO] Pausing after TradingView fetch for MSR.V for 1.5 seconds
+[INFO] Successfully updated database for MSR.V
+[2025-03-07T02:04:49.045Z] [INFO] Pausing after Yahoo fetch for MSV.TO for 1.5 seconds
+[2025-03-07T02:04:54.568Z] [INFO] Pausing after TradingView fetch for MSV.TO for 1.5 seconds
+[INFO] Successfully updated database for MSV.TO
+[2025-03-07T02:04:56.378Z] [INFO] Retrying Yahoo Finance for MTA.V for 5 seconds
+[2025-03-07T02:05:01.668Z] [INFO] Retrying Yahoo Finance for MTA.V for 10 seconds
+[2025-03-07T02:05:11.941Z] [INFO] Pausing after Yahoo fetch for MTA.V for 1.5 seconds
+[2025-03-07T02:05:17.011Z] [INFO] Pausing after TradingView fetch for MTA.V for 1.5 seconds
+[INFO] Successfully updated database for MTA.V
+[2025-03-07T02:05:18.807Z] [INFO] Pausing after Yahoo fetch for MTS.V for 1.5 seconds
+[2025-03-07T02:05:24.347Z] [INFO] Pausing after TradingView fetch for MTS.V for 1.5 seconds
+[INFO] Successfully updated database for MTS.V
+[2025-03-07T02:05:26.146Z] [INFO] Pausing after Yahoo fetch for MTT.V for 1.5 seconds
+[2025-03-07T02:05:31.572Z] [INFO] Pausing after TradingView fetch for MTT.V for 1.5 seconds
+[INFO] Successfully updated database for MTT.V
+[2025-03-07T02:05:33.360Z] [INFO] Pausing after Yahoo fetch for MUN.V for 1.5 seconds
+[2025-03-07T02:05:38.808Z] [INFO] Pausing after TradingView fetch for MUN.V for 1.5 seconds
+[INFO] Successfully updated database for MUN.V
+[2025-03-07T02:05:40.640Z] [INFO] Pausing after Yahoo fetch for MUX.TO for 1.5 seconds
+[2025-03-07T02:05:46.216Z] [INFO] Pausing after TradingView fetch for MUX.TO for 1.5 seconds
+[INFO] Successfully updated database for MUX.TO
+[2025-03-07T02:05:48.029Z] [INFO] Pausing after Yahoo fetch for NAU.V for 1.5 seconds
+[2025-03-07T02:05:53.545Z] [INFO] Pausing after TradingView fetch for NAU.V for 1.5 seconds
+[INFO] Successfully updated database for NAU.V
+[2025-03-07T02:05:55.334Z] [INFO] Pausing after Yahoo fetch for NBRK.CN for 1.5 seconds
+[2025-03-07T02:06:00.728Z] [INFO] Pausing after TradingView fetch for NBRK.CN for 1.5 seconds
+[INFO] Successfully updated database for NBRK.CN
+[2025-03-07T02:06:02.516Z] [INFO] Pausing after Yahoo fetch for NCAU.V for 1.5 seconds
+[2025-03-07T02:06:07.860Z] [INFO] Pausing after TradingView fetch for NCAU.V for 1.5 seconds
+[INFO] Successfully updated database for NCAU.V
+[2025-03-07T02:06:09.651Z] [INFO] Pausing after Yahoo fetch for NCX.V for 1.5 seconds
+[2025-03-07T02:06:15.106Z] [INFO] Pausing after TradingView fetch for NCX.V for 1.5 seconds
+[INFO] Successfully updated database for NCX.V
+[2025-03-07T02:06:16.907Z] [INFO] Pausing after Yahoo fetch for NDM.TO for 1.5 seconds
+[2025-03-07T02:06:22.352Z] [INFO] Pausing after TradingView fetch for NDM.TO for 1.5 seconds
+[INFO] Successfully updated database for NDM.TO
+[2025-03-07T02:06:24.148Z] [INFO] Pausing after Yahoo fetch for NEV.V for 1.5 seconds
+[2025-03-07T02:06:29.608Z] [INFO] Pausing after TradingView fetch for NEV.V for 1.5 seconds
+[INFO] Successfully updated database for NEV.V
+[2025-03-07T02:06:31.394Z] [INFO] Pausing after Yahoo fetch for NEXG.V for 1.5 seconds
+[2025-03-07T02:06:37.220Z] [INFO] Pausing after TradingView fetch for NEXG.V for 1.5 seconds
+[INFO] Successfully updated database for NEXG.V
+[2025-03-07T02:06:39.026Z] [INFO] Pausing after Yahoo fetch for NFG.V for 1.5 seconds
+[2025-03-07T02:06:44.622Z] [INFO] Pausing after TradingView fetch for NFG.V for 1.5 seconds
+[INFO] Successfully updated database for NFG.V
+[2025-03-07T02:06:46.426Z] [INFO] Pausing after Yahoo fetch for NG.TO for 1.5 seconds
+[2025-03-07T02:06:51.977Z] [INFO] Pausing after TradingView fetch for NG.TO for 1.5 seconds
+[INFO] Successfully updated database for NG.TO
+[2025-03-07T02:06:53.799Z] [INFO] Pausing after Yahoo fetch for NGD.TO for 1.5 seconds
+[2025-03-07T02:06:59.221Z] [INFO] Pausing after TradingView fetch for NGD.TO for 1.5 seconds
+[INFO] Successfully updated database for NGD.TO
+[2025-03-07T02:07:01.015Z] [INFO] Pausing after Yahoo fetch for NGEX.TO for 1.5 seconds
+[2025-03-07T02:07:06.438Z] [INFO] Pausing after TradingView fetch for NGEX.TO for 1.5 seconds
+[INFO] Successfully updated database for NGEX.TO
+[2025-03-07T02:07:08.251Z] [INFO] Pausing after Yahoo fetch for NILI.V for 1.5 seconds
+[2025-03-07T02:07:13.759Z] [INFO] Pausing after TradingView fetch for NILI.V for 1.5 seconds
+[INFO] Successfully updated database for NILI.V
+[2025-03-07T02:07:15.554Z] [INFO] Pausing after Yahoo fetch for NIM.V for 1.5 seconds
+[2025-03-07T02:07:20.940Z] [INFO] Pausing after TradingView fetch for NIM.V for 1.5 seconds
+[INFO] Successfully updated database for NIM.V
+[2025-03-07T02:07:22.728Z] [INFO] Pausing after Yahoo fetch for NKG.V for 1.5 seconds
+[2025-03-07T02:07:28.277Z] [INFO] Pausing after TradingView fetch for NKG.V for 1.5 seconds
+[INFO] Successfully updated database for NKG.V
+[2025-03-07T02:07:30.282Z] [INFO] Pausing after Yahoo fetch for NFLD.CN for 1.5 seconds
+[2025-03-07T02:07:35.747Z] [INFO] Pausing after TradingView fetch for NFLD.CN for 1.5 seconds
+[INFO] Successfully updated database for NFLD.CN
+[2025-03-07T02:07:37.548Z] [INFO] Pausing after Yahoo fetch for NL.V for 1.5 seconds
+[2025-03-07T02:07:43.056Z] [INFO] Pausing after TradingView fetch for NL.V for 1.5 seconds
+[INFO] Successfully updated database for NL.V
+[2025-03-07T02:07:44.850Z] [INFO] Pausing after Yahoo fetch for NOM.CN for 1.5 seconds
+[2025-03-07T02:07:50.537Z] [INFO] Pausing after TradingView fetch for NOM.CN for 1.5 seconds
+[INFO] Successfully updated database for NOM.CN
+[2025-03-07T02:07:52.331Z] [INFO] Pausing after Yahoo fetch for NPR.V for 1.5 seconds
+[2025-03-07T02:07:57.914Z] [INFO] Pausing after TradingView fetch for NPR.V for 1.5 seconds
+[INFO] Successfully updated database for NPR.V
+[2025-03-07T02:07:59.702Z] [INFO] Pausing after Yahoo fetch for NRC.V for 1.5 seconds
+[2025-03-07T02:08:04.997Z] [INFO] Pausing after TradingView fetch for NRC.V for 1.5 seconds
+[INFO] Successfully updated database for NRC.V
+[2025-03-07T02:08:06.782Z] [INFO] Pausing after Yahoo fetch for NSG.CN for 1.5 seconds
+[2025-03-07T02:08:12.847Z] [INFO] Pausing after TradingView fetch for NSG.CN for 1.5 seconds
+[INFO] Successfully updated database for NSG.CN
+[2025-03-07T02:08:14.633Z] [INFO] Pausing after Yahoo fetch for NTH.V for 1.5 seconds
+[2025-03-07T02:08:20.181Z] [INFO] Pausing after TradingView fetch for NTH.V for 1.5 seconds
+[INFO] Successfully updated database for NTH.V
+[2025-03-07T02:08:21.976Z] [INFO] Pausing after Yahoo fetch for NUAG.TO for 1.5 seconds
+[2025-03-07T02:08:27.526Z] [INFO] Pausing after TradingView fetch for NUAG.TO for 1.5 seconds
+[INFO] Successfully updated database for NUAG.TO
+[2025-03-07T02:08:29.332Z] [INFO] Pausing after Yahoo fetch for NVO.TO for 1.5 seconds
+[2025-03-07T02:08:35.130Z] [INFO] Pausing after TradingView fetch for NVO.TO for 1.5 seconds
+[INFO] Successfully updated database for NVO.TO
+[2025-03-07T02:08:36.947Z] [INFO] Pausing after Yahoo fetch for NVPC.CN for 1.5 seconds
+[2025-03-07T02:08:42.702Z] [INFO] Pausing after TradingView fetch for NVPC.CN for 1.5 seconds
+[INFO] Successfully updated database for NVPC.CN
+[2025-03-07T02:08:44.489Z] [INFO] Pausing after Yahoo fetch for OCG.V for 1.5 seconds
+[2025-03-07T02:08:50.031Z] [INFO] Pausing after TradingView fetch for OCG.V for 1.5 seconds
+[INFO] Successfully updated database for OCG.V
+[2025-03-07T02:08:51.829Z] [INFO] Pausing after Yahoo fetch for OCO.V for 1.5 seconds
+[2025-03-07T02:08:57.286Z] [INFO] Pausing after TradingView fetch for OCO.V for 1.5 seconds
+[INFO] Successfully updated database for OCO.V
+[2025-03-07T02:08:59.079Z] [INFO] Pausing after Yahoo fetch for ODV.V for 1.5 seconds
+[2025-03-07T02:09:04.495Z] [INFO] Pausing after TradingView fetch for ODV.V for 1.5 seconds
+[INFO] Successfully updated database for ODV.V
+[2025-03-07T02:09:06.297Z] [INFO] Pausing after Yahoo fetch for OGC.TO for 1.5 seconds
+[2025-03-07T02:09:11.325Z] [INFO] Pausing after TradingView fetch for OGC.TO for 1.5 seconds
+[INFO] Successfully updated database for OGC.TO
+[2025-03-07T02:09:13.136Z] [INFO] Pausing after Yahoo fetch for OGN.V for 1.5 seconds
+[2025-03-07T02:09:18.213Z] [INFO] Pausing after TradingView fetch for OGN.V for 1.5 seconds
+[INFO] Successfully updated database for OGN.V
+[2025-03-07T02:09:20.009Z] [INFO] Pausing after Yahoo fetch for OIII.V for 1.5 seconds
+[2025-03-07T02:09:25.614Z] [INFO] Pausing after TradingView fetch for OIII.V for 1.5 seconds
+[INFO] Successfully updated database for OIII.V
+[2025-03-07T02:09:27.402Z] [INFO] Pausing after Yahoo fetch for OLA.TO for 1.5 seconds
+[2025-03-07T02:09:33.485Z] [INFO] Pausing after TradingView fetch for OLA.TO for 1.5 seconds
+[INFO] Successfully updated database for OLA.TO
+[2025-03-07T02:09:35.287Z] [INFO] Pausing after Yahoo fetch for OMG.V for 1.5 seconds
+[2025-03-07T02:09:40.964Z] [INFO] Pausing after TradingView fetch for OMG.V for 1.5 seconds
+[INFO] Successfully updated database for OMG.V
+[2025-03-07T02:09:42.780Z] [INFO] Pausing after Yahoo fetch for OMGA.CN for 1.5 seconds
+[2025-03-07T02:09:48.362Z] [INFO] Pausing after TradingView fetch for OMGA.CN for 1.5 seconds
+[INFO] Successfully updated database for OMGA.CN
+[2025-03-07T02:09:50.160Z] [INFO] Pausing after Yahoo fetch for OMI.V for 1.5 seconds
+[2025-03-07T02:09:55.176Z] [INFO] Pausing after TradingView fetch for OMI.V for 1.5 seconds
+[INFO] Successfully updated database for OMI.V
+[2025-03-07T02:09:56.991Z] [INFO] Pausing after Yahoo fetch for OMM.V for 1.5 seconds
+[2025-03-07T02:10:02.444Z] [INFO] Pausing after TradingView fetch for OMM.V for 1.5 seconds
+[INFO] Successfully updated database for OMM.V
+[2025-03-07T02:10:04.236Z] [INFO] Pausing after Yahoo fetch for ONAU.V for 1.5 seconds
+[2025-03-07T02:10:10.067Z] [INFO] Pausing after TradingView fetch for ONAU.V for 1.5 seconds
+[INFO] Successfully updated database for ONAU.V
+[2025-03-07T02:10:11.892Z] [INFO] Pausing after Yahoo fetch for ONYX.V for 1.5 seconds
+[2025-03-07T02:10:17.513Z] [INFO] Pausing after TradingView fetch for ONYX.V for 1.5 seconds
+[INFO] Successfully updated database for ONYX.V
+[2025-03-07T02:10:19.319Z] [INFO] Pausing after Yahoo fetch for OPW.V for 1.5 seconds
+[2025-03-07T02:10:25.179Z] [INFO] Pausing after TradingView fetch for OPW.V for 1.5 seconds
+[INFO] Successfully updated database for OPW.V
+[2025-03-07T02:10:26.985Z] [INFO] Pausing after Yahoo fetch for OR.TO for 1.5 seconds
+[2025-03-07T02:10:32.319Z] [INFO] Pausing after TradingView fetch for OR.TO for 1.5 seconds
+[INFO] Successfully updated database for OR.TO
+[2025-03-07T02:10:34.113Z] [INFO] Pausing after Yahoo fetch for ORA.TO for 1.5 seconds
+[2025-03-07T02:10:39.585Z] [INFO] Pausing after TradingView fetch for ORA.TO for 1.5 seconds
+[INFO] Successfully updated database for ORA.TO
+[2025-03-07T02:10:41.380Z] [INFO] Pausing after Yahoo fetch for ORE.TO for 1.5 seconds
+[2025-03-07T02:10:46.740Z] [INFO] Pausing after TradingView fetch for ORE.TO for 1.5 seconds
+[INFO] Successfully updated database for ORE.TO
+[2025-03-07T02:10:48.723Z] [INFO] Pausing after Yahoo fetch for ORV.TO for 1.5 seconds
+[2025-03-07T02:10:54.147Z] [INFO] Pausing after TradingView fetch for ORV.TO for 1.5 seconds
+[INFO] Successfully updated database for ORV.TO
+[2025-03-07T02:10:55.937Z] [INFO] Pausing after Yahoo fetch for OZ.V for 1.5 seconds
+[2025-03-07T02:11:01.264Z] [INFO] Pausing after TradingView fetch for OZ.V for 1.5 seconds
+[INFO] Successfully updated database for OZ.V
+[2025-03-07T02:11:03.107Z] [INFO] Pausing after Yahoo fetch for PA.V for 1.5 seconds
+[2025-03-07T02:11:08.477Z] [INFO] Pausing after TradingView fetch for PA.V for 1.5 seconds
+[INFO] Successfully updated database for PA.V
+[2025-03-07T02:11:10.295Z] [INFO] Pausing after Yahoo fetch for PAAS.TO for 1.5 seconds
+[2025-03-07T02:11:15.866Z] [INFO] Pausing after TradingView fetch for PAAS.TO for 1.5 seconds
+[INFO] Successfully updated database for PAAS.TO
+[2025-03-07T02:11:17.656Z] [INFO] Retrying Yahoo Finance for PAL.V for 5 seconds
+[2025-03-07T02:11:22.930Z] [INFO] Retrying Yahoo Finance for PAL.V for 10 seconds
+[2025-03-07T02:11:33.203Z] [INFO] Pausing after Yahoo fetch for PAL.V for 1.5 seconds
+[2025-03-07T02:11:38.351Z] [INFO] Pausing after TradingView fetch for PAL.V for 1.5 seconds
+[INFO] Successfully updated database for PAL.V
+[2025-03-07T02:11:40.143Z] [INFO] Pausing after Yahoo fetch for PAU.CN for 1.5 seconds
+[2025-03-07T02:11:45.632Z] [INFO] Pausing after TradingView fetch for PAU.CN for 1.5 seconds
+[INFO] Successfully updated database for PAU.CN
+[2025-03-07T02:11:47.472Z] [INFO] Pausing after Yahoo fetch for PEX.V for 1.5 seconds
+[2025-03-07T02:11:52.994Z] [INFO] Pausing after TradingView fetch for PEX.V for 1.5 seconds
+[INFO] Successfully updated database for PEX.V
+[2025-03-07T02:11:54.793Z] [INFO] Pausing after Yahoo fetch for PGC.V for 1.5 seconds
+[2025-03-07T02:12:00.279Z] [INFO] Pausing after TradingView fetch for PGC.V for 1.5 seconds
+[INFO] Successfully updated database for PGC.V
+[2025-03-07T02:12:02.097Z] [INFO] Pausing after Yahoo fetch for PGDC.V for 1.5 seconds
+[2025-03-07T02:12:07.017Z] [INFO] Pausing after TradingView fetch for PGDC.V for 1.5 seconds
+[INFO] Successfully updated database for PGDC.V
+[2025-03-07T02:12:09.005Z] [INFO] Pausing after Yahoo fetch for PGLD.V for 1.5 seconds
+[2025-03-07T02:12:14.452Z] [INFO] Pausing after TradingView fetch for PGLD.V for 1.5 seconds
+[INFO] Successfully updated database for PGLD.V
+[2025-03-07T02:12:16.252Z] [INFO] Pausing after Yahoo fetch for PGX.V for 1.5 seconds
+[2025-03-07T02:12:21.664Z] [INFO] Pausing after TradingView fetch for PGX.V for 1.5 seconds
+[INFO] Successfully updated database for PGX.V
+[2025-03-07T02:12:23.449Z] [INFO] Pausing after Yahoo fetch for PJX.V for 1.5 seconds
+[2025-03-07T02:12:28.806Z] [INFO] Pausing after TradingView fetch for PJX.V for 1.5 seconds
+[INFO] Successfully updated database for PJX.V
+[2025-03-07T02:12:30.598Z] [INFO] Pausing after Yahoo fetch for PLY.V for 1.5 seconds
+[2025-03-07T02:12:36.194Z] [INFO] Pausing after TradingView fetch for PLY.V for 1.5 seconds
+[INFO] Successfully updated database for PLY.V
+[2025-03-07T02:12:37.980Z] [INFO] Pausing after Yahoo fetch for PNTR.V for 1.5 seconds
+[2025-03-07T02:12:43.550Z] [INFO] Pausing after TradingView fetch for PNTR.V for 1.5 seconds
+[INFO] Successfully updated database for PNTR.V
+[2025-03-07T02:12:45.363Z] [INFO] Pausing after Yahoo fetch for PPP.V for 1.5 seconds
+[2025-03-07T02:12:51.064Z] [INFO] Pausing after TradingView fetch for PPP.V for 1.5 seconds
+[INFO] Successfully updated database for PPP.V
+[2025-03-07T02:12:52.863Z] [INFO] Pausing after Yahoo fetch for PPX.V for 1.5 seconds
+[2025-03-07T02:12:58.296Z] [INFO] Pausing after TradingView fetch for PPX.V for 1.5 seconds
+[INFO] Successfully updated database for PPX.V
+[2025-03-07T02:13:00.087Z] [INFO] Pausing after Yahoo fetch for PRB.TO for 1.5 seconds
+[2025-03-07T02:13:05.637Z] [INFO] Pausing after TradingView fetch for PRB.TO for 1.5 seconds
+[INFO] Successfully updated database for PRB.TO
+[2025-03-07T02:13:07.428Z] [INFO] Pausing after Yahoo fetch for PRG.V for 1.5 seconds
+[2025-03-07T02:13:13.044Z] [INFO] Pausing after TradingView fetch for PRG.V for 1.5 seconds
+[INFO] Successfully updated database for PRG.V
+[2025-03-07T02:13:14.876Z] [INFO] Pausing after Yahoo fetch for PRIZ.CN for 1.5 seconds
+[2025-03-07T02:13:20.497Z] [INFO] Pausing after TradingView fetch for PRIZ.CN for 1.5 seconds
+[INFO] Successfully updated database for PRIZ.CN
+[2025-03-07T02:13:22.307Z] [INFO] Pausing after Yahoo fetch for PRU.TO for 1.5 seconds
+[2025-03-07T02:13:28.123Z] [INFO] Pausing after TradingView fetch for PRU.TO for 1.5 seconds
+[INFO] Successfully updated database for PRU.TO
+[2025-03-07T02:13:29.912Z] [INFO] Pausing after Yahoo fetch for PRYM.TO for 1.5 seconds
+[2025-03-07T02:13:35.343Z] [INFO] Pausing after TradingView fetch for PRYM.TO for 1.5 seconds
+[INFO] Successfully updated database for PRYM.TO
+[2025-03-07T02:13:37.139Z] [INFO] Pausing after Yahoo fetch for PUMA.V for 1.5 seconds
+[2025-03-07T02:13:42.832Z] [INFO] Pausing after TradingView fetch for PUMA.V for 1.5 seconds
+[INFO] Successfully updated database for PUMA.V
+[2025-03-07T02:13:44.634Z] [INFO] Pausing after Yahoo fetch for PX.V for 1.5 seconds
+[2025-03-07T02:13:50.326Z] [INFO] Pausing after TradingView fetch for PX.V for 1.5 seconds
+[INFO] Successfully updated database for PX.V
+[2025-03-07T02:13:52.125Z] [INFO] Pausing after Yahoo fetch for QIM.CN for 1.5 seconds
+[2025-03-07T02:13:58.117Z] [INFO] Pausing after TradingView fetch for QIM.CN for 1.5 seconds
+[INFO] Successfully updated database for QIM.CN
+[2025-03-07T02:13:59.970Z] [INFO] Pausing after Yahoo fetch for QZM.V for 1.5 seconds
+[2025-03-07T02:14:05.494Z] [INFO] Pausing after TradingView fetch for QZM.V for 1.5 seconds
+[INFO] Successfully updated database for QZM.V
+[2025-03-07T02:14:07.311Z] [INFO] Pausing after Yahoo fetch for RAGE.V for 1.5 seconds
+[2025-03-07T02:14:12.772Z] [INFO] Pausing after TradingView fetch for RAGE.V for 1.5 seconds
+[INFO] Successfully updated database for RAGE.V
+[2025-03-07T02:14:14.570Z] [INFO] Pausing after Yahoo fetch for RAMP.V for 1.5 seconds
+[2025-03-07T02:14:20.006Z] [INFO] Pausing after TradingView fetch for RAMP.V for 1.5 seconds
+[INFO] Successfully updated database for RAMP.V
+[2025-03-07T02:14:21.807Z] [INFO] Pausing after Yahoo fetch for RBX.V for 1.5 seconds
+[2025-03-07T02:14:27.430Z] [INFO] Pausing after TradingView fetch for RBX.V for 1.5 seconds
+[INFO] Successfully updated database for RBX.V
+[2025-03-07T02:14:29.230Z] [INFO] Pausing after Yahoo fetch for RDG.V for 1.5 seconds
+[2025-03-07T02:14:34.625Z] [INFO] Pausing after TradingView fetch for RDG.V for 1.5 seconds
+[INFO] Successfully updated database for RDG.V
+[2025-03-07T02:14:36.408Z] [INFO] Pausing after Yahoo fetch for RDS.V for 1.5 seconds
+[2025-03-07T02:14:42.049Z] [INFO] Pausing after TradingView fetch for RDS.V for 1.5 seconds
+[INFO] Successfully updated database for RDS.V
+[2025-03-07T02:14:44.050Z] [INFO] Pausing after Yahoo fetch for RDU.V for 1.5 seconds
+[2025-03-07T02:14:49.653Z] [INFO] Pausing after TradingView fetch for RDU.V for 1.5 seconds
+[INFO] Successfully updated database for RDU.V
+[2025-03-07T02:14:51.459Z] [INFO] Pausing after Yahoo fetch for REX.V for 1.5 seconds
+[2025-03-07T02:14:57.112Z] [INFO] Pausing after TradingView fetch for REX.V for 1.5 seconds
+[INFO] Successfully updated database for REX.V
+[2025-03-07T02:14:58.923Z] [INFO] Pausing after Yahoo fetch for RG.V for 1.5 seconds
+[2025-03-07T02:15:04.476Z] [INFO] Pausing after TradingView fetch for RG.V for 1.5 seconds
+[INFO] Successfully updated database for RG.V
+[2025-03-07T02:15:06.266Z] [INFO] Pausing after Yahoo fetch for RGC.V for 1.5 seconds
+[2025-03-07T02:15:11.896Z] [INFO] Pausing after TradingView fetch for RGC.V for 1.5 seconds
+[INFO] Successfully updated database for RGC.V
+[2025-03-07T02:15:13.691Z] [INFO] Pausing after Yahoo fetch for RGLD.CN for 1.5 seconds
+[2025-03-07T02:15:19.239Z] [INFO] Pausing after TradingView fetch for RGLD.CN for 1.5 seconds
+[INFO] Successfully updated database for RGLD.CN
+[2025-03-07T02:15:21.203Z] [INFO] Pausing after Yahoo fetch for RIO.V for 1.5 seconds
+[2025-03-07T02:15:26.229Z] [INFO] Pausing after TradingView fetch for RIO.V for 1.5 seconds
+[INFO] Successfully updated database for RIO.V
+[2025-03-07T02:15:28.086Z] [INFO] Pausing after Yahoo fetch for RK.V for 1.5 seconds
+[2025-03-07T02:15:33.446Z] [INFO] Pausing after TradingView fetch for RK.V for 1.5 seconds
+[INFO] Successfully updated database for RK.V
+[2025-03-07T02:15:35.232Z] [INFO] Pausing after Yahoo fetch for RKR.V for 1.5 seconds
+[2025-03-07T02:15:40.562Z] [INFO] Pausing after TradingView fetch for RKR.V for 1.5 seconds
+[INFO] Successfully updated database for RKR.V
+[2025-03-07T02:15:42.346Z] [INFO] Pausing after Yahoo fetch for RLYG.V for 1.5 seconds
+[2025-03-07T02:15:47.972Z] [INFO] Pausing after TradingView fetch for RLYG.V for 1.5 seconds
+[INFO] Successfully updated database for RLYG.V
+[2025-03-07T02:15:49.788Z] [INFO] Pausing after Yahoo fetch for ROCK.V for 1.5 seconds
+[2025-03-07T02:15:55.324Z] [INFO] Pausing after TradingView fetch for ROCK.V for 1.5 seconds
+[INFO] Successfully updated database for ROCK.V
+[2025-03-07T02:15:57.124Z] [INFO] Pausing after Yahoo fetch for ROS.V for 1.5 seconds
+[2025-03-07T02:16:02.766Z] [INFO] Pausing after TradingView fetch for ROS.V for 1.5 seconds
+[INFO] Successfully updated database for ROS.V
+[2025-03-07T02:16:04.603Z] [INFO] Pausing after Yahoo fetch for ROX.V for 1.5 seconds
+[2025-03-07T02:16:09.939Z] [INFO] Pausing after TradingView fetch for ROX.V for 1.5 seconds
+[INFO] Successfully updated database for ROX.V
+[2025-03-07T02:16:11.747Z] [INFO] Pausing after Yahoo fetch for RPX.V for 1.5 seconds
+[2025-03-07T02:16:17.224Z] [INFO] Pausing after TradingView fetch for RPX.V for 1.5 seconds
+[INFO] Successfully updated database for RPX.V
+[2025-03-07T02:16:19.034Z] [INFO] Pausing after Yahoo fetch for RR.CN for 1.5 seconds
+[2025-03-07T02:16:24.428Z] [INFO] Pausing after TradingView fetch for RR.CN for 1.5 seconds
+[INFO] Successfully updated database for RR.CN
+[2025-03-07T02:16:26.221Z] [INFO] Pausing after Yahoo fetch for RRI.V for 1.5 seconds
+[2025-03-07T02:16:31.654Z] [INFO] Pausing after TradingView fetch for RRI.V for 1.5 seconds
+[INFO] Successfully updated database for RRI.V
+[2025-03-07T02:16:33.492Z] [INFO] Pausing after Yahoo fetch for RSG.CN for 1.5 seconds
+[2025-03-07T02:16:39.072Z] [INFO] Pausing after TradingView fetch for RSG.CN for 1.5 seconds
+[INFO] Successfully updated database for RSG.CN
+[2025-03-07T02:16:40.863Z] [INFO] Pausing after Yahoo fetch for RSLV.V for 1.5 seconds
+[2025-03-07T02:16:46.382Z] [INFO] Pausing after TradingView fetch for RSLV.V for 1.5 seconds
+[INFO] Successfully updated database for RSLV.V
+[2025-03-07T02:16:48.173Z] [INFO] Pausing after Yahoo fetch for RSM.V for 1.5 seconds
+[2025-03-07T02:16:53.838Z] [INFO] Pausing after TradingView fetch for RSM.V for 1.5 seconds
+[INFO] Successfully updated database for RSM.V
+[2025-03-07T02:16:55.640Z] [INFO] Pausing after Yahoo fetch for RSMX.V for 1.5 seconds
+[2025-03-07T02:17:01.023Z] [INFO] Pausing after TradingView fetch for RSMX.V for 1.5 seconds
+[INFO] Successfully updated database for RSMX.V
+[2025-03-07T02:17:02.816Z] [INFO] Pausing after Yahoo fetch for RTG.TO for 1.5 seconds
+[2025-03-07T02:17:08.290Z] [INFO] Pausing after TradingView fetch for RTG.TO for 1.5 seconds
+[INFO] Successfully updated database for RTG.TO
+[2025-03-07T02:17:10.100Z] [INFO] Pausing after Yahoo fetch for RUA.V for 1.5 seconds
+[2025-03-07T02:17:15.416Z] [INFO] Pausing after TradingView fetch for RUA.V for 1.5 seconds
+[INFO] Successfully updated database for RUA.V
+[2025-03-07T02:17:17.388Z] [INFO] Pausing after Yahoo fetch for RUG.V for 1.5 seconds
+[2025-03-07T02:17:22.744Z] [INFO] Pausing after TradingView fetch for RUG.V for 1.5 seconds
+[INFO] Successfully updated database for RUG.V
+[2025-03-07T02:17:24.542Z] [INFO] Pausing after Yahoo fetch for RUP.TO for 1.5 seconds
+[2025-03-07T02:17:30.167Z] [INFO] Pausing after TradingView fetch for RUP.TO for 1.5 seconds
+[INFO] Successfully updated database for RUP.TO
+[2025-03-07T02:17:31.967Z] [INFO] Pausing after Yahoo fetch for RUSH.V for 1.5 seconds
+[2025-03-07T02:17:37.312Z] [INFO] Pausing after TradingView fetch for RUSH.V for 1.5 seconds
+[INFO] Successfully updated database for RUSH.V
+[2025-03-07T02:17:39.147Z] [INFO] Pausing after Yahoo fetch for RVG.V for 1.5 seconds
+[2025-03-07T02:17:44.799Z] [INFO] Pausing after TradingView fetch for RVG.V for 1.5 seconds
+[INFO] Successfully updated database for RVG.V
+[2025-03-07T02:17:46.591Z] [INFO] Pausing after Yahoo fetch for RYE.V for 1.5 seconds
+[2025-03-07T02:17:51.971Z] [INFO] Pausing after TradingView fetch for RYE.V for 1.5 seconds
+[INFO] Successfully updated database for RYE.V
+[2025-03-07T02:17:53.774Z] [INFO] Pausing after Yahoo fetch for RYR.V for 1.5 seconds
+[2025-03-07T02:17:59.333Z] [INFO] Pausing after TradingView fetch for RYR.V for 1.5 seconds
+[INFO] Successfully updated database for RYR.V
+[2025-03-07T02:18:01.135Z] [INFO] Pausing after Yahoo fetch for SAG.V for 1.5 seconds
+[2025-03-07T02:18:06.497Z] [INFO] Pausing after TradingView fetch for SAG.V for 1.5 seconds
+[INFO] Successfully updated database for SAG.V
+[2025-03-07T02:18:08.317Z] [INFO] Pausing after Yahoo fetch for SAM.TO for 1.5 seconds
+[2025-03-07T02:18:14.006Z] [INFO] Pausing after TradingView fetch for SAM.TO for 1.5 seconds
+[INFO] Successfully updated database for SAM.TO
+[2025-03-07T02:18:15.800Z] [INFO] Pausing after Yahoo fetch for SANU.CN for 1.5 seconds
+[2025-03-07T02:18:21.366Z] [INFO] Pausing after TradingView fetch for SANU.CN for 1.5 seconds
+[INFO] Successfully updated database for SANU.CN
+[2025-03-07T02:18:23.198Z] [INFO] Pausing after Yahoo fetch for SBMI.V for 1.5 seconds
+[2025-03-07T02:18:28.733Z] [INFO] Pausing after TradingView fetch for SBMI.V for 1.5 seconds
+[INFO] Successfully updated database for SBMI.V
+[2025-03-07T02:18:30.537Z] [INFO] Pausing after Yahoo fetch for SCOT.V for 1.5 seconds
+[2025-03-07T02:18:36.022Z] [INFO] Pausing after TradingView fetch for SCOT.V for 1.5 seconds
+[INFO] Successfully updated database for SCOT.V
+[2025-03-07T02:18:37.830Z] [INFO] Pausing after Yahoo fetch for SCZ.V for 1.5 seconds
+[2025-03-07T02:18:42.761Z] [INFO] Pausing after TradingView fetch for SCZ.V for 1.5 seconds
+[INFO] Successfully updated database for SCZ.V
+[2025-03-07T02:18:44.554Z] [INFO] Pausing after Yahoo fetch for SDR.V for 1.5 seconds
+[2025-03-07T02:18:50.079Z] [INFO] Pausing after TradingView fetch for SDR.V for 1.5 seconds
+[INFO] Successfully updated database for SDR.V
+[2025-03-07T02:18:51.885Z] [INFO] Pausing after Yahoo fetch for SEA.TO for 1.5 seconds
+[2025-03-07T02:18:57.422Z] [INFO] Pausing after TradingView fetch for SEA.TO for 1.5 seconds
+[INFO] Successfully updated database for SEA.TO
+[2025-03-07T02:18:59.213Z] [INFO] Pausing after Yahoo fetch for SEEM.CN for 1.5 seconds
+[2025-03-07T02:19:04.581Z] [INFO] Pausing after TradingView fetch for SEEM.CN for 1.5 seconds
+[INFO] Successfully updated database for SEEM.CN
+[2025-03-07T02:19:06.377Z] [INFO] Pausing after Yahoo fetch for SGC.V for 1.5 seconds
+[2025-03-07T02:19:12.055Z] [INFO] Pausing after TradingView fetch for SGC.V for 1.5 seconds
+[INFO] Successfully updated database for SGC.V
+[2025-03-07T02:19:13.906Z] [INFO] Pausing after Yahoo fetch for SGD.V for 1.5 seconds
+[2025-03-07T02:19:19.651Z] [INFO] Pausing after TradingView fetch for SGD.V for 1.5 seconds
+[INFO] Successfully updated database for SGD.V
+[2025-03-07T02:19:21.438Z] [INFO] Pausing after Yahoo fetch for SGLD.TO for 1.5 seconds
+[2025-03-07T02:19:26.393Z] [INFO] Pausing after TradingView fetch for SGLD.TO for 1.5 seconds
+[INFO] Successfully updated database for SGLD.TO
+[2025-03-07T02:19:28.180Z] [INFO] Pausing after Yahoo fetch for SGO.V for 1.5 seconds
+[2025-03-07T02:19:33.643Z] [INFO] Pausing after TradingView fetch for SGO.V for 1.5 seconds
+[INFO] Successfully updated database for SGO.V
+[2025-03-07T02:19:35.432Z] [INFO] Pausing after Yahoo fetch for SGN.V for 1.5 seconds
+[2025-03-07T02:19:41.020Z] [INFO] Pausing after TradingView fetch for SGN.V for 1.5 seconds
+[INFO] Successfully updated database for SGN.V
+[2025-03-07T02:19:42.824Z] [INFO] Pausing after Yahoo fetch for SGU.V for 1.5 seconds
+[2025-03-07T02:19:48.298Z] [INFO] Pausing after TradingView fetch for SGU.V for 1.5 seconds
+[INFO] Successfully updated database for SGU.V
+[2025-03-07T02:19:50.092Z] [INFO] Pausing after Yahoo fetch for SGZ.V for 1.5 seconds
+[2025-03-07T02:19:55.622Z] [INFO] Pausing after TradingView fetch for SGZ.V for 1.5 seconds
+[INFO] Successfully updated database for SGZ.V
+[2025-03-07T02:19:57.426Z] [INFO] Pausing after Yahoo fetch for SHL.V for 1.5 seconds
+[2025-03-07T02:20:02.812Z] [INFO] Pausing after TradingView fetch for SHL.V for 1.5 seconds
+[INFO] Successfully updated database for SHL.V
+[2025-03-07T02:20:04.603Z] [INFO] Pausing after Yahoo fetch for SIC.V for 1.5 seconds
+[2025-03-07T02:20:10.268Z] [INFO] Pausing after TradingView fetch for SIC.V for 1.5 seconds
+[INFO] Successfully updated database for SIC.V
+[2025-03-07T02:20:12.053Z] [INFO] Pausing after Yahoo fetch for SIG.V for 1.5 seconds
+[2025-03-07T02:20:17.799Z] [INFO] Pausing after TradingView fetch for SIG.V for 1.5 seconds
+[INFO] Successfully updated database for SIG.V
+[2025-03-07T02:20:19.589Z] [INFO] Pausing after Yahoo fetch for SIL.TO for 1.5 seconds
+[2025-03-07T02:20:24.519Z] [INFO] Pausing after TradingView fetch for SIL.TO for 1.5 seconds
+[INFO] Successfully updated database for SIL.TO
+[2025-03-07T02:20:26.321Z] [INFO] Pausing after Yahoo fetch for SILV.V for 1.5 seconds
+[2025-03-07T02:20:31.706Z] [INFO] Pausing after TradingView fetch for SILV.V for 1.5 seconds
+[INFO] Successfully updated database for SILV.V
+[2025-03-07T02:20:33.690Z] [INFO] Pausing after Yahoo fetch for SKE.TO for 1.5 seconds
+[2025-03-07T02:20:39.313Z] [INFO] Pausing after TradingView fetch for SKE.TO for 1.5 seconds
+[INFO] Successfully updated database for SKE.TO
+[2025-03-07T02:20:41.154Z] [INFO] Pausing after Yahoo fetch for SKP.V for 1.5 seconds
+[2025-03-07T02:20:46.512Z] [INFO] Pausing after TradingView fetch for SKP.V for 1.5 seconds
+[INFO] Successfully updated database for SKP.V
+[2025-03-07T02:20:48.318Z] [INFO] Pausing after Yahoo fetch for SLI.V for 1.5 seconds
+[2025-03-07T02:20:54.266Z] [INFO] Pausing after TradingView fetch for SLI.V for 1.5 seconds
+[INFO] Successfully updated database for SLI.V
+[2025-03-07T02:20:56.053Z] [INFO] Pausing after Yahoo fetch for SLR.TO for 1.5 seconds
+[2025-03-07T02:21:01.340Z] [INFO] Pausing after TradingView fetch for SLR.TO for 1.5 seconds
+[INFO] Successfully updated database for SLR.TO
+[2025-03-07T02:21:03.346Z] [INFO] Pausing after Yahoo fetch for SLV.CN for 1.5 seconds
+[2025-03-07T02:21:08.904Z] [INFO] Pausing after TradingView fetch for SLV.CN for 1.5 seconds
+[INFO] Successfully updated database for SLV.CN
+[2025-03-07T02:21:10.719Z] [INFO] Pausing after Yahoo fetch for SLVR.V for 1.5 seconds
+[2025-03-07T02:21:16.189Z] [INFO] Pausing after TradingView fetch for SLVR.V for 1.5 seconds
+[INFO] Successfully updated database for SLVR.V
+[2025-03-07T02:21:18.015Z] [INFO] Pausing after Yahoo fetch for SM.V for 1.5 seconds
+[2025-03-07T02:21:23.551Z] [INFO] Pausing after TradingView fetch for SM.V for 1.5 seconds
+[INFO] Successfully updated database for SM.V
+[2025-03-07T02:21:25.342Z] [INFO] Pausing after Yahoo fetch for SMN.V for 1.5 seconds
+[2025-03-07T02:21:30.974Z] [INFO] Pausing after TradingView fetch for SMN.V for 1.5 seconds
+[INFO] Successfully updated database for SMN.V
+[2025-03-07T02:21:32.762Z] [INFO] Pausing after Yahoo fetch for SMT.TO for 1.5 seconds
+[2025-03-07T02:21:38.564Z] [INFO] Pausing after TradingView fetch for SMT.TO for 1.5 seconds
+[INFO] Successfully updated database for SMT.TO
+[2025-03-07T02:21:40.364Z] [INFO] Pausing after Yahoo fetch for SNAG.V for 1.5 seconds
+[2025-03-07T02:21:46.715Z] [INFO] Pausing after TradingView fetch for SNAG.V for 1.5 seconds
+[INFO] Successfully updated database for SNAG.V
+[2025-03-07T02:21:48.502Z] [INFO] Pausing after Yahoo fetch for SNG.V for 1.5 seconds
+[2025-03-07T02:21:54.358Z] [INFO] Pausing after TradingView fetch for SNG.V for 1.5 seconds
+[INFO] Successfully updated database for SNG.V
+[2025-03-07T02:21:56.154Z] [INFO] Pausing after Yahoo fetch for SOI.V for 1.5 seconds
+[2025-03-07T02:22:01.931Z] [INFO] Pausing after TradingView fetch for SOI.V for 1.5 seconds
+[INFO] Successfully updated database for SOI.V
+[2025-03-07T02:22:03.743Z] [INFO] Pausing after Yahoo fetch for SOMA.V for 1.5 seconds
+[2025-03-07T02:22:09.519Z] [INFO] Pausing after TradingView fetch for SOMA.V for 1.5 seconds
+[INFO] Successfully updated database for SOMA.V
+[2025-03-07T02:22:11.323Z] [INFO] Pausing after Yahoo fetch for SPA.V for 1.5 seconds
+[2025-03-07T02:22:16.847Z] [INFO] Pausing after TradingView fetch for SPA.V for 1.5 seconds
+[INFO] Successfully updated database for SPA.V
+[2025-03-07T02:22:18.673Z] [INFO] Pausing after Yahoo fetch for SPMC.V for 1.5 seconds
+[2025-03-07T02:22:24.140Z] [INFO] Pausing after TradingView fetch for SPMC.V for 1.5 seconds
+[INFO] Successfully updated database for SPMC.V
+[2025-03-07T02:22:25.936Z] [INFO] Pausing after Yahoo fetch for SPX.V for 1.5 seconds
+[2025-03-07T02:22:31.305Z] [INFO] Pausing after TradingView fetch for SPX.V for 1.5 seconds
+[INFO] Successfully updated database for SPX.V
+[2025-03-07T02:22:33.113Z] [INFO] Pausing after Yahoo fetch for SRC.V for 1.5 seconds
+[2025-03-07T02:22:38.537Z] [INFO] Pausing after TradingView fetch for SRC.V for 1.5 seconds
+[INFO] Successfully updated database for SRC.V
+[2025-03-07T02:22:40.343Z] [INFO] Pausing after Yahoo fetch for SRL.V for 1.5 seconds
+[2025-03-07T02:22:45.703Z] [INFO] Pausing after TradingView fetch for SRL.V for 1.5 seconds
+[INFO] Successfully updated database for SRL.V
+[2025-03-07T02:22:47.488Z] [INFO] Pausing after Yahoo fetch for SSL.TO for 1.5 seconds
+[2025-03-07T02:22:52.842Z] [INFO] Pausing after TradingView fetch for SSL.TO for 1.5 seconds
+[INFO] Successfully updated database for SSL.TO
+[2025-03-07T02:22:54.650Z] [INFO] Pausing after Yahoo fetch for SSRM.TO for 1.5 seconds
+[2025-03-07T02:23:00.157Z] [INFO] Pausing after TradingView fetch for SSRM.TO for 1.5 seconds
+[INFO] Successfully updated database for SSRM.TO
+[2025-03-07T02:23:01.948Z] [INFO] Pausing after Yahoo fetch for SSV.V for 1.5 seconds
+[2025-03-07T02:23:07.383Z] [INFO] Pausing after TradingView fetch for SSV.V for 1.5 seconds
+[INFO] Successfully updated database for SSV.V
+[2025-03-07T02:23:09.163Z] [INFO] Pausing after Yahoo fetch for SSVR.V for 1.5 seconds
+[2025-03-07T02:23:14.675Z] [INFO] Pausing after TradingView fetch for SSVR.V for 1.5 seconds
+[INFO] Successfully updated database for SSVR.V
+[2025-03-07T02:23:16.476Z] [INFO] Pausing after Yahoo fetch for STGO.TO for 1.5 seconds
+[2025-03-07T02:23:21.994Z] [INFO] Pausing after TradingView fetch for STGO.TO for 1.5 seconds
+[INFO] Successfully updated database for STGO.TO
+[2025-03-07T02:23:23.793Z] [INFO] Pausing after Yahoo fetch for STLR.TO for 1.5 seconds
+[2025-03-07T02:23:29.941Z] [INFO] Pausing after TradingView fetch for STLR.TO for 1.5 seconds
+[INFO] Successfully updated database for STLR.TO
+[2025-03-07T02:23:31.740Z] [INFO] Pausing after Yahoo fetch for STRR.V for 1.5 seconds
+[2025-03-07T02:23:37.217Z] [INFO] Pausing after TradingView fetch for STRR.V for 1.5 seconds
+[INFO] Successfully updated database for STRR.V
+[2025-03-07T02:23:39.015Z] [INFO] Pausing after Yahoo fetch for STS.V for 1.5 seconds
+[2025-03-07T02:23:44.958Z] [INFO] Pausing after TradingView fetch for STS.V for 1.5 seconds
+[INFO] Successfully updated database for STS.V
+[2025-03-07T02:23:46.777Z] [INFO] Pausing after Yahoo fetch for STU.V for 1.5 seconds
+[2025-03-07T02:23:52.166Z] [INFO] Pausing after TradingView fetch for STU.V for 1.5 seconds
+[INFO] Successfully updated database for STU.V
+[2025-03-07T02:23:53.961Z] [INFO] Pausing after Yahoo fetch for SUP.V for 1.5 seconds
+[2025-03-07T02:23:59.517Z] [INFO] Pausing after TradingView fetch for SUP.V for 1.5 seconds
+[INFO] Successfully updated database for SUP.V
+[2025-03-07T02:24:01.317Z] [INFO] Pausing after Yahoo fetch for SURG.V for 1.5 seconds
+[2025-03-07T02:24:06.823Z] [INFO] Pausing after TradingView fetch for SURG.V for 1.5 seconds
+[INFO] Successfully updated database for SURG.V
+[2025-03-07T02:24:08.616Z] [INFO] Pausing after Yahoo fetch for SVE.V for 1.5 seconds
+[2025-03-07T02:24:14.253Z] [INFO] Pausing after TradingView fetch for SVE.V for 1.5 seconds
+[INFO] Successfully updated database for SVE.V
+[2025-03-07T02:24:16.036Z] [INFO] Pausing after Yahoo fetch for SVM.TO for 1.5 seconds
+[2025-03-07T02:24:22.560Z] [INFO] Pausing after TradingView fetch for SVM.TO for 1.5 seconds
+[INFO] Successfully updated database for SVM.TO
+[2025-03-07T02:24:24.366Z] [INFO] Pausing after Yahoo fetch for SVRS.V for 1.5 seconds
+[2025-03-07T02:24:30.278Z] [INFO] Pausing after TradingView fetch for SVRS.V for 1.5 seconds
+[INFO] Successfully updated database for SVRS.V
+[2025-03-07T02:24:32.076Z] [INFO] Pausing after Yahoo fetch for SWA.V for 1.5 seconds
+[2025-03-07T02:24:39.680Z] [INFO] Pausing after TradingView fetch for SWA.V for 1.5 seconds
+[INFO] Successfully updated database for SWA.V
+[2025-03-07T02:24:41.492Z] [INFO] Pausing after Yahoo fetch for SWLF.V for 1.5 seconds
+[2025-03-07T02:24:47.569Z] [INFO] Pausing after TradingView fetch for SWLF.V for 1.5 seconds
+[INFO] Successfully updated database for SWLF.V
+[2025-03-07T02:24:49.361Z] [INFO] Pausing after Yahoo fetch for SXGC.V for 1.5 seconds
+[2025-03-07T02:24:56.026Z] [INFO] Pausing after TradingView fetch for SXGC.V for 1.5 seconds
+[INFO] Successfully updated database for SXGC.V
+[2025-03-07T02:24:57.813Z] [INFO] Pausing after Yahoo fetch for TAJ.V for 1.5 seconds
+[2025-03-07T02:25:03.489Z] [INFO] Pausing after TradingView fetch for TAJ.V for 1.5 seconds
+[INFO] Successfully updated database for TAJ.V
+[2025-03-07T02:25:05.291Z] [INFO] Retrying Yahoo Finance for TAU.V for 5 seconds
+[2025-03-07T02:25:10.573Z] [INFO] Retrying Yahoo Finance for TAU.V for 10 seconds
+[2025-03-07T02:25:20.866Z] [INFO] Pausing after Yahoo fetch for TAU.V for 1.5 seconds
+[2025-03-07T02:25:26.243Z] [INFO] Pausing after TradingView fetch for TAU.V for 1.5 seconds
+[INFO] Successfully updated database for TAU.V
+[2025-03-07T02:25:28.022Z] [INFO] Pausing after Yahoo fetch for TBK.V for 1.5 seconds
+[2025-03-07T02:25:33.449Z] [INFO] Pausing after TradingView fetch for TBK.V for 1.5 seconds
+[INFO] Successfully updated database for TBK.V
+[2025-03-07T02:25:35.240Z] [INFO] Pausing after Yahoo fetch for TBX.V for 1.5 seconds
+[2025-03-07T02:25:40.706Z] [INFO] Pausing after TradingView fetch for TBX.V for 1.5 seconds
+[INFO] Successfully updated database for TBX.V
+[2025-03-07T02:25:42.492Z] [INFO] Pausing after Yahoo fetch for TCO.V for 1.5 seconds
+[2025-03-07T02:25:48.010Z] [INFO] Pausing after TradingView fetch for TCO.V for 1.5 seconds
+[INFO] Successfully updated database for TCO.V
+[2025-03-07T02:25:49.799Z] [INFO] Pausing after Yahoo fetch for TDG.V for 1.5 seconds
+[2025-03-07T02:25:55.253Z] [INFO] Pausing after TradingView fetch for TDG.V for 1.5 seconds
+[INFO] Successfully updated database for TDG.V
+[2025-03-07T02:25:57.051Z] [INFO] Pausing after Yahoo fetch for TECT.V for 1.5 seconds
+[2025-03-07T02:26:02.931Z] [INFO] Pausing after TradingView fetch for TECT.V for 1.5 seconds
+[INFO] Successfully updated database for TECT.V
+[2025-03-07T02:26:04.726Z] [INFO] Pausing after Yahoo fetch for TERA.CN for 1.5 seconds
+[2025-03-07T02:26:10.291Z] [INFO] Pausing after TradingView fetch for TERA.CN for 1.5 seconds
+[INFO] Successfully updated database for TERA.CN
+[2025-03-07T02:26:12.095Z] [INFO] Pausing after Yahoo fetch for TFPM.TO for 1.5 seconds
+[2025-03-07T02:26:17.737Z] [INFO] Pausing after TradingView fetch for TFPM.TO for 1.5 seconds
+[INFO] Successfully updated database for TFPM.TO
+[2025-03-07T02:26:19.543Z] [INFO] Pausing after Yahoo fetch for TG.V for 1.5 seconds
+[2025-03-07T02:26:25.000Z] [INFO] Pausing after TradingView fetch for TG.V for 1.5 seconds
+[INFO] Successfully updated database for TG.V
+[2025-03-07T02:26:26.800Z] [INFO] Pausing after Yahoo fetch for TGOL.V for 1.5 seconds
+[2025-03-07T02:26:32.904Z] [INFO] Pausing after TradingView fetch for TGOL.V for 1.5 seconds
+[INFO] Successfully updated database for TGOL.V
+[2025-03-07T02:26:34.698Z] [INFO] Pausing after Yahoo fetch for THX.V for 1.5 seconds
+[2025-03-07T02:26:40.316Z] [INFO] Pausing after TradingView fetch for THX.V for 1.5 seconds
+[INFO] Successfully updated database for THX.V
+[2025-03-07T02:26:42.150Z] [INFO] Pausing after Yahoo fetch for TIN.V for 1.5 seconds
+[2025-03-07T02:26:47.586Z] [INFO] Pausing after TradingView fetch for TIN.V for 1.5 seconds
+[INFO] Successfully updated database for TIN.V
+[2025-03-07T02:26:49.389Z] [INFO] Pausing after Yahoo fetch for TK.V for 1.5 seconds
+[2025-03-07T02:26:55.275Z] [INFO] Pausing after TradingView fetch for TK.V for 1.5 seconds
+[INFO] Successfully updated database for TK.V
+[2025-03-07T02:26:57.071Z] [INFO] Pausing after Yahoo fetch for TLG.TO for 1.5 seconds
+[2025-03-07T02:27:04.643Z] [INFO] Pausing after TradingView fetch for TLG.TO for 1.5 seconds
+[INFO] Successfully updated database for TLG.TO
+[2025-03-07T02:27:06.442Z] [INFO] Pausing after Yahoo fetch for TSG.V for 1.5 seconds
+[2025-03-07T02:27:12.280Z] [INFO] Pausing after TradingView fetch for TSG.V for 1.5 seconds
+[INFO] Successfully updated database for TSG.V
+[2025-03-07T02:27:14.118Z] [INFO] Pausing after Yahoo fetch for TM.V for 1.5 seconds
+[2025-03-07T02:27:19.599Z] [INFO] Pausing after TradingView fetch for TM.V for 1.5 seconds
+[INFO] Successfully updated database for TM.V
+[2025-03-07T02:27:21.390Z] [INFO] Pausing after Yahoo fetch for TMQ.TO for 1.5 seconds
+[2025-03-07T02:27:26.407Z] [INFO] Pausing after TradingView fetch for TMQ.TO for 1.5 seconds
+[INFO] Successfully updated database for TMQ.TO
+[2025-03-07T02:27:28.281Z] [INFO] Pausing after Yahoo fetch for TNR.V for 1.5 seconds
+[2025-03-07T02:27:33.748Z] [INFO] Pausing after TradingView fetch for TNR.V for 1.5 seconds
+[INFO] Successfully updated database for TNR.V
+[2025-03-07T02:27:35.553Z] [INFO] Pausing after Yahoo fetch for TOC.CN for 1.5 seconds
+[2025-03-07T02:27:41.138Z] [INFO] Pausing after TradingView fetch for TOC.CN for 1.5 seconds
+[INFO] Successfully updated database for TOC.CN
+[2025-03-07T02:27:42.927Z] [INFO] Pausing after Yahoo fetch for TORQ.V for 1.5 seconds
+[2025-03-07T02:27:48.556Z] [INFO] Pausing after TradingView fetch for TORQ.V for 1.5 seconds
+[INFO] Successfully updated database for TORQ.V
+[2025-03-07T02:27:50.357Z] [INFO] Pausing after Yahoo fetch for TRO.V for 1.5 seconds
+[2025-03-07T02:27:56.100Z] [INFO] Pausing after TradingView fetch for TRO.V for 1.5 seconds
+[INFO] Successfully updated database for TRO.V
+[2025-03-07T02:27:58.072Z] [INFO] Pausing after Yahoo fetch for TRX.TO for 1.5 seconds
+[2025-03-07T02:28:03.136Z] [INFO] Pausing after TradingView fetch for TRX.TO for 1.5 seconds
+[INFO] Successfully updated database for TRX.TO
+[2025-03-07T02:28:04.922Z] [INFO] Pausing after Yahoo fetch for TSG.V for 1.5 seconds
+[2025-03-07T02:28:09.581Z] [INFO] Pausing after TradingView fetch for TSG.V for 1.5 seconds
+[INFO] Successfully updated database for TSG.V
+[2025-03-07T02:28:11.432Z] [INFO] Pausing after Yahoo fetch for TSK.TO for 1.5 seconds
+[2025-03-07T02:28:17.089Z] [INFO] Pausing after TradingView fetch for TSK.TO for 1.5 seconds
+[INFO] Successfully updated database for TSK.TO
+[2025-03-07T02:28:19.037Z] [INFO] Pausing after Yahoo fetch for TSLV.V for 1.5 seconds
+[2025-03-07T02:28:24.451Z] [INFO] Pausing after TradingView fetch for TSLV.V for 1.5 seconds
+[INFO] Successfully updated database for TSLV.V
+[2025-03-07T02:28:26.244Z] [INFO] Pausing after Yahoo fetch for TUD.V for 1.5 seconds
+[2025-03-07T02:28:31.678Z] [INFO] Pausing after TradingView fetch for TUD.V for 1.5 seconds
+[INFO] Successfully updated database for TUD.V
+[2025-03-07T02:28:33.477Z] [INFO] Pausing after Yahoo fetch for TUF.V for 1.5 seconds
+[2025-03-07T02:28:38.890Z] [INFO] Pausing after TradingView fetch for TUF.V for 1.5 seconds
+[INFO] Successfully updated database for TUF.V
+[2025-03-07T02:28:40.690Z] [INFO] Pausing after Yahoo fetch for TUO.V for 1.5 seconds
+[2025-03-07T02:28:46.693Z] [INFO] Pausing after TradingView fetch for TUO.V for 1.5 seconds
+[INFO] Successfully updated database for TUO.V
+[2025-03-07T02:28:48.485Z] [INFO] Pausing after Yahoo fetch for TWR.V for 1.5 seconds
+[2025-03-07T02:28:53.959Z] [INFO] Pausing after TradingView fetch for TWR.V for 1.5 seconds
+[INFO] Successfully updated database for TWR.V
+[2025-03-07T02:28:55.757Z] [INFO] Pausing after Yahoo fetch for TXG.TO for 1.5 seconds
+[2025-03-07T02:29:00.831Z] [INFO] Pausing after TradingView fetch for TXG.TO for 1.5 seconds
+[INFO] Successfully updated database for TXG.TO
+[2025-03-07T02:29:02.634Z] [INFO] Pausing after Yahoo fetch for UGD.V for 1.5 seconds
+[2025-03-07T02:29:08.036Z] [INFO] Pausing after TradingView fetch for UGD.V for 1.5 seconds
+[INFO] Successfully updated database for UGD.V
+[2025-03-07T02:29:09.840Z] [INFO] Pausing after Yahoo fetch for USA.TO for 1.5 seconds
+[2025-03-07T02:29:15.884Z] [INFO] Pausing after TradingView fetch for USA.TO for 1.5 seconds
+[INFO] Successfully updated database for USA.TO
+[2025-03-07T02:29:17.688Z] [INFO] Pausing after Yahoo fetch for USGD.CN for 1.5 seconds
+[2025-03-07T02:29:24.425Z] [INFO] Pausing after TradingView fetch for USGD.CN for 1.5 seconds
+[INFO] Successfully updated database for USGD.CN
+[2025-03-07T02:29:26.225Z] [INFO] Pausing after Yahoo fetch for VAU.V for 1.5 seconds
+[2025-03-07T02:29:31.768Z] [INFO] Pausing after TradingView fetch for VAU.V for 1.5 seconds
+[INFO] Successfully updated database for VAU.V
+[2025-03-07T02:29:33.561Z] [INFO] Pausing after Yahoo fetch for VEIN.V for 1.5 seconds
+[2025-03-07T02:29:39.558Z] [INFO] Pausing after TradingView fetch for VEIN.V for 1.5 seconds
+[INFO] Successfully updated database for VEIN.V
+[2025-03-07T02:29:41.357Z] [INFO] Pausing after Yahoo fetch for VG.V for 1.5 seconds
+[2025-03-07T02:29:47.079Z] [INFO] Pausing after TradingView fetch for VG.V for 1.5 seconds
+[INFO] Successfully updated database for VG.V
+[2025-03-07T02:29:49.049Z] [INFO] Retrying Yahoo Finance for VGCX.TO for 5 seconds
+[2025-03-07T02:29:54.330Z] [INFO] Retrying Yahoo Finance for VGCX.TO for 10 seconds
+[2025-03-07T02:30:04.596Z] [INFO] Pausing after Yahoo fetch for VGCX.TO for 1.5 seconds
+[2025-03-07T02:30:09.964Z] [INFO] Pausing after TradingView fetch for VGCX.TO for 1.5 seconds
+[INFO] Successfully updated database for VGCX.TO
+[2025-03-07T02:30:11.760Z] [INFO] Pausing after Yahoo fetch for VIO.V for 1.5 seconds
+[2025-03-07T02:30:17.151Z] [INFO] Pausing after TradingView fetch for VIO.V for 1.5 seconds
+[INFO] Successfully updated database for VIO.V
+[2025-03-07T02:30:18.996Z] [INFO] Pausing after Yahoo fetch for VIPR.V for 1.5 seconds
+[2025-03-07T02:30:24.649Z] [INFO] Pausing after TradingView fetch for VIPR.V for 1.5 seconds
+[INFO] Successfully updated database for VIPR.V
+[2025-03-07T02:30:26.450Z] [INFO] Pausing after Yahoo fetch for VLC.V for 1.5 seconds
+[2025-03-07T02:30:32.475Z] [INFO] Pausing after TradingView fetch for VLC.V for 1.5 seconds
+[INFO] Successfully updated database for VLC.V
+[2025-03-07T02:30:34.269Z] [INFO] Pausing after Yahoo fetch for VML.V for 1.5 seconds
+[2025-03-07T02:30:40.446Z] [INFO] Pausing after TradingView fetch for VML.V for 1.5 seconds
+[INFO] Successfully updated database for VML.V
+[2025-03-07T02:30:42.254Z] [INFO] Pausing after Yahoo fetch for VOXR.TO for 1.5 seconds
+[2025-03-07T02:30:48.252Z] [INFO] Pausing after TradingView fetch for VOXR.TO for 1.5 seconds
+[INFO] Successfully updated database for VOXR.TO
+[2025-03-07T02:30:50.067Z] [INFO] Pausing after Yahoo fetch for VROY.V for 1.5 seconds
+[2025-03-07T02:30:55.962Z] [INFO] Pausing after TradingView fetch for VROY.V for 1.5 seconds
+[INFO] Successfully updated database for VROY.V
+[2025-03-07T02:30:57.770Z] [INFO] Pausing after Yahoo fetch for VVC.V for 1.5 seconds
+[2025-03-07T02:31:03.960Z] [INFO] Pausing after TradingView fetch for VVC.V for 1.5 seconds
+[INFO] Successfully updated database for VVC.V
+[2025-03-07T02:31:05.922Z] [INFO] Retrying Yahoo Finance for VZLA.V for 5 seconds
+[2025-03-07T02:31:11.225Z] [INFO] Retrying Yahoo Finance for VZLA.V for 10 seconds
+[2025-03-07T02:31:21.554Z] [INFO] Pausing after Yahoo fetch for VZLA.V for 1.5 seconds
+[2025-03-07T02:31:26.860Z] [INFO] Pausing after TradingView fetch for VZLA.V for 1.5 seconds
+[INFO] Successfully updated database for VZLA.V
+[2025-03-07T02:31:28.652Z] [INFO] Pausing after Yahoo fetch for WAM.V for 1.5 seconds
+[2025-03-07T02:31:34.786Z] [INFO] Pausing after TradingView fetch for WAM.V for 1.5 seconds
+[INFO] Successfully updated database for WAM.V
+[2025-03-07T02:31:36.642Z] [INFO] Pausing after Yahoo fetch for WDO.TO for 1.5 seconds
+[2025-03-07T02:31:43.124Z] [INFO] Pausing after TradingView fetch for WDO.TO for 1.5 seconds
+[INFO] Successfully updated database for WDO.TO
+[2025-03-07T02:31:44.945Z] [INFO] Pausing after Yahoo fetch for WEX.V for 1.5 seconds
+[2025-03-07T02:31:50.769Z] [INFO] Pausing after TradingView fetch for WEX.V for 1.5 seconds
+[INFO] Successfully updated database for WEX.V
+[2025-03-07T02:31:52.554Z] [INFO] Pausing after Yahoo fetch for WG.CN for 1.5 seconds
+[2025-03-07T02:31:58.292Z] [INFO] Pausing after TradingView fetch for WG.CN for 1.5 seconds
+[INFO] Successfully updated database for WG.CN
+[2025-03-07T02:32:00.083Z] [INFO] Pausing after Yahoo fetch for WGF.V for 1.5 seconds
+[2025-03-07T02:32:06.136Z] [INFO] Pausing after TradingView fetch for WGF.V for 1.5 seconds
+[INFO] Successfully updated database for WGF.V
+[2025-03-07T02:32:07.939Z] [INFO] Pausing after Yahoo fetch for WGLD.V for 1.5 seconds
+[2025-03-07T02:32:14.203Z] [INFO] Pausing after TradingView fetch for WGLD.V for 1.5 seconds
+[INFO] Successfully updated database for WGLD.V
+[2025-03-07T02:32:15.996Z] [INFO] Pausing after Yahoo fetch for WGO.V for 1.5 seconds
+[2025-03-07T02:32:22.009Z] [INFO] Pausing after TradingView fetch for WGO.V for 1.5 seconds
+[INFO] Successfully updated database for WGO.V
+[2025-03-07T02:32:23.852Z] [INFO] Pausing after Yahoo fetch for WGX.TO for 1.5 seconds
+[2025-03-07T02:32:29.733Z] [INFO] Pausing after TradingView fetch for WGX.TO for 1.5 seconds
+[INFO] Successfully updated database for WGX.TO
+[2025-03-07T02:32:31.642Z] [INFO] Pausing after Yahoo fetch for WHN.V for 1.5 seconds
+[2025-03-07T02:32:37.375Z] [INFO] Pausing after TradingView fetch for WHN.V for 1.5 seconds
+[INFO] Successfully updated database for WHN.V
+[2025-03-07T02:32:39.189Z] [INFO] Pausing after Yahoo fetch for WHY.V for 1.5 seconds
+[2025-03-07T02:32:45.053Z] [INFO] Pausing after TradingView fetch for WHY.V for 1.5 seconds
+[INFO] Successfully updated database for WHY.V
+[2025-03-07T02:32:46.854Z] [INFO] Retrying Yahoo Finance for WLF.V for 5 seconds
+[2025-03-07T02:32:52.133Z] [INFO] Retrying Yahoo Finance for WLF.V for 10 seconds
+[2025-03-07T02:33:02.399Z] [INFO] Pausing after Yahoo fetch for WLF.V for 1.5 seconds
+[2025-03-07T02:33:08.800Z] [INFO] Pausing after TradingView fetch for WLF.V for 1.5 seconds
+[INFO] Successfully updated database for WLF.V
+[2025-03-07T02:33:10.592Z] [INFO] Retrying Yahoo Finance for WM.TO for 5 seconds
+[2025-03-07T02:33:15.878Z] [INFO] Retrying Yahoo Finance for WM.TO for 10 seconds
+[2025-03-07T02:33:26.164Z] [INFO] Pausing after Yahoo fetch for WM.TO for 1.5 seconds
+[2025-03-07T02:33:31.833Z] [INFO] Pausing after TradingView fetch for WM.TO for 1.5 seconds
+[INFO] Successfully updated database for WM.TO
+[2025-03-07T02:33:33.803Z] [INFO] Pausing after Yahoo fetch for WPG.V for 1.5 seconds
+[2025-03-07T02:33:39.510Z] [INFO] Pausing after TradingView fetch for WPG.V for 1.5 seconds
+[INFO] Successfully updated database for WPG.V
+[2025-03-07T02:33:41.304Z] [INFO] Pausing after Yahoo fetch for WPM.TO for 1.5 seconds
+[2025-03-07T02:33:47.462Z] [INFO] Pausing after TradingView fetch for WPM.TO for 1.5 seconds
+[INFO] Successfully updated database for WPM.TO
+[2025-03-07T02:33:49.312Z] [INFO] Pausing after Yahoo fetch for WRLG.V for 1.5 seconds
+[2025-03-07T02:33:55.335Z] [INFO] Pausing after TradingView fetch for WRLG.V for 1.5 seconds
+[INFO] Successfully updated database for WRLG.V
+[2025-03-07T02:33:57.135Z] [INFO] Pausing after Yahoo fetch for WRN.TO for 1.5 seconds
+[2025-03-07T02:34:03.236Z] [INFO] Pausing after TradingView fetch for WRN.TO for 1.5 seconds
+[INFO] Successfully updated database for WRN.TO
+[2025-03-07T02:34:05.031Z] [INFO] Pausing after Yahoo fetch for WRR.V for 1.5 seconds
+[2025-03-07T02:34:11.683Z] [INFO] Pausing after TradingView fetch for WRR.V for 1.5 seconds
+[INFO] Successfully updated database for WRR.V
+[2025-03-07T02:34:13.473Z] [INFO] Pausing after Yahoo fetch for WVM.V for 1.5 seconds
+[2025-03-07T02:34:19.366Z] [INFO] Pausing after TradingView fetch for WVM.V for 1.5 seconds
+[INFO] Successfully updated database for WVM.V
+[2025-03-07T02:34:21.157Z] [INFO] Pausing after Yahoo fetch for XIM.V for 1.5 seconds
+[2025-03-07T02:34:26.864Z] [INFO] Pausing after TradingView fetch for XIM.V for 1.5 seconds
+[INFO] Successfully updated database for XIM.V
+[2025-03-07T02:34:28.654Z] [INFO] Pausing after Yahoo fetch for XTG.TO for 1.5 seconds
+[2025-03-07T02:34:34.302Z] [INFO] Pausing after TradingView fetch for XTG.TO for 1.5 seconds
+[INFO] Successfully updated database for XTG.TO
+[2025-03-07T02:34:36.093Z] [INFO] Pausing after Yahoo fetch for XTM.V for 1.5 seconds
+[2025-03-07T02:34:41.504Z] [INFO] Pausing after TradingView fetch for XTM.V for 1.5 seconds
+[INFO] Successfully updated database for XTM.V
+[2025-03-07T02:34:43.302Z] [INFO] Pausing after Yahoo fetch for YGT.V for 1.5 seconds
+[2025-03-07T02:34:48.691Z] [INFO] Pausing after TradingView fetch for YGT.V for 1.5 seconds
+[INFO] Successfully updated database for YGT.V
+[2025-03-07T02:34:50.526Z] [INFO] Pausing after Yahoo fetch for YRB.TO for 1.5 seconds
+[2025-03-07T02:34:56.189Z] [INFO] Pausing after TradingView fetch for YRB.TO for 1.5 seconds
+[INFO] Successfully updated database for YRB.TO
+[2025-03-07T02:34:57.976Z] [INFO] Pausing after Yahoo fetch for ZAC.V for 1.5 seconds
+[2025-03-07T02:35:03.435Z] [INFO] Pausing after TradingView fetch for ZAC.V for 1.5 seconds
+[INFO] Successfully updated database for ZAC.V
+[2025-03-07T02:35:05.233Z] [INFO] Pausing after Yahoo fetch for ZAU.V for 1.5 seconds
+[2025-03-07T02:35:10.025Z] [INFO] Pausing after TradingView fetch for ZAU.V for 1.5 seconds
+[INFO] Successfully updated database for ZAU.V
