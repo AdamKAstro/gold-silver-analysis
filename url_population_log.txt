@@ -4155,3 +4155,2282 @@
 --- Processing CTN.V (CENTURION MINERALS) ---
 [2025-03-07T05:06:32.626Z] Updated news_link for CTN.V to https://finance.yahoo.com/quote/CTN.V/
 [2025-03-07T05:06:32.673Z] Updated news_link for CTM.V to https://finance.yahoo.com/quote/CTM.V/
+[2025-03-07T05:45:19.118Z] Starting URL population process...
+[2025-03-07T05:45:19.130Z] Loaded 501 companies from public/data/companies.csv
+[2025-03-07T05:45:19.608Z] 
+--- Processing AAB.TO (ABERDEEN INTERNATIONAL) ---
+[2025-03-07T05:45:19.609Z] 
+--- Processing IRV.CN (IRVING RESOURCES) ---
+[2025-03-07T05:45:24.191Z] Validated URL: https://www.aberdeen.green/
+[2025-03-07T05:45:24.212Z] Existing company_website is valid for AAB.TO: https://www.aberdeen.green/
+[2025-03-07T05:45:24.227Z] Updated last_url_population_attempt for AAB.TO
+[2025-03-07T05:45:24.230Z] Pausing after AAB.TO for 2.154s (attempt 1)
+[2025-03-07T05:45:26.386Z] 
+--- Processing ITH.TO (INTL. TOWER HILL MINES) ---
+[2025-03-07T05:45:34.091Z] No valid homepage found on yahoo_finance for IRVING RESOURCES
+[2025-03-07T05:45:41.295Z] No valid homepage found on yahoo_finance for INTL. TOWER HILL MINES
+[2025-03-07T05:45:46.298Z] No valid homepage found on jmn for INTL. TOWER HILL MINES
+[2025-03-07T05:45:48.165Z] No valid homepage found on jmn for IRVING RESOURCES
+[2025-03-07T05:45:53.728Z] No valid homepage found on miningfeeds for INTL. TOWER HILL MINES
+[2025-03-07T05:45:53.736Z] No valid homepage found on miningfeeds for IRVING RESOURCES
+[2025-03-07T05:45:53.769Z] Inserted/Updated yahoo_finance URL for IRV.CN: https://finance.yahoo.com/quote/IRV.CN/
+[2025-03-07T05:45:53.782Z] Inserted/Updated jmn URL for IRV.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/irving-resources.html
+[2025-03-07T05:45:53.809Z] Inserted/Updated yahoo_finance URL for ITH.TO: https://finance.yahoo.com/quote/ITH.TO/
+[2025-03-07T05:45:53.809Z] Inserted/Updated miningfeeds URL for IRV.CN: https://www.miningfeeds.com/stock/irving-resources-cse/
+[2025-03-07T05:45:53.832Z] Inserted/Updated jmn URL for ITH.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/intl-tower-hill-mines.html
+[2025-03-07T05:45:53.833Z] Updated last_url_population_attempt for IRV.CN
+[2025-03-07T05:45:53.836Z] Pausing after IRV.CN for 2.462s (attempt 1)
+[2025-03-07T05:45:53.849Z] Inserted/Updated miningfeeds URL for ITH.TO: https://www.miningfeeds.com/stock/intl-tower-hill-mines-tsx/
+[2025-03-07T05:45:53.860Z] Updated last_url_population_attempt for ITH.TO
+[2025-03-07T05:45:53.863Z] Pausing after ITH.TO for 2.159s (attempt 1)
+[2025-03-07T05:45:56.038Z] 
+--- Processing ITR.V (INTEGRA RESOURCES) ---
+[2025-03-07T05:45:56.039Z] 
+--- Processing AAG.V (AFTERMATH SILVER) ---
+[2025-03-07T05:46:04.920Z] Validated URL: https://www.aftermathsilver.com/
+[2025-03-07T05:46:04.948Z] Existing company_website is valid for AAG.V: https://www.aftermathsilver.com/
+[2025-03-07T05:46:04.959Z] Updated company_website for AAG.V to https://www.aftermathsilver.com/
+[2025-03-07T05:46:04.969Z] Updated last_url_population_attempt for AAG.V
+[2025-03-07T05:46:04.971Z] Pausing after AAG.V for 2.387s (attempt 1)
+[2025-03-07T05:46:07.416Z] Validated URL: https://integraresources.com/
+[2025-03-07T05:46:07.448Z] Existing company_website is valid for ITR.V: https://integraresources.com/
+[2025-03-07T05:46:07.462Z] Updated company_website for ITR.V to https://integraresources.com/
+[2025-03-07T05:46:07.478Z] Updated last_url_population_attempt for ITR.V
+[2025-03-07T05:46:07.481Z] Pausing after ITR.V for 2.079s (attempt 1)
+[2025-03-07T05:46:09.574Z] Processed batch 1 of 101 (5/501)
+[2025-03-07T05:46:09.577Z] 
+--- Processing AAN.V (ATON RESOURCES) ---
+[2025-03-07T05:46:09.577Z] 
+--- Processing AAUC.TO (ALLIED GOLD) ---
+[2025-03-07T05:46:11.351Z] Validated URL: https://alliedgold.com/
+[2025-03-07T05:46:11.371Z] Existing company_website is valid for AAUC.TO: https://alliedgold.com/
+[2025-03-07T05:46:11.384Z] Updated last_url_population_attempt for AAUC.TO
+[2025-03-07T05:46:11.386Z] Pausing after AAUC.TO for 2.49s (attempt 1)
+[2025-03-07T05:46:13.879Z] 
+--- Processing ABI.V (ABCOURT MINES) ---
+[2025-03-07T05:46:13.881Z] 
+--- Processing ABRA.TO (ABRASILVER RESOURCE) ---
+[2025-03-07T05:46:25.148Z] No valid homepage found on yahoo_finance for ABRASILVER RESOURCE
+[2025-03-07T05:46:28.130Z] No valid homepage found on yahoo_finance for ABCOURT MINES
+[2025-03-07T05:46:31.956Z] No valid homepage found on jmn for ABRASILVER RESOURCE
+[2025-03-07T05:46:37.008Z] No valid homepage found on miningfeeds for ABRASILVER RESOURCE
+[2025-03-07T05:46:37.054Z] No valid homepage found on jmn for ABCOURT MINES
+[2025-03-07T05:46:37.077Z] Inserted/Updated yahoo_finance URL for ABRA.TO: https://finance.yahoo.com/quote/ABRA.TO/
+[2025-03-07T05:46:37.091Z] Inserted/Updated jmn URL for ABRA.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/abrasilver-resource.html
+[2025-03-07T05:46:37.108Z] Inserted/Updated miningfeeds URL for ABRA.TO: https://www.miningfeeds.com/stock/abrasilver-resource-tsx/
+[2025-03-07T05:46:37.121Z] Updated last_url_population_attempt for ABRA.TO
+[2025-03-07T05:46:37.124Z] Pausing after ABRA.TO for 2.428s (attempt 1)
+[2025-03-07T05:46:37.141Z] Inserted/Updated yahoo_finance URL for ABI.V: https://finance.yahoo.com/quote/ABI.V/
+[2025-03-07T05:46:37.156Z] Inserted/Updated jmn URL for ABI.V: https://www.juniorminingnetwork.com/market-data/stock-quote/abcourt-mines.html
+[2025-03-07T05:46:37.171Z] Updated last_url_population_attempt for ABI.V
+[2025-03-07T05:46:37.173Z] Pausing after ABI.V for 2.672s (attempt 1)
+[2025-03-07T05:46:39.563Z] 
+--- Processing ADY.V (ADYTON RESOURCES) ---
+[2025-03-07T05:46:44.805Z] Validation failed for https://atonresources.com/: Timed out after waiting 30000ms
+[2025-03-07T05:46:44.825Z] Existing company_website is invalid for AAN.V: https://atonresources.com/
+[2025-03-07T05:46:50.973Z] Validated URL: https://adytonresources.com/
+[2025-03-07T05:46:51.027Z] Existing company_website is valid for ADY.V: https://adytonresources.com/
+[2025-03-07T05:46:51.041Z] Updated company_website for ADY.V to https://adytonresources.com/
+[2025-03-07T05:46:51.053Z] Updated last_url_population_attempt for ADY.V
+[2025-03-07T05:46:51.059Z] Pausing after ADY.V for 2.896s (attempt 1)
+[2025-03-07T05:46:53.962Z] Processed batch 2 of 101 (10/501)
+[2025-03-07T05:46:53.966Z] 
+--- Processing ADZ.V (ADAMERA MINERALS) ---
+[2025-03-07T05:46:53.966Z] 
+--- Processing AE.V (AMERICAN EAGLE GOLD) ---
+[2025-03-07T05:46:59.235Z] Validated URL: https://americaneaglegold.ca/
+[2025-03-07T05:46:59.255Z] Existing company_website is valid for AE.V: https://americaneaglegold.ca/
+[2025-03-07T05:46:59.268Z] Updated last_url_population_attempt for AE.V
+[2025-03-07T05:46:59.272Z] Pausing after AE.V for 2.978s (attempt 1)
+[2025-03-07T05:47:01.748Z] No valid homepage found on yahoo_finance for ADAMERA MINERALS
+[2025-03-07T05:47:02.264Z] 
+--- Processing AEM.TO (AGNICO EAGLE MINES) ---
+[2025-03-07T05:47:02.266Z] 
+--- Processing AERO.V (AERO ENERGY) ---
+[2025-03-07T05:47:04.218Z] Validated URL: https://atonresources.com/
+[2025-03-07T05:47:04.237Z] Found homepage from yahoo_finance for ATON RESOURCES: https://atonresources.com/
+[2025-03-07T05:47:04.367Z] Inserted/Updated yahoo_finance URL for AAN.V: https://finance.yahoo.com/quote/AAN.V/
+[2025-03-07T05:47:04.384Z] Inserted/Updated homepage URL for AAN.V: https://atonresources.com/
+[2025-03-07T05:47:04.398Z] Updated last_url_population_attempt for AAN.V
+[2025-03-07T05:47:04.402Z] Pausing after AAN.V for 2.566s (attempt 1)
+[2025-03-07T05:47:10.981Z] No valid homepage found on jmn for ADAMERA MINERALS
+[2025-03-07T05:47:11.019Z] Inserted/Updated yahoo_finance URL for ADZ.V: https://finance.yahoo.com/quote/ADZ.V/
+[2025-03-07T05:47:11.031Z] Inserted/Updated jmn URL for ADZ.V: https://www.juniorminingnetwork.com/market-data/stock-quote/adamera-minerals.html
+[2025-03-07T05:47:11.046Z] Updated last_url_population_attempt for ADZ.V
+[2025-03-07T05:47:11.049Z] Pausing after ADZ.V for 2.673s (attempt 1)
+[2025-03-07T05:47:11.969Z] No valid homepage found on yahoo_finance for AGNICO EAGLE MINES
+[2025-03-07T05:47:20.508Z] No valid homepage found on jmn for AGNICO EAGLE MINES
+[2025-03-07T05:47:25.113Z] Validated URL: https://aeroenergy.ca/
+[2025-03-07T05:47:25.162Z] Existing company_website is valid for AERO.V: https://aeroenergy.ca/
+[2025-03-07T05:47:25.175Z] Updated last_url_population_attempt for AERO.V
+[2025-03-07T05:47:25.177Z] Pausing after AERO.V for 2.548s (attempt 1)
+[2025-03-07T05:47:25.186Z] No valid homepage found on miningfeeds for AGNICO EAGLE MINES
+[2025-03-07T05:47:25.244Z] Inserted/Updated yahoo_finance URL for AEM.TO: https://finance.yahoo.com/quote/AEM.TO/
+[2025-03-07T05:47:25.261Z] Inserted/Updated jmn URL for AEM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/agnico-eagle-mines.html
+[2025-03-07T05:47:25.275Z] Inserted/Updated miningfeeds URL for AEM.TO: https://www.miningfeeds.com/stock/agnico-eagle-mines-tsx/
+[2025-03-07T05:47:25.290Z] Updated last_url_population_attempt for AEM.TO
+[2025-03-07T05:47:25.293Z] Pausing after AEM.TO for 2.213s (attempt 1)
+[2025-03-07T05:47:27.513Z] 
+--- Processing AG.TO (FIRST MAJESTIC SILVER) ---
+[2025-03-07T05:47:37.506Z] No valid homepage found on yahoo_finance for FIRST MAJESTIC SILVER
+[2025-03-07T05:47:42.418Z] No valid homepage found on jmn for FIRST MAJESTIC SILVER
+[2025-03-07T05:47:47.074Z] No valid homepage found on miningfeeds for FIRST MAJESTIC SILVER
+[2025-03-07T05:47:47.172Z] Inserted/Updated yahoo_finance URL for AG.TO: https://finance.yahoo.com/quote/AG.TO/
+[2025-03-07T05:47:47.188Z] Inserted/Updated jmn URL for AG.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/first-majestic-silver.html
+[2025-03-07T05:47:47.205Z] Inserted/Updated miningfeeds URL for AG.TO: https://www.miningfeeds.com/stock/first-majestic-silver-tsx/
+[2025-03-07T05:47:47.220Z] Updated last_url_population_attempt for AG.TO
+[2025-03-07T05:47:47.223Z] Pausing after AG.TO for 2.732s (attempt 1)
+[2025-03-07T05:47:49.962Z] Processed batch 3 of 101 (15/501)
+[2025-03-07T05:47:49.966Z] 
+--- Processing AGA.V (SILVER47 EXPLORATION) ---
+[2025-03-07T05:47:49.967Z] 
+--- Processing AGAG.V (ARGENTA SILVER) ---
+[2025-03-07T05:47:58.947Z] No valid homepage found on yahoo_finance for SILVER47 EXPLORATION
+[2025-03-07T05:48:07.088Z] No valid homepage found on jmn for SILVER47 EXPLORATION
+[2025-03-07T05:48:07.125Z] Inserted/Updated yahoo_finance URL for AGA.V: https://finance.yahoo.com/quote/AGA.V/
+[2025-03-07T05:48:07.145Z] Inserted/Updated jmn URL for AGA.V: https://www.juniorminingnetwork.com/market-data/stock-quote/silver47-exploration.html
+[2025-03-07T05:48:07.160Z] Updated last_url_population_attempt for AGA.V
+[2025-03-07T05:48:07.162Z] Pausing after AGA.V for 2.791s (attempt 1)
+[2025-03-07T05:48:09.965Z] 
+--- Processing AGI.TO (ALAMOS GOLD) ---
+[2025-03-07T05:48:11.761Z] Validated URL: https://www.alamosgold.com/
+[2025-03-07T05:48:11.779Z] Existing company_website is valid for AGI.TO: https://www.alamosgold.com/
+[2025-03-07T05:48:11.791Z] Updated last_url_population_attempt for AGI.TO
+[2025-03-07T05:48:11.793Z] Pausing after AGI.TO for 2.69s (attempt 1)
+[2025-03-07T05:48:14.494Z] 
+--- Processing AGLD.V (AUSTRAL GOLD LIMITED) ---
+[2025-03-07T05:48:14.496Z] 
+--- Processing AGMR.V (SILVER MOUNTAIN RESOURCES) ---
+[2025-03-07T05:48:24.066Z] No valid homepage found on yahoo_finance for SILVER MOUNTAIN RESOURCES
+[2025-03-07T05:48:25.284Z] No valid homepage found on yahoo_finance for AUSTRAL GOLD LIMITED
+[2025-03-07T05:48:26.343Z] Validation failed for https://argentasilver.com/: Timed out after waiting 30000ms
+[2025-03-07T05:48:26.422Z] Existing company_website is invalid for AGAG.V: https://argentasilver.com/
+[2025-03-07T05:48:28.826Z] No valid homepage found on jmn for SILVER MOUNTAIN RESOURCES
+[2025-03-07T05:48:28.866Z] Inserted/Updated yahoo_finance URL for AGMR.V: https://finance.yahoo.com/quote/AGMR.V/
+[2025-03-07T05:48:28.881Z] Inserted/Updated jmn URL for AGMR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/silver-mountain-resources.html
+[2025-03-07T05:48:28.898Z] Updated last_url_population_attempt for AGMR.V
+[2025-03-07T05:48:28.901Z] Pausing after AGMR.V for 2.485s (attempt 1)
+[2025-03-07T05:48:39.070Z] Validated URL: https://argentasilver.com/
+[2025-03-07T05:48:39.113Z] Found homepage from yahoo_finance for ARGENTA SILVER: https://argentasilver.com/
+[2025-03-07T05:48:39.267Z] Inserted/Updated yahoo_finance URL for AGAG.V: https://finance.yahoo.com/quote/AGAG.V/
+[2025-03-07T05:48:39.280Z] Inserted/Updated homepage URL for AGAG.V: https://argentasilver.com/
+[2025-03-07T05:48:39.295Z] Updated last_url_population_attempt for AGAG.V
+[2025-03-07T05:48:39.297Z] Pausing after AGAG.V for 2.182s (attempt 1)
+[2025-03-07T05:48:39.405Z] No valid homepage found on jmn for AUSTRAL GOLD LIMITED
+[2025-03-07T05:48:39.447Z] Inserted/Updated yahoo_finance URL for AGLD.V: https://finance.yahoo.com/quote/AGLD.V/
+[2025-03-07T05:48:39.459Z] Inserted/Updated jmn URL for AGLD.V: https://www.juniorminingnetwork.com/market-data/stock-quote/austral-gold.html
+[2025-03-07T05:48:39.473Z] Updated last_url_population_attempt for AGLD.V
+[2025-03-07T05:48:39.475Z] Pausing after AGLD.V for 2.71s (attempt 1)
+[2025-03-07T05:48:42.202Z] Processed batch 4 of 101 (20/501)
+[2025-03-07T05:48:42.206Z] 
+--- Processing AGX.V (SILVER X MINING) ---
+[2025-03-07T05:48:42.207Z] 
+--- Processing ALDE.V (ALDEBARAN RESOURCES) ---
+[2025-03-07T05:48:50.205Z] Validated URL: https://aldebaranresources.com/
+[2025-03-07T05:48:50.228Z] Existing company_website is valid for ALDE.V: https://aldebaranresources.com/
+[2025-03-07T05:48:50.241Z] Updated last_url_population_attempt for ALDE.V
+[2025-03-07T05:48:50.244Z] Pausing after ALDE.V for 2.187s (attempt 1)
+[2025-03-07T05:48:52.440Z] 
+--- Processing ALEX.V (ALPHA EXPLORATION) ---
+[2025-03-07T05:48:52.440Z] 
+--- Processing ALTA.V (ALTAMIRA GOLD) ---
+[2025-03-07T05:48:57.675Z] Validated URL: https://altamiragold.com/
+[2025-03-07T05:48:57.718Z] Existing company_website is valid for ALTA.V: https://altamiragold.com/
+[2025-03-07T05:48:57.732Z] Updated last_url_population_attempt for ALTA.V
+[2025-03-07T05:48:57.735Z] Pausing after ALTA.V for 2.035s (attempt 1)
+[2025-03-07T05:48:59.772Z] 
+--- Processing AMC.TO (ARIZONA METALS) ---
+[2025-03-07T05:49:01.031Z] Validated URL: https://www.silverxmining.com/
+[2025-03-07T05:49:01.055Z] Found homepage from yahoo_finance for SILVER X MINING: https://www.silverxmining.com/
+[2025-03-07T05:49:01.182Z] Inserted/Updated yahoo_finance URL for AGX.V: https://finance.yahoo.com/quote/AGX.V/
+[2025-03-07T05:49:01.197Z] Inserted/Updated homepage URL for AGX.V: https://www.silverxmining.com/
+[2025-03-07T05:49:01.210Z] Updated company_website for AGX.V to https://www.silverxmining.com/
+[2025-03-07T05:49:01.228Z] Updated last_url_population_attempt for AGX.V
+[2025-03-07T05:49:01.231Z] Pausing after AGX.V for 2.926s (attempt 1)
+[2025-03-07T05:49:01.563Z] No valid homepage found on yahoo_finance for ALPHA EXPLORATION
+[2025-03-07T05:49:10.444Z] No valid homepage found on jmn for ALPHA EXPLORATION
+[2025-03-07T05:49:10.475Z] Inserted/Updated yahoo_finance URL for ALEX.V: https://finance.yahoo.com/quote/ALEX.V/
+[2025-03-07T05:49:10.491Z] Inserted/Updated jmn URL for ALEX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/alpha-exploration.html
+[2025-03-07T05:49:10.505Z] Updated last_url_population_attempt for ALEX.V
+[2025-03-07T05:49:10.510Z] Pausing after ALEX.V for 2.428s (attempt 1)
+[2025-03-07T05:49:16.510Z] Validated URL: https://www.arizonametalscorp.com/
+[2025-03-07T05:49:16.542Z] Existing company_website is valid for AMC.TO: https://www.arizonametalscorp.com/
+[2025-03-07T05:49:16.558Z] Updated last_url_population_attempt for AMC.TO
+[2025-03-07T05:49:16.561Z] Pausing after AMC.TO for 2.542s (attempt 1)
+[2025-03-07T05:49:19.120Z] Processed batch 5 of 101 (25/501)
+[2025-03-07T05:49:19.123Z] 
+--- Processing AMQ.CN (ABITIBI METALS) ---
+[2025-03-07T05:49:19.125Z] 
+--- Processing AMRQ.V (AMAROQ MINERALS) ---
+[2025-03-07T05:49:29.212Z] Validated URL: https://abitibimetals.com/
+[2025-03-07T05:49:29.230Z] Existing company_website is valid for AMQ.CN: https://abitibimetals.com/
+[2025-03-07T05:49:29.244Z] Updated last_url_population_attempt for AMQ.CN
+[2025-03-07T05:49:29.245Z] Pausing after AMQ.CN for 2.964s (attempt 1)
+[2025-03-07T05:49:32.219Z] 
+--- Processing AMX.V (AMEX EXPLORATION) ---
+[2025-03-07T05:49:39.525Z] Validated URL: https://www.amexexploration.com/
+[2025-03-07T05:49:39.559Z] Existing company_website is valid for AMX.V: https://www.amexexploration.com/
+[2025-03-07T05:49:39.576Z] Updated last_url_population_attempt for AMX.V
+[2025-03-07T05:49:39.578Z] Pausing after AMX.V for 2.655s (attempt 1)
+[2025-03-07T05:49:42.246Z] 
+--- Processing ANK.V (ANGKOR RESOURCES) ---
+[2025-03-07T05:49:42.247Z] 
+--- Processing ANTL.V (ANTLER GOLD) ---
+[2025-03-07T05:49:50.122Z] Validated URL: https://angkorresources.com/
+[2025-03-07T05:49:50.165Z] Existing company_website is valid for ANK.V: https://angkorresources.com/
+[2025-03-07T05:49:50.182Z] Updated last_url_population_attempt for ANK.V
+[2025-03-07T05:49:50.186Z] Pausing after ANK.V for 2.723s (attempt 1)
+[2025-03-07T05:50:03.170Z] Validation failed for https://www.amaroqminerals.com/: Timed out after waiting 30000ms
+[2025-03-07T05:50:03.183Z] No valid homepage found on yahoo_finance for AMAROQ MINERALS
+[2025-03-07T05:50:38.702Z] Validation failed for https://www.antlergold.com/: Timed out after waiting 30000ms
+[2025-03-07T05:50:38.732Z] No valid homepage found on yahoo_finance for ANTLER GOLD
+[2025-03-07T05:50:45.748Z] Validation failed for http://www.amaroqminerals.com/: Timed out after waiting 30000ms
+[2025-03-07T05:50:45.803Z] No valid homepage found on jmn for AMAROQ MINERALS
+[2025-03-07T05:50:45.841Z] Inserted/Updated yahoo_finance URL for AMRQ.V: https://finance.yahoo.com/quote/AMRQ.V/
+[2025-03-07T05:50:45.857Z] Inserted/Updated jmn URL for AMRQ.V: https://www.juniorminingnetwork.com/market-data/stock-quote/amaroq-minerals.html
+[2025-03-07T05:50:45.873Z] Updated last_url_population_attempt for AMRQ.V
+[2025-03-07T05:50:45.877Z] Pausing after AMRQ.V for 2.592s (attempt 1)
+[2025-03-07T05:50:49.909Z] Validated URL: https://www.antlergold.com/
+[2025-03-07T05:50:49.971Z] Found homepage from jmn for ANTLER GOLD: https://www.antlergold.com/
+[2025-03-07T05:50:50.035Z] Inserted/Updated yahoo_finance URL for ANTL.V: https://finance.yahoo.com/quote/ANTL.V/
+[2025-03-07T05:50:50.052Z] Inserted/Updated jmn URL for ANTL.V: https://www.juniorminingnetwork.com/market-data/stock-quote/antler-gold.html
+[2025-03-07T05:50:50.066Z] Inserted/Updated homepage URL for ANTL.V: https://www.antlergold.com/
+[2025-03-07T05:50:50.080Z] Updated company_website for ANTL.V to https://www.antlergold.com/
+[2025-03-07T05:50:50.098Z] Updated last_url_population_attempt for ANTL.V
+[2025-03-07T05:50:50.101Z] Pausing after ANTL.V for 2.98s (attempt 1)
+[2025-03-07T05:50:53.091Z] Processed batch 6 of 101 (30/501)
+[2025-03-07T05:50:53.095Z] 
+--- Processing AOT.TO (ASCOT RESOURCES) ---
+[2025-03-07T05:50:53.095Z] 
+--- Processing APGO.V (APOLLO SILVER) ---
+[2025-03-07T05:50:59.848Z] Validated URL: https://apollosilver.com/
+[2025-03-07T05:50:59.895Z] Existing company_website is valid for APGO.V: https://apollosilver.com/
+[2025-03-07T05:50:59.909Z] Updated last_url_population_attempt for APGO.V
+[2025-03-07T05:50:59.911Z] Pausing after APGO.V for 2.66s (attempt 1)
+[2025-03-07T05:51:02.574Z] 
+--- Processing APM.TO (ANDEAN PRECIOUS METALS) ---
+[2025-03-07T05:51:02.575Z] 
+--- Processing ARIC.V (AWALÉ RESOURCES LIMITED) ---
+[2025-03-07T05:51:08.441Z] No valid homepage found on yahoo_finance for ASCOT RESOURCES
+[2025-03-07T05:51:11.893Z] No valid homepage found on yahoo_finance for AWALÉ RESOURCES LIMITED
+[2025-03-07T05:51:14.022Z] No valid homepage found on yahoo_finance for ANDEAN PRECIOUS METALS
+[2025-03-07T05:51:19.847Z] No valid homepage found on jmn for ASCOT RESOURCES
+[2025-03-07T05:51:21.376Z] No valid homepage found on jmn for ANDEAN PRECIOUS METALS
+[2025-03-07T05:51:23.984Z] Inserted/Updated yahoo_finance URL for ARIC.V: https://finance.yahoo.com/quote/ARIC.V/
+[2025-03-07T05:51:23.998Z] Updated last_url_population_attempt for ARIC.V
+[2025-03-07T05:51:24.003Z] Pausing after ARIC.V for 2.356s (attempt 1)
+[2025-03-07T05:51:25.460Z] No valid homepage found on miningfeeds for ASCOT RESOURCES
+[2025-03-07T05:51:25.509Z] Inserted/Updated yahoo_finance URL for AOT.TO: https://finance.yahoo.com/quote/AOT.TO/
+[2025-03-07T05:51:25.524Z] Inserted/Updated jmn URL for AOT.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/ascot-resources.html
+[2025-03-07T05:51:25.537Z] Inserted/Updated miningfeeds URL for AOT.TO: https://www.miningfeeds.com/stock/ascot-resources-tsx/
+[2025-03-07T05:51:25.551Z] Updated last_url_population_attempt for AOT.TO
+[2025-03-07T05:51:25.552Z] Pausing after AOT.TO for 2.549s (attempt 1)
+[2025-03-07T05:51:26.364Z] 
+--- Processing ARIS.TO (ARIS MINING) ---
+[2025-03-07T05:51:26.853Z] No valid homepage found on miningfeeds for ANDEAN PRECIOUS METALS
+[2025-03-07T05:51:26.910Z] Inserted/Updated yahoo_finance URL for APM.TO: https://finance.yahoo.com/quote/APM.TO/
+[2025-03-07T05:51:26.925Z] Inserted/Updated jmn URL for APM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/andean-precious-metals.html
+[2025-03-07T05:51:26.943Z] Inserted/Updated miningfeeds URL for APM.TO: https://www.miningfeeds.com/stock/andean-precious-metals-tsx/
+[2025-03-07T05:51:26.960Z] Updated last_url_population_attempt for APM.TO
+[2025-03-07T05:51:26.965Z] Pausing after APM.TO for 2.546s (attempt 1)
+[2025-03-07T05:51:36.940Z] No valid homepage found on yahoo_finance for ARIS MINING
+[2025-03-07T05:51:41.295Z] No valid homepage found on jmn for ARIS MINING
+[2025-03-07T05:51:46.387Z] No valid homepage found on miningfeeds for ARIS MINING
+[2025-03-07T05:51:46.443Z] Inserted/Updated yahoo_finance URL for ARIS.TO: https://finance.yahoo.com/quote/ARIS.TO/
+[2025-03-07T05:51:46.459Z] Inserted/Updated jmn URL for ARIS.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/aris-mining.html
+[2025-03-07T05:51:46.470Z] Inserted/Updated miningfeeds URL for ARIS.TO: https://www.miningfeeds.com/stock/aris-mining-tsx/
+[2025-03-07T05:51:46.481Z] Updated last_url_population_attempt for ARIS.TO
+[2025-03-07T05:51:46.482Z] Pausing after ARIS.TO for 2.155s (attempt 1)
+[2025-03-07T05:51:48.651Z] Processed batch 7 of 101 (35/501)
+[2025-03-07T05:51:48.653Z] 
+--- Processing ARK.V (ARRAS MINERALS) ---
+[2025-03-07T05:51:48.654Z] 
+--- Processing ARTG.V (ARTEMIS GOLD) ---
+[2025-03-07T05:51:52.543Z] Validated URL: https://www.arrasminerals.com/
+[2025-03-07T05:51:52.558Z] Existing company_website is valid for ARK.V: https://www.arrasminerals.com/
+[2025-03-07T05:51:52.573Z] Updated last_url_population_attempt for ARK.V
+[2025-03-07T05:51:52.575Z] Pausing after ARK.V for 2.154s (attempt 1)
+[2025-03-07T05:51:54.742Z] 
+--- Processing ARU.V (AURANIA RESOURCES) ---
+[2025-03-07T05:51:56.679Z] Validated URL: https://www.artemisgoldinc.com/
+[2025-03-07T05:51:56.704Z] Existing company_website is valid for ARTG.V: https://www.artemisgoldinc.com/
+[2025-03-07T05:51:56.718Z] Updated last_url_population_attempt for ARTG.V
+[2025-03-07T05:51:56.720Z] Pausing after ARTG.V for 2.702s (attempt 1)
+[2025-03-07T05:51:59.432Z] 
+--- Processing ASE.CN (ASANTE GOLD) ---
+[2025-03-07T05:52:07.764Z] No valid homepage found on yahoo_finance for AURANIA RESOURCES
+[2025-03-07T05:52:16.308Z] No valid homepage found on jmn for AURANIA RESOURCES
+[2025-03-07T05:52:16.349Z] Inserted/Updated yahoo_finance URL for ARU.V: https://finance.yahoo.com/quote/ARU.V/
+[2025-03-07T05:52:16.368Z] Inserted/Updated jmn URL for ARU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/aurania-resources.html
+[2025-03-07T05:52:16.385Z] Updated last_url_population_attempt for ARU.V
+[2025-03-07T05:52:16.389Z] Pausing after ARU.V for 2.082s (attempt 1)
+[2025-03-07T05:52:18.477Z] 
+--- Processing ASM.TO (AVINO SILVER & GOLD MINES) ---
+[2025-03-07T05:52:19.280Z] Validated URL: https://www.asantegold.com/
+[2025-03-07T05:52:19.290Z] Existing company_website is valid for ASE.CN: https://www.asantegold.com/
+[2025-03-07T05:52:19.301Z] Updated last_url_population_attempt for ASE.CN
+[2025-03-07T05:52:19.304Z] Pausing after ASE.CN for 2.895s (attempt 1)
+[2025-03-07T05:52:25.854Z] No valid homepage found on yahoo_finance for AVINO SILVER & GOLD MINES
+[2025-03-07T05:52:30.788Z] No valid homepage found on jmn for AVINO SILVER & GOLD MINES
+[2025-03-07T05:52:36.032Z] No valid homepage found on miningfeeds for AVINO SILVER & GOLD MINES
+[2025-03-07T05:52:36.079Z] Inserted/Updated yahoo_finance URL for ASM.TO: https://finance.yahoo.com/quote/ASM.TO/
+[2025-03-07T05:52:36.094Z] Inserted/Updated jmn URL for ASM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/avino-silver-&-gold-mines.html
+[2025-03-07T05:52:36.110Z] Inserted/Updated miningfeeds URL for ASM.TO: https://www.miningfeeds.com/stock/avino-silver-gold-mines-tsx/
+[2025-03-07T05:52:36.125Z] Updated last_url_population_attempt for ASM.TO
+[2025-03-07T05:52:36.127Z] Pausing after ASM.TO for 2.446s (attempt 1)
+[2025-03-07T05:52:38.592Z] Processed batch 8 of 101 (40/501)
+[2025-03-07T05:52:38.594Z] 
+--- Processing ASTR.V (ASTRA EXPLORATION) ---
+[2025-03-07T05:52:38.595Z] 
+--- Processing ATHA.CN (ATHENA GOLD) ---
+[2025-03-07T05:52:48.099Z] No valid homepage found on yahoo_finance for ASTRA EXPLORATION
+[2025-03-07T05:52:52.890Z] No valid homepage found on jmn for ASTRA EXPLORATION
+[2025-03-07T05:52:52.958Z] Inserted/Updated yahoo_finance URL for ASTR.V: https://finance.yahoo.com/quote/ASTR.V/
+[2025-03-07T05:52:52.973Z] Inserted/Updated jmn URL for ASTR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/astra-exploration.html
+[2025-03-07T05:52:52.987Z] Updated last_url_population_attempt for ASTR.V
+[2025-03-07T05:52:52.989Z] Pausing after ASTR.V for 2.958s (attempt 1)
+[2025-03-07T05:52:54.023Z] Validated URL: https://athenagoldcorp.com/
+[2025-03-07T05:52:54.050Z] Existing company_website is valid for ATHA.CN: https://athenagoldcorp.com/
+[2025-03-07T05:52:54.066Z] Updated last_url_population_attempt for ATHA.CN
+[2025-03-07T05:52:54.069Z] Pausing after ATHA.CN for 2.452s (attempt 1)
+[2025-03-07T05:52:55.956Z] 
+--- Processing AU.V (AURION RESOURCES) ---
+[2025-03-07T05:52:56.536Z] 
+--- Processing AUAU.V (ALLEGIANT GOLD) ---
+[2025-03-07T05:53:03.139Z] Validated URL: https://allegiantgold.com/
+[2025-03-07T05:53:03.178Z] Existing company_website is valid for AUAU.V: https://allegiantgold.com/
+[2025-03-07T05:53:03.195Z] Updated last_url_population_attempt for AUAU.V
+[2025-03-07T05:53:03.198Z] Pausing after AUAU.V for 2.16s (attempt 1)
+[2025-03-07T05:53:04.686Z] Validated URL: https://aurionresources.com/
+[2025-03-07T05:53:04.723Z] Existing company_website is valid for AU.V: https://aurionresources.com/
+[2025-03-07T05:53:04.736Z] Updated last_url_population_attempt for AU.V
+[2025-03-07T05:53:04.738Z] Pausing after AU.V for 2.158s (attempt 1)
+[2025-03-07T05:53:05.372Z] 
+--- Processing AWM.V (ANGEL WING METALS) ---
+[2025-03-07T05:53:10.616Z] Validated URL: https://angelwingmetals.com/
+[2025-03-07T05:53:10.637Z] Existing company_website is valid for AWM.V: https://angelwingmetals.com/
+[2025-03-07T05:53:10.651Z] Updated last_url_population_attempt for AWM.V
+[2025-03-07T05:53:10.653Z] Pausing after AWM.V for 2.528s (attempt 1)
+[2025-03-07T05:53:13.194Z] Processed batch 9 of 101 (45/501)
+[2025-03-07T05:53:13.196Z] 
+--- Processing AUM.V (AUMEGA METALS) ---
+[2025-03-07T05:53:13.197Z] 
+--- Processing AUMB.V (1911 GOLD) ---
+[2025-03-07T05:53:21.812Z] No valid homepage found on yahoo_finance for AUMEGA METALS
+[2025-03-07T06:11:24.299Z] Starting URL population process...
+[2025-03-07T06:11:24.311Z] Loaded 501 companies from public/data/companies.csv
+[2025-03-07T06:11:24.759Z] 
+--- Processing AAB.TO (ABERDEEN INTERNATIONAL) ---
+[2025-03-07T06:11:24.759Z] 
+--- Processing IRV.CN (IRVING RESOURCES) ---
+[2025-03-07T06:11:24.765Z] Skipping AAB.TO: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.765Z] Skipping IRV.CN: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.768Z] 
+--- Processing ITR.V (INTEGRA RESOURCES) ---
+[2025-03-07T06:11:24.767Z] 
+--- Processing ITH.TO (INTL. TOWER HILL MINES) ---
+[2025-03-07T06:11:24.772Z] Skipping ITR.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.772Z] Skipping ITH.TO: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.773Z] 
+--- Processing AAG.V (AFTERMATH SILVER) ---
+[2025-03-07T06:11:24.776Z] Skipping AAG.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.778Z] Processed batch 1 of 101 (5/501)
+[2025-03-07T06:11:24.779Z] 
+--- Processing AAN.V (ATON RESOURCES) ---
+[2025-03-07T06:11:24.780Z] 
+--- Processing AAUC.TO (ALLIED GOLD) ---
+[2025-03-07T06:11:24.783Z] Skipping AAN.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.783Z] Skipping AAUC.TO: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.784Z] 
+--- Processing ABI.V (ABCOURT MINES) ---
+[2025-03-07T06:11:24.784Z] 
+--- Processing ABRA.TO (ABRASILVER RESOURCE) ---
+[2025-03-07T06:11:24.787Z] Skipping ABI.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.788Z] Skipping ABRA.TO: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.789Z] 
+--- Processing ADY.V (ADYTON RESOURCES) ---
+[2025-03-07T06:11:24.791Z] Skipping ADY.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.793Z] Processed batch 2 of 101 (10/501)
+[2025-03-07T06:11:24.795Z] 
+--- Processing AE.V (AMERICAN EAGLE GOLD) ---
+[2025-03-07T06:11:24.795Z] 
+--- Processing ADZ.V (ADAMERA MINERALS) ---
+[2025-03-07T06:11:24.797Z] Skipping ADZ.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.798Z] Skipping AE.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.799Z] 
+--- Processing AEM.TO (AGNICO EAGLE MINES) ---
+[2025-03-07T06:11:24.799Z] 
+--- Processing AERO.V (AERO ENERGY) ---
+[2025-03-07T06:11:24.802Z] Skipping AERO.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.804Z] Skipping AEM.TO: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.805Z] 
+--- Processing AG.TO (FIRST MAJESTIC SILVER) ---
+[2025-03-07T06:11:24.808Z] Skipping AG.TO: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.809Z] Processed batch 3 of 101 (15/501)
+[2025-03-07T06:11:24.812Z] 
+--- Processing AGA.V (SILVER47 EXPLORATION) ---
+[2025-03-07T06:11:24.813Z] 
+--- Processing AGAG.V (ARGENTA SILVER) ---
+[2025-03-07T06:11:24.816Z] Skipping AGA.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.818Z] Skipping AGAG.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.820Z] 
+--- Processing AGI.TO (ALAMOS GOLD) ---
+[2025-03-07T06:11:24.821Z] 
+--- Processing AGLD.V (AUSTRAL GOLD LIMITED) ---
+[2025-03-07T06:11:24.823Z] Skipping AGI.TO: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.824Z] Skipping AGLD.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.825Z] 
+--- Processing AGMR.V (SILVER MOUNTAIN RESOURCES) ---
+[2025-03-07T06:11:24.827Z] Skipping AGMR.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.829Z] Processed batch 4 of 101 (20/501)
+[2025-03-07T06:11:24.830Z] 
+--- Processing AGX.V (SILVER X MINING) ---
+[2025-03-07T06:11:24.830Z] 
+--- Processing ALDE.V (ALDEBARAN RESOURCES) ---
+[2025-03-07T06:11:24.833Z] Skipping AGX.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.835Z] Skipping ALDE.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.836Z] 
+--- Processing ALEX.V (ALPHA EXPLORATION) ---
+[2025-03-07T06:11:24.837Z] 
+--- Processing ALTA.V (ALTAMIRA GOLD) ---
+[2025-03-07T06:11:24.840Z] Skipping ALEX.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.840Z] Skipping ALTA.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.841Z] 
+--- Processing AMC.TO (ARIZONA METALS) ---
+[2025-03-07T06:11:24.844Z] Skipping AMC.TO: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.846Z] Processed batch 5 of 101 (25/501)
+[2025-03-07T06:11:24.848Z] 
+--- Processing AMQ.CN (ABITIBI METALS) ---
+[2025-03-07T06:11:24.849Z] 
+--- Processing AMRQ.V (AMAROQ MINERALS) ---
+[2025-03-07T06:11:24.852Z] Skipping AMQ.CN: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.852Z] Skipping AMRQ.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.853Z] 
+--- Processing AMX.V (AMEX EXPLORATION) ---
+[2025-03-07T06:11:24.854Z] 
+--- Processing ANK.V (ANGKOR RESOURCES) ---
+[2025-03-07T06:11:24.857Z] Skipping ANK.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.857Z] Skipping AMX.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.858Z] 
+--- Processing ANTL.V (ANTLER GOLD) ---
+[2025-03-07T06:11:24.861Z] Skipping ANTL.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.863Z] Processed batch 6 of 101 (30/501)
+[2025-03-07T06:11:24.867Z] 
+--- Processing AOT.TO (ASCOT RESOURCES) ---
+[2025-03-07T06:11:24.867Z] 
+--- Processing APGO.V (APOLLO SILVER) ---
+[2025-03-07T06:11:24.870Z] Skipping AOT.TO: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.871Z] Skipping APGO.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.873Z] 
+--- Processing APM.TO (ANDEAN PRECIOUS METALS) ---
+[2025-03-07T06:11:24.874Z] 
+--- Processing ARIC.V (AWALÉ RESOURCES LIMITED) ---
+[2025-03-07T06:11:24.877Z] Skipping APM.TO: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.877Z] Skipping ARIC.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.879Z] 
+--- Processing ARIS.TO (ARIS MINING) ---
+[2025-03-07T06:11:24.883Z] Skipping ARIS.TO: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.885Z] Processed batch 7 of 101 (35/501)
+[2025-03-07T06:11:24.887Z] 
+--- Processing ARK.V (ARRAS MINERALS) ---
+[2025-03-07T06:11:24.887Z] 
+--- Processing ARTG.V (ARTEMIS GOLD) ---
+[2025-03-07T06:11:24.889Z] Skipping ARK.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.890Z] Skipping ARTG.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.891Z] 
+--- Processing ARU.V (AURANIA RESOURCES) ---
+[2025-03-07T06:11:24.893Z] 
+--- Processing ASE.CN (ASANTE GOLD) ---
+[2025-03-07T06:11:24.895Z] Skipping ARU.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.897Z] Skipping ASE.CN: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.897Z] 
+--- Processing ASM.TO (AVINO SILVER & GOLD MINES) ---
+[2025-03-07T06:11:24.901Z] Skipping ASM.TO: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.903Z] Processed batch 8 of 101 (40/501)
+[2025-03-07T06:11:24.905Z] 
+--- Processing ASTR.V (ASTRA EXPLORATION) ---
+[2025-03-07T06:11:24.905Z] 
+--- Processing ATHA.CN (ATHENA GOLD) ---
+[2025-03-07T06:11:24.908Z] Skipping ASTR.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.908Z] Skipping ATHA.CN: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.909Z] 
+--- Processing AU.V (AURION RESOURCES) ---
+[2025-03-07T06:11:24.909Z] 
+--- Processing AUAU.V (ALLEGIANT GOLD) ---
+[2025-03-07T06:11:24.912Z] Skipping AU.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.913Z] Skipping AUAU.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.914Z] 
+--- Processing AWM.V (ANGEL WING METALS) ---
+[2025-03-07T06:11:24.917Z] Skipping AWM.V: Last attempted 0.0 days ago
+[2025-03-07T06:11:24.918Z] Processed batch 9 of 101 (45/501)
+[2025-03-07T06:11:24.920Z] 
+--- Processing AUM.V (AUMEGA METALS) ---
+[2025-03-07T06:11:24.921Z] 
+--- Processing AUMB.V (1911 GOLD) ---
+[2025-03-07T06:11:24.924Z] Using existing yahoo_finance URL for AUM.V: https://finance.yahoo.com/quote/AUM.V/
+[2025-03-07T06:11:24.925Z] Skipping homepage extraction for AUMB.V: Using existing valid company_website https://www.1911gold.com/
+[2025-03-07T06:11:24.940Z] Updated last_url_population_attempt for AUMB.V
+[2025-03-07T06:11:24.941Z] 
+--- Processing AUOZ.CN (EMPEROR METALS) ---
+[2025-03-07T06:11:24.942Z] 
+--- Processing AUR.H.V (AURORA ROYALTIES) ---
+[2025-03-07T06:11:24.990Z] Skipping homepage extraction for AUOZ.CN: Using existing valid company_website https://emperormetals.com/
+[2025-03-07T06:11:25.006Z] Updated last_url_population_attempt for AUOZ.CN
+[2025-03-07T06:11:25.008Z] 
+--- Processing AXM.H.V (AXMIN) ---
+[2025-03-07T06:11:25.013Z] Skipping homepage extraction for AXM.H.V: Using existing valid company_website https://www.juniorminingnetwork.com/market-data/stock-quote/axmin.html#
+[2025-03-07T06:11:25.022Z] Updated last_url_population_attempt for AXM.H.V
+[2025-03-07T06:11:31.603Z] No valid homepage found for AUR.H.V
+[2025-03-07T06:11:31.617Z] Updated last_url_population_attempt for AUR.H.V
+[2025-03-07T06:11:31.621Z] Pausing after AUR.H.V for 2.127s (attempt 1)
+[2025-03-07T06:11:33.761Z] Processed batch 10 of 101 (50/501)
+[2025-03-07T06:11:33.763Z] 
+--- Processing AYA.TO (AYA GOLD & SILVER) ---
+[2025-03-07T06:11:33.763Z] 
+--- Processing AZM.V (AZIMUT EXPLORATION) ---
+[2025-03-07T06:11:33.767Z] Using existing yahoo_finance URL for AYA.TO: https://finance.yahoo.com/quote/AYA.TO/
+[2025-03-07T06:11:33.768Z] Using existing yahoo_finance URL for AZM.V: https://finance.yahoo.com/quote/AZM.V/
+[2025-03-07T06:11:42.103Z] No valid homepage found on yahoo_finance for AYA GOLD & SILVER
+[2025-03-07T06:11:42.624Z] No valid homepage found on yahoo_finance for AUMEGA METALS
+[2025-03-07T06:11:42.677Z] Using existing jmn URL for AUM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/aumega-metals.html
+[2025-03-07T06:11:44.217Z] No valid homepage found on yahoo_finance for AZIMUT EXPLORATION
+[2025-03-07T06:11:44.468Z] Using existing jmn URL for AZM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/azimut-exploration.html
+[2025-03-07T06:11:50.834Z] No valid homepage found on jmn for AZIMUT EXPLORATION
+[2025-03-07T06:11:50.874Z] No valid homepage found for AZM.V
+[2025-03-07T06:11:50.886Z] Updated last_url_population_attempt for AZM.V
+[2025-03-07T06:11:50.888Z] Pausing after AZM.V for 2.039s (attempt 1)
+[2025-03-07T06:11:52.931Z] 
+--- Processing AZS.V (ARIZONA GOLD & SILVER) ---
+[2025-03-07T06:11:52.933Z] 
+--- Processing AZT.V (AZTEC MINERALS) ---
+[2025-03-07T06:11:52.938Z] Using existing yahoo_finance URL for AZS.V: https://finance.yahoo.com/quote/AZS.V/
+[2025-03-07T06:11:52.940Z] Skipping homepage extraction for AZT.V: Using existing valid company_website https://aztecminerals.com/
+[2025-03-07T06:11:52.953Z] Updated last_url_population_attempt for AZT.V
+[2025-03-07T06:11:52.955Z] 
+--- Processing BAT.V (BATERO GOLD) ---
+[2025-03-07T06:11:52.958Z] Skipping homepage extraction for BAT.V: Using existing valid company_website https://baterogold.com/
+[2025-03-07T06:11:52.974Z] Updated last_url_population_attempt for BAT.V
+[2025-03-07T06:11:52.977Z] Processed batch 11 of 101 (55/501)
+[2025-03-07T06:11:52.983Z] 
+--- Processing BAU.V (BLUE STAR GOLD) ---
+[2025-03-07T06:11:52.984Z] 
+--- Processing BBB.V (BRIXTON METALS) ---
+[2025-03-07T06:11:52.988Z] Skipping homepage extraction for BAU.V: Using existing valid company_website https://bluestargold.ca/
+[2025-03-07T06:11:52.988Z] Skipping homepage extraction for BBB.V: Using existing valid company_website https://brixtonmetals.com/
+[2025-03-07T06:11:52.999Z] Updated last_url_population_attempt for BAU.V
+[2025-03-07T06:11:53.000Z] 
+--- Processing BCM.V (BEAR CREEK MINING) ---
+[2025-03-07T06:11:53.007Z] Updated last_url_population_attempt for BBB.V
+[2025-03-07T06:11:53.008Z] Skipping homepage extraction for BCM.V: Using existing valid company_website https://bearcreekmining.com/
+[2025-03-07T06:11:53.009Z] 
+--- Processing BEX.V (BENTON RESOURCES) ---
+[2025-03-07T06:11:53.022Z] Updated last_url_population_attempt for BCM.V
+[2025-03-07T06:11:53.023Z] Skipping homepage extraction for BEX.V: Using existing valid company_website https://www.bentonresources.ca/
+[2025-03-07T06:11:53.024Z] 
+--- Processing BGF.V (BECAUSE GOLD FIELDS) ---
+[2025-03-07T06:11:53.034Z] Updated last_url_population_attempt for BEX.V
+[2025-03-07T06:11:53.035Z] Using existing yahoo_finance URL for BGF.V: https://finance.yahoo.com/quote/BGF.V/
+[2025-03-07T06:11:53.855Z] Using existing miningfeeds URL for AYA.TO: https://www.miningfeeds.com/stock/aya-gold-silver-tsx/
+[2025-03-07T06:11:55.119Z] Validated URL: https://aumegametals.com/
+[2025-03-07T06:11:55.127Z] Found homepage from jmn for AUMEGA METALS: https://aumegametals.com/
+[2025-03-07T06:11:55.157Z] Updated company_website for AUM.V to https://aumegametals.com/
+[2025-03-07T06:11:55.173Z] Updated last_url_population_attempt for AUM.V
+[2025-03-07T06:11:55.175Z] Pausing after AUM.V for 2.612s (attempt 1)
+[2025-03-07T06:12:02.092Z] No valid homepage found on miningfeeds for AYA GOLD & SILVER
+[2025-03-07T06:12:02.149Z] No valid homepage found for AYA.TO
+[2025-03-07T06:12:02.166Z] Updated last_url_population_attempt for AYA.TO
+[2025-03-07T06:12:02.168Z] Pausing after AYA.TO for 2.079s (attempt 1)
+[2025-03-07T06:12:05.158Z] No valid homepage found on yahoo_finance for BECAUSE GOLD FIELDS
+[2025-03-07T06:12:08.312Z] No valid homepage found on yahoo_finance for ARIZONA GOLD & SILVER
+[2025-03-07T06:12:11.142Z] No valid homepage found for BGF.V
+[2025-03-07T06:12:11.152Z] Updated last_url_population_attempt for BGF.V
+[2025-03-07T06:12:11.153Z] Pausing after BGF.V for 2.658s (attempt 1)
+[2025-03-07T06:12:13.825Z] Processed batch 12 of 101 (60/501)
+[2025-03-07T06:12:13.830Z] 
+--- Processing BGS (BAROYECA GOLD & SILVER) ---
+[2025-03-07T06:12:13.830Z] 
+--- Processing BHS.V (BAYHORSE SILVER) ---
+[2025-03-07T06:12:13.837Z] Skipping homepage extraction for BHS.V: Using existing valid company_website https://bayhorsesilver.com/
+[2025-03-07T06:12:13.838Z] Using existing yahoo_finance URL for BGS: https://finance.yahoo.com/quote/BGS/
+[2025-03-07T06:12:13.857Z] Updated last_url_population_attempt for BHS.V
+[2025-03-07T06:12:13.860Z] 
+--- Processing BIG.V (HERCULES METALS) ---
+[2025-03-07T06:12:13.861Z] 
+--- Processing BLLG.CN (BLUE LAGOON RESOURCES) ---
+[2025-03-07T06:12:13.865Z] Skipping homepage extraction for BLLG.CN: Using existing valid company_website https://bluelagoonresources.com/
+[2025-03-07T06:12:13.866Z] Skipping homepage extraction for BIG.V: Using existing valid company_website https://www.herculesmetals.com/
+[2025-03-07T06:12:13.879Z] Updated last_url_population_attempt for BLLG.CN
+[2025-03-07T06:12:13.881Z] 
+--- Processing BMM.V (BLACK MAMMOTH METALS) ---
+[2025-03-07T06:12:13.889Z] Updated last_url_population_attempt for BIG.V
+[2025-03-07T06:12:13.892Z] Skipping homepage extraction for BMM.V: Using existing valid company_website https://blackmammothmetals.com/
+[2025-03-07T06:12:13.906Z] Updated last_url_population_attempt for BMM.V
+[2025-03-07T06:12:13.909Z] Processed batch 13 of 101 (65/501)
+[2025-03-07T06:12:13.911Z] 
+--- Processing BOGO.V (BOREALIS MINING COMPANY) ---
+[2025-03-07T06:12:13.912Z] 
+--- Processing BRAU.V (BIG RIDGE GOLD) ---
+[2025-03-07T06:12:13.915Z] Using existing yahoo_finance URL for BOGO.V: https://finance.yahoo.com/quote/BOGO.V/
+[2025-03-07T06:12:13.916Z] Using existing yahoo_finance URL for BRAU.V: https://finance.yahoo.com/quote/BRAU.V/
+[2025-03-07T06:12:19.628Z] No valid homepage found for AZS.V
+[2025-03-07T06:12:19.643Z] Updated last_url_population_attempt for AZS.V
+[2025-03-07T06:12:19.646Z] Pausing after AZS.V for 2.597s (attempt 1)
+[2025-03-07T06:12:22.290Z] No valid homepage found on yahoo_finance for BOREALIS MINING COMPANY
+[2025-03-07T06:12:22.716Z] No valid homepage found on yahoo_finance for BAROYECA GOLD & SILVER
+[2025-03-07T06:12:28.060Z] No valid homepage found for BOGO.V
+[2025-03-07T06:12:28.071Z] Updated last_url_population_attempt for BOGO.V
+[2025-03-07T06:12:28.073Z] Pausing after BOGO.V for 2.608s (attempt 1)
+[2025-03-07T06:12:30.684Z] 
+--- Processing BRAZ.CN (CANARYGOLD) ---
+[2025-03-07T06:12:30.689Z] Skipping homepage extraction for BRAZ.CN: Using existing valid company_website https://canarygold.ca/
+[2025-03-07T06:12:30.708Z] Updated last_url_population_attempt for BRAZ.CN
+[2025-03-07T06:12:30.710Z] 
+--- Processing BRC.V (BLACKROCK SILVER) ---
+[2025-03-07T06:12:30.711Z] 
+--- Processing BSX.TO (BELO SUN MINING) ---
+[2025-03-07T06:12:30.712Z] Skipping homepage extraction for BRC.V: Using existing valid company_website https://blackrocksilver.com/
+[2025-03-07T06:12:30.713Z] Using existing yahoo_finance URL for BSX.TO: https://finance.yahoo.com/quote/BSX.TO/
+[2025-03-07T06:12:30.725Z] Updated last_url_population_attempt for BRC.V
+[2025-03-07T06:12:34.135Z] No valid homepage found for BGS
+[2025-03-07T06:12:34.152Z] Updated last_url_population_attempt for BGS
+[2025-03-07T06:12:34.156Z] Pausing after BGS for 2.556s (attempt 1)
+[2025-03-07T06:12:40.989Z] No valid homepage found on yahoo_finance for BELO SUN MINING
+[2025-03-07T06:12:41.090Z] Using existing jmn URL for BSX.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/belo-sun-mining.html
+[2025-03-07T06:12:45.775Z] No valid homepage found on jmn for BELO SUN MINING
+[2025-03-07T06:12:45.815Z] Using existing miningfeeds URL for BSX.TO: https://www.miningfeeds.com/stock/belo-sun-mining-tsx/
+[2025-03-07T06:12:50.336Z] No valid homepage found on miningfeeds for BELO SUN MINING
+[2025-03-07T06:12:50.376Z] No valid homepage found for BSX.TO
+[2025-03-07T06:12:50.389Z] Updated last_url_population_attempt for BSX.TO
+[2025-03-07T06:12:50.392Z] Pausing after BSX.TO for 2.672s (attempt 1)
+[2025-03-07T06:12:53.079Z] Processed batch 14 of 101 (70/501)
+[2025-03-07T06:12:53.082Z] 
+--- Processing BTO.TO (B2GOLD) ---
+[2025-03-07T06:12:53.083Z] 
+--- Processing BTR.V (BONTERRA RESOURCES) ---
+[2025-03-07T06:12:53.088Z] Skipping homepage extraction for BTO.TO: Using existing valid company_website https://www.b2gold.com/
+[2025-03-07T06:12:53.089Z] Using existing yahoo_finance URL for BTR.V: https://finance.yahoo.com/quote/BTR.V/
+[2025-03-07T06:12:53.102Z] Updated last_url_population_attempt for BTO.TO
+[2025-03-07T06:12:53.105Z] 
+--- Processing BYN.V (BANYAN GOLD) ---
+[2025-03-07T06:12:53.109Z] Skipping homepage extraction for BYN.V: Using existing valid company_website https://banyangold.com/
+[2025-03-07T06:12:53.122Z] Updated last_url_population_attempt for BYN.V
+[2025-03-07T06:12:53.124Z] 
+--- Processing BZ.V (BENZ MINING) ---
+[2025-03-07T06:12:53.124Z] 
+--- Processing CANX.V (CANEX METALS) ---
+[2025-03-07T06:12:53.130Z] Skipping homepage extraction for BZ.V: Using existing valid company_website https://benzmining.com/
+[2025-03-07T06:12:53.131Z] Skipping homepage extraction for CANX.V: Using existing valid company_website https://canexmetals.ca/
+[2025-03-07T06:12:53.150Z] Updated last_url_population_attempt for BZ.V
+[2025-03-07T06:12:53.151Z] Updated last_url_population_attempt for CANX.V
+[2025-03-07T06:12:53.156Z] Processed batch 15 of 101 (75/501)
+[2025-03-07T06:12:53.159Z] 
+--- Processing CAPT.V (CAPITAN SILVER) ---
+[2025-03-07T06:12:53.160Z] 
+--- Processing CBI.V (COLIBRI RESOURCE) ---
+[2025-03-07T06:12:53.164Z] Skipping homepage extraction for CAPT.V: Using existing valid company_website https://www.capitansilver.com/
+[2025-03-07T06:12:53.164Z] Skipping homepage extraction for CBI.V: Using existing valid company_website https://www.colibriresource.com/
+[2025-03-07T06:12:53.184Z] Updated last_url_population_attempt for CAPT.V
+[2025-03-07T06:12:53.185Z] Updated last_url_population_attempt for CBI.V
+[2025-03-07T06:12:53.186Z] 
+--- Processing CBR.V (CABRAL GOLD) ---
+[2025-03-07T06:12:53.187Z] 
+--- Processing CC.CN (CORE ASSETS) ---
+[2025-03-07T06:12:53.190Z] Using existing yahoo_finance URL for CBR.V: https://finance.yahoo.com/quote/CBR.V/
+[2025-03-07T06:12:53.194Z] Skipping homepage extraction for CC.CN: Using existing valid company_website https://coreassetscorp.com/
+[2025-03-07T06:12:53.206Z] Updated last_url_population_attempt for CC.CN
+[2025-03-07T06:12:53.208Z] 
+--- Processing CCM.TO (CANAGOLD RESOURCES) ---
+[2025-03-07T06:12:53.211Z] Skipping homepage extraction for CCM.TO: Using existing valid company_website https://canagoldresources.com/
+[2025-03-07T06:12:53.223Z] Updated last_url_population_attempt for CCM.TO
+[2025-03-07T06:12:53.225Z] Processed batch 16 of 101 (80/501)
+[2025-03-07T06:12:53.227Z] 
+--- Processing CDPR.CN (CERRO DE PASCO RESOURCES) ---
+[2025-03-07T06:12:53.228Z] 
+--- Processing CERT.V (CERRADO GOLD) ---
+[2025-03-07T06:12:53.230Z] Using existing yahoo_finance URL for CDPR.CN: https://finance.yahoo.com/quote/CDPR.CN/
+[2025-03-07T06:12:53.231Z] Skipping homepage extraction for CERT.V: Using existing valid company_website https://www.cerradogold.com/
+[2025-03-07T06:12:53.241Z] Updated last_url_population_attempt for CERT.V
+[2025-03-07T06:12:53.243Z] 
+--- Processing CFE.CN (CARTIER RESOURCES) ---
+[2025-03-07T06:12:53.243Z] 
+--- Processing CG.TO (CENTERRA GOLD) ---
+[2025-03-07T06:12:53.246Z] Using existing yahoo_finance URL for CFE.CN: https://finance.yahoo.com/quote/CFE.CN/
+[2025-03-07T06:12:53.248Z] Skipping homepage extraction for CG.TO: Using existing valid company_website https://www.centerragold.com/
+[2025-03-07T06:12:53.259Z] Updated last_url_population_attempt for CG.TO
+[2025-03-07T06:12:53.261Z] 
+--- Processing CGC.V (CANADIAN GOLD) ---
+[2025-03-07T06:12:53.264Z] Skipping homepage extraction for CGC.V: Using existing valid company_website https://canadiangoldcorp.com/
+[2025-03-07T06:12:53.276Z] Updated last_url_population_attempt for CGC.V
+[2025-03-07T06:12:53.278Z] Processed batch 17 of 101 (85/501)
+[2025-03-07T06:12:53.280Z] 
+--- Processing CGG.TO (CHINA GOLD INTERNATIONAL RESOURCES) ---
+[2025-03-07T06:12:53.280Z] 
+--- Processing CKG.V (CHESAPEAKE GOLD) ---
+[2025-03-07T06:12:53.286Z] Using existing yahoo_finance URL for CGG.TO: https://finance.yahoo.com/quote/CGG.TO/
+[2025-03-07T06:12:53.287Z] Skipping homepage extraction for CKG.V: Using existing valid company_website https://chesapeakegold.com/
+[2025-03-07T06:12:53.298Z] Updated last_url_population_attempt for CKG.V
+[2025-03-07T06:12:53.300Z] 
+--- Processing CLZ.V (CANASIL RESOURCES) ---
+[2025-03-07T06:12:53.300Z] 
+--- Processing CMB.V (CMC METALS) ---
+[2025-03-07T06:12:53.324Z] Using existing yahoo_finance URL for CMB.V: https://finance.yahoo.com/quote/CMB.V/
+[2025-03-07T06:12:53.607Z] Using existing jmn URL for CLZ.V: https://www.juniorminingnetwork.com/market-data/stock-quote/canasil-resources.html
+[2025-03-07T06:12:56.695Z] Validation failed for https://www.bigridgegold.com/: Timed out after waiting 30000ms
+[2025-03-07T06:12:56.710Z] No valid homepage found on yahoo_finance for BIG RIDGE GOLD
+[2025-03-07T06:12:56.829Z] Using existing jmn URL for BRAU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/big-ridge-gold.html
+[2025-03-07T06:12:57.013Z] No valid homepage found on jmn for CANASIL RESOURCES
+[2025-03-07T06:12:57.092Z] No valid homepage found for CLZ.V
+[2025-03-07T06:12:57.104Z] Updated last_url_population_attempt for CLZ.V
+[2025-03-07T06:12:57.107Z] Pausing after CLZ.V for 2.689s (attempt 1)
+[2025-03-07T06:12:59.802Z] 
+--- Processing CN.TO (CONDOR RESOURCES) ---
+[2025-03-07T06:12:59.809Z] Skipping homepage extraction for CN.TO: Using existing valid company_website https://condorresources.com/
+[2025-03-07T06:12:59.822Z] Updated last_url_population_attempt for CN.TO
+[2025-03-07T06:13:04.596Z] No valid homepage found on yahoo_finance for CERRO DE PASCO RESOURCES
+[2025-03-07T06:13:04.744Z] Using existing jmn URL for CDPR.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/cerro-de-pasco-resources.html
+[2025-03-07T06:13:05.320Z] No valid homepage found on yahoo_finance for CHINA GOLD INTERNATIONAL RESOURCES
+[2025-03-07T06:13:06.223Z] No valid homepage found on yahoo_finance for CARTIER RESOURCES
+[2025-03-07T06:13:06.378Z] Using existing jmn URL for CFE.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/cartier-resources.html
+[2025-03-07T06:13:06.567Z] No valid homepage found on yahoo_finance for BONTERRA RESOURCES
+[2025-03-07T06:13:06.686Z] Using existing jmn URL for BTR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/bonterra-resources.html
+[2025-03-07T06:13:09.161Z] Validation failed for https://www.cabralgold.com/: net::ERR_CERT_COMMON_NAME_INVALID at https://www.cabralgold.com/
+[2025-03-07T06:13:09.225Z] No valid homepage found on yahoo_finance for CABRAL GOLD
+[2025-03-07T06:13:09.353Z] Using existing jmn URL for CBR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/cabral-gold.html
+[2025-03-07T06:13:10.188Z] No valid homepage found on jmn for BONTERRA RESOURCES
+[2025-03-07T06:13:10.219Z] No valid homepage found for BTR.V
+[2025-03-07T06:13:10.238Z] Updated last_url_population_attempt for BTR.V
+[2025-03-07T06:13:10.242Z] Pausing after BTR.V for 2.897s (attempt 1)
+[2025-03-07T06:13:11.059Z] Using existing miningfeeds URL for CGG.TO: https://www.miningfeeds.com/stock/china-gold-international-resources-tsx/
+[2025-03-07T06:13:12.020Z] No valid homepage found on jmn for CERRO DE PASCO RESOURCES
+[2025-03-07T06:13:12.045Z] Using existing miningfeeds URL for CDPR.CN: https://www.miningfeeds.com/stock/cerro-de-pasco-resources-cse/
+[2025-03-07T06:13:15.086Z] No valid homepage found on miningfeeds for CHINA GOLD INTERNATIONAL RESOURCES
+[2025-03-07T06:13:15.141Z] No valid homepage found for CGG.TO
+[2025-03-07T06:13:15.156Z] Updated last_url_population_attempt for CGG.TO
+[2025-03-07T06:13:15.159Z] Pausing after CGG.TO for 2s (attempt 1)
+[2025-03-07T06:13:15.287Z] Validation failed for http://www.cabralgold.com/: net::ERR_BLOCKED_BY_CLIENT at http://www.cabralgold.com/
+[2025-03-07T06:13:15.372Z] No valid homepage found on jmn for CABRAL GOLD
+[2025-03-07T06:13:15.408Z] No valid homepage found for CBR.V
+[2025-03-07T06:13:15.423Z] Updated last_url_population_attempt for CBR.V
+[2025-03-07T06:13:15.426Z] Pausing after CBR.V for 2.068s (attempt 1)
+[2025-03-07T06:13:16.771Z] No valid homepage found on miningfeeds for CERRO DE PASCO RESOURCES
+[2025-03-07T06:13:16.816Z] No valid homepage found for CDPR.CN
+[2025-03-07T06:13:16.830Z] Updated last_url_population_attempt for CDPR.CN
+[2025-03-07T06:13:16.832Z] Pausing after CDPR.CN for 2.471s (attempt 1)
+[2025-03-07T06:13:17.714Z] No valid homepage found on jmn for CARTIER RESOURCES
+[2025-03-07T06:13:17.758Z] Using existing miningfeeds URL for CFE.CN: https://www.miningfeeds.com/stock/cartier-resources-cse/
+[2025-03-07T06:13:21.951Z] No valid homepage found on miningfeeds for CARTIER RESOURCES
+[2025-03-07T06:13:21.998Z] No valid homepage found for CFE.CN
+[2025-03-07T06:13:22.014Z] Updated last_url_population_attempt for CFE.CN
+[2025-03-07T06:13:22.017Z] Pausing after CFE.CN for 2.728s (attempt 1)
+[2025-03-07T06:13:36.267Z] Validation failed for http://www.bigridgegold.com/: Timed out after waiting 30000ms
+[2025-03-07T06:13:36.304Z] No valid homepage found on jmn for BIG RIDGE GOLD
+[2025-03-07T06:13:36.362Z] No valid homepage found for BRAU.V
+[2025-03-07T06:13:36.379Z] Updated last_url_population_attempt for BRAU.V
+[2025-03-07T06:13:36.381Z] Pausing after BRAU.V for 2.049s (attempt 1)
+[2025-03-07T06:13:37.438Z] Validation failed for https://cmcmetals.ca/: Timed out after waiting 30000ms
+[2025-03-07T06:13:37.463Z] No valid homepage found on yahoo_finance for CMC METALS
+[2025-03-07T06:13:37.769Z] Using existing jmn URL for CMB.V: https://www.juniorminingnetwork.com/market-data/stock-quote/cmc-metals.html
+[2025-03-07T06:14:13.034Z] Validation failed for http://www.cmcmetals.ca/: Timed out after waiting 30000ms
+[2025-03-07T06:14:13.082Z] No valid homepage found on jmn for CMC METALS
+[2025-03-07T06:14:13.128Z] No valid homepage found for CMB.V
+[2025-03-07T06:14:13.143Z] Updated last_url_population_attempt for CMB.V
+[2025-03-07T06:14:13.145Z] Pausing after CMB.V for 2.468s (attempt 1)
+[2025-03-07T06:14:15.620Z] Processed batch 18 of 101 (90/501)
+[2025-03-07T06:14:15.622Z] 
+--- Processing CNL.TO (COLLECTIVE MINING) ---
+[2025-03-07T06:14:15.622Z] 
+--- Processing CPAU.V (COPAUR MINERALS) ---
+[2025-03-07T06:14:15.625Z] Skipping homepage extraction for CNL.TO: Using existing valid company_website https://collectivemining.com/
+[2025-03-07T06:14:15.627Z] Using existing yahoo_finance URL for CPAU.V: https://finance.yahoo.com/quote/CPAU.V/
+[2025-03-07T06:14:15.639Z] Updated last_url_population_attempt for CNL.TO
+[2025-03-07T06:14:15.641Z] 
+--- Processing CRB.V (CARIBOO ROSE RESOURCES) ---
+[2025-03-07T06:14:15.645Z] Using existing yahoo_finance URL for CRB.V: https://finance.yahoo.com/quote/CRB.V/
+[2025-03-07T06:14:23.618Z] No valid homepage found on yahoo_finance for CARIBOO ROSE RESOURCES
+[2025-03-07T06:14:23.744Z] Using existing jmn URL for CRB.V: https://www.juniorminingnetwork.com/market-data/stock-quote/cariboo-rose-resources.html
+[2025-03-07T06:14:26.885Z] No valid homepage found on yahoo_finance for COPAUR MINERALS
+[2025-03-07T06:14:26.988Z] No valid homepage found on jmn for CARIBOO ROSE RESOURCES
+[2025-03-07T06:14:27.019Z] Using existing jmn URL for CPAU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/copaur-minerals.html
+[2025-03-07T06:14:27.113Z] No valid homepage found for CRB.V
+[2025-03-07T06:14:27.124Z] Updated last_url_population_attempt for CRB.V
+[2025-03-07T06:14:27.125Z] Pausing after CRB.V for 2.172s (attempt 1)
+[2025-03-07T06:14:29.303Z] 
+--- Processing CRI.V (CHURCHILL RESOURCES) ---
+[2025-03-07T06:14:29.304Z] 
+--- Processing CSR.CN (COPPER STANDARD RESOURCES) ---
+[2025-03-07T06:14:29.311Z] Skipping homepage extraction for CRI.V: Using existing valid company_website https://www.churchillresources.com/
+[2025-03-07T06:14:29.312Z] Using existing yahoo_finance URL for CSR.CN: https://finance.yahoo.com/quote/CSR.CN/
+[2025-03-07T06:14:29.327Z] Updated last_url_population_attempt for CRI.V
+[2025-03-07T06:14:30.975Z] No valid homepage found on jmn for COPAUR MINERALS
+[2025-03-07T06:14:31.003Z] No valid homepage found for CPAU.V
+[2025-03-07T06:14:31.018Z] Updated last_url_population_attempt for CPAU.V
+[2025-03-07T06:14:31.021Z] Pausing after CPAU.V for 2.474s (attempt 1)
+[2025-03-07T06:14:36.017Z] No valid homepage found on yahoo_finance for COPPER STANDARD RESOURCES
+[2025-03-07T06:14:36.154Z] Using existing jmn URL for CSR.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/copper-standard-resources.html
+[2025-03-07T06:14:40.046Z] No valid homepage found on jmn for COPPER STANDARD RESOURCES
+[2025-03-07T06:14:40.083Z] Using existing miningfeeds URL for CSR.CN: https://www.miningfeeds.com/stock/copper-standard-resources-cse/
+[2025-03-07T06:14:44.580Z] No valid homepage found on miningfeeds for COPPER STANDARD RESOURCES
+[2025-03-07T06:14:44.633Z] No valid homepage found for CSR.CN
+[2025-03-07T06:14:44.647Z] Updated last_url_population_attempt for CSR.CN
+[2025-03-07T06:14:44.648Z] Pausing after CSR.CN for 2.541s (attempt 1)
+[2025-03-07T06:14:47.194Z] Processed batch 19 of 101 (95/501)
+[2025-03-07T06:14:47.197Z] 
+--- Processing CTM.V (CANTERRA MINERALS) ---
+[2025-03-07T06:14:47.202Z] 
+--- Processing CTN.V (CENTURION MINERALS) ---
+[2025-03-07T06:14:47.207Z] Using existing yahoo_finance URL for CTM.V: https://finance.yahoo.com/quote/CTM.V/
+[2025-03-07T06:14:47.208Z] Using existing yahoo_finance URL for CTN.V: https://finance.yahoo.com/quote/CTN.V/
+[2025-03-07T06:15:04.148Z] Validated URL: https://canterraminerals.com/
+[2025-03-07T06:15:04.180Z] Found homepage from yahoo_finance for CANTERRA MINERALS: https://canterraminerals.com/
+[2025-03-07T06:15:04.318Z] Updated company_website for CTM.V to https://canterraminerals.com/
+[2025-03-07T06:15:04.331Z] Updated last_url_population_attempt for CTM.V
+[2025-03-07T06:15:04.333Z] Pausing after CTM.V for 2.397s (attempt 1)
+[2025-03-07T06:15:05.435Z] Validated URL: https://centurionminerals.com/
+[2025-03-07T06:15:05.462Z] Found homepage from yahoo_finance for CENTURION MINERALS: https://centurionminerals.com/
+[2025-03-07T06:15:05.632Z] Updated company_website for CTN.V to https://centurionminerals.com/
+[2025-03-07T06:15:05.644Z] Updated last_url_population_attempt for CTN.V
+[2025-03-07T06:15:05.646Z] Pausing after CTN.V for 2.486s (attempt 1)
+[2025-03-07T06:15:06.746Z] 
+--- Processing CVB.V (COMPASS GOLD) ---
+[2025-03-07T06:15:06.752Z] Using existing yahoo_finance URL for CVB.V: https://finance.yahoo.com/quote/CVB.V/
+[2025-03-07T06:15:08.134Z] 
+--- Processing CXB.TO (CALIBRE MINING) ---
+[2025-03-07T06:15:08.142Z] Using existing yahoo_finance URL for CXB.TO: https://finance.yahoo.com/quote/CXB.TO/
+[2025-03-07T06:15:20.437Z] Validated URL: https://calibremining.com/
+[2025-03-07T06:15:20.467Z] Found homepage from yahoo_finance for CALIBRE MINING: https://calibremining.com/
+[2025-03-07T06:15:20.589Z] Updated company_website for CXB.TO to https://calibremining.com/
+[2025-03-07T06:15:20.604Z] Updated last_url_population_attempt for CXB.TO
+[2025-03-07T06:15:20.605Z] Pausing after CXB.TO for 2.891s (attempt 1)
+[2025-03-07T06:15:23.507Z] 
+--- Processing CYG.V (CYGNUS METALS) ---
+[2025-03-07T06:15:23.511Z] Using existing yahoo_finance URL for CYG.V: https://finance.yahoo.com/quote/CYG.V/
+[2025-03-07T06:15:27.406Z] Validated URL: https://compassgoldcorp.com/
+[2025-03-07T06:15:27.415Z] Found homepage from yahoo_finance for COMPASS GOLD: https://compassgoldcorp.com/
+[2025-03-07T06:15:27.528Z] Updated company_website for CVB.V to https://compassgoldcorp.com/
+[2025-03-07T06:15:27.546Z] Updated last_url_population_attempt for CVB.V
+[2025-03-07T06:15:27.549Z] Pausing after CVB.V for 2.36s (attempt 1)
+[2025-03-07T06:16:05.489Z] Validation failed for https://www.cygnusmetals.com/: Timed out after waiting 30000ms
+[2025-03-07T06:16:05.516Z] No valid homepage found on yahoo_finance for CYGNUS METALS
+[2025-03-07T06:16:05.636Z] Using existing jmn URL for CYG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/cygnus-metals.html
+[2025-03-07T06:16:42.062Z] Validation failed for http://www.cygnusmetals.com/: Timed out after waiting 30000ms
+[2025-03-07T06:16:42.089Z] No valid homepage found on jmn for CYGNUS METALS
+[2025-03-07T06:16:42.136Z] No valid homepage found for CYG.V
+[2025-03-07T06:16:42.152Z] Updated last_url_population_attempt for CYG.V
+[2025-03-07T06:16:42.154Z] Pausing after CYG.V for 2.598s (attempt 1)
+[2025-03-07T06:16:44.759Z] Processed batch 20 of 101 (100/501)
+[2025-03-07T06:16:44.762Z] 
+--- Processing DAU.V (DESERT GOLD VENTURES) ---
+[2025-03-07T06:16:44.763Z] 
+--- Processing DEF.V (DEFIANCE SILVER) ---
+[2025-03-07T06:16:44.766Z] Using existing yahoo_finance URL for DAU.V: https://finance.yahoo.com/quote/DAU.V/
+[2025-03-07T06:16:44.767Z] Using existing yahoo_finance URL for DEF.V: https://finance.yahoo.com/quote/DEF.V/
+[2025-03-07T06:16:56.997Z] No valid homepage found on yahoo_finance for DESERT GOLD VENTURES
+[2025-03-07T06:16:57.116Z] Using existing jmn URL for DAU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/desert-gold-ventures.html
+[2025-03-07T06:16:59.117Z] Validated URL: https://defiancesilver.com/
+[2025-03-07T06:16:59.132Z] Found homepage from yahoo_finance for DEFIANCE SILVER: https://defiancesilver.com/
+[2025-03-07T06:16:59.286Z] Updated company_website for DEF.V to https://defiancesilver.com/
+[2025-03-07T06:16:59.300Z] Updated last_url_population_attempt for DEF.V
+[2025-03-07T06:16:59.304Z] Pausing after DEF.V for 2.243s (attempt 1)
+[2025-03-07T06:17:01.554Z] 
+--- Processing DEX.V (ALMADEX MINERALS) ---
+[2025-03-07T06:17:01.555Z] 
+--- Processing DLTA.V (DELTA RESOURCES) ---
+[2025-03-07T06:17:01.559Z] Using existing yahoo_finance URL for DEX.V: https://finance.yahoo.com/quote/DEX.V/
+[2025-03-07T06:17:01.561Z] Using existing yahoo_finance URL for DLTA.V: https://finance.yahoo.com/quote/DLTA.V/
+[2025-03-07T06:17:02.207Z] No valid homepage found on jmn for DESERT GOLD VENTURES
+[2025-03-07T06:17:02.272Z] No valid homepage found for DAU.V
+[2025-03-07T06:17:02.290Z] Updated last_url_population_attempt for DAU.V
+[2025-03-07T06:17:02.293Z] Pausing after DAU.V for 2.447s (attempt 1)
+[2025-03-07T06:17:14.857Z] Validated URL: https://www.almadexminerals.com/
+[2025-03-07T06:17:14.936Z] Found homepage from yahoo_finance for ALMADEX MINERALS: https://www.almadexminerals.com/
+[2025-03-07T06:17:15.121Z] Updated company_website for DEX.V to https://www.almadexminerals.com/
+[2025-03-07T06:17:15.135Z] Updated last_url_population_attempt for DEX.V
+[2025-03-07T06:17:15.140Z] Pausing after DEX.V for 2.195s (attempt 1)
+[2025-03-07T06:17:17.339Z] 
+--- Processing DNG.TO (DYNACOR GROUP) ---
+[2025-03-07T06:17:17.345Z] Using existing yahoo_finance URL for DNG.TO: https://finance.yahoo.com/quote/DNG.TO/
+[2025-03-07T06:17:18.942Z] Validated URL: https://www.deltaresources.ca/
+[2025-03-07T06:17:19.008Z] Found homepage from yahoo_finance for DELTA RESOURCES: https://www.deltaresources.ca/
+[2025-03-07T06:17:19.182Z] Updated company_website for DLTA.V to https://www.deltaresources.ca/
+[2025-03-07T06:17:19.195Z] Updated last_url_population_attempt for DLTA.V
+[2025-03-07T06:17:19.197Z] Pausing after DLTA.V for 2.483s (attempt 1)
+[2025-03-07T06:17:26.824Z] No valid homepage found on yahoo_finance for DYNACOR GROUP
+[2025-03-07T06:17:26.957Z] Using existing jmn URL for DNG.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/dynacor-group.html
+[2025-03-07T06:17:30.389Z] No valid homepage found on jmn for DYNACOR GROUP
+[2025-03-07T06:17:31.343Z] Inserted/Updated miningfeeds URL for DNG.TO: https://www.miningfeeds.com/stock/dynacor-group-tsx/
+[2025-03-07T06:17:35.618Z] No valid homepage found on miningfeeds for DYNACOR GROUP
+[2025-03-07T06:17:35.661Z] No valid homepage found for DNG.TO
+[2025-03-07T06:17:35.682Z] Updated last_url_population_attempt for DNG.TO
+[2025-03-07T06:17:35.683Z] Pausing after DNG.TO for 2.49s (attempt 1)
+[2025-03-07T06:17:38.187Z] Processed batch 21 of 101 (105/501)
+[2025-03-07T06:17:38.189Z] 
+--- Processing DPM.TO (DUNDEE PRECIOUS METALS) ---
+[2025-03-07T06:17:38.190Z] 
+--- Processing DRY.V (DRYDEN GOLD) ---
+[2025-03-07T06:17:38.193Z] Using existing yahoo_finance URL for DPM.TO: https://finance.yahoo.com/quote/DPM.TO/
+[2025-03-07T06:17:38.193Z] Using existing yahoo_finance URL for DRY.V: https://finance.yahoo.com/quote/DRY.V/
+[2025-03-07T06:17:45.078Z] No valid homepage found on yahoo_finance for DRYDEN GOLD
+[2025-03-07T06:17:45.187Z] Using existing jmn URL for DRY.V: https://www.juniorminingnetwork.com/market-data/stock-quote/dryden-gold.html
+[2025-03-07T06:17:50.411Z] No valid homepage found on yahoo_finance for DUNDEE PRECIOUS METALS
+[2025-03-07T06:17:50.569Z] Using existing jmn URL for DPM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/dundee-precious-metals.html
+[2025-03-07T06:17:52.549Z] Validated URL: https://drydengold.com/
+[2025-03-07T06:17:52.564Z] Found homepage from jmn for DRYDEN GOLD: https://drydengold.com/
+[2025-03-07T06:17:52.610Z] Updated company_website for DRY.V to https://drydengold.com/
+[2025-03-07T06:17:52.627Z] Updated last_url_population_attempt for DRY.V
+[2025-03-07T06:17:52.629Z] Pausing after DRY.V for 2.315s (attempt 1)
+[2025-03-07T06:17:54.233Z] No valid homepage found on jmn for DUNDEE PRECIOUS METALS
+[2025-03-07T06:17:54.955Z] 
+--- Processing DSV.TO (DISCOVERY SILVER) ---
+[2025-03-07T06:17:54.957Z] 
+--- Processing DV.V (DOLLY VARDEN SILVER) ---
+[2025-03-07T06:17:54.964Z] Using existing yahoo_finance URL for DSV.TO: https://finance.yahoo.com/quote/DSV.TO/
+[2025-03-07T06:17:54.965Z] Using existing yahoo_finance URL for DV.V: https://finance.yahoo.com/quote/DV.V/
+[2025-03-07T06:17:55.163Z] Inserted/Updated miningfeeds URL for DPM.TO: https://www.miningfeeds.com/stock/dundee-precious-metals-tsx/
+[2025-03-07T06:17:59.260Z] No valid homepage found on miningfeeds for DUNDEE PRECIOUS METALS
+[2025-03-07T06:17:59.314Z] No valid homepage found for DPM.TO
+[2025-03-07T06:17:59.331Z] Updated last_url_population_attempt for DPM.TO
+[2025-03-07T06:17:59.334Z] Pausing after DPM.TO for 2.988s (attempt 1)
+[2025-03-07T06:18:17.867Z] Validated URL: https://discoverysilver.com/
+[2025-03-07T06:18:17.957Z] Found homepage from yahoo_finance for DISCOVERY SILVER: https://discoverysilver.com/
+[2025-03-07T06:18:18.109Z] Updated company_website for DSV.TO to https://discoverysilver.com/
+[2025-03-07T06:18:18.121Z] Updated last_url_population_attempt for DSV.TO
+[2025-03-07T06:18:18.124Z] Pausing after DSV.TO for 2.987s (attempt 1)
+[2025-03-07T06:18:20.757Z] Validated URL: https://dollyvardensilver.com/
+[2025-03-07T06:18:20.793Z] Found homepage from yahoo_finance for DOLLY VARDEN SILVER: https://dollyvardensilver.com/
+[2025-03-07T06:18:20.924Z] Updated company_website for DV.V to https://dollyvardensilver.com/
+[2025-03-07T06:18:20.934Z] Updated last_url_population_attempt for DV.V
+[2025-03-07T06:18:20.936Z] Pausing after DV.V for 2.122s (attempt 1)
+[2025-03-07T06:18:21.118Z] 
+--- Processing DYG.V (DYNASTY GOLD) ---
+[2025-03-07T06:18:21.123Z] Using existing yahoo_finance URL for DYG.V: https://finance.yahoo.com/quote/DYG.V/
+[2025-03-07T06:19:02.612Z] Validation failed for https://dynastygoldcorp.com/: Timed out after waiting 30000ms
+[2025-03-07T06:19:02.643Z] No valid homepage found on yahoo_finance for DYNASTY GOLD
+[2025-03-07T06:19:02.761Z] Using existing jmn URL for DYG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/dynasty-gold.html
+[2025-03-07T06:19:10.220Z] Validated URL: https://dynastygoldcorp.com/
+[2025-03-07T06:19:10.241Z] Found homepage from jmn for DYNASTY GOLD: https://dynastygoldcorp.com/
+[2025-03-07T06:19:10.300Z] Updated company_website for DYG.V to https://dynastygoldcorp.com/
+[2025-03-07T06:19:10.314Z] Updated last_url_population_attempt for DYG.V
+[2025-03-07T06:19:10.317Z] Pausing after DYG.V for 2.182s (attempt 1)
+[2025-03-07T06:19:12.516Z] Processed batch 22 of 101 (110/501)
+[2025-03-07T06:19:12.520Z] 
+--- Processing EAM.V (EAST AFRICA METALS) ---
+[2025-03-07T06:19:12.521Z] 
+--- Processing ECR.V (CARTIER RESOURCES) ---
+[2025-03-07T06:19:12.527Z] Using existing yahoo_finance URL for ECR.V: https://finance.yahoo.com/quote/ECR.V/
+[2025-03-07T06:19:12.526Z] Using existing yahoo_finance URL for EAM.V: https://finance.yahoo.com/quote/EAM.V/
+[2025-03-07T06:19:22.194Z] No valid homepage found on yahoo_finance for CARTIER RESOURCES
+[2025-03-07T06:19:23.424Z] Inserted/Updated jmn URL for ECR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/cartier-resources.html
+[2025-03-07T06:19:29.229Z] No valid homepage found on jmn for CARTIER RESOURCES
+[2025-03-07T06:19:29.266Z] No valid homepage found for ECR.V
+[2025-03-07T06:19:29.279Z] Updated last_url_population_attempt for ECR.V
+[2025-03-07T06:19:29.281Z] Pausing after ECR.V for 2.372s (attempt 1)
+[2025-03-07T06:19:31.659Z] 
+--- Processing EDG.V (ENDURANCE GOLD) ---
+[2025-03-07T06:19:31.661Z] 
+--- Processing EDGM.CN (EDGEMONT GOLD) ---
+[2025-03-07T06:19:31.665Z] Using existing yahoo_finance URL for EDG.V: https://finance.yahoo.com/quote/EDG.V/
+[2025-03-07T06:19:31.665Z] Using existing yahoo_finance URL for EDGM.CN: https://finance.yahoo.com/quote/EDGM.CN/
+[2025-03-07T06:19:31.796Z] Validated URL: https://eastafricametals.com/
+[2025-03-07T06:19:31.806Z] Found homepage from yahoo_finance for EAST AFRICA METALS: https://eastafricametals.com/
+[2025-03-07T06:19:31.929Z] Updated company_website for EAM.V to https://eastafricametals.com/
+[2025-03-07T06:19:31.942Z] Updated last_url_population_attempt for EAM.V
+[2025-03-07T06:19:31.945Z] Pausing after EAM.V for 2.72s (attempt 1)
+[2025-03-07T06:19:45.846Z] Validated URL: https://edgemontgold.com/
+[2025-03-07T06:19:45.880Z] Found homepage from yahoo_finance for EDGEMONT GOLD: https://edgemontgold.com/
+[2025-03-07T06:19:45.988Z] Updated company_website for EDGM.CN to https://edgemontgold.com/
+[2025-03-07T06:19:46.004Z] Updated last_url_population_attempt for EDGM.CN
+[2025-03-07T06:19:46.007Z] Pausing after EDGM.CN for 2.138s (attempt 1)
+[2025-03-07T06:19:48.151Z] 
+--- Processing EDR.TO (ENDEAVOUR SILVER) ---
+[2025-03-07T06:19:48.155Z] Using existing yahoo_finance URL for EDR.TO: https://finance.yahoo.com/quote/EDR.TO/
+[2025-03-07T06:19:56.788Z] No valid homepage found on yahoo_finance for ENDEAVOUR SILVER
+[2025-03-07T06:19:56.893Z] Using existing jmn URL for EDR.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/endeavour-silver.html
+[2025-03-07T06:19:59.129Z] Validated URL: https://endurancegold.com/
+[2025-03-07T06:19:59.160Z] Found homepage from yahoo_finance for ENDURANCE GOLD: https://endurancegold.com/
+[2025-03-07T06:19:59.311Z] Updated company_website for EDG.V to https://endurancegold.com/
+[2025-03-07T06:19:59.331Z] Updated last_url_population_attempt for EDG.V
+[2025-03-07T06:19:59.335Z] Pausing after EDG.V for 2.761s (attempt 1)
+[2025-03-07T06:20:00.450Z] No valid homepage found on jmn for ENDEAVOUR SILVER
+[2025-03-07T06:20:01.368Z] Inserted/Updated miningfeeds URL for EDR.TO: https://www.miningfeeds.com/stock/endeavour-silver-tsx/
+[2025-03-07T06:20:06.261Z] No valid homepage found on miningfeeds for ENDEAVOUR SILVER
+[2025-03-07T06:20:06.306Z] No valid homepage found for EDR.TO
+[2025-03-07T06:20:06.321Z] Updated last_url_population_attempt for EDR.TO
+[2025-03-07T06:20:06.323Z] Pausing after EDR.TO for 2.901s (attempt 1)
+[2025-03-07T06:20:09.232Z] Processed batch 23 of 101 (115/501)
+[2025-03-07T06:20:09.235Z] 
+--- Processing ELD.TO (ELDORADO GOLD) ---
+[2025-03-07T06:20:09.236Z] 
+--- Processing ELE.V (ELEMENTAL ALTUS ROYALTIES) ---
+[2025-03-07T06:20:09.240Z] Using existing yahoo_finance URL for ELD.TO: https://finance.yahoo.com/quote/ELD.TO/
+[2025-03-07T06:20:09.240Z] Using existing yahoo_finance URL for ELE.V: https://finance.yahoo.com/quote/ELE.V/
+[2025-03-07T06:20:17.485Z] No valid homepage found on yahoo_finance for ELEMENTAL ALTUS ROYALTIES
+[2025-03-07T06:20:23.443Z] No valid homepage found for ELE.V
+[2025-03-07T06:20:23.458Z] Updated last_url_population_attempt for ELE.V
+[2025-03-07T06:20:23.461Z] Pausing after ELE.V for 2.771s (attempt 1)
+[2025-03-07T06:20:26.236Z] 
+--- Processing ELEF.TO (SILVER ELEPHANT MINING) ---
+[2025-03-07T06:20:26.237Z] 
+--- Processing ELO.TO (ELORO RESOURCES) ---
+[2025-03-07T06:20:26.245Z] Using existing yahoo_finance URL for ELEF.TO: https://finance.yahoo.com/quote/ELEF.TO/
+[2025-03-07T06:20:26.245Z] Using existing yahoo_finance URL for ELO.TO: https://finance.yahoo.com/quote/ELO.TO/
+[2025-03-07T06:20:26.992Z] Validated URL: https://www.eldoradogold.com/
+[2025-03-07T06:20:27.005Z] Found homepage from yahoo_finance for ELDORADO GOLD: https://www.eldoradogold.com/
+[2025-03-07T06:20:27.128Z] Updated company_website for ELD.TO to https://www.eldoradogold.com/
+[2025-03-07T06:20:27.142Z] Updated last_url_population_attempt for ELD.TO
+[2025-03-07T06:20:27.145Z] Pausing after ELD.TO for 2.759s (attempt 1)
+[2025-03-07T06:20:35.660Z] No valid homepage found on yahoo_finance for SILVER ELEPHANT MINING
+[2025-03-07T06:20:37.165Z] Inserted/Updated jmn URL for ELEF.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/silver-elephant-mining.html
+[2025-03-07T06:20:40.330Z] No valid homepage found on jmn for SILVER ELEPHANT MINING
+[2025-03-07T06:20:40.839Z] Validated URL: https://elororesources.com/
+[2025-03-07T06:20:40.880Z] Found homepage from yahoo_finance for ELORO RESOURCES: https://elororesources.com/
+[2025-03-07T06:20:41.018Z] Updated company_website for ELO.TO to https://elororesources.com/
+[2025-03-07T06:20:41.027Z] Updated last_url_population_attempt for ELO.TO
+[2025-03-07T06:20:41.028Z] Pausing after ELO.TO for 2.878s (attempt 1)
+[2025-03-07T06:20:41.300Z] Inserted/Updated miningfeeds URL for ELEF.TO: https://www.miningfeeds.com/stock/silver-elephant-mining-tsx/
+[2025-03-07T06:20:43.909Z] 
+--- Processing ELVT.V (ELEVATION GOLD MINING) ---
+[2025-03-07T06:20:45.557Z] No valid homepage found on miningfeeds for SILVER ELEPHANT MINING
+[2025-03-07T06:20:45.595Z] No valid homepage found for ELEF.TO
+[2025-03-07T06:20:45.608Z] Updated last_url_population_attempt for ELEF.TO
+[2025-03-07T06:20:45.610Z] Pausing after ELEF.TO for 2.048s (attempt 1)
+[2025-03-07T06:20:49.386Z] Inserted/Updated jmn URL for ELVT.V: https://www.juniorminingnetwork.com/market-data/stock-quote/elevation-gold-mining.html
+[2025-03-07T06:20:56.357Z] No valid homepage found on jmn for ELEVATION GOLD MINING
+[2025-03-07T06:20:56.409Z] No valid homepage found for ELVT.V
+[2025-03-07T06:20:56.425Z] Updated last_url_population_attempt for ELVT.V
+[2025-03-07T06:20:56.427Z] Pausing after ELVT.V for 2.683s (attempt 1)
+[2025-03-07T06:20:59.117Z] Processed batch 24 of 101 (120/501)
+[2025-03-07T06:20:59.120Z] 
+--- Processing EMNT.V (EMINENT GOLD) ---
+[2025-03-07T06:20:59.122Z] 
+--- Processing EMO.V (EMERITA RESOURCES) ---
+[2025-03-07T06:20:59.129Z] Using existing yahoo_finance URL for EMNT.V: https://finance.yahoo.com/quote/EMNT.V/
+[2025-03-07T06:20:59.132Z] Using existing yahoo_finance URL for EMO.V: https://finance.yahoo.com/quote/EMO.V/
+[2025-03-07T06:21:17.910Z] Validated URL: https://eminentgoldcorp.com/
+[2025-03-07T06:21:17.941Z] Found homepage from yahoo_finance for EMINENT GOLD: https://eminentgoldcorp.com/
+[2025-03-07T06:21:18.077Z] Updated company_website for EMNT.V to https://eminentgoldcorp.com/
+[2025-03-07T06:21:18.092Z] Updated last_url_population_attempt for EMNT.V
+[2025-03-07T06:21:18.096Z] Pausing after EMNT.V for 2.318s (attempt 1)
+[2025-03-07T06:21:20.430Z] 
+--- Processing EMPR.V (EMPRESS ROYALTY) ---
+[2025-03-07T06:21:20.435Z] Using existing yahoo_finance URL for EMPR.V: https://finance.yahoo.com/quote/EMPR.V/
+[2025-03-07T06:21:27.940Z] Validated URL: https://www.emeritaresources.com/
+[2025-03-07T06:21:27.979Z] Found homepage from yahoo_finance for EMERITA RESOURCES: https://www.emeritaresources.com/
+[2025-03-07T06:21:28.104Z] Updated company_website for EMO.V to https://www.emeritaresources.com/
+[2025-03-07T06:21:28.119Z] Updated last_url_population_attempt for EMO.V
+[2025-03-07T06:21:28.125Z] Pausing after EMO.V for 2.261s (attempt 1)
+[2025-03-07T06:21:30.390Z] 
+--- Processing EMX.V (EMX ROYALTY) ---
+[2025-03-07T06:21:30.396Z] Using existing yahoo_finance URL for EMX.V: https://finance.yahoo.com/quote/EMX.V/
+[2025-03-07T06:21:34.609Z] Validated URL: https://empressroyalty.com/
+[2025-03-07T06:21:34.620Z] Found homepage from yahoo_finance for EMPRESS ROYALTY: https://empressroyalty.com/
+[2025-03-07T06:21:34.739Z] Updated company_website for EMPR.V to https://empressroyalty.com/
+[2025-03-07T06:21:34.750Z] Updated last_url_population_attempt for EMPR.V
+[2025-03-07T06:21:34.752Z] Pausing after EMPR.V for 2.689s (attempt 1)
+[2025-03-07T06:21:37.449Z] 
+--- Processing ENDR.V (ENDURO METALS) ---
+[2025-03-07T06:21:37.456Z] Using existing yahoo_finance URL for ENDR.V: https://finance.yahoo.com/quote/ENDR.V/
+[2025-03-07T06:21:52.201Z] Validated URL: https://endurometals.com/
+[2025-03-07T06:21:52.242Z] Found homepage from yahoo_finance for ENDURO METALS: https://endurometals.com/
+[2025-03-07T06:21:52.355Z] Updated company_website for ENDR.V to https://endurometals.com/
+[2025-03-07T06:21:52.368Z] Updated last_url_population_attempt for ENDR.V
+[2025-03-07T06:21:52.370Z] Pausing after ENDR.V for 2.475s (attempt 1)
+[2025-03-07T06:22:18.054Z] Validation failed for https://emxroyalty.com/: Timed out after waiting 30000ms
+[2025-03-07T06:22:18.090Z] No valid homepage found on yahoo_finance for EMX ROYALTY
+[2025-03-07T06:22:18.225Z] Using existing jmn URL for EMX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/emx-royalty.html
+[2025-03-07T06:22:28.312Z] Validated URL: https://emxroyalty.com/
+[2025-03-07T06:22:28.341Z] Found homepage from jmn for EMX ROYALTY: https://emxroyalty.com/
+[2025-03-07T06:22:28.415Z] Updated company_website for EMX.V to https://emxroyalty.com/
+[2025-03-07T06:22:28.426Z] Updated last_url_population_attempt for EMX.V
+[2025-03-07T06:22:28.429Z] Pausing after EMX.V for 2.483s (attempt 1)
+[2025-03-07T06:22:30.915Z] Processed batch 25 of 101 (125/501)
+[2025-03-07T06:22:30.920Z] 
+--- Processing EPL.V (EAGLE PLAINS RESOURCES) ---
+[2025-03-07T06:22:30.921Z] 
+--- Processing EQTY.V (EQUITY METALS) ---
+[2025-03-07T06:22:30.927Z] Using existing yahoo_finance URL for EPL.V: https://finance.yahoo.com/quote/EPL.V/
+[2025-03-07T06:22:30.929Z] Using existing yahoo_finance URL for EQTY.V: https://finance.yahoo.com/quote/EQTY.V/
+[2025-03-07T06:22:39.343Z] No valid homepage found on yahoo_finance for EAGLE PLAINS RESOURCES
+[2025-03-07T06:22:40.826Z] Inserted/Updated jmn URL for EPL.V: https://www.juniorminingnetwork.com/market-data/stock-quote/eagle-plains-resources.html
+[2025-03-07T06:22:44.235Z] No valid homepage found on jmn for EAGLE PLAINS RESOURCES
+[2025-03-07T06:22:44.271Z] No valid homepage found for EPL.V
+[2025-03-07T06:22:44.287Z] Updated last_url_population_attempt for EPL.V
+[2025-03-07T06:22:44.290Z] Pausing after EPL.V for 2.968s (attempt 1)
+[2025-03-07T06:22:47.264Z] 
+--- Processing EQX.TO (EQUINOX GOLD) ---
+[2025-03-07T06:22:47.268Z] Using existing yahoo_finance URL for EQX.TO: https://finance.yahoo.com/quote/EQX.TO/
+[2025-03-07T06:22:59.968Z] Validated URL: https://www.equinoxgold.com/
+[2025-03-07T06:23:00.011Z] Found homepage from yahoo_finance for EQUINOX GOLD: https://www.equinoxgold.com/
+[2025-03-07T06:23:00.193Z] Updated company_website for EQX.TO to https://www.equinoxgold.com/
+[2025-03-07T06:23:00.208Z] Updated last_url_population_attempt for EQX.TO
+[2025-03-07T06:23:00.211Z] Pausing after EQX.TO for 2.575s (attempt 1)
+[2025-03-07T06:23:02.801Z] 
+--- Processing ER.CN (EASTMAIN RESOURCES) ---
+[2025-03-07T06:23:02.803Z] 
+--- Processing ERD.TO (ERDENE RESOURCE DEVELOPMENT) ---
+[2025-03-07T06:23:02.809Z] Using existing yahoo_finance URL for ER.CN: https://finance.yahoo.com/quote/ER.CN/
+[2025-03-07T06:23:02.810Z] Using existing yahoo_finance URL for ERD.TO: https://finance.yahoo.com/quote/ERD.TO/
+[2025-03-07T06:23:10.010Z] No valid homepage found on yahoo_finance for ERDENE RESOURCE DEVELOPMENT
+[2025-03-07T06:23:10.171Z] Using existing jmn URL for ERD.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/erdene-resource.html
+[2025-03-07T06:23:14.959Z] No valid homepage found on jmn for ERDENE RESOURCE DEVELOPMENT
+[2025-03-07T06:23:15.355Z] No valid homepage found on yahoo_finance for EASTMAIN RESOURCES
+[2025-03-07T06:23:15.969Z] Inserted/Updated miningfeeds URL for ERD.TO: https://www.miningfeeds.com/stock/erdene-resource-development-tsx/
+[2025-03-07T06:23:20.514Z] No valid homepage found on miningfeeds for ERDENE RESOURCE DEVELOPMENT
+[2025-03-07T06:23:20.562Z] No valid homepage found for ERD.TO
+[2025-03-07T06:23:20.576Z] Updated last_url_population_attempt for ERD.TO
+[2025-03-07T06:23:20.579Z] Pausing after ERD.TO for 2.53s (attempt 1)
+[2025-03-07T06:23:21.994Z] Inserted/Updated miningfeeds URL for ER.CN: https://www.miningfeeds.com/stock/eastmain-resources-cse/
+[2025-03-07T06:23:26.094Z] No valid homepage found on miningfeeds for EASTMAIN RESOURCES
+[2025-03-07T06:23:26.155Z] No valid homepage found for ER.CN
+[2025-03-07T06:23:26.171Z] Updated last_url_population_attempt for ER.CN
+[2025-03-07T06:23:26.174Z] Pausing after ER.CN for 2.365s (attempt 1)
+[2025-03-07T06:23:28.547Z] Processed batch 26 of 101 (130/501)
+[2025-03-07T06:23:28.549Z] 
+--- Processing ESK.V (ESKAY MINING) ---
+[2025-03-07T06:23:28.550Z] 
+--- Processing ESM.TO (EURO SUN MINING) ---
+[2025-03-07T06:23:28.553Z] Using existing yahoo_finance URL for ESM.TO: https://finance.yahoo.com/quote/ESM.TO/
+[2025-03-07T06:23:28.554Z] Using existing yahoo_finance URL for ESK.V: https://finance.yahoo.com/quote/ESK.V/
+[2025-03-07T06:23:36.525Z] Validation failed for https://www.equitymetalscorporation.com/: Timed out after waiting 30000ms
+[2025-03-07T06:23:36.541Z] No valid homepage found on yahoo_finance for EQUITY METALS
+[2025-03-07T06:23:36.695Z] Using existing jmn URL for EQTY.V: https://www.juniorminingnetwork.com/market-data/stock-quote/equity-metals.html
+[2025-03-07T06:23:44.586Z] Validated URL: https://eskaymining.com/
+[2025-03-07T06:23:44.626Z] Found homepage from yahoo_finance for ESKAY MINING: https://eskaymining.com/
+[2025-03-07T06:23:44.744Z] Updated company_website for ESK.V to https://eskaymining.com/
+[2025-03-07T06:23:44.759Z] Updated last_url_population_attempt for ESK.V
+[2025-03-07T06:23:44.761Z] Pausing after ESK.V for 2.67s (attempt 1)
+[2025-03-07T06:23:47.445Z] 
+--- Processing ETR.CN (ETRUSCUS RESOURCES) ---
+[2025-03-07T06:23:47.453Z] Using existing yahoo_finance URL for ETR.CN: https://finance.yahoo.com/quote/ETR.CN/
+[2025-03-07T06:23:53.126Z] Validated URL: https://www.eurosunmining.com/
+[2025-03-07T06:23:53.146Z] Found homepage from yahoo_finance for EURO SUN MINING: https://www.eurosunmining.com/
+[2025-03-07T06:23:53.317Z] Updated company_website for ESM.TO to https://www.eurosunmining.com/
+[2025-03-07T06:23:53.333Z] Updated last_url_population_attempt for ESM.TO
+[2025-03-07T06:23:53.336Z] Pausing after ESM.TO for 2.22s (attempt 1)
+[2025-03-07T06:23:55.568Z] 
+--- Processing EXN.TO (EXCELLON RESOURCES) ---
+[2025-03-07T06:23:55.573Z] Using existing yahoo_finance URL for EXN.TO: https://finance.yahoo.com/quote/EXN.TO/
+[2025-03-07T06:24:10.538Z] Validated URL: https://excellonresources.com/
+[2025-03-07T06:24:10.585Z] Found homepage from yahoo_finance for EXCELLON RESOURCES: https://excellonresources.com/
+[2025-03-07T06:24:10.604Z] Validated URL: https://etruscusresources.com/
+[2025-03-07T06:24:10.638Z] Found homepage from yahoo_finance for ETRUSCUS RESOURCES: https://etruscusresources.com/
+[2025-03-07T06:24:10.754Z] Updated company_website for EXN.TO to https://excellonresources.com/
+[2025-03-07T06:24:10.768Z] Updated last_url_population_attempt for EXN.TO
+[2025-03-07T06:24:10.770Z] Pausing after EXN.TO for 2.596s (attempt 1)
+[2025-03-07T06:24:10.940Z] Updated company_website for ETR.CN to https://etruscusresources.com/
+[2025-03-07T06:24:10.953Z] Updated last_url_population_attempt for ETR.CN
+[2025-03-07T06:24:10.957Z] Pausing after ETR.CN for 2.218s (attempt 1)
+[2025-03-07T06:24:13.193Z] 
+--- Processing FAS.V (FIRST ANDES SILVER) ---
+[2025-03-07T06:24:13.199Z] Using existing yahoo_finance URL for FAS.V: https://finance.yahoo.com/quote/FAS.V/
+[2025-03-07T06:24:17.054Z] Validated URL: https://equitymetalscorporation.com/
+[2025-03-07T06:24:17.071Z] Found homepage from jmn for EQUITY METALS: https://equitymetalscorporation.com/
+[2025-03-07T06:24:17.104Z] Updated company_website for EQTY.V to https://equitymetalscorporation.com/
+[2025-03-07T06:24:17.120Z] Updated last_url_population_attempt for EQTY.V
+[2025-03-07T06:24:17.122Z] Pausing after EQTY.V for 2.807s (attempt 1)
+[2025-03-07T06:24:21.433Z] No valid homepage found on yahoo_finance for FIRST ANDES SILVER
+[2025-03-07T06:24:21.559Z] Using existing jmn URL for FAS.V: https://www.juniorminingnetwork.com/market-data/stock-quote/first-andes-silver.html
+[2025-03-07T06:24:25.748Z] No valid homepage found on jmn for FIRST ANDES SILVER
+[2025-03-07T06:24:25.804Z] No valid homepage found for FAS.V
+[2025-03-07T06:24:25.820Z] Updated last_url_population_attempt for FAS.V
+[2025-03-07T06:24:25.823Z] Pausing after FAS.V for 2.684s (attempt 1)
+[2025-03-07T06:24:28.512Z] Processed batch 27 of 101 (135/501)
+[2025-03-07T06:24:28.515Z] 
+--- Processing FDR.V (FOUNDERS METALS) ---
+[2025-03-07T06:24:28.516Z] 
+--- Processing FF.TO (FIRST MINING GOLD) ---
+[2025-03-07T06:24:28.521Z] Using existing yahoo_finance URL for FDR.V: https://finance.yahoo.com/quote/FDR.V/
+[2025-03-07T06:24:28.523Z] Using existing yahoo_finance URL for FF.TO: https://finance.yahoo.com/quote/FF.TO/
+[2025-03-07T06:24:39.025Z] No valid homepage found on yahoo_finance for FOUNDERS METALS
+[2025-03-07T06:24:39.109Z] Using existing jmn URL for FDR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/founders-metals.html
+[2025-03-07T06:24:45.063Z] No valid homepage found on jmn for FOUNDERS METALS
+[2025-03-07T06:24:45.105Z] No valid homepage found for FDR.V
+[2025-03-07T06:24:45.119Z] Updated last_url_population_attempt for FDR.V
+[2025-03-07T06:24:45.121Z] Pausing after FDR.V for 2.842s (attempt 1)
+[2025-03-07T06:24:47.972Z] 
+--- Processing FFOX.V (FIREFOX GOLD) ---
+[2025-03-07T06:24:47.976Z] Using existing yahoo_finance URL for FFOX.V: https://finance.yahoo.com/quote/FFOX.V/
+[2025-03-07T06:24:49.315Z] Validated URL: https://www.firstmininggold.com/
+[2025-03-07T06:24:49.360Z] Found homepage from yahoo_finance for FIRST MINING GOLD: https://www.firstmininggold.com/
+[2025-03-07T06:24:49.491Z] Updated company_website for FF.TO to https://www.firstmininggold.com/
+[2025-03-07T06:24:49.506Z] Updated last_url_population_attempt for FF.TO
+[2025-03-07T06:24:49.508Z] Pausing after FF.TO for 2.999s (attempt 1)
+[2025-03-07T06:24:52.515Z] 
+--- Processing FIN.V (GRIT METALS) ---
+[2025-03-07T06:24:52.523Z] Using existing yahoo_finance URL for FIN.V: https://finance.yahoo.com/quote/FIN.V/
+[2025-03-07T06:25:01.177Z] No valid homepage found on yahoo_finance for GRIT METALS
+[2025-03-07T06:25:01.280Z] Using existing jmn URL for FIN.V: https://www.juniorminingnetwork.com/market-data/stock-quote/grit-metals.html
+[2025-03-07T06:25:01.564Z] Validated URL: https://www.firefoxgold.com/
+[2025-03-07T06:25:01.573Z] Found homepage from yahoo_finance for FIREFOX GOLD: https://www.firefoxgold.com/
+[2025-03-07T06:25:01.712Z] Updated company_website for FFOX.V to https://www.firefoxgold.com/
+[2025-03-07T06:25:01.724Z] Updated last_url_population_attempt for FFOX.V
+[2025-03-07T06:25:01.727Z] Pausing after FFOX.V for 2.812s (attempt 1)
+[2025-03-07T06:25:04.321Z] No valid homepage found on jmn for GRIT METALS
+[2025-03-07T06:25:04.358Z] No valid homepage found for FIN.V
+[2025-03-07T06:25:04.372Z] Updated last_url_population_attempt for FIN.V
+[2025-03-07T06:25:04.374Z] Pausing after FIN.V for 2.328s (attempt 1)
+[2025-03-07T06:25:04.549Z] 
+--- Processing FISH.V (SAILFISH ROYALTY) ---
+[2025-03-07T06:25:04.555Z] Using existing yahoo_finance URL for FISH.V: https://finance.yahoo.com/quote/FISH.V/
+[2025-03-07T06:25:52.200Z] Validation failed for https://www.sailfishroyalty.com/: Timed out after waiting 30000ms
+[2025-03-07T06:25:52.229Z] No valid homepage found on yahoo_finance for SAILFISH ROYALTY
+[2025-03-07T06:25:52.336Z] Using existing jmn URL for FISH.V: https://www.juniorminingnetwork.com/market-data/stock-quote/sailfish-royalty.html
+[2025-03-07T06:26:29.610Z] Validation failed for http://www.sailfishroyalty.com/: Timed out after waiting 30000ms
+[2025-03-07T06:26:29.658Z] No valid homepage found on jmn for SAILFISH ROYALTY
+[2025-03-07T06:26:29.716Z] No valid homepage found for FISH.V
+[2025-03-07T06:26:29.733Z] Updated last_url_population_attempt for FISH.V
+[2025-03-07T06:26:29.735Z] Pausing after FISH.V for 2.301s (attempt 1)
+[2025-03-07T06:26:32.050Z] Processed batch 28 of 101 (140/501)
+[2025-03-07T06:26:32.054Z] 
+--- Processing FKM.V (FOKUS MINING) ---
+[2025-03-07T06:26:32.054Z] 
+--- Processing FMAN.V (FREEMAN GOLD) ---
+[2025-03-07T06:26:32.058Z] Using existing yahoo_finance URL for FMAN.V: https://finance.yahoo.com/quote/FMAN.V/
+[2025-03-07T06:26:32.059Z] Using existing yahoo_finance URL for FKM.V: https://finance.yahoo.com/quote/FKM.V/
+[2025-03-07T06:26:49.232Z] Validated URL: https://fokusmining.com/
+[2025-03-07T06:26:49.248Z] Found homepage from yahoo_finance for FOKUS MINING: https://fokusmining.com/
+[2025-03-07T06:26:49.380Z] Updated company_website for FKM.V to https://fokusmining.com/
+[2025-03-07T06:26:49.393Z] Updated last_url_population_attempt for FKM.V
+[2025-03-07T06:26:49.396Z] Pausing after FKM.V for 2.87s (attempt 1)
+[2025-03-07T06:26:52.267Z] 
+--- Processing FMC.V (FORUM ENERGY METALS) ---
+[2025-03-07T06:26:52.274Z] Using existing yahoo_finance URL for FMC.V: https://finance.yahoo.com/quote/FMC.V/
+[2025-03-07T06:26:52.339Z] Validated URL: https://freemangoldcorp.com/
+[2025-03-07T06:26:52.352Z] Found homepage from yahoo_finance for FREEMAN GOLD: https://freemangoldcorp.com/
+[2025-03-07T06:26:52.479Z] Updated company_website for FMAN.V to https://freemangoldcorp.com/
+[2025-03-07T06:26:52.497Z] Updated last_url_population_attempt for FMAN.V
+[2025-03-07T06:26:52.500Z] Pausing after FMAN.V for 2.393s (attempt 1)
+[2025-03-07T06:26:54.896Z] 
+--- Processing FMT.V (FUERTE METALS) ---
+[2025-03-07T06:26:54.902Z] Using existing yahoo_finance URL for FMT.V: https://finance.yahoo.com/quote/FMT.V/
+[2025-03-07T06:27:10.774Z] Validated URL: https://fuertemetals.com/
+[2025-03-07T06:27:10.802Z] Found homepage from yahoo_finance for FUERTE METALS: https://fuertemetals.com/
+[2025-03-07T06:27:10.929Z] Updated company_website for FMT.V to https://fuertemetals.com/
+[2025-03-07T06:27:10.943Z] Updated last_url_population_attempt for FMT.V
+[2025-03-07T06:27:10.946Z] Pausing after FMT.V for 2.298s (attempt 1)
+[2025-03-07T06:27:13.260Z] 
+--- Processing FNAU.CN (FOUR NINES GOLD) ---
+[2025-03-07T06:27:13.266Z] Using existing yahoo_finance URL for FNAU.CN: https://finance.yahoo.com/quote/FNAU.CN/
+[2025-03-07T06:27:30.001Z] Validated URL: https://www.fourninesgold.ca/
+[2025-03-07T06:27:30.027Z] Found homepage from yahoo_finance for FOUR NINES GOLD: https://www.fourninesgold.ca/
+[2025-03-07T06:27:30.173Z] Updated company_website for FNAU.CN to https://www.fourninesgold.ca/
+[2025-03-07T06:27:30.189Z] Updated last_url_population_attempt for FNAU.CN
+[2025-03-07T06:27:30.191Z] Pausing after FNAU.CN for 2.218s (attempt 1)
+[2025-03-07T06:27:32.426Z] Processed batch 29 of 101 (145/501)
+[2025-03-07T06:27:32.430Z] 
+--- Processing FNM.V (FIRST NORDIC METALS) ---
+[2025-03-07T06:27:32.432Z] 
+--- Processing FNV.TO (FRANCO-NEVADA) ---
+[2025-03-07T06:27:32.434Z] Using existing yahoo_finance URL for FNM.V: https://finance.yahoo.com/quote/FNM.V/
+[2025-03-07T06:27:32.435Z] Using existing yahoo_finance URL for FNV.TO: https://finance.yahoo.com/quote/FNV.TO/
+[2025-03-07T06:27:37.474Z] Validation failed for https://www.forumenergymetals.com/: Timed out after waiting 30000ms
+[2025-03-07T06:27:37.559Z] No valid homepage found on yahoo_finance for FORUM ENERGY METALS
+[2025-03-07T06:27:37.660Z] Using existing jmn URL for FMC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/forum-energy-metals.html
+[2025-03-07T06:27:41.717Z] No valid homepage found on yahoo_finance for FIRST NORDIC METALS
+[2025-03-07T06:27:41.814Z] Using existing jmn URL for FNM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/first-nordic-metals.html
+[2025-03-07T06:27:45.014Z] No valid homepage found on jmn for FIRST NORDIC METALS
+[2025-03-07T06:27:45.038Z] No valid homepage found for FNM.V
+[2025-03-07T06:27:45.057Z] Updated last_url_population_attempt for FNM.V
+[2025-03-07T06:27:45.060Z] Pausing after FNM.V for 2.92s (attempt 1)
+[2025-03-07T06:27:47.930Z] Validated URL: https://www.franco-nevada.com/
+[2025-03-07T06:27:47.948Z] Found homepage from yahoo_finance for FRANCO-NEVADA: https://www.franco-nevada.com/
+[2025-03-07T06:27:47.983Z] 
+--- Processing FOR.V (FORTUNE BAY) ---
+[2025-03-07T06:27:47.988Z] Using existing yahoo_finance URL for FOR.V: https://finance.yahoo.com/quote/FOR.V/
+[2025-03-07T06:27:48.076Z] Updated company_website for FNV.TO to https://www.franco-nevada.com/
+[2025-03-07T06:27:48.090Z] Updated last_url_population_attempt for FNV.TO
+[2025-03-07T06:27:48.092Z] Pausing after FNV.TO for 2.612s (attempt 1)
+[2025-03-07T06:27:50.705Z] 
+--- Processing FPC.V (FALCO RESOURCES) ---
+[2025-03-07T06:27:50.714Z] Using existing yahoo_finance URL for FPC.V: https://finance.yahoo.com/quote/FPC.V/
+[2025-03-07T06:27:51.659Z] Validated URL: https://forumenergymetals.com/
+[2025-03-07T06:27:51.667Z] Found homepage from jmn for FORUM ENERGY METALS: https://forumenergymetals.com/
+[2025-03-07T06:27:51.698Z] Updated company_website for FMC.V to https://forumenergymetals.com/
+[2025-03-07T06:27:51.713Z] Updated last_url_population_attempt for FMC.V
+[2025-03-07T06:27:51.716Z] Pausing after FMC.V for 2.033s (attempt 1)
+[2025-03-07T06:27:57.306Z] No valid homepage found on yahoo_finance for FALCO RESOURCES
+[2025-03-07T06:27:58.601Z] Inserted/Updated jmn URL for FPC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/falco-resources.html
+[2025-03-07T06:28:01.503Z] No valid homepage found on jmn for FALCO RESOURCES
+[2025-03-07T06:28:01.564Z] No valid homepage found for FPC.V
+[2025-03-07T06:28:01.579Z] Updated last_url_population_attempt for FPC.V
+[2025-03-07T06:28:01.581Z] Pausing after FPC.V for 2.767s (attempt 1)
+[2025-03-07T06:28:04.363Z] 
+--- Processing FRED.V (FREDONIA MINING) ---
+[2025-03-07T06:28:04.368Z] Using existing yahoo_finance URL for FRED.V: https://finance.yahoo.com/quote/FRED.V/
+[2025-03-07T06:28:13.026Z] No valid homepage found on yahoo_finance for FREDONIA MINING
+[2025-03-07T06:28:14.318Z] Inserted/Updated jmn URL for FRED.V: https://www.juniorminingnetwork.com/market-data/stock-quote/fredonia-mining.html
+[2025-03-07T06:28:16.817Z] No valid homepage found on jmn for FREDONIA MINING
+[2025-03-07T06:28:16.872Z] No valid homepage found for FRED.V
+[2025-03-07T06:28:16.885Z] Updated last_url_population_attempt for FRED.V
+[2025-03-07T06:28:16.888Z] Pausing after FRED.V for 2.799s (attempt 1)
+[2025-03-07T06:28:17.165Z] Validated URL: https://fortunebaycorp.com/
+[2025-03-07T06:28:17.201Z] Found homepage from yahoo_finance for FORTUNE BAY: https://fortunebaycorp.com/
+[2025-03-07T06:28:17.555Z] Updated company_website for FOR.V to https://fortunebaycorp.com/
+[2025-03-07T06:28:17.567Z] Updated last_url_population_attempt for FOR.V
+[2025-03-07T06:28:17.570Z] Pausing after FOR.V for 2.339s (attempt 1)
+[2025-03-07T06:28:19.700Z] Processed batch 30 of 101 (150/501)
+[2025-03-07T06:28:19.704Z] 
+--- Processing FRG.CN (FORGE RESOURCES) ---
+[2025-03-07T06:28:19.706Z] 
+--- Processing FURY.TO (FURY GOLD MINES) ---
+[2025-03-07T06:28:19.710Z] Using existing yahoo_finance URL for FURY.TO: https://finance.yahoo.com/quote/FURY.TO/
+[2025-03-07T06:28:19.711Z] Using existing yahoo_finance URL for FRG.CN: https://finance.yahoo.com/quote/FRG.CN/
+[2025-03-07T06:28:39.536Z] Validated URL: https://furygoldmines.com/
+[2025-03-07T06:28:39.555Z] Found homepage from yahoo_finance for FURY GOLD MINES: https://furygoldmines.com/
+[2025-03-07T06:28:39.668Z] Updated company_website for FURY.TO to https://furygoldmines.com/
+[2025-03-07T06:28:39.687Z] Updated last_url_population_attempt for FURY.TO
+[2025-03-07T06:28:39.689Z] Pausing after FURY.TO for 2.398s (attempt 1)
+[2025-03-07T06:28:42.099Z] 
+--- Processing FVI.TO (FORTUNA MINING) ---
+[2025-03-07T06:28:42.100Z] 
+--- Processing FVL.TO (FREEGOLD VENTURES) ---
+[2025-03-07T06:28:42.105Z] Using existing yahoo_finance URL for FVI.TO: https://finance.yahoo.com/quote/FVI.TO/
+[2025-03-07T06:28:42.106Z] Using existing yahoo_finance URL for FVL.TO: https://finance.yahoo.com/quote/FVL.TO/
+[2025-03-07T06:28:44.677Z] Validated URL: https://www.forgeresourcescorp.com/
+[2025-03-07T06:28:44.695Z] Found homepage from yahoo_finance for FORGE RESOURCES: https://www.forgeresourcescorp.com/
+[2025-03-07T06:28:44.821Z] Updated company_website for FRG.CN to https://www.forgeresourcescorp.com/
+[2025-03-07T06:28:44.837Z] Updated last_url_population_attempt for FRG.CN
+[2025-03-07T06:28:44.840Z] Pausing after FRG.CN for 2.369s (attempt 1)
+[2025-03-07T06:28:58.866Z] Validated URL: https://fortunamining.com/
+[2025-03-07T06:28:58.881Z] Found homepage from yahoo_finance for FORTUNA MINING: https://fortunamining.com/
+[2025-03-07T06:28:58.977Z] Updated company_website for FVI.TO to https://fortunamining.com/
+[2025-03-07T06:28:58.989Z] Updated last_url_population_attempt for FVI.TO
+[2025-03-07T06:28:58.991Z] Pausing after FVI.TO for 2.726s (attempt 1)
+[2025-03-07T06:29:01.729Z] 
+--- Processing GAL.V (GALANTAS GOLD) ---
+[2025-03-07T06:29:01.736Z] Using existing yahoo_finance URL for GAL.V: https://finance.yahoo.com/quote/GAL.V/
+[2025-03-07T06:29:11.781Z] No valid homepage found on yahoo_finance for GALANTAS GOLD
+[2025-03-07T06:29:11.908Z] Using existing jmn URL for GAL.V: https://www.juniorminingnetwork.com/market-data/stock-quote/galantas-gold.html
+[2025-03-07T06:29:16.532Z] No valid homepage found on jmn for GALANTAS GOLD
+[2025-03-07T06:29:16.576Z] No valid homepage found for GAL.V
+[2025-03-07T06:29:16.588Z] Updated last_url_population_attempt for GAL.V
+[2025-03-07T06:29:16.591Z] Pausing after GAL.V for 2.474s (attempt 1)
+[2025-03-07T06:29:24.462Z] Validated URL: https://freegoldventures.com/
+[2025-03-07T06:29:24.506Z] Found homepage from yahoo_finance for FREEGOLD VENTURES: https://freegoldventures.com/
+[2025-03-07T06:29:24.634Z] Updated company_website for FVL.TO to https://freegoldventures.com/
+[2025-03-07T06:29:24.646Z] Updated last_url_population_attempt for FVL.TO
+[2025-03-07T06:29:24.650Z] Pausing after FVL.TO for 2.23s (attempt 1)
+[2025-03-07T06:29:26.897Z] Processed batch 31 of 101 (155/501)
+[2025-03-07T06:29:26.900Z] 
+--- Processing GAU.TO (GALIANO GOLD) ---
+[2025-03-07T06:29:26.901Z] 
+--- Processing GBRC.V (GOLD BULL RESOURCES) ---
+[2025-03-07T06:29:26.904Z] Using existing yahoo_finance URL for GAU.TO: https://finance.yahoo.com/quote/GAU.TO/
+[2025-03-07T06:29:26.904Z] Using existing yahoo_finance URL for GBRC.V: https://finance.yahoo.com/quote/GBRC.V/
+[2025-03-07T06:29:36.378Z] No valid homepage found on yahoo_finance for GOLD BULL RESOURCES
+[2025-03-07T06:29:37.878Z] Inserted/Updated jmn URL for GBRC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/gold-bull-resources.html
+[2025-03-07T06:29:39.441Z] Validated URL: https://www.galianogold.com/
+[2025-03-07T06:29:39.450Z] Found homepage from yahoo_finance for GALIANO GOLD: https://www.galianogold.com/
+[2025-03-07T06:29:39.600Z] Updated company_website for GAU.TO to https://www.galianogold.com/
+[2025-03-07T06:29:39.616Z] Updated last_url_population_attempt for GAU.TO
+[2025-03-07T06:29:39.618Z] Pausing after GAU.TO for 2.654s (attempt 1)
+[2025-03-07T06:29:41.616Z] No valid homepage found on jmn for GOLD BULL RESOURCES
+[2025-03-07T06:29:41.653Z] No valid homepage found for GBRC.V
+[2025-03-07T06:29:41.666Z] Updated last_url_population_attempt for GBRC.V
+[2025-03-07T06:29:41.669Z] Pausing after GBRC.V for 2.573s (attempt 1)
+[2025-03-07T06:29:42.276Z] 
+--- Processing GDX.V (GOLDEX RESOURCES) ---
+[2025-03-07T06:29:42.280Z] Using existing yahoo_finance URL for GDX.V: https://finance.yahoo.com/quote/GDX.V/
+[2025-03-07T06:29:44.246Z] 
+--- Processing GFG.V (GFG RESOURCES) ---
+[2025-03-07T06:29:44.250Z] Using existing yahoo_finance URL for GFG.V: https://finance.yahoo.com/quote/GFG.V/
+[2025-03-07T06:29:51.722Z] No valid homepage found on yahoo_finance for GOLDEX RESOURCES
+[2025-03-07T06:29:52.967Z] Inserted/Updated jmn URL for GDX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/goldex-resources.html
+[2025-03-07T06:29:54.914Z] Validated URL: https://www.gfgresources.com/
+[2025-03-07T06:29:54.926Z] Found homepage from yahoo_finance for GFG RESOURCES: https://www.gfgresources.com/
+[2025-03-07T06:29:55.045Z] Updated company_website for GFG.V to https://www.gfgresources.com/
+[2025-03-07T06:29:55.059Z] Updated last_url_population_attempt for GFG.V
+[2025-03-07T06:29:55.061Z] Pausing after GFG.V for 2.326s (attempt 1)
+[2025-03-07T06:29:55.665Z] No valid homepage found on jmn for GOLDEX RESOURCES
+[2025-03-07T06:29:55.714Z] No valid homepage found for GDX.V
+[2025-03-07T06:29:55.729Z] Updated last_url_population_attempt for GDX.V
+[2025-03-07T06:29:55.733Z] Pausing after GDX.V for 2.486s (attempt 1)
+[2025-03-07T06:29:57.391Z] 
+--- Processing G.TO (AUGUSTA GOLD) ---
+[2025-03-07T06:29:57.396Z] Using existing yahoo_finance URL for G.TO: https://finance.yahoo.com/quote/G.TO/
+[2025-03-07T06:30:14.795Z] Validated URL: https://www.augustagold.com/
+[2025-03-07T06:30:14.820Z] Found homepage from yahoo_finance for AUGUSTA GOLD: https://www.augustagold.com/
+[2025-03-07T06:30:14.966Z] Updated company_website for G.TO to https://www.augustagold.com/
+[2025-03-07T06:30:14.979Z] Updated last_url_population_attempt for G.TO
+[2025-03-07T06:30:14.981Z] Pausing after G.TO for 2.044s (attempt 1)
+[2025-03-07T06:30:17.031Z] Processed batch 32 of 101 (160/501)
+[2025-03-07T06:30:17.035Z] 
+--- Processing GCC.CN (GOLDEN CARIBOO RESOURCES) ---
+[2025-03-07T06:30:17.035Z] 
+--- Processing GHRT.V (GREENHEART GOLD) ---
+[2025-03-07T06:30:17.041Z] Using existing yahoo_finance URL for GCC.CN: https://finance.yahoo.com/quote/GCC.CN/
+[2025-03-07T06:30:17.040Z] Using existing yahoo_finance URL for GHRT.V: https://finance.yahoo.com/quote/GHRT.V/
+[2025-03-07T06:30:23.404Z] No valid homepage found on yahoo_finance for GREENHEART GOLD
+[2025-03-07T06:30:23.552Z] Using existing jmn URL for GHRT.V: https://www.juniorminingnetwork.com/market-data/stock-quote/greenheart-gold.html
+[2025-03-07T06:30:25.580Z] No valid homepage found on yahoo_finance for GOLDEN CARIBOO RESOURCES
+[2025-03-07T06:30:26.981Z] Inserted/Updated jmn URL for GCC.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/golden-cariboo-resources.html
+[2025-03-07T06:30:31.311Z] Validated URL: https://www.greenheartgold.com/
+[2025-03-07T06:30:31.344Z] Found homepage from jmn for GREENHEART GOLD: https://www.greenheartgold.com/
+[2025-03-07T06:30:31.413Z] Updated company_website for GHRT.V to https://www.greenheartgold.com/
+[2025-03-07T06:30:31.425Z] Updated last_url_population_attempt for GHRT.V
+[2025-03-07T06:30:31.429Z] Pausing after GHRT.V for 2.612s (attempt 1)
+[2025-03-07T06:30:33.396Z] No valid homepage found on jmn for GOLDEN CARIBOO RESOURCES
+[2025-03-07T06:30:34.047Z] 
+--- Processing GG.V (GOLCONDA GOLD) ---
+[2025-03-07T06:30:34.049Z] 
+--- Processing GGA.V (GOLDGROUP MINING) ---
+[2025-03-07T06:30:34.054Z] Using existing yahoo_finance URL for GGA.V: https://finance.yahoo.com/quote/GGA.V/
+[2025-03-07T06:30:34.055Z] Using existing yahoo_finance URL for GG.V: https://finance.yahoo.com/quote/GG.V/
+[2025-03-07T06:30:34.380Z] Inserted/Updated miningfeeds URL for GCC.CN: https://www.miningfeeds.com/stock/golden-cariboo-resources-cse/
+[2025-03-07T06:30:38.968Z] No valid homepage found on miningfeeds for GOLDEN CARIBOO RESOURCES
+[2025-03-07T06:30:39.015Z] No valid homepage found for GCC.CN
+[2025-03-07T06:30:39.033Z] Updated last_url_population_attempt for GCC.CN
+[2025-03-07T06:30:39.035Z] Pausing after GCC.CN for 2.017s (attempt 1)
+[2025-03-07T06:30:55.572Z] Validated URL: https://www.golcondagold.com/
+[2025-03-07T06:30:55.586Z] Found homepage from yahoo_finance for GOLCONDA GOLD: https://www.golcondagold.com/
+[2025-03-07T06:30:55.704Z] Updated company_website for GG.V to https://www.golcondagold.com/
+[2025-03-07T06:30:55.719Z] Updated last_url_population_attempt for GG.V
+[2025-03-07T06:30:55.724Z] Pausing after GG.V for 2.214s (attempt 1)
+[2025-03-07T06:30:57.941Z] 
+--- Processing GGD.TO (GOGOLD RESOURCES) ---
+[2025-03-07T06:30:57.947Z] Using existing yahoo_finance URL for GGD.TO: https://finance.yahoo.com/quote/GGD.TO/
+[2025-03-07T06:31:18.341Z] Validation failed for https://goldgroupmining.com/: Timed out after waiting 30000ms
+[2025-03-07T06:31:18.358Z] No valid homepage found on yahoo_finance for GOLDGROUP MINING
+[2025-03-07T06:31:19.337Z] Validated URL: https://gogoldresources.com/
+[2025-03-07T06:31:19.376Z] Found homepage from yahoo_finance for GOGOLD RESOURCES: https://gogoldresources.com/
+[2025-03-07T06:31:19.678Z] Updated company_website for GGD.TO to https://gogoldresources.com/
+[2025-03-07T06:31:19.694Z] Updated last_url_population_attempt for GGD.TO
+[2025-03-07T06:31:19.697Z] Pausing after GGD.TO for 2.612s (attempt 1)
+[2025-03-07T06:31:19.744Z] Inserted/Updated jmn URL for GGA.V: https://www.juniorminingnetwork.com/market-data/stock-quote/goldgroup-mining.html
+[2025-03-07T06:31:30.513Z] Validated URL: https://goldgroupmining.com/
+[2025-03-07T06:31:30.538Z] Found homepage from jmn for GOLDGROUP MINING: https://goldgroupmining.com/
+[2025-03-07T06:31:30.614Z] Updated company_website for GGA.V to https://goldgroupmining.com/
+[2025-03-07T06:31:30.630Z] Updated last_url_population_attempt for GGA.V
+[2025-03-07T06:31:30.633Z] Pausing after GGA.V for 2.229s (attempt 1)
+[2025-03-07T06:31:32.872Z] Processed batch 33 of 101 (165/501)
+[2025-03-07T06:31:32.874Z] 
+--- Processing GGL.V (GGL RESOURCES) ---
+[2025-03-07T06:31:32.875Z] 
+--- Processing GGM.V (GRANADA GOLD MINE) ---
+[2025-03-07T06:31:32.876Z] Using existing yahoo_finance URL for GGL.V: https://finance.yahoo.com/quote/GGL.V/
+[2025-03-07T06:31:32.878Z] Using existing yahoo_finance URL for GGM.V: https://finance.yahoo.com/quote/GGM.V/
+[2025-03-07T06:31:47.485Z] Validated URL: https://gglresourcescorp.com/
+[2025-03-07T06:31:47.506Z] Found homepage from yahoo_finance for GGL RESOURCES: https://gglresourcescorp.com/
+[2025-03-07T06:31:47.610Z] Updated company_website for GGL.V to https://gglresourcescorp.com/
+[2025-03-07T06:31:47.625Z] Updated last_url_population_attempt for GGL.V
+[2025-03-07T06:31:47.629Z] Pausing after GGL.V for 2.325s (attempt 1)
+[2025-03-07T06:31:49.966Z] 
+--- Processing GGO.V (GALLEON GOLD) ---
+[2025-03-07T06:31:49.974Z] Using existing yahoo_finance URL for GGO.V: https://finance.yahoo.com/quote/GGO.V/
+[2025-03-07T06:32:16.467Z] Validation failed for https://granadagoldmine.com/: Timed out after waiting 30000ms
+[2025-03-07T06:32:16.496Z] No valid homepage found on yahoo_finance for GRANADA GOLD MINE
+[2025-03-07T06:32:16.585Z] Using existing jmn URL for GGM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/granada-gold-mine.html
+[2025-03-07T06:32:27.464Z] Validated URL: https://granadagoldmine.com/
+[2025-03-07T06:32:27.491Z] Found homepage from jmn for GRANADA GOLD MINE: https://granadagoldmine.com/
+[2025-03-07T06:32:27.563Z] Updated company_website for GGM.V to https://granadagoldmine.com/
+[2025-03-07T06:32:27.579Z] Updated last_url_population_attempt for GGM.V
+[2025-03-07T06:32:27.582Z] Pausing after GGM.V for 2.166s (attempt 1)
+[2025-03-07T06:32:29.753Z] 
+--- Processing GLDC.V (CASSIAR GOLD) ---
+[2025-03-07T06:32:29.759Z] Using existing yahoo_finance URL for GLDC.V: https://finance.yahoo.com/quote/GLDC.V/
+[2025-03-07T06:32:33.154Z] Validation failed for https://galleongold.com/: Timed out after waiting 30000ms
+[2025-03-07T06:32:33.224Z] No valid homepage found on yahoo_finance for GALLEON GOLD
+[2025-03-07T06:32:33.326Z] Using existing jmn URL for GGO.V: https://www.juniorminingnetwork.com/market-data/stock-quote/galleon-gold.html
+[2025-03-07T06:32:39.615Z] Validated URL: https://galleongold.com/
+[2025-03-07T06:32:39.643Z] Found homepage from jmn for GALLEON GOLD: https://galleongold.com/
+[2025-03-07T06:32:39.715Z] Updated company_website for GGO.V to https://galleongold.com/
+[2025-03-07T06:32:39.732Z] Updated last_url_population_attempt for GGO.V
+[2025-03-07T06:32:39.734Z] Pausing after GGO.V for 2.151s (attempt 1)
+[2025-03-07T06:32:41.896Z] 
+--- Processing GLDN.V (GOLDEN RIDGE RESOURCES) ---
+[2025-03-07T06:32:41.900Z] Using existing yahoo_finance URL for GLDN.V: https://finance.yahoo.com/quote/GLDN.V/
+[2025-03-07T06:32:47.912Z] No valid homepage found on yahoo_finance for GOLDEN RIDGE RESOURCES
+[2025-03-07T06:32:49.319Z] Inserted/Updated jmn URL for GLDN.V: https://www.juniorminingnetwork.com/market-data/stock-quote/golden-ridge-resources.html
+[2025-03-07T06:32:59.375Z] Validated URL: https://www.goldenridgeresources.com/
+[2025-03-07T06:32:59.393Z] Found homepage from jmn for GOLDEN RIDGE RESOURCES: https://www.goldenridgeresources.com/
+[2025-03-07T06:32:59.485Z] Updated company_website for GLDN.V to https://www.goldenridgeresources.com/
+[2025-03-07T06:32:59.496Z] Updated last_url_population_attempt for GLDN.V
+[2025-03-07T06:32:59.499Z] Pausing after GLDN.V for 2.442s (attempt 1)
+[2025-03-07T06:32:59.767Z] Validated URL: https://cassiargold.com/
+[2025-03-07T06:33:00.008Z] Found homepage from yahoo_finance for CASSIAR GOLD: https://cassiargold.com/
+[2025-03-07T06:33:00.164Z] Updated company_website for GLDC.V to https://cassiargold.com/
+[2025-03-07T06:33:00.179Z] Updated last_url_population_attempt for GLDC.V
+[2025-03-07T06:33:00.186Z] Pausing after GLDC.V for 2.63s (attempt 1)
+[2025-03-07T06:33:02.824Z] Processed batch 34 of 101 (170/501)
+[2025-03-07T06:33:02.828Z] 
+--- Processing GMIN.TO (G MINING VENTURES) ---
+[2025-03-07T06:33:02.826Z] 
+--- Processing GLM.CN (GOLDEN LAKE EXPLORATION) ---
+[2025-03-07T06:33:02.832Z] Using existing yahoo_finance URL for GMIN.TO: https://finance.yahoo.com/quote/GMIN.TO/
+[2025-03-07T06:33:02.832Z] Using existing yahoo_finance URL for GLM.CN: https://finance.yahoo.com/quote/GLM.CN/
+[2025-03-07T06:33:11.646Z] No valid homepage found on yahoo_finance for GOLDEN LAKE EXPLORATION
+[2025-03-07T06:33:11.795Z] Using existing jmn URL for GLM.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/golden-lake-exploration.html
+[2025-03-07T06:33:14.809Z] No valid homepage found on jmn for GOLDEN LAKE EXPLORATION
+[2025-03-07T06:33:15.144Z] No valid homepage found on yahoo_finance for G MINING VENTURES
+[2025-03-07T06:33:15.759Z] Inserted/Updated miningfeeds URL for GLM.CN: https://www.miningfeeds.com/stock/golden-lake-exploration-cse/
+[2025-03-07T06:33:16.560Z] Inserted/Updated jmn URL for GMIN.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/g-mining-ventures.html
+[2025-03-07T06:33:22.219Z] No valid homepage found on miningfeeds for GOLDEN LAKE EXPLORATION
+[2025-03-07T06:33:22.239Z] No valid homepage found for GLM.CN
+[2025-03-07T06:33:22.254Z] Updated last_url_population_attempt for GLM.CN
+[2025-03-07T06:33:22.258Z] Pausing after GLM.CN for 2.08s (attempt 1)
+[2025-03-07T06:33:24.343Z] 
+--- Processing GMTN.TO (GOLD MOUNTAIN MINING) ---
+[2025-03-07T06:33:24.350Z] Using existing yahoo_finance URL for GMTN.TO: https://finance.yahoo.com/quote/GMTN.TO/
+[2025-03-07T06:33:26.060Z] Validated URL: https://gmin.gold/
+[2025-03-07T06:33:26.083Z] Found homepage from jmn for G MINING VENTURES: https://gmin.gold/
+[2025-03-07T06:33:26.146Z] Updated company_website for GMIN.TO to https://gmin.gold/
+[2025-03-07T06:33:26.161Z] Updated last_url_population_attempt for GMIN.TO
+[2025-03-07T06:33:26.163Z] Pausing after GMIN.TO for 2.811s (attempt 1)
+[2025-03-07T06:33:28.984Z] 
+--- Processing GMV.V (GMV MINERALS) ---
+[2025-03-07T06:33:28.992Z] Using existing yahoo_finance URL for GMV.V: https://finance.yahoo.com/quote/GMV.V/
+[2025-03-07T06:33:34.085Z] No valid homepage found on yahoo_finance for GOLD MOUNTAIN MINING
+[2025-03-07T06:33:35.512Z] Inserted/Updated jmn URL for GMTN.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/gold-mountain-mining.html
+[2025-03-07T06:33:39.435Z] No valid homepage found on jmn for GOLD MOUNTAIN MINING
+[2025-03-07T06:33:40.343Z] Inserted/Updated miningfeeds URL for GMTN.TO: https://www.miningfeeds.com/stock/gold-mountain-mining-tsx/
+[2025-03-07T06:33:43.042Z] Validated URL: https://gmvminerals.com/
+[2025-03-07T06:33:43.056Z] Found homepage from yahoo_finance for GMV MINERALS: https://gmvminerals.com/
+[2025-03-07T06:33:43.191Z] Updated company_website for GMV.V to https://gmvminerals.com/
+[2025-03-07T06:33:43.206Z] Updated last_url_population_attempt for GMV.V
+[2025-03-07T06:33:43.208Z] Pausing after GMV.V for 2.912s (attempt 1)
+[2025-03-07T06:33:44.842Z] No valid homepage found on miningfeeds for GOLD MOUNTAIN MINING
+[2025-03-07T06:33:44.897Z] No valid homepage found for GMTN.TO
+[2025-03-07T06:33:44.912Z] Updated last_url_population_attempt for GMTN.TO
+[2025-03-07T06:33:44.916Z] Pausing after GMTN.TO for 2.508s (attempt 1)
+[2025-03-07T06:33:46.125Z] 
+--- Processing GMX.TO (GLOBEX MINING) ---
+[2025-03-07T06:33:46.131Z] Using existing yahoo_finance URL for GMX.TO: https://finance.yahoo.com/quote/GMX.TO/
+[2025-03-07T06:34:01.667Z] Validated URL: https://globexmining.com/
+[2025-03-07T06:34:01.705Z] Found homepage from yahoo_finance for GLOBEX MINING: https://globexmining.com/
+[2025-03-07T06:34:01.854Z] Updated company_website for GMX.TO to https://globexmining.com/
+[2025-03-07T06:34:01.867Z] Updated last_url_population_attempt for GMX.TO
+[2025-03-07T06:34:01.870Z] Pausing after GMX.TO for 2.171s (attempt 1)
+[2025-03-07T06:34:04.044Z] Processed batch 35 of 101 (175/501)
+[2025-03-07T06:34:04.049Z] 
+--- Processing GNG.V (GOLDEN GOLIATH RESOURCES) ---
+[2025-03-07T06:34:04.049Z] 
+--- Processing GOLD.TO (GOLDMINING) ---
+[2025-03-07T06:34:04.057Z] Using existing yahoo_finance URL for GNG.V: https://finance.yahoo.com/quote/GNG.V/
+[2025-03-07T06:34:04.058Z] Using existing yahoo_finance URL for GOLD.TO: https://finance.yahoo.com/quote/GOLD.TO/
+[2025-03-07T06:34:15.459Z] No valid homepage found on yahoo_finance for GOLDEN GOLIATH RESOURCES
+[2025-03-07T06:34:16.736Z] Inserted/Updated jmn URL for GNG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/golden-goliath-resources.html
+[2025-03-07T06:34:20.992Z] No valid homepage found on jmn for GOLDEN GOLIATH RESOURCES
+[2025-03-07T06:34:21.054Z] No valid homepage found for GNG.V
+[2025-03-07T06:34:21.068Z] Updated last_url_population_attempt for GNG.V
+[2025-03-07T06:34:21.070Z] Pausing after GNG.V for 2.644s (attempt 1)
+[2025-03-07T06:34:23.727Z] 
+--- Processing GOT.V (GOLIATH RESOURCES) ---
+[2025-03-07T06:34:23.732Z] Using existing yahoo_finance URL for GOT.V: https://finance.yahoo.com/quote/GOT.V/
+[2025-03-07T06:34:31.619Z] Validated URL: https://www.goldmining.com/
+[2025-03-07T06:34:31.650Z] Found homepage from yahoo_finance for GOLDMINING: https://www.goldmining.com/
+[2025-03-07T06:34:31.799Z] Updated company_website for GOLD.TO to https://www.goldmining.com/
+[2025-03-07T06:34:31.813Z] Updated last_url_population_attempt for GOLD.TO
+[2025-03-07T06:34:31.817Z] Pausing after GOLD.TO for 2.662s (attempt 1)
+[2025-03-07T06:34:34.487Z] 
+--- Processing GPAC.V (GREAT PACIFIC GOLD) ---
+[2025-03-07T06:34:34.492Z] Using existing yahoo_finance URL for GPAC.V: https://finance.yahoo.com/quote/GPAC.V/
+[2025-03-07T06:34:42.900Z] Validated URL: https://goliathresourcesltd.com/
+[2025-03-07T06:34:42.926Z] Found homepage from yahoo_finance for GOLIATH RESOURCES: https://goliathresourcesltd.com/
+[2025-03-07T06:34:43.056Z] Updated company_website for GOT.V to https://goliathresourcesltd.com/
+[2025-03-07T06:34:43.072Z] Updated last_url_population_attempt for GOT.V
+[2025-03-07T06:34:43.079Z] Pausing after GOT.V for 2.612s (attempt 1)
+[2025-03-07T06:34:45.696Z] 
+--- Processing GPG.V (GRANDE PORTAGE RESOURCES) ---
+[2025-03-07T06:34:45.701Z] Using existing yahoo_finance URL for GPG.V: https://finance.yahoo.com/quote/GPG.V/
+[2025-03-07T06:34:52.437Z] Validated URL: https://www.gpacgold.com/
+[2025-03-07T06:34:52.468Z] Found homepage from yahoo_finance for GREAT PACIFIC GOLD: https://www.gpacgold.com/
+[2025-03-07T06:34:52.628Z] Updated company_website for GPAC.V to https://www.gpacgold.com/
+[2025-03-07T06:34:52.644Z] Updated last_url_population_attempt for GPAC.V
+[2025-03-07T06:34:52.648Z] Pausing after GPAC.V for 2.161s (attempt 1)
+[2025-03-07T06:34:55.330Z] No valid homepage found on yahoo_finance for GRANDE PORTAGE RESOURCES
+[2025-03-07T06:34:56.884Z] Inserted/Updated jmn URL for GPG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/grande-portage-resources.html
+[2025-03-07T06:35:00.437Z] No valid homepage found on jmn for GRANDE PORTAGE RESOURCES
+[2025-03-07T06:35:00.504Z] No valid homepage found for GPG.V
+[2025-03-07T06:35:00.521Z] Updated last_url_population_attempt for GPG.V
+[2025-03-07T06:35:00.527Z] Pausing after GPG.V for 2.508s (attempt 1)
+[2025-03-07T06:35:03.038Z] Processed batch 36 of 101 (180/501)
+[2025-03-07T06:35:03.043Z] 
+--- Processing GQ.V (GREAT QUEST GOLD) ---
+[2025-03-07T06:35:03.041Z] 
+--- Processing GTWO.TO (G2 GOLDFIELDS) ---
+[2025-03-07T06:35:03.048Z] Using existing yahoo_finance URL for GTWO.TO: https://finance.yahoo.com/quote/GTWO.TO/
+[2025-03-07T06:35:03.048Z] Using existing yahoo_finance URL for GQ.V: https://finance.yahoo.com/quote/GQ.V/
+[2025-03-07T06:35:12.693Z] No valid homepage found on yahoo_finance for GREAT QUEST GOLD
+[2025-03-07T06:35:12.796Z] Using existing jmn URL for GQ.V: https://www.juniorminingnetwork.com/market-data/stock-quote/great-quest-gold.html
+[2025-03-07T06:35:15.627Z] No valid homepage found on jmn for GREAT QUEST GOLD
+[2025-03-07T06:35:15.669Z] No valid homepage found for GQ.V
+[2025-03-07T06:35:15.684Z] Updated last_url_population_attempt for GQ.V
+[2025-03-07T06:35:15.687Z] Pausing after GQ.V for 2.891s (attempt 1)
+[2025-03-07T06:35:18.581Z] 
+--- Processing GQC.V (GOLDQUEST MINING) ---
+[2025-03-07T06:35:18.582Z] 
+--- Processing GRC.TO (GOLD SPRINGS RESOURCE) ---
+[2025-03-07T06:35:18.589Z] Using existing yahoo_finance URL for GQC.V: https://finance.yahoo.com/quote/GQC.V/
+[2025-03-07T06:35:18.590Z] Using existing yahoo_finance URL for GRC.TO: https://finance.yahoo.com/quote/GRC.TO/
+[2025-03-07T06:35:22.784Z] Validated URL: https://g2goldfields.com/
+[2025-03-07T06:35:22.858Z] Found homepage from yahoo_finance for G2 GOLDFIELDS: https://g2goldfields.com/
+[2025-03-07T06:35:23.011Z] Updated company_website for GTWO.TO to https://g2goldfields.com/
+[2025-03-07T06:35:23.023Z] Updated last_url_population_attempt for GTWO.TO
+[2025-03-07T06:35:23.026Z] Pausing after GTWO.TO for 2.198s (attempt 1)
+[2025-03-07T06:35:29.714Z] No valid homepage found on yahoo_finance for GOLDQUEST MINING
+[2025-03-07T06:35:31.081Z] Inserted/Updated jmn URL for GQC.V: https://www.juniorminingnetwork.com/market-data/stock-quote/goldquest-mining.html
+[2025-03-07T06:35:34.105Z] No valid homepage found on jmn for GOLDQUEST MINING
+[2025-03-07T06:35:34.138Z] No valid homepage found for GQC.V
+[2025-03-07T06:35:34.149Z] Updated last_url_population_attempt for GQC.V
+[2025-03-07T06:35:34.152Z] Pausing after GQC.V for 2.973s (attempt 1)
+[2025-03-07T06:35:37.132Z] 
+--- Processing GRG.V (GOLDEN ARROW RESOURCES) ---
+[2025-03-07T06:35:37.139Z] Using existing yahoo_finance URL for GRG.V: https://finance.yahoo.com/quote/GRG.V/
+[2025-03-07T06:35:59.874Z] Validation failed for https://www.goldspringsresource.com/: Timed out after waiting 30000ms
+[2025-03-07T06:35:59.894Z] No valid homepage found on yahoo_finance for GOLD SPRINGS RESOURCE
+[2025-03-07T06:35:59.976Z] Using existing jmn URL for GRC.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/gold-springs-resource.html
+[2025-03-07T06:36:09.926Z] Validated URL: https://goldspringsresource.com/
+[2025-03-07T06:36:09.954Z] Found homepage from jmn for GOLD SPRINGS RESOURCE: https://goldspringsresource.com/
+[2025-03-07T06:36:10.029Z] Updated company_website for GRC.TO to https://goldspringsresource.com/
+[2025-03-07T06:36:10.042Z] Updated last_url_population_attempt for GRC.TO
+[2025-03-07T06:36:10.045Z] Pausing after GRC.TO for 2.621s (attempt 1)
+[2025-03-07T06:36:22.406Z] Validation failed for https://www.goldenarrowresources.com/: Timed out after waiting 30000ms
+[2025-03-07T06:36:22.439Z] No valid homepage found on yahoo_finance for GOLDEN ARROW RESOURCES
+[2025-03-07T06:36:23.980Z] Inserted/Updated jmn URL for GRG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/golden-arrow-resources.html
+[2025-03-07T06:36:35.045Z] Validated URL: https://goldenarrowresources.com/
+[2025-03-07T06:36:35.078Z] Found homepage from jmn for GOLDEN ARROW RESOURCES: https://goldenarrowresources.com/
+[2025-03-07T06:36:35.149Z] Updated company_website for GRG.V to https://goldenarrowresources.com/
+[2025-03-07T06:36:35.167Z] Updated last_url_population_attempt for GRG.V
+[2025-03-07T06:36:35.170Z] Pausing after GRG.V for 2.342s (attempt 1)
+[2025-03-07T06:36:37.529Z] Processed batch 37 of 101 (185/501)
+[2025-03-07T06:36:37.532Z] 
+--- Processing GRSL.V (GR SILVER MINING) ---
+[2025-03-07T06:36:37.532Z] 
+--- Processing GSHR.V (GOLDSHORE RESOURCES) ---
+[2025-03-07T06:36:37.535Z] Using existing yahoo_finance URL for GRSL.V: https://finance.yahoo.com/quote/GRSL.V/
+[2025-03-07T06:36:37.539Z] Using existing yahoo_finance URL for GSHR.V: https://finance.yahoo.com/quote/GSHR.V/
+[2025-03-07T06:36:57.920Z] Validated URL: https://grsilvermining.com/
+[2025-03-07T06:36:57.949Z] Found homepage from yahoo_finance for GR SILVER MINING: https://grsilvermining.com/
+[2025-03-07T06:36:57.958Z] Validated URL: https://goldshoreresources.com/
+[2025-03-07T06:36:58.000Z] Found homepage from yahoo_finance for GOLDSHORE RESOURCES: https://goldshoreresources.com/
+[2025-03-07T06:36:58.093Z] Updated company_website for GRSL.V to https://grsilvermining.com/
+[2025-03-07T06:36:58.107Z] Updated last_url_population_attempt for GRSL.V
+[2025-03-07T06:36:58.110Z] Pausing after GRSL.V for 2.285s (attempt 1)
+[2025-03-07T06:36:58.251Z] Updated company_website for GSHR.V to https://goldshoreresources.com/
+[2025-03-07T06:36:58.265Z] Updated last_url_population_attempt for GSHR.V
+[2025-03-07T06:36:58.268Z] Pausing after GSHR.V for 2.446s (attempt 1)
+[2025-03-07T06:37:00.401Z] 
+--- Processing GSTM.V (GOLDSTORM METALS) ---
+[2025-03-07T06:37:00.407Z] Using existing yahoo_finance URL for GSTM.V: https://finance.yahoo.com/quote/GSTM.V/
+[2025-03-07T06:37:00.728Z] 
+--- Processing GSVR.V (GUANAJUATO SILVER COMPANY) ---
+[2025-03-07T06:37:00.733Z] Using existing yahoo_finance URL for GSVR.V: https://finance.yahoo.com/quote/GSVR.V/
+[2025-03-07T06:37:10.376Z] No valid homepage found on yahoo_finance for GUANAJUATO SILVER COMPANY
+[2025-03-07T06:37:13.947Z] Validated URL: https://goldstormmetals.com/
+[2025-03-07T06:37:13.975Z] Found homepage from yahoo_finance for GOLDSTORM METALS: https://goldstormmetals.com/
+[2025-03-07T06:37:14.349Z] Updated company_website for GSTM.V to https://goldstormmetals.com/
+[2025-03-07T06:37:14.359Z] Updated last_url_population_attempt for GSTM.V
+[2025-03-07T06:37:14.361Z] Pausing after GSTM.V for 2.384s (attempt 1)
+[2025-03-07T06:37:16.144Z] No valid homepage found for GSVR.V
+[2025-03-07T06:37:16.156Z] Updated last_url_population_attempt for GSVR.V
+[2025-03-07T06:37:16.158Z] Pausing after GSVR.V for 2.616s (attempt 1)
+[2025-03-07T06:37:16.753Z] 
+--- Processing GTCH.CN (GETCHELL GOLD) ---
+[2025-03-07T06:37:16.757Z] Using existing yahoo_finance URL for GTCH.CN: https://finance.yahoo.com/quote/GTCH.CN/
+[2025-03-07T06:37:57.085Z] Validated URL: https://www.getchellgold.com/
+[2025-03-07T06:37:57.122Z] Found homepage from yahoo_finance for GETCHELL GOLD: https://www.getchellgold.com/
+[2025-03-07T06:37:57.254Z] Updated company_website for GTCH.CN to https://www.getchellgold.com/
+[2025-03-07T06:37:57.269Z] Updated last_url_population_attempt for GTCH.CN
+[2025-03-07T06:37:57.273Z] Pausing after GTCH.CN for 2.997s (attempt 1)
+[2025-03-07T06:38:00.284Z] Processed batch 38 of 101 (190/501)
+[2025-03-07T06:38:00.287Z] 
+--- Processing GUN.V (GUNPOINT EXPLORATION) ---
+[2025-03-07T06:38:00.287Z] 
+--- Processing GUS.V (ANGUS GOLD) ---
+[2025-03-07T06:38:00.291Z] Using existing yahoo_finance URL for GUN.V: https://finance.yahoo.com/quote/GUN.V/
+[2025-03-07T06:38:00.293Z] Using existing yahoo_finance URL for GUS.V: https://finance.yahoo.com/quote/GUS.V/
+[2025-03-07T06:38:12.872Z] Validation failed for https://www.gunpointexploration.com/: net::ERR_CERT_AUTHORITY_INVALID at https://www.gunpointexploration.com/
+[2025-03-07T06:38:12.936Z] No valid homepage found on yahoo_finance for GUNPOINT EXPLORATION
+[2025-03-07T06:38:13.033Z] Using existing jmn URL for GUN.V: https://www.juniorminingnetwork.com/market-data/stock-quote/gunpoint-exploration.html
+[2025-03-07T06:38:14.668Z] Validated URL: https://www.angusgold.com/
+[2025-03-07T06:38:14.683Z] Found homepage from yahoo_finance for ANGUS GOLD: https://www.angusgold.com/
+[2025-03-07T06:38:14.805Z] Updated company_website for GUS.V to https://www.angusgold.com/
+[2025-03-07T06:38:14.817Z] Updated last_url_population_attempt for GUS.V
+[2025-03-07T06:38:14.819Z] Pausing after GUS.V for 2.443s (attempt 1)
+[2025-03-07T06:38:17.273Z] 
+--- Processing GWM.V (GALWAY METALS) ---
+[2025-03-07T06:38:17.275Z] 
+--- Processing GXX.V (GOLD BASIN RESOURCES) ---
+[2025-03-07T06:38:17.281Z] Using existing yahoo_finance URL for GWM.V: https://finance.yahoo.com/quote/GWM.V/
+[2025-03-07T06:38:17.283Z] Using existing yahoo_finance URL for GXX.V: https://finance.yahoo.com/quote/GXX.V/
+[2025-03-07T06:38:18.330Z] Validation failed for http://www.gunpointexploration.com/: net::ERR_BLOCKED_BY_CLIENT at http://www.gunpointexploration.com/
+[2025-03-07T06:38:18.430Z] No valid homepage found on jmn for GUNPOINT EXPLORATION
+[2025-03-07T06:38:18.496Z] No valid homepage found for GUN.V
+[2025-03-07T06:38:18.511Z] Updated last_url_population_attempt for GUN.V
+[2025-03-07T06:38:18.513Z] Pausing after GUN.V for 2.854s (attempt 1)
+[2025-03-07T06:38:24.619Z] No valid homepage found on yahoo_finance for GOLD BASIN RESOURCES
+[2025-03-07T06:38:26.030Z] Inserted/Updated jmn URL for GXX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/gold-basin-resources.html
+[2025-03-07T06:38:29.010Z] No valid homepage found on jmn for GOLD BASIN RESOURCES
+[2025-03-07T06:38:29.054Z] No valid homepage found for GXX.V
+[2025-03-07T06:38:29.071Z] Updated last_url_population_attempt for GXX.V
+[2025-03-07T06:38:29.073Z] Pausing after GXX.V for 2.722s (attempt 1)
+[2025-03-07T06:38:31.804Z] 
+--- Processing HAMR.CN (SILVER HAMMER MINING) ---
+[2025-03-07T06:38:31.812Z] Using existing yahoo_finance URL for HAMR.CN: https://finance.yahoo.com/quote/HAMR.CN/
+[2025-03-07T06:38:48.678Z] Validated URL: https://silverhammermining.com/
+[2025-03-07T06:38:48.713Z] Found homepage from yahoo_finance for SILVER HAMMER MINING: https://silverhammermining.com/
+[2025-03-07T06:38:48.854Z] Updated company_website for HAMR.CN to https://silverhammermining.com/
+[2025-03-07T06:38:48.869Z] Updated last_url_population_attempt for HAMR.CN
+[2025-03-07T06:38:48.872Z] Pausing after HAMR.CN for 2.607s (attempt 1)
+[2025-03-07T06:38:48.942Z] Validated URL: https://galwaymetalsinc.com/
+[2025-03-07T06:38:48.993Z] Found homepage from yahoo_finance for GALWAY METALS: https://galwaymetalsinc.com/
+[2025-03-07T06:38:49.241Z] Updated company_website for GWM.V to https://galwaymetalsinc.com/
+[2025-03-07T06:38:49.256Z] Updated last_url_population_attempt for GWM.V
+[2025-03-07T06:38:49.259Z] Pausing after GWM.V for 2.123s (attempt 1)
+[2025-03-07T06:38:51.483Z] Processed batch 39 of 101 (195/501)
+[2025-03-07T06:38:51.486Z] 
+--- Processing HML.CN (HERITAGE MINING) ---
+[2025-03-07T06:38:51.486Z] 
+--- Processing HSLV.CN (HIGHLANDER SILVER) ---
+[2025-03-07T06:38:51.489Z] Using existing yahoo_finance URL for HML.CN: https://finance.yahoo.com/quote/HML.CN/
+[2025-03-07T06:38:51.490Z] Using existing yahoo_finance URL for HSLV.CN: https://finance.yahoo.com/quote/HSLV.CN/
+[2025-03-07T06:39:07.404Z] Validated URL: https://heritagemining.ca/
+[2025-03-07T06:39:07.426Z] Found homepage from yahoo_finance for HERITAGE MINING: https://heritagemining.ca/
+[2025-03-07T06:39:07.563Z] Updated company_website for HML.CN to https://heritagemining.ca/
+[2025-03-07T06:39:07.585Z] Updated last_url_population_attempt for HML.CN
+[2025-03-07T06:39:07.589Z] Pausing after HML.CN for 2.995s (attempt 1)
+[2025-03-07T06:39:10.596Z] 
+--- Processing HSTR.V (HELIOSTAR METALS) ---
+[2025-03-07T06:39:10.600Z] Using existing yahoo_finance URL for HSTR.V: https://finance.yahoo.com/quote/HSTR.V/
+[2025-03-07T06:39:23.412Z] Validated URL: https://highlandersilver.com/
+[2025-03-07T06:39:23.435Z] Found homepage from yahoo_finance for HIGHLANDER SILVER: https://highlandersilver.com/
+[2025-03-07T06:39:23.579Z] Updated company_website for HSLV.CN to https://highlandersilver.com/
+[2025-03-07T06:39:23.596Z] Updated last_url_population_attempt for HSLV.CN
+[2025-03-07T06:39:23.599Z] Pausing after HSLV.CN for 2.517s (attempt 1)
+[2025-03-07T06:39:26.124Z] 
+--- Processing HUNT.CN (GOLD HUNTER RESOURCES) ---
+[2025-03-07T06:39:26.130Z] Using existing yahoo_finance URL for HUNT.CN: https://finance.yahoo.com/quote/HUNT.CN/
+[2025-03-07T06:39:54.154Z] Validated URL: https://finance.yahoo.com/news/gold-hunter-resources-launches-website-220300629.html
+[2025-03-07T06:39:54.248Z] Found homepage from yahoo_finance for GOLD HUNTER RESOURCES: https://finance.yahoo.com/news/gold-hunter-resources-launches-website-220300629.html
+[2025-03-07T06:39:54.481Z] Updated company_website for HUNT.CN to https://finance.yahoo.com/news/gold-hunter-resources-launches-website-220300629.html
+[2025-03-07T06:39:54.497Z] Updated last_url_population_attempt for HUNT.CN
+[2025-03-07T06:39:54.499Z] Pausing after HUNT.CN for 2.583s (attempt 1)
+[2025-03-07T06:39:54.661Z] Validation failed for https://www.heliostarmetals.com/: Timed out after waiting 30000ms
+[2025-03-07T06:39:54.694Z] No valid homepage found on yahoo_finance for HELIOSTAR METALS
+[2025-03-07T06:39:54.825Z] Using existing jmn URL for HSTR.V: https://www.juniorminingnetwork.com/market-data/stock-quote/heliostar-metals.html
+[2025-03-07T06:39:57.089Z] 
+--- Processing HWY.V (HIGHWAY 50 GOLD) ---
+[2025-03-07T06:39:57.095Z] Using existing yahoo_finance URL for HWY.V: https://finance.yahoo.com/quote/HWY.V/
+[2025-03-07T06:40:08.577Z] Validated URL: https://www.heliostarmetals.com/
+[2025-03-07T06:40:08.600Z] Found homepage from jmn for HELIOSTAR METALS: https://www.heliostarmetals.com/
+[2025-03-07T06:40:08.649Z] Updated company_website for HSTR.V to https://www.heliostarmetals.com/
+[2025-03-07T06:40:08.665Z] Updated last_url_population_attempt for HSTR.V
+[2025-03-07T06:40:08.668Z] Pausing after HSTR.V for 2.107s (attempt 1)
+[2025-03-07T06:40:11.058Z] Validated URL: https://highway50gold.com/
+[2025-03-07T06:40:11.086Z] Found homepage from yahoo_finance for HIGHWAY 50 GOLD: https://highway50gold.com/
+[2025-03-07T06:40:11.239Z] Updated company_website for HWY.V to https://highway50gold.com/
+[2025-03-07T06:40:11.254Z] Updated last_url_population_attempt for HWY.V
+[2025-03-07T06:40:11.256Z] Pausing after HWY.V for 2.188s (attempt 1)
+[2025-03-07T06:40:13.454Z] Processed batch 40 of 101 (200/501)
+[2025-03-07T06:40:13.459Z] 
+--- Processing IAU.V (I-80 GOLD) ---
+[2025-03-07T06:40:13.459Z] 
+--- Processing IGO.V (INDEPENDENCE GOLD) ---
+[2025-03-07T06:40:13.466Z] Using existing yahoo_finance URL for IAU.V: https://finance.yahoo.com/quote/IAU.V/
+[2025-03-07T06:40:13.467Z] Using existing yahoo_finance URL for IGO.V: https://finance.yahoo.com/quote/IGO.V/
+[2025-03-07T06:40:19.608Z] No valid homepage found on yahoo_finance for I-80 GOLD
+[2025-03-07T06:40:19.702Z] Using existing jmn URL for IAU.V: https://www.juniorminingnetwork.com/market-data/stock-quote/i-80-gold.html
+[2025-03-07T06:40:23.717Z] No valid homepage found on jmn for I-80 GOLD
+[2025-03-07T06:40:23.786Z] No valid homepage found for IAU.V
+[2025-03-07T06:40:23.800Z] Updated last_url_population_attempt for IAU.V
+[2025-03-07T06:40:23.803Z] Pausing after IAU.V for 2.158s (attempt 1)
+[2025-03-07T06:40:25.112Z] No valid homepage found on yahoo_finance for INDEPENDENCE GOLD
+[2025-03-07T06:40:25.251Z] Using existing jmn URL for IGO.V: https://www.juniorminingnetwork.com/market-data/stock-quote/independence-gold.html
+[2025-03-07T06:40:25.974Z] 
+--- Processing IMG.TO (IAMGOLD) ---
+[2025-03-07T06:40:25.978Z] Using existing yahoo_finance URL for IMG.TO: https://finance.yahoo.com/quote/IMG.TO/
+[2025-03-07T06:40:31.917Z] No valid homepage found on jmn for INDEPENDENCE GOLD
+[2025-03-07T06:40:31.943Z] No valid homepage found for IGO.V
+[2025-03-07T06:40:31.957Z] Updated last_url_population_attempt for IGO.V
+[2025-03-07T06:40:31.960Z] Pausing after IGO.V for 2.595s (attempt 1)
+[2025-03-07T06:40:34.567Z] 
+--- Processing IPT.V (IMPACT SILVER) ---
+[2025-03-07T06:40:34.574Z] Using existing yahoo_finance URL for IPT.V: https://finance.yahoo.com/quote/IPT.V/
+[2025-03-07T06:40:35.329Z] Validated URL: https://www.iamgold.com/
+[2025-03-07T06:40:35.340Z] Found homepage from yahoo_finance for IAMGOLD: https://www.iamgold.com/
+[2025-03-07T06:40:35.455Z] Updated company_website for IMG.TO to https://www.iamgold.com/
+[2025-03-07T06:40:35.471Z] Updated last_url_population_attempt for IMG.TO
+[2025-03-07T06:40:35.474Z] Pausing after IMG.TO for 2.955s (attempt 1)
+[2025-03-07T06:40:38.431Z] 
+--- Processing IVS.V (INVENTUS MINING) ---
+[2025-03-07T06:40:38.437Z] Using existing yahoo_finance URL for IVS.V: https://finance.yahoo.com/quote/IVS.V/
+[2025-03-07T06:40:50.816Z] Validated URL: https://impactsilver.com/
+[2025-03-07T06:40:50.829Z] Found homepage from yahoo_finance for IMPACT SILVER: https://impactsilver.com/
+[2025-03-07T06:40:50.946Z] Updated company_website for IPT.V to https://impactsilver.com/
+[2025-03-07T06:40:50.961Z] Updated last_url_population_attempt for IPT.V
+[2025-03-07T06:40:50.963Z] Pausing after IPT.V for 2.192s (attempt 1)
+[2025-03-07T06:40:54.126Z] Validated URL: https://www.inventusmining.com/
+[2025-03-07T06:40:54.158Z] Found homepage from yahoo_finance for INVENTUS MINING: https://www.inventusmining.com/
+[2025-03-07T06:40:54.310Z] Updated company_website for IVS.V to https://www.inventusmining.com/
+[2025-03-07T06:40:54.325Z] Updated last_url_population_attempt for IVS.V
+[2025-03-07T06:40:54.328Z] Pausing after IVS.V for 2.266s (attempt 1)
+[2025-03-07T06:40:56.603Z] Processed batch 41 of 101 (205/501)
+[2025-03-07T06:40:56.607Z] 
+--- Processing JAG.TO (JAGUAR MINING) ---
+[2025-03-07T06:40:56.607Z] 
+--- Processing JG.V (JAPAN GOLD) ---
+[2025-03-07T06:40:56.610Z] Using existing yahoo_finance URL for JAG.TO: https://finance.yahoo.com/quote/JAG.TO/
+[2025-03-07T06:40:56.611Z] Using existing yahoo_finance URL for JG.V: https://finance.yahoo.com/quote/JG.V/
+[2025-03-07T06:41:23.250Z] Validated URL: https://www.jaguarmining.com/
+[2025-03-07T06:41:23.276Z] Found homepage from yahoo_finance for JAGUAR MINING: https://www.jaguarmining.com/
+[2025-03-07T06:41:23.404Z] Updated company_website for JAG.TO to https://www.jaguarmining.com/
+[2025-03-07T06:41:23.416Z] Updated last_url_population_attempt for JAG.TO
+[2025-03-07T06:41:23.418Z] Pausing after JAG.TO for 2.577s (attempt 1)
+[2025-03-07T06:41:26.001Z] 
+--- Processing JUB.H (JUBILEE GOLD) ---
+[2025-03-07T06:41:32.160Z] No valid homepage found for JUB.H
+[2025-03-07T06:41:32.177Z] Updated last_url_population_attempt for JUB.H
+[2025-03-07T06:41:32.180Z] Pausing after JUB.H for 2.711s (attempt 1)
+[2025-03-07T06:41:34.899Z] 
+--- Processing JUGR.V (JUGGERNAUT EXPLORATION) ---
+[2025-03-07T06:41:34.900Z] 
+--- Processing JZR.V (JZR GOLD) ---
+[2025-03-07T06:41:34.906Z] Using existing yahoo_finance URL for JUGR.V: https://finance.yahoo.com/quote/JUGR.V/
+[2025-03-07T06:41:34.908Z] Using existing yahoo_finance URL for JZR.V: https://finance.yahoo.com/quote/JZR.V/
+[2025-03-07T06:41:53.314Z] Validated URL: https://juggernautexploration.com/
+[2025-03-07T06:41:53.336Z] Found homepage from yahoo_finance for JUGGERNAUT EXPLORATION: https://juggernautexploration.com/
+[2025-03-07T06:41:53.473Z] Updated company_website for JUGR.V to https://juggernautexploration.com/
+[2025-03-07T06:41:53.487Z] Updated last_url_population_attempt for JUGR.V
+[2025-03-07T06:41:53.490Z] Pausing after JUGR.V for 2.046s (attempt 1)
+[2025-03-07T06:41:54.723Z] Validation failed for https://www.japangold.com/: Timed out after waiting 30000ms
+[2025-03-07T06:41:54.745Z] No valid homepage found on yahoo_finance for JAPAN GOLD
+[2025-03-07T06:41:54.850Z] Using existing jmn URL for JG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/japan-gold.html
+[2025-03-07T06:42:06.140Z] Validated URL: https://www.japangold.com/
+[2025-03-07T06:42:06.167Z] Found homepage from jmn for JAPAN GOLD: https://www.japangold.com/
+[2025-03-07T06:42:06.250Z] Updated company_website for JG.V to https://www.japangold.com/
+[2025-03-07T06:42:06.267Z] Updated last_url_population_attempt for JG.V
+[2025-03-07T06:42:06.271Z] Pausing after JG.V for 2.475s (attempt 1)
+[2025-03-07T06:42:25.274Z] Validation failed for https://jzrgold.com/: Timed out after waiting 30000ms
+[2025-03-07T06:42:25.302Z] No valid homepage found on yahoo_finance for JZR GOLD
+[2025-03-07T06:42:31.015Z] No valid homepage found for JZR.V
+[2025-03-07T06:42:31.022Z] Updated last_url_population_attempt for JZR.V
+[2025-03-07T06:42:31.026Z] Pausing after JZR.V for 2.427s (attempt 1)
+[2025-03-07T06:42:33.466Z] Processed batch 42 of 101 (210/501)
+[2025-03-07T06:42:33.468Z] 
+--- Processing K.TO (KINROSS GOLD) ---
+[2025-03-07T06:42:33.469Z] 
+--- Processing KALO.V (KALO GOLD) ---
+[2025-03-07T06:42:33.472Z] Using existing yahoo_finance URL for K.TO: https://finance.yahoo.com/quote/K.TO/
+[2025-03-07T06:42:33.474Z] Using existing yahoo_finance URL for KALO.V: https://finance.yahoo.com/quote/KALO.V/
+[2025-03-07T06:42:45.431Z] No valid homepage found on yahoo_finance for KINROSS GOLD
+[2025-03-07T06:42:45.547Z] Using existing jmn URL for K.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/kinross-gold.html
+[2025-03-07T06:42:48.503Z] No valid homepage found on jmn for KINROSS GOLD
+[2025-03-07T06:42:49.433Z] Inserted/Updated miningfeeds URL for K.TO: https://www.miningfeeds.com/stock/kinross-gold-tsx/
+[2025-03-07T06:42:53.917Z] No valid homepage found on miningfeeds for KINROSS GOLD
+[2025-03-07T06:42:53.950Z] No valid homepage found for K.TO
+[2025-03-07T06:42:53.965Z] Updated last_url_population_attempt for K.TO
+[2025-03-07T06:42:53.966Z] Pausing after K.TO for 2.278s (attempt 1)
+[2025-03-07T06:42:56.260Z] 
+--- Processing KAPA.V (KAPA GOLD) ---
+[2025-03-07T06:42:56.266Z] Using existing yahoo_finance URL for KAPA.V: https://finance.yahoo.com/quote/KAPA.V/
+[2025-03-07T06:42:56.634Z] Validated URL: https://kalogoldcorp.com/
+[2025-03-07T06:42:56.655Z] Found homepage from yahoo_finance for KALO GOLD: https://kalogoldcorp.com/
+[2025-03-07T06:42:56.798Z] Updated company_website for KALO.V to https://kalogoldcorp.com/
+[2025-03-07T06:42:56.809Z] Updated last_url_population_attempt for KALO.V
+[2025-03-07T06:42:56.812Z] Pausing after KALO.V for 2.932s (attempt 1)
+[2025-03-07T06:42:59.753Z] 
+--- Processing KFR.V (KINGFISHER METALS) ---
+[2025-03-07T06:42:59.758Z] Using existing yahoo_finance URL for KFR.V: https://finance.yahoo.com/quote/KFR.V/
+[2025-03-07T06:43:10.125Z] Validated URL: https://kapagold.com/
+[2025-03-07T06:43:10.138Z] Found homepage from yahoo_finance for KAPA GOLD: https://kapagold.com/
+[2025-03-07T06:43:10.252Z] Updated company_website for KAPA.V to https://kapagold.com/
+[2025-03-07T06:43:10.266Z] Updated last_url_population_attempt for KAPA.V
+[2025-03-07T06:43:10.269Z] Pausing after KAPA.V for 2.44s (attempt 1)
+[2025-03-07T06:43:12.716Z] 
+--- Processing KG.V (KLONDIKE GOLD) ---
+[2025-03-07T06:43:12.722Z] Using existing yahoo_finance URL for KG.V: https://finance.yahoo.com/quote/KG.V/
+[2025-03-07T06:43:13.226Z] Validated URL: https://kingfishermetals.com/
+[2025-03-07T06:43:13.269Z] Found homepage from yahoo_finance for KINGFISHER METALS: https://kingfishermetals.com/
+[2025-03-07T06:43:13.402Z] Updated company_website for KFR.V to https://kingfishermetals.com/
+[2025-03-07T06:43:13.418Z] Updated last_url_population_attempt for KFR.V
+[2025-03-07T06:43:13.420Z] Pausing after KFR.V for 2.47s (attempt 1)
+[2025-03-07T06:43:27.013Z] Validated URL: https://www.klondikegoldcorp.com/
+[2025-03-07T06:43:27.052Z] Found homepage from yahoo_finance for KLONDIKE GOLD: https://www.klondikegoldcorp.com/
+[2025-03-07T06:43:27.189Z] Updated company_website for KG.V to https://www.klondikegoldcorp.com/
+[2025-03-07T06:43:27.201Z] Updated last_url_population_attempt for KG.V
+[2025-03-07T06:43:27.202Z] Pausing after KG.V for 2.124s (attempt 1)
+[2025-03-07T06:43:29.328Z] Processed batch 43 of 101 (215/501)
+[2025-03-07T06:43:29.331Z] 
+--- Processing KGC.V (KESTREL GOLD) ---
+[2025-03-07T06:43:29.332Z] 
+--- Processing KLD.V (KENORLAND MINERALS) ---
+[2025-03-07T06:43:29.338Z] Using existing yahoo_finance URL for KGC.V: https://finance.yahoo.com/quote/KGC.V/
+[2025-03-07T06:43:29.340Z] Using existing yahoo_finance URL for KLD.V: https://finance.yahoo.com/quote/KLD.V/
+[2025-03-07T06:43:47.149Z] Validated URL: https://www.kenorlandminerals.com/
+[2025-03-07T06:43:47.176Z] Found homepage from yahoo_finance for KENORLAND MINERALS: https://www.kenorlandminerals.com/
+[2025-03-07T06:43:47.297Z] Updated company_website for KLD.V to https://www.kenorlandminerals.com/
+[2025-03-07T06:43:47.313Z] Updated last_url_population_attempt for KLD.V
+[2025-03-07T06:43:47.317Z] Pausing after KLD.V for 2.814s (attempt 1)
+[2025-03-07T06:43:47.432Z] Validated URL: https://www.kestrelgold.com/
+[2025-03-07T06:43:47.460Z] Found homepage from yahoo_finance for KESTREL GOLD: https://www.kestrelgold.com/
+[2025-03-07T06:43:47.829Z] Updated company_website for KGC.V to https://www.kestrelgold.com/
+[2025-03-07T06:43:47.843Z] Updated last_url_population_attempt for KGC.V
+[2025-03-07T06:43:47.846Z] Pausing after KGC.V for 2.54s (attempt 1)
+[2025-03-07T06:43:50.133Z] 
+--- Processing KLM.V (KERMODE RESOURCES) ---
+[2025-03-07T06:43:50.134Z] 
+--- Processing KNG.V (KINGSMEN RESOURCES) ---
+[2025-03-07T06:43:50.142Z] Using existing yahoo_finance URL for KLM.V: https://finance.yahoo.com/quote/KLM.V/
+[2025-03-07T06:43:50.143Z] Using existing yahoo_finance URL for KNG.V: https://finance.yahoo.com/quote/KNG.V/
+[2025-03-07T06:43:57.379Z] No valid homepage found on yahoo_finance for KERMODE RESOURCES
+[2025-03-07T06:43:58.590Z] Inserted/Updated jmn URL for KLM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/kermode-resources.html
+[2025-03-07T06:44:04.013Z] Validation failed for http://www.kermoderesources.ca/: net::ERR_NAME_NOT_RESOLVED at http://www.kermoderesources.ca/
+[2025-03-07T06:44:04.081Z] No valid homepage found on jmn for KERMODE RESOURCES
+[2025-03-07T06:44:04.101Z] No valid homepage found for KLM.V
+[2025-03-07T06:44:04.114Z] Updated last_url_population_attempt for KLM.V
+[2025-03-07T06:44:04.116Z] Pausing after KLM.V for 2.623s (attempt 1)
+[2025-03-07T06:44:06.758Z] 
+--- Processing KNT.TO (K92 MINING) ---
+[2025-03-07T06:44:06.764Z] Using existing yahoo_finance URL for KNT.TO: https://finance.yahoo.com/quote/KNT.TO/
+[2025-03-07T06:44:07.352Z] Validated URL: https://www.kingsmenresources.com/
+[2025-03-07T06:44:07.363Z] Found homepage from yahoo_finance for KINGSMEN RESOURCES: https://www.kingsmenresources.com/
+[2025-03-07T06:44:07.492Z] Updated company_website for KNG.V to https://www.kingsmenresources.com/
+[2025-03-07T06:44:07.504Z] Updated last_url_population_attempt for KNG.V
+[2025-03-07T06:44:07.507Z] Pausing after KNG.V for 2.366s (attempt 1)
+[2025-03-07T06:44:45.410Z] Validated URL: https://www.k92mining.com/
+[2025-03-07T06:44:45.514Z] Found homepage from yahoo_finance for K92 MINING: https://www.k92mining.com/
+[2025-03-07T06:44:45.790Z] Updated company_website for KNT.TO to https://www.k92mining.com/
+[2025-03-07T06:44:45.805Z] Updated last_url_population_attempt for KNT.TO
+[2025-03-07T06:44:45.808Z] Pausing after KNT.TO for 2.556s (attempt 1)
+[2025-03-07T06:44:48.377Z] Processed batch 44 of 101 (220/501)
+[2025-03-07T06:44:48.380Z] 
+--- Processing KOG.CN (KO GOLD) ---
+[2025-03-07T06:44:48.380Z] 
+--- Processing KORE.V (KORE MINING) ---
+[2025-03-07T06:44:48.386Z] Using existing yahoo_finance URL for KOG.CN: https://finance.yahoo.com/quote/KOG.CN/
+[2025-03-07T06:44:48.387Z] Using existing yahoo_finance URL for KORE.V: https://finance.yahoo.com/quote/KORE.V/
+[2025-03-07T06:45:10.789Z] Validated URL: https://www.kogoldnz.com/
+[2025-03-07T06:45:10.833Z] Found homepage from yahoo_finance for KO GOLD: https://www.kogoldnz.com/
+[2025-03-07T06:45:10.941Z] Updated company_website for KOG.CN to https://www.kogoldnz.com/
+[2025-03-07T06:45:10.957Z] Updated last_url_population_attempt for KOG.CN
+[2025-03-07T06:45:10.960Z] Pausing after KOG.CN for 2.883s (attempt 1)
+[2025-03-07T06:45:11.106Z] Validated URL: https://koremining.com/
+[2025-03-07T06:45:11.124Z] Found homepage from yahoo_finance for KORE MINING: https://koremining.com/
+[2025-03-07T06:45:11.288Z] Updated company_website for KORE.V to https://koremining.com/
+[2025-03-07T06:45:11.301Z] Updated last_url_population_attempt for KORE.V
+[2025-03-07T06:45:11.303Z] Pausing after KORE.V for 2.416s (attempt 1)
+[2025-03-07T06:45:13.735Z] 
+--- Processing KRI.V (KOBO RESOURCES) ---
+[2025-03-07T06:45:13.737Z] 
+--- Processing KS.V (KLONDIKE SILVER) ---
+[2025-03-07T06:45:13.743Z] Using existing yahoo_finance URL for KRI.V: https://finance.yahoo.com/quote/KRI.V/
+[2025-03-07T06:45:13.745Z] Using existing yahoo_finance URL for KS.V: https://finance.yahoo.com/quote/KS.V/
+[2025-03-07T06:45:28.692Z] Validated URL: https://finance.yahoo.com/news/kobo-resources-redefining-investor-engagement-120000500.html
+[2025-03-07T06:45:28.786Z] Found homepage from yahoo_finance for KOBO RESOURCES: https://finance.yahoo.com/news/kobo-resources-redefining-investor-engagement-120000500.html
+[2025-03-07T06:45:28.941Z] Updated company_website for KRI.V to https://finance.yahoo.com/news/kobo-resources-redefining-investor-engagement-120000500.html
+[2025-03-07T06:45:28.953Z] Updated last_url_population_attempt for KRI.V
+[2025-03-07T06:45:28.956Z] Pausing after KRI.V for 2.18s (attempt 1)
+[2025-03-07T06:45:28.988Z] Validated URL: https://klondikesilver.com/
+[2025-03-07T06:45:29.012Z] Found homepage from yahoo_finance for KLONDIKE SILVER: https://klondikesilver.com/
+[2025-03-07T06:45:29.157Z] Updated company_website for KS.V to https://klondikesilver.com/
+[2025-03-07T06:45:29.171Z] Updated last_url_population_attempt for KS.V
+[2025-03-07T06:45:29.174Z] Pausing after KS.V for 2.789s (attempt 1)
+[2025-03-07T06:45:31.147Z] 
+--- Processing KTN.V (KOOTENAY SILVER) ---
+[2025-03-07T06:45:31.152Z] Using existing yahoo_finance URL for KTN.V: https://finance.yahoo.com/quote/KTN.V/
+[2025-03-07T06:45:50.720Z] Validated URL: https://kootenaysilver.com/
+[2025-03-07T06:45:50.748Z] Found homepage from yahoo_finance for KOOTENAY SILVER: https://kootenaysilver.com/
+[2025-03-07T06:45:50.892Z] Updated company_website for KTN.V to https://kootenaysilver.com/
+[2025-03-07T06:45:50.907Z] Updated last_url_population_attempt for KTN.V
+[2025-03-07T06:45:50.910Z] Pausing after KTN.V for 2.172s (attempt 1)
+[2025-03-07T06:45:53.097Z] Processed batch 45 of 101 (225/501)
+[2025-03-07T06:45:53.102Z] 
+--- Processing KTO.V (K2 GOLD) ---
+[2025-03-07T06:45:53.102Z] 
+--- Processing KUYA.CN (KUYA SILVER) ---
+[2025-03-07T06:45:53.107Z] Using existing yahoo_finance URL for KUYA.CN: https://finance.yahoo.com/quote/KUYA.CN/
+[2025-03-07T06:45:53.108Z] Using existing yahoo_finance URL for KTO.V: https://finance.yahoo.com/quote/KTO.V/
+[2025-03-07T06:46:08.059Z] Validated URL: https://www.kuyasilver.com/
+[2025-03-07T06:46:08.067Z] Found homepage from yahoo_finance for KUYA SILVER: https://www.kuyasilver.com/
+[2025-03-07T06:46:08.175Z] Updated company_website for KUYA.CN to https://www.kuyasilver.com/
+[2025-03-07T06:46:08.191Z] Updated last_url_population_attempt for KUYA.CN
+[2025-03-07T06:46:08.194Z] Pausing after KUYA.CN for 2.743s (attempt 1)
+[2025-03-07T06:46:10.235Z] Validated URL: https://k2gold.com/
+[2025-03-07T06:46:10.280Z] Found homepage from yahoo_finance for K2 GOLD: https://k2gold.com/
+[2025-03-07T06:46:10.469Z] Updated company_website for KTO.V to https://k2gold.com/
+[2025-03-07T06:46:10.483Z] Updated last_url_population_attempt for KTO.V
+[2025-03-07T06:46:10.486Z] Pausing after KTO.V for 2.128s (attempt 1)
+[2025-03-07T06:46:10.939Z] 
+--- Processing LAB.V (LABRADOR GOLD) ---
+[2025-03-07T06:46:10.940Z] 
+--- Processing LECR.CN (LEOCOR MINING) ---
+[2025-03-07T06:46:10.947Z] Using existing yahoo_finance URL for LAB.V: https://finance.yahoo.com/quote/LAB.V/
+[2025-03-07T06:46:10.948Z] Using existing yahoo_finance URL for LECR.CN: https://finance.yahoo.com/quote/LECR.CN/
+[2025-03-07T06:46:26.227Z] Validated URL: https://leocormining.com/
+[2025-03-07T06:46:26.240Z] Found homepage from yahoo_finance for LEOCOR MINING: https://leocormining.com/
+[2025-03-07T06:46:26.390Z] Updated company_website for LECR.CN to https://leocormining.com/
+[2025-03-07T06:46:26.405Z] Updated last_url_population_attempt for LECR.CN
+[2025-03-07T06:46:26.407Z] Pausing after LECR.CN for 2.809s (attempt 1)
+[2025-03-07T06:46:28.402Z] Validated URL: https://labradorgold.com/
+[2025-03-07T06:46:28.427Z] Found homepage from yahoo_finance for LABRADOR GOLD: https://labradorgold.com/
+[2025-03-07T06:46:28.767Z] Updated company_website for LAB.V to https://labradorgold.com/
+[2025-03-07T06:46:28.783Z] Updated last_url_population_attempt for LAB.V
+[2025-03-07T06:46:28.786Z] Pausing after LAB.V for 2.503s (attempt 1)
+[2025-03-07T06:46:29.225Z] 
+--- Processing LEGY.V (LEGACY GOLD MINES) ---
+[2025-03-07T06:46:29.230Z] Using existing yahoo_finance URL for LEGY.V: https://finance.yahoo.com/quote/LEGY.V/
+[2025-03-07T06:47:16.372Z] Validation failed for https://legacygoldmines.com/: Timed out after waiting 30000ms
+[2025-03-07T06:47:16.396Z] No valid homepage found on yahoo_finance for LEGACY GOLD MINES
+[2025-03-07T06:47:16.519Z] Using existing jmn URL for LEGY.V: https://www.juniorminingnetwork.com/market-data/stock-quote/legacy-gold-mines.html
+[2025-03-07T06:47:52.224Z] Validation failed for http://www.legacygoldmines.com/: Timed out after waiting 30000ms
+[2025-03-07T06:47:52.244Z] No valid homepage found on jmn for LEGACY GOLD MINES
+[2025-03-07T06:47:52.289Z] No valid homepage found for LEGY.V
+[2025-03-07T06:47:52.304Z] Updated last_url_population_attempt for LEGY.V
+[2025-03-07T06:47:52.307Z] Pausing after LEGY.V for 2.059s (attempt 1)
+[2025-03-07T06:47:54.382Z] Processed batch 46 of 101 (230/501)
+[2025-03-07T06:47:54.385Z] 
+--- Processing LFLR.CN (LAFLEUR MINERALS) ---
+[2025-03-07T06:47:54.386Z] 
+--- Processing LG.V (LAHONTAN GOLD) ---
+[2025-03-07T06:47:54.392Z] Using existing yahoo_finance URL for LFLR.CN: https://finance.yahoo.com/quote/LFLR.CN/
+[2025-03-07T06:47:54.392Z] Using existing yahoo_finance URL for LG.V: https://finance.yahoo.com/quote/LG.V/
+[2025-03-07T06:48:12.983Z] Validated URL: https://lafleurminerals.com/
+[2025-03-07T06:48:12.995Z] Found homepage from yahoo_finance for LAFLEUR MINERALS: https://lafleurminerals.com/
+[2025-03-07T06:48:13.095Z] Updated company_website for LFLR.CN to https://lafleurminerals.com/
+[2025-03-07T06:48:13.107Z] Updated last_url_population_attempt for LFLR.CN
+[2025-03-07T06:48:13.109Z] Pausing after LFLR.CN for 2.39s (attempt 1)
+[2025-03-07T06:48:15.513Z] 
+--- Processing LGC.V (LAVRAS GOLD) ---
+[2025-03-07T06:48:15.518Z] Using existing yahoo_finance URL for LGC.V: https://finance.yahoo.com/quote/LGC.V/
+[2025-03-07T06:48:18.646Z] Validated URL: https://lahontangoldcorp.com/
+[2025-03-07T06:48:18.676Z] Found homepage from yahoo_finance for LAHONTAN GOLD: https://lahontangoldcorp.com/
+[2025-03-07T06:48:18.825Z] Updated company_website for LG.V to https://lahontangoldcorp.com/
+[2025-03-07T06:48:18.838Z] Updated last_url_population_attempt for LG.V
+[2025-03-07T06:48:18.840Z] Pausing after LG.V for 2.505s (attempt 1)
+[2025-03-07T06:48:21.346Z] 
+--- Processing LGD.TO (LIBERTY GOLD) ---
+[2025-03-07T06:48:21.352Z] Using existing yahoo_finance URL for LGD.TO: https://finance.yahoo.com/quote/LGD.TO/
+[2025-03-07T06:48:30.252Z] Validated URL: https://lavrasgold.com/
+[2025-03-07T06:48:30.292Z] Found homepage from yahoo_finance for LAVRAS GOLD: https://lavrasgold.com/
+[2025-03-07T06:48:30.429Z] Updated company_website for LGC.V to https://lavrasgold.com/
+[2025-03-07T06:48:30.443Z] Updated last_url_population_attempt for LGC.V
+[2025-03-07T06:48:30.446Z] Pausing after LGC.V for 2.258s (attempt 1)
+[2025-03-07T06:48:32.716Z] 
+--- Processing LIO.V (LION ONE METALS) ---
+[2025-03-07T06:48:32.720Z] Using existing yahoo_finance URL for LIO.V: https://finance.yahoo.com/quote/LIO.V/
+[2025-03-07T06:48:41.173Z] Validated URL: https://www.libertygold.ca/
+[2025-03-07T06:48:41.187Z] Found homepage from yahoo_finance for LIBERTY GOLD: https://www.libertygold.ca/
+[2025-03-07T06:48:41.291Z] Updated company_website for LGD.TO to https://www.libertygold.ca/
+[2025-03-07T06:48:41.311Z] Updated last_url_population_attempt for LGD.TO
+[2025-03-07T06:48:41.315Z] Pausing after LGD.TO for 2.848s (attempt 1)
+[2025-03-07T06:48:56.803Z] Validated URL: https://liononemetals.com/
+[2025-03-07T06:48:56.843Z] Found homepage from yahoo_finance for LION ONE METALS: https://liononemetals.com/
+[2025-03-07T06:48:56.990Z] Updated company_website for LIO.V to https://liononemetals.com/
+[2025-03-07T06:48:57.004Z] Updated last_url_population_attempt for LIO.V
+[2025-03-07T06:48:57.006Z] Pausing after LIO.V for 2.661s (attempt 1)
+[2025-03-07T06:48:59.679Z] Processed batch 47 of 101 (235/501)
+[2025-03-07T06:48:59.682Z] 
+--- Processing LME.V (LAURION MINERAL EXPLORATION) ---
+[2025-03-07T06:48:59.685Z] 
+--- Processing LMG.V (LINCOLN GOLD MINING) ---
+[2025-03-07T06:48:59.689Z] Using existing yahoo_finance URL for LME.V: https://finance.yahoo.com/quote/LME.V/
+[2025-03-07T06:48:59.690Z] Using existing yahoo_finance URL for LMG.V: https://finance.yahoo.com/quote/LMG.V/
+[2025-03-07T06:49:08.425Z] No valid homepage found on yahoo_finance for LAURION MINERAL EXPLORATION
+[2025-03-07T06:49:08.528Z] Using existing jmn URL for LME.V: https://www.juniorminingnetwork.com/market-data/stock-quote/laurion-mineral-exploration.html
+[2025-03-07T06:49:08.959Z] No valid homepage found on yahoo_finance for LINCOLN GOLD MINING
+[2025-03-07T06:49:10.299Z] Inserted/Updated jmn URL for LMG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/lincoln-gold-mining.html
+[2025-03-07T06:49:13.323Z] No valid homepage found on jmn for LAURION MINERAL EXPLORATION
+[2025-03-07T06:49:13.350Z] No valid homepage found for LME.V
+[2025-03-07T06:49:13.364Z] Updated last_url_population_attempt for LME.V
+[2025-03-07T06:49:13.367Z] Pausing after LME.V for 2.217s (attempt 1)
+[2025-03-07T06:49:14.272Z] No valid homepage found on jmn for LINCOLN GOLD MINING
+[2025-03-07T06:49:14.312Z] No valid homepage found for LMG.V
+[2025-03-07T06:49:14.326Z] Updated last_url_population_attempt for LMG.V
+[2025-03-07T06:49:14.329Z] Pausing after LMG.V for 2.295s (attempt 1)
+[2025-03-07T06:49:15.599Z] 
+--- Processing LN.TO (LONCOR GOLD) ---
+[2025-03-07T06:49:15.603Z] Using existing yahoo_finance URL for LN.TO: https://finance.yahoo.com/quote/LN.TO/
+[2025-03-07T06:49:16.625Z] 
+--- Processing LOD.V (LODE GOLD RESOURCES) ---
+[2025-03-07T06:49:16.632Z] Using existing yahoo_finance URL for LOD.V: https://finance.yahoo.com/quote/LOD.V/
+[2025-03-07T06:49:25.159Z] No valid homepage found on yahoo_finance for LODE GOLD RESOURCES
+[2025-03-07T06:49:26.633Z] Inserted/Updated jmn URL for LOD.V: https://www.juniorminingnetwork.com/market-data/stock-quote/lode-gold-resources.html
+[2025-03-07T06:49:28.099Z] No valid homepage found on yahoo_finance for LONCOR GOLD
+[2025-03-07T06:49:28.221Z] Using existing jmn URL for LN.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/loncor-gold.html
+[2025-03-07T06:49:30.900Z] No valid homepage found on jmn for LODE GOLD RESOURCES
+[2025-03-07T06:49:30.923Z] No valid homepage found for LOD.V
+[2025-03-07T06:49:30.937Z] Updated last_url_population_attempt for LOD.V
+[2025-03-07T06:49:30.940Z] Pausing after LOD.V for 2.726s (attempt 1)
+[2025-03-07T06:49:33.283Z] No valid homepage found on jmn for LONCOR GOLD
+[2025-03-07T06:49:33.679Z] 
+--- Processing LOT.V (TOMAGOLD) ---
+[2025-03-07T06:49:33.684Z] Using existing yahoo_finance URL for LOT.V: https://finance.yahoo.com/quote/LOT.V/
+[2025-03-07T06:49:34.208Z] Inserted/Updated miningfeeds URL for LN.TO: https://www.miningfeeds.com/stock/loncor-gold-tsx/
+[2025-03-07T06:49:39.476Z] No valid homepage found on miningfeeds for LONCOR GOLD
+[2025-03-07T06:49:39.551Z] No valid homepage found for LN.TO
+[2025-03-07T06:49:39.568Z] Updated last_url_population_attempt for LN.TO
+[2025-03-07T06:49:39.572Z] Pausing after LN.TO for 2.654s (attempt 1)
+[2025-03-07T06:49:52.806Z] Validated URL: https://www.tomagoldcorp.com/en/
+[2025-03-07T06:49:52.857Z] Found homepage from yahoo_finance for TOMAGOLD: https://www.tomagoldcorp.com/en/
+[2025-03-07T06:49:53.050Z] Updated company_website for LOT.V to https://www.tomagoldcorp.com/en/
+[2025-03-07T06:49:53.062Z] Updated last_url_population_attempt for LOT.V
+[2025-03-07T06:49:53.064Z] Pausing after LOT.V for 2.632s (attempt 1)
+[2025-03-07T06:49:55.706Z] Processed batch 48 of 101 (240/501)
+[2025-03-07T06:49:55.708Z] 
+--- Processing LPK.V (LUPAKA GOLD) ---
+[2025-03-07T06:49:55.708Z] 
+--- Processing LSTR.V (LODESTAR METALS) ---
+[2025-03-07T06:49:55.711Z] Using existing yahoo_finance URL for LPK.V: https://finance.yahoo.com/quote/LPK.V/
+[2025-03-07T06:49:55.713Z] Using existing yahoo_finance URL for LSTR.V: https://finance.yahoo.com/quote/LSTR.V/
+[2025-03-07T06:50:19.339Z] Validated URL: https://lupakagold.com/
+[2025-03-07T06:50:19.362Z] Found homepage from yahoo_finance for LUPAKA GOLD: https://lupakagold.com/
+[2025-03-07T06:50:19.496Z] Updated company_website for LPK.V to https://lupakagold.com/
+[2025-03-07T06:50:19.514Z] Updated last_url_population_attempt for LPK.V
+[2025-03-07T06:50:19.517Z] Pausing after LPK.V for 2.585s (attempt 1)
+[2025-03-07T06:50:19.636Z] Validated URL: https://lodestarmetals.ca/
+[2025-03-07T06:50:19.661Z] Found homepage from yahoo_finance for LODESTAR METALS: https://lodestarmetals.ca/
+[2025-03-07T06:50:19.797Z] Updated company_website for LSTR.V to https://lodestarmetals.ca/
+[2025-03-07T06:50:19.812Z] Updated last_url_population_attempt for LSTR.V
+[2025-03-07T06:50:19.816Z] Pausing after LSTR.V for 2.334s (attempt 1)
+[2025-03-07T06:50:22.115Z] 
+--- Processing LUCA.V (LUCA MINING) ---
+[2025-03-07T06:50:22.119Z] Using existing yahoo_finance URL for LUCA.V: https://finance.yahoo.com/quote/LUCA.V/
+[2025-03-07T06:50:22.156Z] 
+--- Processing LUG.TO (LUNDIN GOLD) ---
+[2025-03-07T06:50:22.160Z] Using existing yahoo_finance URL for LUG.TO: https://finance.yahoo.com/quote/LUG.TO/
+[2025-03-07T06:50:35.381Z] Validated URL: https://lundingold.com/
+[2025-03-07T06:50:35.392Z] Found homepage from yahoo_finance for LUNDIN GOLD: https://lundingold.com/
+[2025-03-07T06:50:35.542Z] Updated company_website for LUG.TO to https://lundingold.com/
+[2025-03-07T06:50:35.554Z] Updated last_url_population_attempt for LUG.TO
+[2025-03-07T06:50:35.556Z] Pausing after LUG.TO for 2.095s (attempt 1)
+[2025-03-07T06:50:37.661Z] 
+--- Processing LUM.V (LUMINA GOLD) ---
+[2025-03-07T06:50:37.667Z] Using existing yahoo_finance URL for LUM.V: https://finance.yahoo.com/quote/LUM.V/
+[2025-03-07T06:50:38.363Z] Validated URL: https://lucamining.com/
+[2025-03-07T06:50:38.385Z] Found homepage from yahoo_finance for LUCA MINING: https://lucamining.com/
+[2025-03-07T06:50:38.501Z] Updated company_website for LUCA.V to https://lucamining.com/
+[2025-03-07T06:50:38.514Z] Updated last_url_population_attempt for LUCA.V
+[2025-03-07T06:50:38.517Z] Pausing after LUCA.V for 2.358s (attempt 1)
+[2025-03-07T06:51:21.327Z] Validation failed for https://luminagold.com/: Timed out after waiting 30000ms
+[2025-03-07T06:51:21.358Z] No valid homepage found on yahoo_finance for LUMINA GOLD
+[2025-03-07T06:51:21.493Z] Using existing jmn URL for LUM.V: https://www.juniorminingnetwork.com/market-data/stock-quote/lumina-gold.html
+[2025-03-07T06:51:28.211Z] Validation failed for http://www.luminagold.com/: net::ERR_BLOCKED_BY_CLIENT at http://www.luminagold.com/
+[2025-03-07T06:51:28.242Z] No valid homepage found on jmn for LUMINA GOLD
+[2025-03-07T06:51:28.299Z] No valid homepage found for LUM.V
+[2025-03-07T06:51:28.315Z] Updated last_url_population_attempt for LUM.V
+[2025-03-07T06:51:28.317Z] Pausing after LUM.V for 2.406s (attempt 1)
+[2025-03-07T06:51:30.728Z] Processed batch 49 of 101 (245/501)
+[2025-03-07T06:51:30.731Z] 
+--- Processing LVG.V (LAKE VICTORIA GOLD) ---
+[2025-03-07T06:51:30.731Z] 
+--- Processing MAE.V (MARITIME RESOURCES) ---
+[2025-03-07T06:51:30.735Z] Using existing yahoo_finance URL for MAE.V: https://finance.yahoo.com/quote/MAE.V/
+[2025-03-07T06:51:30.736Z] Using existing yahoo_finance URL for LVG.V: https://finance.yahoo.com/quote/LVG.V/
+[2025-03-07T06:51:48.009Z] Validated URL: https://lakevictoriagold.com/
+[2025-03-07T06:51:48.036Z] Found homepage from yahoo_finance for LAKE VICTORIA GOLD: https://lakevictoriagold.com/
+[2025-03-07T06:51:48.134Z] Updated company_website for LVG.V to https://lakevictoriagold.com/
+[2025-03-07T06:51:48.148Z] Updated last_url_population_attempt for LVG.V
+[2025-03-07T06:51:48.151Z] Pausing after LVG.V for 2.393s (attempt 1)
+[2025-03-07T06:51:50.555Z] 
+--- Processing MAG.TO (MAG SILVER) ---
+[2025-03-07T06:51:50.560Z] Using existing yahoo_finance URL for MAG.TO: https://finance.yahoo.com/quote/MAG.TO/
+[2025-03-07T06:52:08.322Z] Validated URL: https://magsilver.com/
+[2025-03-07T06:52:08.358Z] Found homepage from yahoo_finance for MAG SILVER: https://magsilver.com/
+[2025-03-07T06:52:08.525Z] Updated company_website for MAG.TO to https://magsilver.com/
+[2025-03-07T06:52:08.538Z] Updated last_url_population_attempt for MAG.TO
+[2025-03-07T06:52:08.541Z] Pausing after MAG.TO for 2.633s (attempt 1)
+[2025-03-07T06:52:11.184Z] 
+--- Processing MAI.V (MINERA ALAMOS) ---
+[2025-03-07T06:52:11.185Z] 
+--- Processing MAU.V (MONTAGE GOLD) ---
+[2025-03-07T06:52:11.190Z] Using existing yahoo_finance URL for MAI.V: https://finance.yahoo.com/quote/MAI.V/
+[2025-03-07T06:52:11.191Z] Using existing yahoo_finance URL for MAU.V: https://finance.yahoo.com/quote/MAU.V/
+[2025-03-07T06:52:17.292Z] Validation failed for https://www.maritimeresourcescorp.com/: Timed out after waiting 30000ms
+[2025-03-07T06:52:17.372Z] No valid homepage found on yahoo_finance for MARITIME RESOURCES
+[2025-03-07T06:52:18.899Z] Inserted/Updated jmn URL for MAE.V: https://www.juniorminingnetwork.com/market-data/stock-quote/maritime-resources.html
+[2025-03-07T06:52:26.360Z] Validated URL: https://www.montagegold.com/
+[2025-03-07T06:52:26.389Z] Found homepage from yahoo_finance for MONTAGE GOLD: https://www.montagegold.com/
+[2025-03-07T06:52:26.559Z] Updated company_website for MAU.V to https://www.montagegold.com/
+[2025-03-07T06:52:26.571Z] Updated last_url_population_attempt for MAU.V
+[2025-03-07T06:52:26.574Z] Pausing after MAU.V for 2.224s (attempt 1)
+[2025-03-07T06:52:28.057Z] Validated URL: https://maritimeresourcescorp.com/
+[2025-03-07T06:52:28.079Z] Found homepage from jmn for MARITIME RESOURCES: https://maritimeresourcescorp.com/
+[2025-03-07T06:52:28.130Z] Updated company_website for MAE.V to https://maritimeresourcescorp.com/
+[2025-03-07T06:52:28.147Z] Updated last_url_population_attempt for MAE.V
+[2025-03-07T06:52:28.150Z] Pausing after MAE.V for 2.357s (attempt 1)
+[2025-03-07T06:52:59.876Z] Validation failed for https://www.mineraalamos.com/: Timed out after waiting 30000ms
+[2025-03-07T06:52:59.907Z] No valid homepage found on yahoo_finance for MINERA ALAMOS
+[2025-03-07T06:53:00.035Z] Using existing jmn URL for MAI.V: https://www.juniorminingnetwork.com/market-data/stock-quote/minera-alamos.html
+[2025-03-07T06:53:10.881Z] Validated URL: https://mineraalamos.com/
+[2025-03-07T06:53:10.907Z] Found homepage from jmn for MINERA ALAMOS: https://mineraalamos.com/
+[2025-03-07T06:53:10.980Z] Updated company_website for MAI.V to https://mineraalamos.com/
+[2025-03-07T06:53:10.996Z] Updated last_url_population_attempt for MAI.V
+[2025-03-07T06:53:11.002Z] Pausing after MAI.V for 2.848s (attempt 1)
+[2025-03-07T06:53:13.864Z] Processed batch 50 of 101 (250/501)
+[2025-03-07T06:53:13.868Z] 
+--- Processing MEK.V (METALS CREEK RESOURCES) ---
+[2025-03-07T06:53:13.869Z] 
+--- Processing MEX.V (MEXICAN GOLD MINING) ---
+[2025-03-07T06:53:13.872Z] Using existing yahoo_finance URL for MEK.V: https://finance.yahoo.com/quote/MEK.V/
+[2025-03-07T06:53:13.873Z] Using existing yahoo_finance URL for MEX.V: https://finance.yahoo.com/quote/MEX.V/
+[2025-03-07T06:53:22.110Z] No valid homepage found on yahoo_finance for METALS CREEK RESOURCES
+[2025-03-07T06:53:22.465Z] No valid homepage found on yahoo_finance for MEXICAN GOLD MINING
+[2025-03-07T06:53:22.593Z] Using existing jmn URL for MEX.V: https://www.juniorminingnetwork.com/market-data/stock-quote/mexican-gold.html
+[2025-03-07T06:53:23.715Z] Inserted/Updated jmn URL for MEK.V: https://www.juniorminingnetwork.com/market-data/stock-quote/metals-creek-resources.html
+[2025-03-07T06:53:26.475Z] No valid homepage found on jmn for METALS CREEK RESOURCES
+[2025-03-07T06:53:26.533Z] No valid homepage found for MEK.V
+[2025-03-07T06:53:26.546Z] Updated last_url_population_attempt for MEK.V
+[2025-03-07T06:53:26.549Z] Pausing after MEK.V for 2.302s (attempt 1)
+[2025-03-07T06:53:28.856Z] 
+--- Processing MFG.V (MAYFAIR GOLD) ---
+[2025-03-07T06:53:28.860Z] Using existing yahoo_finance URL for MFG.V: https://finance.yahoo.com/quote/MFG.V/
+[2025-03-07T06:53:30.969Z] No valid homepage found on jmn for MEXICAN GOLD MINING
+[2025-03-07T06:53:30.998Z] No valid homepage found for MEX.V
+[2025-03-07T06:53:31.011Z] Updated last_url_population_attempt for MEX.V
+[2025-03-07T06:53:31.014Z] Pausing after MEX.V for 2.715s (attempt 1)
+[2025-03-07T06:53:33.731Z] 
+--- Processing MFL.V (MAWSON FINLAND) ---
+[2025-03-07T06:53:33.733Z] Using existing yahoo_finance URL for MFL.V: https://finance.yahoo.com/quote/MFL.V/
+[2025-03-07T06:53:41.426Z] Validated URL: https://mayfairgold.ca/
+[2025-03-07T06:53:41.441Z] Found homepage from yahoo_finance for MAYFAIR GOLD: https://mayfairgold.ca/
+[2025-03-07T06:53:41.584Z] Updated company_website for MFG.V to https://mayfairgold.ca/
+[2025-03-07T06:53:41.598Z] Updated last_url_population_attempt for MFG.V
+[2025-03-07T06:53:41.600Z] Pausing after MFG.V for 2.507s (attempt 1)
+[2025-03-07T06:53:44.117Z] 
+--- Processing MGG.V (MINAURUM GOLD) ---
+[2025-03-07T06:53:44.121Z] Using existing yahoo_finance URL for MGG.V: https://finance.yahoo.com/quote/MGG.V/
+[2025-03-07T06:53:45.639Z] Validated URL: https://mawsonfinland.com/
+[2025-03-07T06:53:45.669Z] Found homepage from yahoo_finance for MAWSON FINLAND: https://mawsonfinland.com/
+[2025-03-07T06:53:45.836Z] Updated company_website for MFL.V to https://mawsonfinland.com/
+[2025-03-07T06:53:45.852Z] Updated last_url_population_attempt for MFL.V
+[2025-03-07T06:53:45.854Z] Pausing after MFL.V for 2.055s (attempt 1)
+[2025-03-07T06:53:51.574Z] No valid homepage found on yahoo_finance for MINAURUM GOLD
+[2025-03-07T06:53:51.662Z] Using existing jmn URL for MGG.V: https://www.juniorminingnetwork.com/market-data/stock-quote/minaurum-gold.html
+[2025-03-07T06:53:55.570Z] No valid homepage found on jmn for MINAURUM GOLD
+[2025-03-07T06:53:55.604Z] No valid homepage found for MGG.V
+[2025-03-07T06:53:55.621Z] Updated last_url_population_attempt for MGG.V
+[2025-03-07T06:53:55.624Z] Pausing after MGG.V for 2.214s (attempt 1)
+[2025-03-07T06:53:57.853Z] Processed batch 51 of 101 (255/501)
+[2025-03-07T06:53:57.856Z] 
+--- Processing MGM.V (MAPLE GOLD MINES) ---
+[2025-03-07T06:53:57.859Z] 
+--- Processing MIS.CN (MISTANGO RIVER RESOURCES) ---
+[2025-03-07T06:53:57.862Z] Using existing yahoo_finance URL for MGM.V: https://finance.yahoo.com/quote/MGM.V/
+[2025-03-07T06:53:57.864Z] Using existing yahoo_finance URL for MIS.CN: https://finance.yahoo.com/quote/MIS.CN/
+[2025-03-07T06:54:07.816Z] No valid homepage found on yahoo_finance for MISTANGO RIVER RESOURCES
+[2025-03-07T06:54:10.149Z] Inserted/Updated jmn URL for MIS.CN: https://www.juniorminingnetwork.com/market-data/stock-quote/mistango-river-resources.html
+[2025-03-07T06:54:13.438Z] Validation failed for http://www.mistangoriverresources.ca/: net::ERR_NAME_NOT_RESOLVED at http://www.mistangoriverresources.ca/
+[2025-03-07T06:54:13.462Z] No valid homepage found on jmn for MISTANGO RIVER RESOURCES
+[2025-03-07T06:54:14.445Z] Inserted/Updated miningfeeds URL for MIS.CN: https://www.miningfeeds.com/stock/mistango-river-resources-cse/
+[2025-03-07T06:54:17.722Z] Validated URL: https://www.maplegoldmines.com/index.php/en/
+[2025-03-07T06:54:17.735Z] Found homepage from yahoo_finance for MAPLE GOLD MINES: https://www.maplegoldmines.com/index.php/en/
+[2025-03-07T06:54:17.882Z] Updated company_website for MGM.V to https://www.maplegoldmines.com/index.php/en/
+[2025-03-07T06:54:17.897Z] Updated last_url_population_attempt for MGM.V
+[2025-03-07T06:54:17.901Z] Pausing after MGM.V for 2.87s (attempt 1)
+[2025-03-07T06:54:19.062Z] No valid homepage found on miningfeeds for MISTANGO RIVER RESOURCES
+[2025-03-07T06:54:19.107Z] No valid homepage found for MIS.CN
+[2025-03-07T06:54:19.121Z] Updated last_url_population_attempt for MIS.CN
+[2025-03-07T06:54:19.124Z] Pausing after MIS.CN for 2.241s (attempt 1)
+[2025-03-07T06:54:20.789Z] 
+--- Processing MJS.V (MAJESTIC GOLD) ---
+[2025-03-07T06:54:20.792Z] Using existing yahoo_finance URL for MJS.V: https://finance.yahoo.com/quote/MJS.V/
+[2025-03-07T06:54:21.367Z] 
+--- Processing MKO.V (MAKO MINING) ---
+[2025-03-07T06:54:21.372Z] Using existing yahoo_finance URL for MKO.V: https://finance.yahoo.com/quote/MKO.V/
+[2025-03-07T06:54:38.886Z] Validated URL: https://www.makominingcorp.com/
+[2025-03-07T06:54:38.916Z] Found homepage from yahoo_finance for MAKO MINING: https://www.makominingcorp.com/
+[2025-03-07T06:54:39.036Z] Updated company_website for MKO.V to https://www.makominingcorp.com/
+[2025-03-07T06:54:39.352Z] Updated last_url_population_attempt for MKO.V
+[2025-03-07T06:54:39.356Z] Pausing after MKO.V for 2.015s (attempt 1)
+[2025-03-07T06:54:41.387Z] 
+--- Processing MLM.TO (MCFARLANE LAKE MINING) ---
+[2025-03-07T06:54:43.145Z] Inserted/Updated jmn URL for MLM.TO: https://www.juniorminingnetwork.com/market-data/stock-quote/mcfarlane-lake-mining.html
